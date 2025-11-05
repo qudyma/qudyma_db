@@ -416,7 +416,7 @@ class PublicationFetcher {
     async inferJournalRefFromDOI(doi, orcidEntry) {
         /**
          * Infers journal reference from DOI using CrossRef API
-         * If ISBN is present, it's likely a book, so return "Book"
+         * If ISBN is present, return "ISBN: <code>"
          */
         if (!doi) return null;
         
@@ -424,8 +424,8 @@ class PublicationFetcher {
             // Check if ORCID entry indicates this is a book (has ISBN)
             if (orcidEntry && orcidEntry['external-ids']) {
                 const isbn = orcidEntry['external-ids'].find(e => e['external-id-type'] === 'isbn');
-                if (isbn) {
-                    return 'Book';
+                if (isbn && isbn['external-id-value']) {
+                    return `ISBN: ${isbn['external-id-value']}`;
                 }
             }
             
@@ -643,8 +643,8 @@ class PublicationFetcher {
                         // Check for ISBN first (indicates a book)
                         if (entry._orcid_external_ids) {
                             const isbn = entry._orcid_external_ids.find(e => e['external-id-type'] === 'isbn');
-                            if (isbn) {
-                                entry.journal_ref = 'Book';
+                            if (isbn && isbn['external-id-value']) {
+                                entry.journal_ref = `ISBN: ${isbn['external-id-value']}`;
                             }
                         }
                         
