@@ -1,0 +1,62 @@
+name: Update Publications Database
+
+on:
+  # Run every Sunday at midnight UTC
+  schedule:
+    - cron: '0 0 * * 0'
+  
+  # Allow manual triggering from GitHub UI
+  workflow_dispatch:
+  
+  # Optionally run on push to main (remove if you don't want this)
+  # push:
+  #   branches: [ main ]
+  #   paths:
+  #     - 'config/basics.json'
+  #     - 'config/highlights.json'
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: Install wget (for arXiv fetching)
+        run: sudo apt-get update && sudo apt-get install -y wget
+      
+      - name: Create ORCID OAuth credentials file
+        run: |
+          echo '${{ secrets.ORCID_OAUTH_JSON }}' > config/orcid_oauth.json
+      
+      - name: Generate publications database
+        run: |
+          node cli.js generate
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet data/publications.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add data/publications.json
+          git commit -m "Auto-update publications database [skip ci]"
+          git push
+      
+      - name: No changes detected
+        if: steps.check_changes.outputs.changed == 'false'
+        run: echo "No changes to publications database"

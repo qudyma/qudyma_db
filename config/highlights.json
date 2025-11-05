@@ -1,0 +1,24 @@
+{
+    "entries": [
+        {
+            "doi": "10.1103/PhysRevLett.134.206302",
+            "coverage": [
+                {
+                    "source" : "Niels Bohr Institute news",
+                    "title" : "A 1960s idea inspires NBI researchers to study hitherto inaccessible quantum states",
+                    "url" : "https://nbi.ku.dk/english/news/news25/a-1960s-idea-inspires-nbi-researchers-to-study-hitherto-inaccessible-quantum-states/"
+                }
+            ]
+        },
+        {
+            "doi": "10.1038/s41586-022-05382-w",
+            "coverage": [
+                {
+                    "source" : "Nature News and Views",
+                    "title" : "Twin techniques narrow search for elusive Majorana particles",
+                    "url" : "https://www.nature.com/articles/d41586-022-04351-7"
+                }
+            ]
+        }
+    ]
+}

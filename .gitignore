@@ -1,0 +1,49 @@
+# Sensitive configuration - DO NOT COMMIT
+config/orcid_oauth.json
+
+# Auto-generated intermediate files (regenerated on each run)
+data/arxiv_publications.json
+data/orcid_publications.json
+
+# Final publications.json is committed for GitHub Pages deployment
+# data/publications.json
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.log
+/tmp/
+temp/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Nextcloud sync files
+*.nextcloud

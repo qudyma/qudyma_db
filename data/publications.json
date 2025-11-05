@@ -1,0 +1,1081 @@
+{
+    "entries": [
+        {
+            "authors": "Eduardo B. Molinero, Bruno Amorim, Misha Ivanov, Graham G. Brown, Giovanni Cistaro, João M. Viana Parente Lopes, Álvaro Jiménez-Galán, Pablo San-Jose, Rui E. F. Silva",
+            "categories": [
+                "Optics (physics.optics)"
+            ],
+            "comment": "13 pages, 5 figures",
+            "formats": {
+                "html": "http://arxiv.org/abs/2510.22064v1",
+                "pdf": "http://arxiv.org/pdf/2510.22064v1"
+            },
+            "id": "http://arxiv.org/abs/2510.22064v1",
+            "published": "2025-10-24T18:59:46-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "We develop the semiconductor Wannier equations (SWEs), a real-time, real-space formulation of ultrafast light-matter dynamics in crystals, by deriving the equations of motion for the electronic reduced density matrix in a localized Wannier basis. Working in real space removes the structure-gauge ambiguities that hinder reciprocal-space semiconductor Bloch equations. Electron--electron interactions are included at the time-dependent Hartree plus static screened-exchange (TD-HSEX) level. Decoherence is modeled with three complementary channels: pure dephasing, population relaxation, and distance-dependent real-space dephasing; providing physically grounded damping for strong-field phenomena such as high-harmonic generation. Conceptually, the SWEs bridge real-space semiclassical intuition with many-body solid-state optics, offering a numerically robust and gauge-clean alternative to reciprocal-space approaches for nonlinear optical response and attosecond spectroscopy in solids.",
+            "title": "Semiconductor Wannier equations: a real-time, real-space approach to the nonlinear optical response in crystals (ATATA)",
+            "updated": "2025-10-24T18:59:46-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2510.22064",
+            "journal_url": null
+        },
+        {
+            "authors": "Tim Kokkeler, Mateo Uldemolins, Francisco Lobo, F. Sebastian Bergeret, Elsa Prada, Pablo San-Jose",
+            "categories": [
+                "Superconductivity (cond-mat.supr-con)"
+            ],
+            "comment": "15 pages (2 appendices and 7 figures)",
+            "formats": {
+                "html": "http://arxiv.org/abs/2510.20892v1",
+                "pdf": "http://arxiv.org/pdf/2510.20892v1"
+            },
+            "id": "http://arxiv.org/abs/2510.20892v1",
+            "published": "2025-10-23T14:00:00-04:00",
+            "subject": "Superconductivity (cond-mat.supr-con)",
+            "summary": "A thin-walled tubular superconductor develops a quantized fluxoid in the presence of an axial magnetic field. The fluxoid corresponds to the number of phase windings of the superconducting order parameter and is topological in nature. When the tube has a radius variation along the axial direction, forming a bottleneck structure between sections with different radius, a fluxoid mismatch can appear depending on the applied magnetic field. The bottleneck then becomes a topological boundary and is host to topologically protected solutions for the order parameter, dubbed fluxoid solitons, that are free to move around bottlenecks with cylindrical symmetry. Fluxoid solitons are a new type of vortex with non-quantized flux, loosely related to Pearl vortices in thin superconducting films and fluxons in Corbino Josephson junctions. We characterize their properties as a function of system parameters using the self-consistent quasiclassical theory of diffusive superconductors. We consider both short bottleneck structures and long tapered tubes, where multiple trapped fluxoid solitons adopt elaborate arrangements dictated by their mutual repulsion.",
+            "title": "Fluxoid solitons in superconducting tapered tubes and bottlenecks",
+            "updated": "2025-10-23T14:00:00-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2510.20892",
+            "journal_url": null
+        },
+        {
+            "authors": "Carlos Payá, F. J. Matute-Cañadas, A. Levy Yeyati, Ramón Aguado, Pablo San-Jose, Elsa Prada",
+            "categories": [
+                "Superconductivity (cond-mat.supr-con)",
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "8 pages, 4 figures",
+            "doi": "10.1103/sdmw-qwcn",
+            "formats": {
+                "html": "http://arxiv.org/abs/2504.16989v2",
+                "pdf": "http://arxiv.org/pdf/2504.16989v2"
+            },
+            "id": "http://arxiv.org/abs/2504.16989v2",
+            "journal_ref": "Phys. Rev. B 112, 134520 (2025)",
+            "published": "2025-04-23T14:00:01-04:00",
+            "subject": "Superconductivity (cond-mat.supr-con)",
+            "summary": "We introduce a new type of supercurrent valve based on full-shell nanowires. These hybrid wires consist of a semiconductor core fully wrapped in a thin superconductor shell and subjected to an axial magnetic field. Due to the tubular shape of the shell, the superconductor phase acquires an integer number $n$ of $2\\pi$ twists or \\textit{fluxoids} that increases in steps with applied flux. By connecting two such hybrid wires, forming a Josephson junction (JJ), a flux-modulated supercurrent develops. If the two superconducting sections of the JJ have different radii $R_1$ and $R_2$, they can develop equal or different fluxoid numbers $n_1,n_2$ depending on the field. If $n_1\\neq n_2$ the supercurrent is blocked, while it remains finite for $n_1=n_2$. This gives rise to a fluxoid valve effect controlled by the applied magnetic field or a gate voltage at the junction. We define a fluxoid-valve quality factor that is perfect for cylindrically symmetric systems and decreases as this symmetry is reduced. We further discuss the role of Majorana zero modes at the junction when the full-shell nanowires are in the topological superconducting regime.",
+            "title": "Fluxoid valve effect in full-shell nanowire Josephson junctions",
+            "updated": "2025-10-20T05:38:20-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2504.16989",
+            "journal_url": "https://doi.org/10.1103/sdmw-qwcn"
+        },
+        {
+            "authors": "Pablo San-Jose, Elsa Prada",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "6 pages, 4 figures. One new reference, minor corrections",
+            "formats": {
+                "html": "http://arxiv.org/abs/2506.15502v2",
+                "pdf": "http://arxiv.org/pdf/2506.15502v2"
+            },
+            "id": "http://arxiv.org/abs/2506.15502v2",
+            "published": "2025-06-18T10:42:27-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "We propose a novel type of superconducting spin qubit, dubbed solitonic Andreev spin qubit (SASQ), that combines features of Andreev spin qubits and geometric spin qubits. The two SASQ states are the degenerate spin orientations of an Andreev bound state trapped in a circular Josephson junction with a Corbino disk geometry, created on a 2DEG. The junction is subjected to a weak magnetic flux that induces a fluxoid mismatch between the inner disk and outer ring superconductors. The fluxoid mismatch produces a cancellation of the induced pairing that traps unconventional spin-degenerate Andreev bound states analogous to Jackiw-Rebbi soliton states. They are localized at a position around the junction that can be controlled by changing the superconducting phase difference. Moving a soliton state with a phase bias induces a holonomic rotation of its spin, by virtue of the spin-orbit coupling in the 2DEG. The holonomic qubit trajectories can densely cover the full Bloch sphere as the soliton state revolves around the junction. Effects of non-holonomic (dynamic) qubit drift are also analyzed.",
+            "title": "Solitonic Andreev Spin Qubit",
+            "updated": "2025-06-20T11:57:52-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2506.15502",
+            "journal_url": null
+        },
+        {
+            "authors": "Carlos Payá, Ramón Aguado, Pablo San-Jose, Elsa Prada",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "15 pages, 4 figures. Final version",
+            "doi": "10.1103/8mzs-dx7h",
+            "formats": {
+                "html": "http://arxiv.org/abs/2503.09756v2",
+                "pdf": "http://arxiv.org/pdf/2503.09756v2"
+            },
+            "id": "http://arxiv.org/abs/2503.09756v2",
+            "journal_ref": "Phys. Rev. B 111, 235420 (2025)",
+            "published": "2025-03-12T14:56:37-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "We perform microscopic numerical simulations of the Josephson effect through short junctions between two full-shell hybrid nanowires, comprised of a semiconductor core fully wrapped by a thin superconductor shell, both in the trivial and topological regimes. We explore the behavior of the current-phase relation and the critical current $I_c$ as a function of a threading flux for different models of the semiconductor core and different transparencies of the weak link. We find that $I_c$ is modulated with flux due to the Little-Parks (LP) effect and displays a characteristic skewness towards large fluxes within non-zero LP lobes, which is inherited from the skewness of a peculiar kind of subgap states known as Caroli-de Gennes-Matricon (CdGM) analogs. The appearance of Majorana zero modes at the junction in the topological phase is revealed in $I_c$ as fin-shaped peaks that stand out from the background at low junction transparencies. The competition between CdGMs of opposite electron- and hole-like character produces steps and dips in $I_c$. A rich phenomenology results, which includes 0-, $\\pi$- and $\\phi$-junction behaviors depending on the charge distribution across the wire core and the junction transparency.",
+            "title": "Josephson effect and critical currents in trivial and topological full-shell hybrid nanowires",
+            "updated": "2025-06-11T06:24:30-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2503.09756",
+            "journal_url": "https://doi.org/10.1103/8mzs-dx7h"
+        },
+        {
+            "authors": "M. T. Deng, Carlos Payá, Pablo San-Jose, Elsa Prada, C. M. Marcus, S. Vaitiekėnas",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "6 pages, 5 figures",
+            "doi": "10.1103/PhysRevLett.134.206302",
+            "formats": {
+                "html": "http://arxiv.org/abs/2501.05419v2",
+                "pdf": "http://arxiv.org/pdf/2501.05419v2"
+            },
+            "id": "http://arxiv.org/abs/2501.05419v2",
+            "journal_ref": "Phys. Rev. Lett. 134, 206302 (2025)",
+            "published": "2025-01-09T13:22:08-05:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "We report tunneling spectroscopy of Andreev subgap states in hybrid nanowires with a thin superconducting full-shell surrounding a semiconducting core. The combination of the quantized fluxoid of the shell and the Andreev reflection at the superconductor-semiconductor interface gives rise to analogs of Caroli-de Gennes-Matricon (CdGM) states found in Abrikosov vortices in type-II superconductors. Unlike in metallic superconductors, CdGM analogs in full-shell hybrid nanowires manifest as one-dimensional van Hove singularities with energy spacings comparable to the superconducting gap and independent of the Fermi energy, making them readily observable. Evolution of these analogs with axial magnetic field, skewed within the Little-Parks lobe structure, is consistent with theory and yields information about the radial distribution and angular momenta of the corresponding subbands.",
+            "title": "Caroli-de Gennes-Matricon Analogs in Full-Shell Hybrid Nanowires",
+            "updated": "2025-06-05T17:10:26-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2501.05419",
+            "journal_url": "https://doi.org/10.1103/PhysRevLett.134.206302",
+            "coverage": [
+                {
+                    "source": "Niels Bohr Institute news",
+                    "title": "A 1960s idea inspires NBI researchers to study hitherto inaccessible quantum states",
+                    "url": "https://nbi.ku.dk/english/news/news25/a-1960s-idea-inspires-nbi-researchers-to-study-hitherto-inaccessible-quantum-states/"
+                }
+            ]
+        },
+        {
+            "authors": "Francisco Lobo, Elsa Prada, Pablo San-Jose",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "Final version. 9 pages, 3 figures, 2 appendices",
+            "doi": "10.1103/PhysRevB.111.195415",
+            "formats": {
+                "html": "http://arxiv.org/abs/2412.15174v2",
+                "pdf": "http://arxiv.org/pdf/2412.15174v2"
+            },
+            "id": "http://arxiv.org/abs/2412.15174v2",
+            "journal_ref": "Phys. Rev. B 111, 195415 (2025)",
+            "published": "2024-12-19T13:49:38-05:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Predictions of topological p-wave superconductivity and Majorana zero modes (MZMs) in hybrid superconductor-semiconductor nanowires have been difficult to realize experimentally. Consequently, researchers are actively exploring alternative platforms for MZMs. In this work, we theoretically study depleted nanowires with intrinsic superconductivity (as opposed to proximity-induced). Using a self-consistent Hartree-Fock-Bogoliubov mean field theory, we compute the topological phase diagram versus Zeeman field and filling for intrinsic wires with attractive interactions. We find that, although intrinsic wires could be less vulnerable than hybrids to topology-adverse effects, such as disorder and metallization, they are hindered by a fundamental limitation of their own. Although a topological p-wave gap is indeed possible, it is far less robust than in hybrid Majorana nanowires. Instead of remaining stable beyond the topological transition, it is found to decay exponentially with Zeema field, greatly reducing the parameter region with an appreciable topological gap.",
+            "title": "Exponential suppression of the topological gap in self-consistent intrinsic Majorana nanowires",
+            "updated": "2025-05-19T04:59:56-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2412.15174",
+            "journal_url": "https://doi.org/10.1103/PhysRevB.111.195415"
+        },
+        {
+            "authors": "Francesco Gucci, Eduardo B. Molinero, Mattia Russo, Pablo San-Jose, Franco V. A. Camargo, Margherita Maiuri, Misha Ivanov, Álvaro Jiménez-Galán, Rui E. F. Silva, Stefano Dal Conte, Giulio Cerullo",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "14 pages, 3 figures",
+            "formats": {
+                "html": "http://arxiv.org/abs/2412.08318v1",
+                "pdf": "http://arxiv.org/pdf/2412.08318v1"
+            },
+            "id": "http://arxiv.org/abs/2412.08318v1",
+            "published": "2024-12-11T06:53:57-05:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Information processing currently reaches speeds as high as 800 GHz. However, the underlying transistor technology is quickly approaching its fundamental limits and further progress requires a disruptive approach. One such path is to manipulate quantum properties of solids, such as the valley degree of freedom, with ultrashort controlled lightwaves. Here we employ a sequence of few-optical-cycle visible pulses controlled with attosecond precision to excite and switch the valley pseudospin in a 2D semiconductor. We show that a pair of pulses separated in time with linear orthogonal polarizations can induce a valley-selective population. Additionally, exploiting a four-pump excitation protocol, we perform logic operations such as valley de-excitation and re-excitation at room temperature at rates as high as ~10 THz.",
+            "title": "Ultrafast valleytronic logic operations",
+            "updated": "2024-12-11T06:53:57-05:00",
+            "arxiv_url": "https://arxiv.org/abs/2412.08318",
+            "journal_url": null
+        },
+        {
+            "authors": "Carlos Payá, Pablo San-Jose, Carlos J. Sánchez Martínez, Ramón Aguado, Elsa Prada",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "15 pages, 9 figures. Final version",
+            "doi": "10.1103/PhysRevB.110.115417",
+            "formats": {
+                "html": "http://arxiv.org/abs/2407.06330v2",
+                "pdf": "http://arxiv.org/pdf/2407.06330v2"
+            },
+            "id": "http://arxiv.org/abs/2407.06330v2",
+            "journal_ref": "Phys. Rev. B 110, 115417 (2024)",
+            "published": "2024-07-08T14:48:01-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Majorana bound states (MBSs) located at the ends of a hybrid superconductor-semiconductor nanowire are only true zero modes if their characteristic localization length is much smaller than the nanowire length, $\\xi_M\\ll L$. Otherwise, their wave function overlap gives rise to a finite energy splitting that shows a characteristic oscillatory pattern $\\sim e^{-2L/\\xi_M}\\cos(k_F L)$ versus external parameters that modify the Fermi momentum $k_F$. Detecting such \"Majorana oscillations\", measurable through low-bias conductance, has been proposed as a strategy for Majorana detection in pristine nanowires. Here we discuss how this detection scheme does not work in full-shell hybrid nanowires, an alternative design to partial-shell nanowires in which a superconductor shell fully wraps the semiconductor core. Using microscopic models, we provide both numerical simulations for Al/InAs hybrids as well as analytical approximations in terms of general nanowire parameters. We find that Majorana oscillations with flux in full-shell nanowires are absent in a wide portion of parameter space. This absence is not a signature of non-overlapping left- and right-end MBSs, but a consequence of the Majorana oscillation period being systematically larger than the flux window of odd Little-Parks lobes where Majorana zero-energy peaks are predicted to appear. Our results demonstrate that split near-zero modes or individual zero-energy crossings should not be dismissed as trivial even if they are found not to oscillate with flux.",
+            "title": "Absence of Majorana oscillations in finite-length full-shell hybrid nanowires",
+            "updated": "2024-09-12T12:08:24-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2407.06330",
+            "journal_url": "https://doi.org/10.1103/PhysRevB.110.115417"
+        },
+        {
+            "authors": "Carlos Payá, Samuel D. Escribano, Andrea Vezzosi, Fernando Peñaranda, Ramón Aguado, Pablo San-Jose, Elsa Prada",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "28 pages, 13 figures. Final version",
+            "doi": "10.1103/PhysRevB.109.115428",
+            "formats": {
+                "html": "http://arxiv.org/abs/2312.11613v2",
+                "pdf": "http://arxiv.org/pdf/2312.11613v2"
+            },
+            "id": "http://arxiv.org/abs/2312.11613v2",
+            "journal_ref": "Phys. Rev. B 109, 115428 (2024)",
+            "published": "2023-12-18T14:00:01-05:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Full-shell nanowires have been proposed as an alternative nanowire design in the search of topological superconductivity and Majorana zero modes (MZMs). They are hybrid nanostructures consisting of a semiconductor core fully covered by a thin superconductor shell and subject to a magnetic flux. In this work we critically examine this proposal, finding a very rich spectral phenomenology that combines the Little-Parks modulation of the parent-gap superconductor with flux, the presence of flux-dispersing Caroli-de Gennes-Matricon (CdGM) analog subgap states, and the emergence of MZMs across finite flux intervals that depend on the transverse wavefunction profile of the charge density in the core section. Through microscopic simulations and analytical derivations, we study different regimes for the semiconductor core, ranging from the hollow-core approximation, to the tubular-core nanowire appropriate for a semiconductor tube with an insulating core, to the solid-core nanowire. We compute the phase diagrams for the different models in cylindrical nanowires and find that MZMs typically coexist with CdGM analogs at zero energy, rendering them gapless. However, we also find topologically protected parameter regions, or islands, with gapped MZMs. In this sense, the most promising candidate to obtain topologically protected MZMs in a full-shell geometry is the nanowire with a tubular-shaped core. Moving beyond pristine nanowires, we study the effect of mode mixing perturbations. Strikingly, mode mixing can act like a topological $p$-wave pairing between particle-hole Bogoliubov partners, and is therefore able to create new topologically protected MZMs in regions of the phase diagram that were originally trivial. As a result, the phase diagram is utterly transformed and exhibits protected MZMs in around half of the parameter space.",
+            "title": "Phenomenology of Majorana zero modes in full-shell hybrid nanowires",
+            "updated": "2024-03-22T08:47:07-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2312.11613",
+            "journal_url": "https://doi.org/10.1103/PhysRevB.109.115428"
+        },
+        {
+            "authors": "Eduardo B. Molinero, Bruno Amorim, Mikhail Malakhov, Giovanni Cistaro, Álvaro Jiménez-Galán, Misha Ivanov, Antonio Picón, Pablo San-José, Rui E. F. Silva",
+            "categories": [
+                "Optics (physics.optics)",
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "7 pages, 5 figures",
+            "doi": "10.1126/sciadv.adn6985",
+            "formats": {
+                "html": "http://arxiv.org/abs/2307.16647v1",
+                "pdf": "http://arxiv.org/pdf/2307.16647v1"
+            },
+            "id": "http://arxiv.org/abs/2307.16647v1",
+            "published": "2023-07-31T09:27:07-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "Excitons play a key role in the linear optical response of 2D materials. However, their significance in the highly nonlinear optical response to intense mid-infrared light has often been overlooked. Using hBN as a prototypical example, we theoretically demonstrate that excitons play a major role in this process. Specifically, we illustrate their formation and stability in intense low-frequency fields, where field strengths surpass the Coulomb field binding the electron-hole pair in the exciton. Additionally, we establish a parallelism between these results and the already-known physics of Rydberg states using an atomic model. Finally, we propose an experimental setup to test the effect of excitons in the nonlinear optical response",
+            "title": "Formation, stability, and highly nonlinear optical response of excitons to intense light fields interacting with two-dimensional materials",
+            "updated": "2023-07-31T09:27:07-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2307.16647",
+            "journal_url": "https://doi.org/10.1126/sciadv.adn6985"
+        },
+        {
+            "authors": "Pablo San-Jose, Carlos Payá, C. M. Marcus, S. Vaitiekėnas, Elsa Prada",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "17 pages, 11 figures. Final version",
+            "doi": "10.1103/PhysRevB.107.155423",
+            "formats": {
+                "html": "http://arxiv.org/abs/2207.07606v4",
+                "pdf": "http://arxiv.org/pdf/2207.07606v4"
+            },
+            "id": "http://arxiv.org/abs/2207.07606v4",
+            "journal_ref": "Phys. Rev. B 107, 155423 (2023)",
+            "published": "2022-07-15T13:04:42-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Full-shell nanowires are hybrid nanostructures consisting of a semiconducting core encapsulated in an epitaxial superconducting shell. When subject to an external magnetic flux, they exhibit the Little-Parks (LP) phenomenon of flux-modulated superconductivity, an effect connected to the physics of Abrikosov vortex lines in type-II superconductors. We show theoretically that full-shell nanowires can host subgap states that are a variant of the Caroli-de Gennes-Matricon (CdGM) states in vortices. These CdGM analogs are shell-induced Van Hove singularities in core subbands. We elucidate their structure, parameter dependence and behavior in tunneling spectroscopy through a series of models of growing complexity. Using microscopic numerical simulations, we show that CdGM analogs exhibit a characteristic skewness towards higher flux values inside non-zero LP lobes resulting from the interplay of three ingredients. First, the orbital coupling to the field shifts the energy of the CdGM analogs proportionally to the flux and to their generalized angular momentum. Second, CdGM analogs coalesce into degeneracy points at flux values for which their corresponding radial wavefunctions are threaded by an integer multiple of the flux quantum. And third, the average radii of all CdGM-analog wavefunctions inside the core are approximately equal and are controlled by the electrostatic band bending at the core/shell interface. As the average radius moves away from the interface, the degeneracy points shift towards larger fluxes from the center of the LP lobes, causing the skewness. This analysis provides a transparent interpretation of the nanowire spectrum that allows to extract microscopic information by measuring the number and skewness of CdGM analogs. Moreover, it allows to derive an efficient Hamiltonian of the full-shell nanowire in terms of a modified hollow-core model at the average radius.",
+            "title": "Theory of Caroli-de Gennes-Matricon analogs in full-shell hybrid nanowires",
+            "updated": "2023-07-26T05:29:24-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2207.07606",
+            "journal_url": "https://doi.org/10.1103/PhysRevB.107.155423"
+        },
+        {
+            "authors": "Prasanna Rout, Nikos Papadopoulos, Fernando Peñaranda, Kenji Watanabe, Takashi Taniguchi, Elsa Prada, Pablo San-Jose, Srijit Goswami",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "13 pages, 14 figures",
+            "doi": "10.1038/s41467-024-44952-6",
+            "formats": {
+                "html": "http://arxiv.org/abs/2305.10505v1",
+                "pdf": "http://arxiv.org/pdf/2305.10505v1"
+            },
+            "id": "http://arxiv.org/abs/2305.10505v1",
+            "journal_ref": "Nat. Commun. 15, 856 (2024)",
+            "published": "2023-05-17T14:21:12-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Bilayer graphene encapsulated in tungsten diselenide can host a weak topological phase with pairs of helical edge states. The electrical tunability of this phase makes it an ideal platform to investigate unique topological effects at zero magnetic field, such as topological superconductivity. Here we couple the helical edges of such a heterostructure to a superconductor. The inversion of the bulk gap accompanied by helical states near zero displacement field leads to the suppression of the critical current in a Josephson geometry. Using superconducting quantum interferometry we observe an even-odd effect in the Fraunhofer interference pattern within the inverted gap phase. We show theoretically that this effect is a direct consequence of the emergence of helical modes that connect the two edges of the sample. The absence of such an effect at high displacement field, as well as in bare bilayer graphene junctions, confirms this interpretation and demonstrates the topological nature of the inverted gap. Our results demonstrate the coupling of superconductivity to zero-field topological states in graphene.",
+            "title": "Supercurrent mediated by helical edge modes in bilayer graphene",
+            "updated": "2023-05-17T14:21:12-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2305.10505",
+            "journal_url": "https://doi.org/10.1038/s41467-024-44952-6"
+        },
+        {
+            "authors": "Fernando Peñaranda, Ramón Aguado, Elsa Prada, Pablo San-Jose",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "9 pages, 7 figures. Final version with an extra appendix",
+            "doi": "10.21468/SciPostPhys.14.4.075",
+            "formats": {
+                "html": "http://arxiv.org/abs/2202.00593v4",
+                "pdf": "http://arxiv.org/pdf/2202.00593v4"
+            },
+            "id": "http://arxiv.org/abs/2202.00593v4",
+            "journal_ref": "SciPost Phys.. 14, 075 (2023)",
+            "published": "2022-02-01T12:35:11-05:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "The search for robust topological superconductivity and Majorana bound states continues, exploring both one-dimensional (1D) systems such as semiconducting nanowires and two-dimensional (2D) platforms. In this work we study a 2D approach based on graphene bilayers encapsulated in transition metal dichalcogenides that, unlike previous proposals involving the Quantum Hall regime in graphene, requires weaker magnetic fields and does not rely on interactions. The encapsulation induces strong spin-orbit coupling on the graphene bilayer, which opens a sizeable gap and stabilizes fragile pairs of helical edge states. We show that, when subject to an in-plane Zeeman field, armchair edges can be transformed into p-wave one-dimensional topological superconductors by contacting them laterally with conventional superconductors. We demonstrate the emergence of Majorana bound states (MBSs) at the sample corners of crystallographically perfect flakes, belonging either to the D or the BDI symmetry classes depending on parameters. We compute the phase diagram, the resilience of MBSs against imperfections, and their manifestation as a 4$\\pi$-periodic effect in Josephson junction geometries, all suggesting the existence of a topological phase within experimental reach.",
+            "title": "Majorana bound states in encapsulated bilayer graphene",
+            "updated": "2023-04-20T07:38:16-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2202.00593",
+            "journal_url": "https://doi.org/10.21468/SciPostPhys.14.4.075"
+        },
+        {
+            "authors": "Marco Valentini, Maksim Borovkov, Elsa Prada, Sara Marti-Sanchez, Marc Botifoll, Andrea Hofmann, Jordi Arbiol, Ramon Aguado, Pablo San-Jose, Georgios Katsaros",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "",
+            "doi": "10.1038/s41586-022-05382-w",
+            "formats": {
+                "html": "http://arxiv.org/abs/2203.07829v3",
+                "pdf": "http://arxiv.org/pdf/2203.07829v3"
+            },
+            "id": "http://arxiv.org/abs/2203.07829v3",
+            "published": "2022-03-15T08:32:44-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Hybrid semiconductor-superconductor devices hold great promise for realizing topological quantum computing with Majorana zero modes (MZMs). However, multiple claims of Majorana detection, based on either tunneling or Coulomb blockade (CB) spectroscopy, remain disputed. Here we devise an experimental protocol that allows to perform both types of measurements on the same hybrid island by adjusting its charging energy via tunable junctions to the normal leads. This method reduces ambiguities of Majorana detections by checking the consistency between CB spectroscopy and zero bias peaks (ZBPs) in non-blockaded transport.Specifically, we observe junction-dependent, even-odd modulated, single-electron CB peaks in InAs/Al hybrid nanowires (NWs) without concomitant low-bias peaks in tunneling spectroscopy. We provide a theoretical interpretation of the experimental observations in terms of low-energy, longitudinally-confined island states rather than overlapping Majorana modes. Our results highlight the importance of combined measurements on the same device for the identification of topological MZMs.",
+            "title": "Majorana-like Coulomb spectroscopy in the absence of zero bias peaks",
+            "updated": "2022-10-11T15:55:35-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2203.07829",
+            "journal_url": "https://doi.org/10.1038/s41586-022-05382-w",
+            "coverage": [
+                {
+                    "source": "Nature News and Views",
+                    "title": "Twin techniques narrow search for elusive Majorana particles",
+                    "url": "https://www.nature.com/articles/d41586-022-04351-7"
+                }
+            ]
+        },
+        {
+            "authors": "Samuel D. Escribano, Alfredo Levy Yeyati, Ramón Aguado, Elsa Prada, Pablo San-Jose",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "17 pages, 8 figures. v2: final version with a new figure",
+            "doi": "10.1103/PhysRevB.105.045418",
+            "formats": {
+                "html": "http://arxiv.org/abs/2107.13011v2",
+                "pdf": "http://arxiv.org/pdf/2107.13011v2"
+            },
+            "id": "http://arxiv.org/abs/2107.13011v2",
+            "journal_ref": "Phys. Rev. B 105, 045418 (2022)",
+            "published": "2021-07-27T14:00:04-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "We analyze the subgap excitations and phase diagram of a quantum dot (QD) coupled to a semiconducting nanowire fully wrapped by a superconducting (S) shell. We take into account how a Little-Parks (LP) pairing fluxoid (a winding in the S phase around the shell) influences the proximity effect on the dot. We find that under axially symmetric QD-S coupling, shell fluxoids cause the induced pairing to vanish, producing instead a level renormalization that pushes subgap levels closer to zero energy and flattens fermionic parity crossings as the coupling strength increases. This fluxoid-induced stabilization mechanism has analoges in symmetric S-QD-S Josephson junctions at phase $\\pi$, and can naturally lead to patterns of near-zero modes weakly dispersing with parameters in all but the zero-th lobe of the LP spectrum.",
+            "title": "Fluxoid-induced pairing suppression and near-zero modes in quantum dots coupled to full-shell nanowires",
+            "updated": "2022-01-25T07:48:55-05:00",
+            "arxiv_url": "https://arxiv.org/abs/2107.13011",
+            "journal_url": "https://doi.org/10.1103/PhysRevB.105.045418"
+        },
+        {
+            "authors": "Marco Valentini, Fernando Peñaranda, Andrea Hofmann, Matthias Brauns, Robert Hauschild, Peter Krogstrup, Pablo San-Jose, Elsa Prada, Ramón Aguado, Georgios Katsaros",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "",
+            "doi": "10.1126/science.abf1513",
+            "formats": {
+                "html": "http://arxiv.org/abs/2008.02348v3",
+                "pdf": "http://arxiv.org/pdf/2008.02348v3"
+            },
+            "id": "http://arxiv.org/abs/2008.02348v3",
+            "journal_ref": "Science 373, 82-88 (2021)",
+            "published": "2020-08-05T16:24:13-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "A semiconducting nanowire fully wrapped by a superconducting shell has been proposed as a platform for obtaining Majorana modes at small magnetic fields. In this study, we demonstrate that the appearance of subgap states in such structures is actually governed by the junction region in tunneling spectroscopy measurements, and not the full-shell nanowire itself. Short tunneling regions never show subgap states, whereas longer junctions always do. This can be understood in terms of quantum dots forming in the junction and hosting Andreev levels in the Yu-Shiba-Rusinov regime. The intricate magnetic field dependence of the Andreev levels, through both the Zeeman and Little-Parks effects, may result in robust zero-bias peaks, features that could be easily misinterpreted as originating from Majorana zero modes, but are unrelated to topological superconductivity.",
+            "title": "Nontopological zero-bias peaks in full-shell nanowires induced by flux tunable Andreev states",
+            "updated": "2021-08-10T09:30:52-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2008.02348",
+            "journal_url": "https://doi.org/10.1126/science.abf1513"
+        },
+        {
+            "authors": "Pablo San-Jose",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+                "Computational Physics (physics.comp-ph)"
+            ],
+            "comment": "9 pages, 3 figures",
+            "formats": {
+                "html": "http://arxiv.org/abs/2105.08038v1",
+                "pdf": "http://arxiv.org/pdf/2105.08038v1"
+            },
+            "id": "http://arxiv.org/abs/2105.08038v1",
+            "published": "2021-05-17T13:42:48-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "We derive a method to efficiently compute the Green function of on arbitrary Hamiltonians defined on semi-infinite and periodic quasi-one-dimensional lattices. Computing the Green function is the backbone of quantum transport, electronic structure or linear response computations. Our method constitutes a \"deflation optimization\" of a well established algorithm often used in quantum transport that is based on generalized Schur factorizations of the linearized quadratic eigenvalue equation for the transfer matrix. Our deflation optimization may greatly reduce the number of degrees of freedom that must be processed in the Schur factorization. Deflation must be supplemented by a Jordan-block reconstruction of generalized eigenvectors, also developed here in detail. The overhead of deflation plus reconstruction is minimal as compared to the typical reduction in factorization runtime. Furthermore, by avoiding inverses of ill-conditioned matrices, the algorithm remains numerically stable.",
+            "title": "Deflation algorithm for the Green function of quasi-1D lattices",
+            "updated": "2021-05-17T13:42:48-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2105.08038",
+            "journal_url": null
+        },
+        {
+            "authors": "J. Avila, Elsa Prada, P. San-Jose, R. Aguado",
+            "categories": [
+                "Superconductivity (cond-mat.supr-con)",
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "18 pages, 19 figures. New section about split junctions. Final published version. See also accompanying paper arXiv:2003.02858",
+            "doi": "10.1103/PhysRevB.102.094518",
+            "formats": {
+                "html": "http://arxiv.org/abs/2003.02852v3",
+                "pdf": "http://arxiv.org/pdf/2003.02852v3"
+            },
+            "id": "http://arxiv.org/abs/2003.02852v3",
+            "journal_ref": "Phys. Rev. B 102, 094518 (2020)",
+            "published": "2020-03-05T14:00:03-05:00",
+            "subject": "Superconductivity (cond-mat.supr-con)",
+            "summary": "We theoretically study superconducting islands based on semiconductor-nanowire Josephson junctions and take into account the presence of subgap quasiparticle excitations in the spectrum of the junction. Our method extends the standard model Hamiltonian for a superconducting charge qubit and replaces the Josephson potential by the Bogoliubov--de Gennes Hamiltonian of the nanowire junction, projected onto the relevant low-energy subgap subspace. This allows to fully incorporate the coherent dynamics of subgap levels in the junction. The combined effect of spin-orbit coupling and Zeeman energy in the nanowires forming the junction triggers a topological transition, where the subgap levels evolve from finite-energy Andreev bound states into near-zero energy Majorana bound states. The interplay between the microscopic energy scales governing the nanowire junction (the Josephson energy, the Majorana coupling and the Majorana energy splitting), with the charging energy of the superconducting island, gives rise to a great variety of physical regimes. Based on this interplay of different energy scales, we fully characterize the microwave response of the junction, from the Cooper pair box to the transmon regimes, and show how the presence of Majoranas can be detected through distinct spectroscopic features. In split-junction geometries, the plasma mode couples to the phase-dispersing subgap levels resulting from Majorana hybridization via a Jaynes--Cummings-like interaction. As a consequence of this interaction, higher order plasma excitations in the junction inherit Majorana properties, including the $4\\pi$ effect.",
+            "title": "Superconducting islands with semiconductor-nanowire-based topological Josephson junctions",
+            "updated": "2020-10-05T04:55:17-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2003.02852",
+            "journal_url": "https://doi.org/10.1103/PhysRevB.102.094518"
+        },
+        {
+            "authors": "J. Avila, Elsa Prada, P. San-Jose, R. Aguado",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+                "Superconductivity (cond-mat.supr-con)"
+            ],
+            "comment": "6 pages, 3 Figures. Includes a new discussion about quasiMajoranas in smooth junctions. Published version. See also accompanying paper arXiv:2003.02852",
+            "doi": "10.1103/PhysRevResearch.2.033493",
+            "formats": {
+                "html": "http://arxiv.org/abs/2003.02858v3",
+                "pdf": "http://arxiv.org/pdf/2003.02858v3"
+            },
+            "id": "http://arxiv.org/abs/2003.02858v3",
+            "journal_ref": "Phys. Rev. Research 2, 033493 (2020)",
+            "published": "2020-03-05T14:00:16-05:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "We show that the microwave (MW) spectra in semiconductor-nanowire-based transmon qubits provide a strong signature of the presence of Majorana bound states in the junction. This occurs as an external magnetic field tunes the wire into the topological regime and the energy splitting of the emergent Majorana modes oscillates around zero energy owing to their wave function spatial overlap in finite-length wires. In particular, we discuss how these Majorana oscillations, and the concomitant fermion parity switches in the ground state of the junction, result in distinct spectroscopic features --in the form of an intermitent visibility of absorption lines-- that strongly deviate from standard transmon behavior. In contrast, non-oscillating zero modes, such as topologically trivial Andreev bound states resulting from sufficiently smooth potentials, exhibit an overall standard transmon response. These differences in the MW response could help determine whether the junction contains topological Majoranas or not.",
+            "title": "Majorana oscillations and parity crossings in semiconductor-nanowire-based transmon qubits",
+            "updated": "2020-10-05T04:42:13-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2003.02858",
+            "journal_url": "https://doi.org/10.1103/PhysRevResearch.2.033493"
+        },
+        {
+            "authors": "Elsa Prada, Pablo San-Jose, Michiel W. A. de Moor, Attila Geresdi, Eduardo J. H. Lee, Jelena Klinovaja, Daniel Loss, Jesper Nygård, Ramón Aguado, Leo P. Kouwenhoven",
+            "categories": [
+                "Superconductivity (cond-mat.supr-con)"
+            ],
+            "comment": "Review. 23 pages, 8 figures, 1 table. Shareable published version by Springer Nature at https://rdcu.be/b7DWT (free to read but not to download)",
+            "doi": "10.1038/s42254-020-0228-y",
+            "formats": {
+                "html": "http://arxiv.org/abs/1911.04512v3",
+                "pdf": "http://arxiv.org/pdf/1911.04512v3"
+            },
+            "id": "http://arxiv.org/abs/1911.04512v3",
+            "journal_ref": "Nat. Rev. Phys. 2, 575 (2020)",
+            "published": "2019-11-11T14:00:21-05:00",
+            "subject": "Superconductivity (cond-mat.supr-con)",
+            "summary": "Electronic excitations above the ground state must overcome an energy gap in superconductors with spatially-homogeneous s-wave pairing. In contrast, inhomogeneous superconductors such as those with magnetic impurities or weak links, or heterojunctions containing normal metals or quantum dots, can host subgap electronic excitations that are generically known as Andreev bound states (ABSs). With the advent of topological superconductivity, a new kind of ABS with exotic qualities, known as Majorana bound state (MBS), has been discovered. We review the main properties of ABSs and MBSs, and the state-of-the-art techniques for their detection. We focus on hybrid superconductor-semiconductor nanowires, possibly coupled to quantum dots, as one of the most flexible and promising experimental platforms. We discuss how the combined effect of spin-orbit coupling and Zeeman field in these wires triggers the transition from ABSs into MBSs. We show theoretical progress beyond minimal models in understanding experiments, including the possibility of different types of robust zero modes that may emerge without a band-topological transition. We examine the role of spatial non-locality, a special property of MBS wavefunctions that, together with non-Abelian braiding, is the key to realizing topological quantum computation.",
+            "title": "From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires",
+            "updated": "2020-10-04T14:28:10-04:00",
+            "arxiv_url": "https://arxiv.org/abs/1911.04512",
+            "journal_url": "https://doi.org/10.1038/s42254-020-0228-y"
+        },
+        {
+            "authors": "María Rosendo, Fernando Peñaranda, Johan Christensen, Pablo San-Jose",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "9 pages, 4 figures",
+            "doi": "10.1103/PhysRevLett.125.214301",
+            "formats": {
+                "html": "http://arxiv.org/abs/2008.11706v1",
+                "pdf": "http://arxiv.org/pdf/2008.11706v1"
+            },
+            "id": "http://arxiv.org/abs/2008.11706v1",
+            "journal_ref": "Phys. Rev. Lett. 125, 214301 (2020)",
+            "published": "2020-08-26T13:48:26-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Twisted bilayer graphene develop quasi-flat bands at specific \"magic\" interlayer rotation angles through an unconventional mechanism connected to carrier chirality. Quasi-flat bands are responsible for a wealth of exotic, correlated-electron phases in the system. In this work we propose a mechanical analogue of twisted bilayer graphene made of two vibrating plates, patterned with a honeycomb mesh of masses, and coupled across a continuum elastic medium. We show that flexural waves in the device exhibit vanishing group velocity and quasi-flat bands at magic angles, in close correspondence with electrons in graphene models. The strong similarities of spectral structure and spatial eigenmodes in the two systems demonstrate the chiral nature of the mechanical flat bands. We derive analytical expressions that quantitatively connect the mechanical and electronic models, which allow us to predict the parameters required for an experimental realization of our proposal.",
+            "title": "Flat bands in magic-angle vibrating plates",
+            "updated": "2020-08-26T13:48:26-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2008.11706",
+            "journal_url": "https://doi.org/10.1103/PhysRevLett.125.214301"
+        },
+        {
+            "authors": "Riccardo Frisenda, Gabriel Sanchez-Santolino, Nikos Papadopoulos, Joanna Urban, Michal Baranowski, Alessandro Surrente, Duncan K. Maude, Mar Garcia-Hernandez, Herre S. J. van der Zant, Paulina Plochocka, Pablo San-Jose, Andres Castellanos-Gomez",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "6 main text figures, Supp. Info. available upon request",
+            "doi": "10.1021/acs.nanolett.9b04536",
+            "formats": {
+                "html": "http://arxiv.org/abs/1908.03922v2",
+                "pdf": "http://arxiv.org/pdf/1908.03922v2"
+            },
+            "id": "http://arxiv.org/abs/1908.03922v2",
+            "journal_ref": "Nano Lett. 20, 1141-1147 (2020)",
+            "published": "2019-08-11T11:41:11-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Franckeite is a naturally occurring layered mineral with a structure composed of alternating stacks of SnS2-like and PbS-like layers. Although this superlattice is composed of a sequence of isotropic two-dimensional layers, it exhibits a spontaneous rippling that makes the material structurally anisotropic. We demonstrate that this rippling comes hand in hand with an inhomogeneous in-plane strain profile and anisotropic electrical, vibrational and optical properties. We argue that this symmetry breakdown results from a spatial modulation of the van der Waals interaction between layers due to the SnS2-like and PbS-like lattices incommensurability.",
+            "title": "Symmetry breakdown in franckeite: spontaneous strain, rippling and interlayer moir\\'e",
+            "updated": "2020-06-11T17:19:39-04:00",
+            "arxiv_url": "https://arxiv.org/abs/1908.03922",
+            "journal_url": "https://doi.org/10.1021/acs.nanolett.9b04536"
+        },
+        {
+            "authors": "M. T. Deng, S. Vaitiekénas, Elsa Prada, P. San-Jose, J. Nygård, P. Krogstrup, R. Aguado, C. M. Marcus",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+                "Superconductivity (cond-mat.supr-con)",
+                "Quantum Physics (quant-ph)"
+            ],
+            "comment": "As published version",
+            "doi": "10.1103/PhysRevB.98.085125",
+            "formats": {
+                "html": "http://arxiv.org/abs/1712.03536v2",
+                "pdf": "http://arxiv.org/pdf/1712.03536v2"
+            },
+            "id": "http://arxiv.org/abs/1712.03536v2",
+            "journal_ref": "Phys. Rev. B 98, 085125 (2018)",
+            "published": "2017-12-10T09:25:34-05:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Spatial separation of Majorana zero modes distinguishes trivial from topological midgap states and is key to topological protection in quantum computing applications. Although signatures of Majorana zero modes in tunneling spectroscopy have been reported in numerous studies, a quantitative measure of the degree of separation, or nonlocality, of the emergent zero modes has not been reported. Here, we present results of an experimental study of nonlocality of emergent zero modes in superconductor-semiconductor hybrid nanowire devices. The approach takes advantage of recent theory showing that nonlocality can be measured from splitting due to hybridization of the zero mode in resonance with a quantum dot state at one end of the nanowire. From these splittings as well as anticrossing of the dot states, measured for even and odd occupied quantum dot states, we extract both the degree of nonlocality of the emergent zero mode, as well as the spin canting angles of the nonlocal zero mode. Depending on the device measured, we obtain either a moderate degree of nonlocality, suggesting a partially separated Andreev subgap state, or a highly nonlocal state consistent with a well-developed Majorana mode.",
+            "title": "Nonlocality of Majorana Modes in Hybrid Nanowires",
+            "updated": "2020-04-26T06:08:18-04:00",
+            "arxiv_url": "https://arxiv.org/abs/1712.03536",
+            "journal_url": "https://doi.org/10.1103/PhysRevB.98.085125"
+        },
+        {
+            "authors": "Carlos Payá, Oliver Solow, Elsa Prada, Ramón Aguado, Karsten Flensberg",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "6 pages, 4 figures",
+            "formats": {
+                "html": "http://arxiv.org/abs/2510.00921v1",
+                "pdf": "http://arxiv.org/pdf/2510.00921v1"
+            },
+            "id": "http://arxiv.org/abs/2510.00921v1",
+            "published": "2025-10-01T09:59:34-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Open quantum systems governed by non-Hermitian effective Hamiltonians exhibit unique phenomena, such as the non-Hermitian skin effect, where eigenstates localize at system boundaries. We investigate this effect in a Rashba nanowire coupled to a ferromagnetic lead and demonstrate that it can be detected via non-local transport spectroscopy: while local conductance remains symmetric, the non-local conductance becomes non-reciprocal. We account for this behavior using both conventional transport arguments and the framework of non-Hermitian physics. Furthermore, we explain that exceptional points shift in parameter space when transitioning from periodic to open boundary conditions, a phenomenon observed in other non-Hermitian systems but so far not explained. Our results establish transport spectroscopy as a tool to probe non-Hermitian effects in open electronic systems.",
+            "title": "Non-Hermitian Skin Effect and Electronic Nonlocal Transport",
+            "updated": "2025-10-01T09:59:34-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2510.00921",
+            "journal_url": null
+        },
+        {
+            "authors": "Samuel D. Escribano, Alfredo Levy Yeyati, Elsa Prada",
+            "categories": [
+                "Materials Science (cond-mat.mtrl-sci)",
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "19 pages, 7 figures",
+            "formats": {
+                "html": "http://arxiv.org/abs/2509.13246v1",
+                "pdf": "http://arxiv.org/pdf/2509.13246v1"
+            },
+            "id": "http://arxiv.org/abs/2509.13246v1",
+            "published": "2025-09-16T12:55:24-04:00",
+            "subject": "Materials Science (cond-mat.mtrl-sci)",
+            "summary": "Strain provides a powerful knob to tailor the electronic properties of semiconductors. Simple yet accurate approximations that capture strain effects in demanding simulations of mesoscopic nanostructures are therefore highly desirable. However, for III-V compounds, key materials for quantum applications, such approaches remain comparatively underdeveloped. In this work, we derive a compact, effective Hamiltonian that describes the conduction band of zincblende III-V semiconductors incorporating strain effects. Starting from the eight-band k$\\cdot$p model with Bir-Pikus corrections, we perform a folding-down procedure to obtain analytical expressions for conduction-band strain-renormalized parameters, including the effective mass, chemical potential, spin-orbit coupling, and $g$-factor. The model reproduces full multiband results under small to moderate strain, while retaining a form suitable for device-scale calculations. We benchmark the model for bulk deformations and apply it to representative nanostructures, such as core.shell nanowires and planar heterostructures. Our results provide a practical and versatile tool for incorporating strain into the design of III-V semiconductor devices, enabling reliable predictions of their properties with direct implications for spintronic, straintronic, optoelectronic, and topological quantum technologies.",
+            "title": "Effective conduction-band model for zincblende III-V semiconductors in the presence of strain: tuning the properties of bulk crystals and nanostructures",
+            "updated": "2025-09-16T12:55:24-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2509.13246",
+            "journal_url": null
+        },
+        {
+            "authors": "Samuel D. Escribano, Víctor Barrena, David Perconte, Jose Antonio Moreno, Marta Fernández Lomana, Miguel Águeda, Edwin Herrera, Beilun Wu, Jose Gabriel Rodrigo, Elsa Prada, Isabel Guillamón, Alfredo Levy Yeyati, Hermann Suderow",
+            "categories": [
+                "Superconductivity (cond-mat.supr-con)"
+            ],
+            "comment": "63 pages, 14 figures. Final version",
+            "doi": "10.1038/s41467-025-60569-9",
+            "formats": {
+                "html": "http://arxiv.org/abs/2311.12783v3",
+                "pdf": "http://arxiv.org/pdf/2311.12783v3"
+            },
+            "id": "http://arxiv.org/abs/2311.12783v3",
+            "journal_ref": "Nat. Commun. 16, 5843 (2025)",
+            "published": "2023-11-21T13:50:12-05:00",
+            "subject": "Superconductivity (cond-mat.supr-con)",
+            "summary": "The ultimate spatial limit to establish a Josephson coupling between two superconducting electrodes is an atomic-scale junction. The Josephson effect in such ultrasmall junctions has been used to unveil new switching dynamics, study coupling close to superconducting bound states or reveal non-reciprocal effects. However, the Josephson coupling is weak and the sensitivity to temperature reduces the Cooper pair current magnitude. Here we show that a feedback element induces a time-dependent bistable regime which consists of spontaneous periodic oscillations between two different Cooper pair tunneling states (corresponding to the DC and AC Josephson regimes respectively). The amplitude of the time-averaged current within the bistable regime is almost independent of temperature. By tracing the periodic oscillations in the new bistable regime as a function of the position in a Scanning Tunneling Microscope, we obtain atomic scale maps of the critical current in 2H-NbSe$_2$ and find spatial modulations due to a pair density wave. Our results fundamentally improve our understanding of atomic size Josephson junctions including a feedback element in the circuit and provide a promising new route to study superconducting materials through atomic scale maps of the Josephson coupling.",
+            "title": "The feedback driven atomic scale Josephson microscope",
+            "updated": "2025-07-28T03:27:47-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2311.12783",
+            "journal_url": "https://doi.org/10.1038/s41467-025-60569-9"
+        },
+        {
+            "authors": "Andrea Vezzosi, Carlos Payá, Paweł Wójcik, Andrea Bertoni, Guido Goldoni, Elsa Prada, Samuel D. Escribano",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "32 pages, 4 figures; Resubmission to SciPost with minor changes",
+            "doi": "10.21468/SciPostPhys.18.2.069",
+            "formats": {
+                "html": "http://arxiv.org/abs/2405.07651v3",
+                "pdf": "http://arxiv.org/pdf/2405.07651v3"
+            },
+            "id": "http://arxiv.org/abs/2405.07651v3",
+            "journal_ref": "SciPost Phys.. 18, 069 (2025)",
+            "published": "2024-05-13T07:20:44-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Full-shell hybrid nanowires (NWs), structures comprising a superconductor shell that encapsulates a semiconductor (SM) core, have attracted considerable attention in the search for Majorana zero modes (MZMs). However, the predicted Rashba spin-orbit coupling (SOC) in the SM is too small to achieve substantial topological minigaps. In addition, the SM wavefunction spreads all across the section of the nanowire, leading typically to a finite background of trivial subgap states with which MZMs may coexist. To overcome both problems, we explore the advantages of utilizing core-shell hole-band NWs as the SM part of a full-shell hybrid, with an insulating core and an active SM shell. In particular, we consider InP/GaSb core-shell NWs, which allow to exploit the unique characteristics of the III-V compound SM valence bands. We demonstrate that they exhibit a robust hole SOC that emerges from the combination of the intrinsic spin-orbit interaction of the SM active shell and the confinement effects of the nanostructure, thus depending mainly on SM and geometrical parameters. In other words, the SOC is intrinsic and does not rely on red electric fields, which are non-tunable in a full-shell hybrid geometry. As a result, core-shell SM hole-band NWs are found to be a promising candidate to explore Majorana physics in full-hell hybrid devices, addressing several challenges in the field.",
+            "title": "InP/GaSb core-shell nanowires: a novel hole-based platform with strong spin-orbit coupling for full-shell hybrid devices",
+            "updated": "2024-12-17T04:03:54-05:00",
+            "arxiv_url": "https://arxiv.org/abs/2405.07651",
+            "journal_url": "https://doi.org/10.21468/SciPostPhys.18.2.069"
+        },
+        {
+            "authors": "Samuel D. Escribano, Andrea Maiani, Martin Leijnse, Karsten Flensberg, Yuval Oreg, Alfredo Levy Yeyati, Elsa Prada, Rubén Seoane Souto",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "17 pages, 16 figures, published version",
+            "doi": "10.1038/s41535-022-00489-9",
+            "formats": {
+                "html": "http://arxiv.org/abs/2203.06644v2",
+                "pdf": "http://arxiv.org/pdf/2203.06644v2"
+            },
+            "id": "http://arxiv.org/abs/2203.06644v2",
+            "journal_ref": "npj Quantum Mater.. 7, 81 (2022)",
+            "published": "2022-03-13T08:30:23-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Hybrid structures of semiconducting (SM) nanowires, epitaxially grown superconductors (SC), and ferromagnetic-insulator (FI) layers have been explored experimentally and theoretically as alternative platforms for topological superconductivity at zero magnetic field. Here, we analyze a tripartite SM/FI/SC heterostructure but realized in a planar stacking geometry, where the thin FI layer acts as a spin-polarized tunneling barrier between the SM and the SC. We optimize the system's geometrical parameters using microscopic simulations, finding the range of FI thicknesses for which the hybrid system can be tuned into the topological regime. Within this range, and thanks to the vertical confinement provided by the stacking geometry, trivial and topological phases alternate regularly as the external gate is varied, displaying a hard topological gap that can reach half of the SC one. This is a significant improvement compared to setups using hexagonal nanowires, which show erratic topological regions with typically smaller and softer gaps. Our proposal provides a magnetic field-free planar design for quasi-one-dimensional topological superconductivity with attractive properties for experimental control and scalability.",
+            "title": "Semiconductor-ferromagnet-superconductor planar heterostructures for 1D topological superconductivity",
+            "updated": "2022-08-19T05:01:28-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2203.06644",
+            "journal_url": "https://doi.org/10.1038/s41535-022-00489-9"
+        },
+        {
+            "authors": "Samuel D. Escribano, Elsa Prada, Yuval Oreg, Alfredo Levy Yeyati",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "16 pages, 11 figures. v2: final version",
+            "doi": "10.1103/PhysRevB.104.L041404",
+            "formats": {
+                "html": "http://arxiv.org/abs/2011.06566v2",
+                "pdf": "http://arxiv.org/pdf/2011.06566v2"
+            },
+            "id": "http://arxiv.org/abs/2011.06566v2",
+            "journal_ref": "Phys. Rev. B 104, 041404 (2021)",
+            "published": "2020-11-12T13:29:42-05:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Hybrid semiconducting nanowire devices combining epitaxial superconductor and ferromagnetic insulator layers have been recently explored experimentally as an alternative platform for topological superconductivity at zero applied magnetic field. In this proof-of-principle work we show that the topological regime can be reached in actual devices depending on some geometrical constraints. To this end, we perform numerical simulations of InAs wires in which we explicitly include the superconducting Al and magnetic EuS shells, as well as the interaction with the electrostatic environment at a self-consistent mean-field level. Our calculations show that both the magnetic and the superconducting proximity effects on the nanowire can be tuned by nearby gates thanks to their ability to move the wavefunction across the wire section. We find that the topological phase is achieved in significant portions of the phase diagram only in configurations where the Al and EuS layers overlap on some wire facet, due to the rather local direct induced spin polarization and the appearance of an extra indirect exchange field through the superconductor. While of obvious relevance for the explanation of recent experiments, tunable proximity effects are of interest in the broader field of superconducting spintronics.",
+            "title": "Tunable proximity effects and topological superconductivity in ferromagnetic hybrid nanowires",
+            "updated": "2021-07-21T05:04:24-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2011.06566",
+            "journal_url": "https://doi.org/10.1103/PhysRevB.104.L041404"
+        },
+        {
+            "authors": "Samuel D. Escribano, Alfredo Levy Yeyati, Elsa Prada",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+                "Materials Science (cond-mat.mtrl-sci)"
+            ],
+            "comment": "26 pages, 9 figures. v3: final version with new figures and new discussion of confinement effects",
+            "doi": "10.1103/PhysRevResearch.2.033264",
+            "formats": {
+                "html": "http://arxiv.org/abs/2001.04375v3",
+                "pdf": "http://arxiv.org/pdf/2001.04375v3"
+            },
+            "id": "http://arxiv.org/abs/2001.04375v3",
+            "journal_ref": "Phys. Rev. Research 2, 033264 (2020)",
+            "published": "2020-01-13T11:14:26-05:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Semiconductor Rashba nanowires are quasi-one dimensional systems that have large spin-orbit (SO) coupling arising from a broken inversion symmetry due to an external electric field. There exist parametrized multiband models that can describe accurately this effect. However, simplified single band models are highly desirable to study geometries of recent experimental interest, since they may allow to incorporate the effects of the low dimensionality and the nanowire electrostatic environment at a reduced computational cost. Commonly used conduction band approximations, valid for bulk materials, greatly underestimate the SO coupling in Zinc-blende crystal structures and overestimate it for Wurtzite ones when applied to finite cross-section wires, where confinement effects turn out to play an important role. We demonstrate here that an effective equation for the linear Rashba SO coupling of the semiconductor conduction band can reproduce the behavior of more sophisticated eight-band k$\\cdot$p model calculations. This is achieved by adjusting a single effective parameter that depends on the nanowire crystal structure and its chemical composition. We further compare our results to the Rashba coupling extracted from magnetoconductance measurements in several experiments on InAs and InSb nanowires, finding excellent agreement. This approach may be relevant in systems where Rashba coupling is known to play a major role, such as in spintronic devices or Majorana nanowires.",
+            "title": "Improved effective equation for the Rashba spin-orbit coupling in semiconductor nanowires",
+            "updated": "2020-08-24T07:19:46-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2001.04375",
+            "journal_url": "https://doi.org/10.1103/PhysRevResearch.2.033264"
+        },
+        {
+            "authors": "Fernando Peñaranda, Ramón Aguado, Pablo San-Jose, Elsa Prada",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "8 pages, 4 figures. Final version",
+            "doi": "10.1103/PhysRevResearch.2.023171",
+            "formats": {
+                "html": "http://arxiv.org/abs/1911.06805v2",
+                "pdf": "http://arxiv.org/pdf/1911.06805v2"
+            },
+            "id": "http://arxiv.org/abs/1911.06805v2",
+            "journal_ref": "Phys. Rev. Research 2, 023171 (2020)",
+            "published": "2019-11-15T13:53:26-05:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Full-shell nanowires (semiconducting nanowires fully coated with a superconducting shell) have been recently presented as a novel means to create Majorana zero modes. In contrast to partially coated nanowires, it has been argued that full-shell nanowires do not require high magnetic fields and low densities to reach a putative topological regime. Here we present a theoretical study of these devices taking into account all the basic ingredients, including a charge distribution spread across the section of the nanowire, required to qualitatively explain the first experimental results (Vaitiekenas et al., arXiv:1809.05513). We derive a criterion, dependent on the even-odd occupation of the radial subbands with zero angular momentum, for the appearance of Majorana zero modes. In the absence of angular subband mixing, these give rise to strong zero-bias anomalies in tunneling transport in roughly half of the system's parameter space under an odd number of flux quanta. Due to their coexistence with gapless subbands, the zero modes do not enjoy generic topological protection. Depending on the details of subband mixing in realistic devices, they can develop a topological minigap, acquire a finite lifetime or even be destroyed.",
+            "title": "Even-odd effect and Majorana states in full-shell nanowires",
+            "updated": "2020-05-20T08:17:42-04:00",
+            "arxiv_url": "https://arxiv.org/abs/1911.06805",
+            "journal_url": "https://doi.org/10.1103/PhysRevResearch.2.023171"
+        },
+        {
+            "authors": "Michael Seitz, Alvaro J. Magdaleno, Nerea Alcázar-Cano, Marc Meléndez, Tim J. Lubbers, Sanne W. Walraven, Sahar Pakdel, Elsa Prada, Rafael Delgado-Buscalioni, Ferry Prins",
+            "categories": [
+                "Applied Physics (physics.app-ph)",
+                "Materials Science (cond-mat.mtrl-sci)"
+            ],
+            "comment": "22 pages, 4 figures, and supporting information",
+            "doi": "10.1038/s41467-020-15882-w",
+            "formats": {
+                "html": "http://arxiv.org/abs/2001.05704v1",
+                "pdf": "http://arxiv.org/pdf/2001.05704v1"
+            },
+            "id": "http://arxiv.org/abs/2001.05704v1",
+            "journal_ref": "Nat. Commun. 11, 2035 (2020)",
+            "published": "2020-01-16T04:13:55-05:00",
+            "subject": "Applied Physics (physics.app-ph)",
+            "summary": "Two-dimensional perovskites, in which inorganic layers are stabilized by organic spacer molecules, are attracting increasing attention as a more robust analogue to the conventional three-dimensional metal-halide perovskites. However, reducing the perovskite dimensionality alters their optoelectronic properties dramatically, yielding excited states that are dominated by bound electron-hole pairs known as excitons, rather than by free charge carriers common to their bulk counterparts. Despite the growing interest in two-dimensional perovskites for both light harvesting and light emitting applications, the full impact of the excitonic nature on their optoelectronic properties remains unclear, particularly regarding the spatial dynamics of the excitons within the two-dimensional (2D) plane. Here, we present direct measurements of in-plane exciton transport in single-crystalline layered perovskites. Using time-resolved fluorescence microscopy, we show that excitons undergo an initial fast, intrinsic normal diffusion through the crystalline plane, followed by a transition to a slower subdiffusive regime as excitons get trapped. Interestingly, the early intrinsic exciton diffusivity depends sensitively on the exact composition of the perovskite, such as the choice of organic spacer. We attribute these changes in exciton transport properties to strong exciton-phonon interactions and the formation of large exciton-polarons. Our findings provide a clear design strategy to optimize exciton transport in these systems.",
+            "title": "Exciton diffusion in two-dimensional metal-halide perovskites",
+            "updated": "2020-01-16T04:13:55-05:00",
+            "arxiv_url": "https://arxiv.org/abs/2001.05704",
+            "journal_url": "https://doi.org/10.1038/s41467-020-15882-w"
+        },
+        {
+            "authors": "Maurício F. C. Martins Quintela, Miguel Sá, Alejandro J. Uría-Álvarez, Mikhail Malakhov, Giovanni Cistaro, Jorge Quereda, Juan J. Palacios, Antonio Picón",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "6 pages, 3 figures in main text",
+            "formats": {
+                "html": "http://arxiv.org/abs/2501.16036v2",
+                "pdf": "http://arxiv.org/pdf/2501.16036v2"
+            },
+            "id": "http://arxiv.org/abs/2501.16036v2",
+            "published": "2025-01-27T08:31:56-05:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Valleytronics, as an alternative to traditional electronics or spintronics, is based on the encoding of quantum information in pseudospin valley quantum numbers, rather than in charge or spin states. A key ingredient is the (optical) manipulation of valley states before loss of coherence, which can be as fast as 100 femtoseconds. Previous works have shown the possibility of valley state manipulation using external fields. Here we propose uniaxial strain as a more flexible and robust scheme to manipulate the valley state through the breaking of the crystal symmetry and the concomitant lifting of the degeneracy of the 1s exciton energy. Our theory is corroborated by state-of-the-art numerical simulations in monolayer hBN and shows the possibility to control valley pseudospin at the attosecond time scale.",
+            "title": "Quantum valley pseudospin controlled by strain",
+            "updated": "2025-05-22T10:00:29-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2501.16036",
+            "journal_url": null
+        },
+        {
+            "authors": "Juan F. P. Mosquera, Giovanni Cistaro, Mikhail Malakhov, Emilio Pisanty, Alexandre Dauphin, Luis Plaja, Alexis Chacón, Maciej Lewenstein, Antonio Picón",
+            "categories": [
+                "Optics (physics.optics)",
+                "Quantum Physics (quant-ph)"
+            ],
+            "comment": "",
+            "formats": {
+                "html": "http://arxiv.org/abs/2407.03737v1",
+                "pdf": "http://arxiv.org/pdf/2407.03737v1"
+            },
+            "id": "http://arxiv.org/abs/2407.03737v1",
+            "published": "2024-07-04T04:41:57-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "We present a numerical experiment that demonstrates the possibility to capture topological phase transitions via an x-ray absorption spectroscopy scheme. We consider a Chern insulator whose topological phase is tuned via a second-order hopping. We perform time-dynamics simulations of the out-of-equilibrium laser-driven electron motion that enables us to model a realistic attosecond spectroscopy scheme. In particular, we use an ultrafast scheme with a circularly polarized IR pump pulse and an attosecond x-ray probe pulse. A laser-induced dichroism-type spectrum shows a clear signature of the topological phase transition. We are able to connect these signatures with the Berry structure of the system. This work extend the applications of attosecond absorption spectroscopy to systems presenting a non-trivial topological phase.",
+            "title": "Topological phase transitions via attosecond x-ray absorption spectroscopy",
+            "updated": "2024-07-04T04:41:57-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2407.03737",
+            "journal_url": null
+        },
+        {
+            "authors": "Emilio Rodríguez-Cuenca, Antonio Picón, Solène Oberli, Alexander I. Kuleff, Oriol Vendrell",
+            "categories": [
+                "Optics (physics.optics)",
+                "Chemical Physics (physics.chem-ph)"
+            ],
+            "comment": "",
+            "doi": "10.1103/PhysRevLett.132.263202",
+            "formats": {
+                "html": "http://arxiv.org/abs/2406.19387v1",
+                "pdf": "http://arxiv.org/pdf/2406.19387v1"
+            },
+            "id": "http://arxiv.org/abs/2406.19387v1",
+            "journal_ref": "Phys. Rev. Lett. 132, 263202 (2024)",
+            "published": "2024-06-27T13:58:35-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "We study the ultrafast dynamics initiated by a coherent superposition of core-excited states of nitrous oxide molecule. Using high-level \\textit{ab-initio} methods, we show that the decoherence caused by the electronic decay and the nuclear dynamics is substantially slower than the induced ultrafast quantum beatings, allowing the system to undergo several oscillations before it dephases. We propose a proof-of-concept experiment using the harmonic up-conversion scheme available at X-ray free-electron laser facilities to trace the evolution of the created core-excited-state coherence through a time-resolved X-ray photoelectron spectroscopy.",
+            "title": "Core-hole Coherent Spectroscopy in Molecules",
+            "updated": "2024-06-27T13:58:35-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2406.19387",
+            "journal_url": "https://doi.org/10.1103/PhysRevLett.132.263202"
+        },
+        {
+            "authors": "Mikhail Malakhov, Giovanni Cistaro, Fernando Martín, Antonio Picón",
+            "categories": [
+                "Optics (physics.optics)",
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "",
+            "doi": "10.1038/s42005-024-01689-4",
+            "formats": {
+                "html": "http://arxiv.org/abs/2309.01190v1",
+                "pdf": "http://arxiv.org/pdf/2309.01190v1"
+            },
+            "id": "http://arxiv.org/abs/2309.01190v1",
+            "published": "2023-09-03T10:27:53-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "Excitons play an essential role in the optical response of two-dimensional materials. These are bound states showing up in the band gaps of many-body systems and are conceived as quasiparticles formed by an electron and a hole. By performing real-time simulations in hBN, we show that an ultrashort (few-fs) UV pulse can produce a coherent superposition of excitonic states that induces an oscillatory motion of electrons and holes between different valleys in reciprocal space, leading to a sizeable exciton migration in real space. We also show that an ultrafast spectroscopy scheme based on the absorption of an attosecond pulse in combination with the UV pulse can be used to read out the laser-induced coherences, hence to extract the characteristic time for exciton migration. This work opens the door towards ultrafast electronics and valleytronics adding time as a control knob and exploiting electron coherence at the early times of excitation.",
+            "title": "Exciton migration in two-dimensional materials",
+            "updated": "2023-09-03T10:27:53-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2309.01190",
+            "journal_url": "https://doi.org/10.1038/s42005-024-01689-4"
+        },
+        {
+            "authors": "Giovanni Cistaro, Mikhail Malakhov, Juan José Esteve-Paredes, Alejandro José Uría-Álvarez, Rui E. F. Silva, Fernando Martín, Juan José Palacios, Antonio Picón",
+            "categories": [
+                "Optics (physics.optics)",
+                "Atomic Physics (physics.atom-ph)"
+            ],
+            "comment": "",
+            "doi": "10.1021/acs.jctc.2c00674",
+            "formats": {
+                "html": "http://arxiv.org/abs/2207.00249v1",
+                "pdf": "http://arxiv.org/pdf/2207.00249v1"
+            },
+            "id": "http://arxiv.org/abs/2207.00249v1",
+            "journal_ref": "J. Chem. Theory Comput. 19, 333 (2023)",
+            "published": "2022-07-01T03:42:44-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "In this manuscript we present a theoretical framework and its numerical implementation to simulate the out-of-equilibrium electron dynamics induced by the interaction of ultrashort laser pulses in condensed-matter systems. Our approach is based on evolving in real-time the density matrix of the system in reciprocal space. It considers excitonic and non-perturbative light-matter interactions. We show some relevant examples that illustrate the efficiency and flexibility of the approach to describe realistic ultrafast spectroscopy experiments. Our approach is suitable for modeling the promising and emerging ultrafast studies at the attosecond time scale that aim at capturing the electron dynamics and the dynamical electron-electron correlations via X-ray absorption spectroscopy.",
+            "title": "A theoretical approach for electron dynamics and ultrafast spectroscopy",
+            "updated": "2022-07-01T03:42:44-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2207.00249",
+            "journal_url": "https://doi.org/10.1021/acs.jctc.2c00674"
+        },
+        {
+            "authors": "Kasra Amini, Jens Biegert, Francesca Calegari, Alexis Chacón, Marcelo F. Ciappina, Alexandre Dauphin, Dmitry K. Efimov, Carla Figueira de Morisson Faria, Krzysztof Giergiel, Piotr Gniewek, Alexandra S. Landsman, Michał Lesiuk, Michał Mandrysz, Andrew S. Maxwell, Robert Moszyński, Lisa Ortmann, Jose Antonio Pérez-Hernández, Antonio Picón, Emilio Pisanty, Jakub Prauzner-Bechcicki, Krzysztof Sacha, Noslen Suárez, Amelle Zaïr, Jakub Zakrzewski, Maciej Lewenstein",
+            "categories": [
+                "Quantum Physics (quant-ph)",
+                "Atomic Physics (physics.atom-ph)",
+                "Optics (physics.optics)"
+            ],
+            "comment": "We dedicate this work to the memory of Bertrand Carr\\'e, who passed away in March 2018 at the age of 60. This Accepted Manuscript is available under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/3.0/)",
+            "doi": "10.1088/1361-6633/ab2bb1",
+            "formats": {
+                "html": "http://arxiv.org/abs/1812.11447v2",
+                "pdf": "http://arxiv.org/pdf/1812.11447v2"
+            },
+            "id": "http://arxiv.org/abs/1812.11447v2",
+            "journal_ref": "Rep. Prog. Phys. 82, 116001 (2019)",
+            "published": "2018-12-29T18:41:50-05:00",
+            "subject": "Quantum Physics (quant-ph)",
+            "summary": "This paper has been prepared by the Symphony collaboration (University of Warsaw, Uniwersytet Jagiello\\'nski, DESY/CNR and ICFO) on the occasion of the 25th anniversary of the \"simple man's models\" which underlie most of the phenomena that occur when intense ultrashort laser pulses interact with matter. The phenomena in question include High-Harmonic Generation, Above-Threshold Ionization, and Non-Sequential Multielectron Ionization. \"Simple man's models\" provide, both an intuitive basis for understanding the numerical solutions of the time-dependent Schr\\\"odinger equation, and the motivation for the powerful analytic approximations generally known as the Strong Field Approximation (SFA). In this paper we first review the SFA in the form developed by us in the last 25 years. In this approach SFA is a method to solve the TDSE using a systematic perturbation theory in a part of the Hamiltonian describing continuum-continuum transitions in the presence of the laser field. In this review we focus on recent applications of SFA to HHG, ATI and NSMI from multi-electron atoms and from multi-atom. The main novel part of the presented theory concerns generalizations of SFA to: (i) time-dependent treatment of two-electron atoms, allowing for studies of an interplay between Electron Impact Ionization (EII) and Resonant Excitation with Subsequent Ionization (RESI); (ii) time-dependent treatment in the single active electron (SAE) approximation of \"large\" molecules and targets which are themselves undergoing dynamics during the HHG or ATI process. In particular, we formulate the general expressions for the case of arbitrary molecules, combining input from quantum chemistry and quantum dynamics. We formulate also theory of time-dependent separable molecular potentials to model analytically the dynamics of realistic electronic wave packets for molecules in strong laser fields.",
+            "title": "Symphony on Strong Field Approximation",
+            "updated": "2020-10-21T17:46:18-04:00",
+            "arxiv_url": "https://arxiv.org/abs/1812.11447",
+            "journal_url": "https://doi.org/10.1088/1361-6633/ab2bb1"
+        },
+        {
+            "authors": "Alexis Chacón, Dasol Kim, Wei Zhu, Shane P. Kelly, Alexandre Dauphin, Emilio Pisanty, Andrew S. Maxwell, Antonio Picón, Marcelo F. Ciappina, Dong Eon Kim, Christopher Ticknor, Avadh Saxena, Maciej Lewenstein",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+                "Quantum Physics (quant-ph)"
+            ],
+            "comment": "9 pages including references, then 16 pages of Supplementary Material",
+            "doi": "10.1103/PhysRevB.102.134115",
+            "formats": {
+                "html": "http://arxiv.org/abs/1807.01616v4",
+                "pdf": "http://arxiv.org/pdf/1807.01616v4"
+            },
+            "id": "http://arxiv.org/abs/1807.01616v4",
+            "journal_ref": "Phys. Rev. B 102, 134115 (2020)",
+            "published": "2018-07-04T10:42:10-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Topological materials are of interest to both fundamental science and advanced technologies, because topological states are robust with respect to perturbations and dissipation. Experimental detection of topological invariants is thus in great demand, but it remains extremely challenging. Ultrafast laser-matter interactions, and in particular high-harmonic generation (HHG), meanwhile, were proposed several years ago as tools to explore the structural and dynamical properties of various matter targets. Here we show that the high-harmonic emission signal produced by a circularly-polarized laser contains signatures of the topological phase transition in the paradigmatic Haldane model. In addition to clear shifts of the overall emissivity and harmonic cutoff, the high-harmonic emission shows a unique circular dichroism, which exhibits clear changes in behavior at the topological phase boundary. Our findings pave the way to understand fundamental questions about the ultrafast electron-hole pair dynamics in topological materials via non-linear high-harmonic generation spectroscopy.",
+            "title": "Circular dichroism in high-order harmonic generation: Heralding topological phases and transitions in Chern insulators",
+            "updated": "2020-07-15T17:23:35-04:00",
+            "arxiv_url": "https://arxiv.org/abs/1807.01616",
+            "journal_url": "https://doi.org/10.1103/PhysRevB.102.134115"
+        },
+        {
+            "authors": "Ayelet J. Uzan-Narovlansky, Álvaro Jiménez-Galán, Gal Orenstein, Rui E. F. Silva, Talya Arusi-Parpar, Sergei Shames, Barry D. Bruner, Binghai Yan, Olga Smirnova, Misha Ivanov, Nirit Dudovich",
+            "categories": [
+                "Optics (physics.optics)",
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "",
+            "doi": "10.1038/s41566-022-01010-1",
+            "formats": {
+                "html": "http://arxiv.org/abs/2309.13003v1",
+                "pdf": "http://arxiv.org/pdf/2309.13003v1"
+            },
+            "id": "http://arxiv.org/abs/2309.13003v1",
+            "journal_ref": "Nat. Photonics 16 428-432 (2022)",
+            "published": "2023-09-22T13:06:01-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "Intense light-matter interactions have revolutionized our ability to probe and manipulate quantum systems at sub-femtosecond time scales, opening routes to all-optical control of electronic currents in solids at petahertz rates. Such control typically requires electric field amplitudes $\\sim V/\\AA$, when the voltage drop across a lattice site becomes comparable to the characteristic band gap energies. In this regime, intense light-matter interaction induces significant modifications of electronic and optical properties, dramatically modifying the crystal band structure. Yet, identifying and characterizing such modifications remains an outstanding problem. As the oscillating electric field changes within the driving field's cycle, does the band-structure follow, and how can it be defined? Here we address this fundamental question, proposing all-optical spectroscopy to probe laser-induced closing of the band-gap between adjacent conduction bands. Our work reveals the link between nonlinear light matter interactions in strongly driven crystals and the sub-cycle modifications in their effective band structure.",
+            "title": "Observation of light driven band structure via multi-band high harmonic spectroscopy",
+            "updated": "2023-09-22T13:06:01-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2309.13003",
+            "journal_url": "https://doi.org/10.1038/s41566-022-01010-1"
+        },
+        {
+            "authors": "Álvaro Jiménez-Galán, C. Bossaer, G. Ernotte, A. M. Parks, Rui E. F. Silva, D. M. Villeneuve, A. Staudte, T. Brabec, A. Luican-Mayer, G. Vampa",
+            "categories": [
+                "Optics (physics.optics)"
+            ],
+            "comment": "",
+            "formats": {
+                "html": "http://arxiv.org/abs/2309.06290v1",
+                "pdf": "http://arxiv.org/pdf/2309.06290v1"
+            },
+            "id": "http://arxiv.org/abs/2309.06290v1",
+            "published": "2023-09-12T10:51:13-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "High-harmonic generation in solids allows probing and controlling electron dynamics in crystals on few femtosecond timescales, paving the way to lightwave electronics. In the spatial domain, recent advances in the real-space interpretation of high-harmonic emission in solids allows imaging the field-free, static, potential of the valence electrons with picometer resolution. The combination of such extreme spatial and temporal resolutions to measure and control strong-field dynamics in solids at the atomic scale is poised to unlock a new frontier of lightwave electronics. Here, we report a strong intensity-dependent anisotropy in the high-harmonic generation from ReS$_2$ that we attribute to angle-dependent interference of currents from the different atoms in the unit cell. Furthermore, we demonstrate how the laser parameters control the relative contribution of these atoms to the high-harmonic emission. Our findings provide an unprecedented atomic perspective on strong-field dynamics in crystals and suggest that crystals with a large number of atoms in the unit cell are not necessarily more efficient harmonic emitters than those with fewer atoms.",
+            "title": "Orbital perspective on high-harmonic generation from solids",
+            "updated": "2023-09-12T10:51:13-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2309.06290",
+            "journal_url": null
+        },
+        {
+            "authors": "Rui E. F. Silva, Álvaro Jiménez-Galán",
+            "categories": [
+                "Optics (physics.optics)",
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "",
+            "doi": "10.1103/PhysRevA.106.053103",
+            "formats": {
+                "html": "http://arxiv.org/abs/2009.02214v3",
+                "pdf": "http://arxiv.org/pdf/2009.02214v3"
+            },
+            "id": "http://arxiv.org/abs/2009.02214v3",
+            "journal_ref": "Phys. Rev. A 106 053103 (2022)",
+            "published": "2020-09-04T10:17:32-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "The reconstruction of attosecond beating by interference of two-photon transitions (RABBIT) is one of the most widely used techniques for obtaining both the relative phases of harmonics forming an attosecond pulse train and the phase of atomic radiative transitions. If the latter is computed by theory, it allows to reconstruct the attosecond pulse train; if the former is known experimentally, it allows reconstruction of the electronic dynamics of photoionization in atomic and molecular systems with attosecond temporal resolution. As it relies on the interference of photo-electrons in vacuum, similar interference has never been contemplated inside crystals. Here we explore the applicability of this scheme to solid-state systems using a one-dimensional model and a DFT-calculated structure of 2D hexagonal boron nitride. We discuss the possibility of: (i) reconstructing the relative phases between harmonics with trivial influence of the 'atomic phase', (ii) retrieving the relative phases of two-photon transitions through different bands, which are generally challenging to obtain both experimentally and numerically. These phases are recorded in the beating of the population signal arising from interfering two-photon pathways, and can be read-out with angle-resolved photo-emission spectroscopy. Furthermore, the amplitude of the population beating decays as the pump and probe pulses are separated in time due to electron-hole decoherence, providing a simple interferometric method to extract dephasing times.",
+            "title": "Reconstruction of attosecond beating by interference of two-photon interband transitions in solids",
+            "updated": "2023-09-12T05:39:53-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2009.02214",
+            "journal_url": "https://doi.org/10.1103/PhysRevA.106.053103"
+        },
+        {
+            "authors": "Nikolai D. Klimkin, Álvaro Jiménez-Galán, Rui E. F. Silva, Misha Ivanov",
+            "categories": [
+                "Computational Physics (physics.comp-ph)",
+                "Optics (physics.optics)"
+            ],
+            "comment": "",
+            "formats": {
+                "html": "http://arxiv.org/abs/2106.08638v2",
+                "pdf": "http://arxiv.org/pdf/2106.08638v2"
+            },
+            "id": "http://arxiv.org/abs/2106.08638v2",
+            "published": "2021-06-16T05:01:01-04:00",
+            "subject": "Computational Physics (physics.comp-ph)",
+            "summary": "Neural networks are a prominent tool for identifying and modeling complex patterns, which are otherwise hard to detect and analyze. While machine learning and neural networks have been finding applications across many areas of science and technology, their use in decoding ultrafast dynamics of quantum systems driven by strong laser fields has been limited so far. Here we use deep neural networks to analyze simulated noisy spectra of highly nonlinear optical response of a 2-dimensional gapped graphene crystal to intense few-cycle laser pulses. We show that a computationally simple 1-dimensional system provides a useful \"nursery school\" for our neural network, allowing it to be easily retrained to treat more complex systems, recovering the band structure and spectral phases of the incident few-cycle pulse with high accuracy, in spite of significant amplitude noise and phase jitter. Our results both offer a new tool for attosecond spectroscopy of quantum dynamics in solids and also open a route to developing all-solid-state devices for complete characterization of few-cycle pulses, including their nonlinear chirp and the carrier envelope phase.",
+            "title": "Deep neural networks for high harmonic spectroscopy in solids",
+            "updated": "2021-06-24T11:03:54-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2106.08638",
+            "journal_url": null
+        },
+        {
+            "authors": "Álvaro Jiménez-Galán, Rui Silva, Olga Smirnova, Misha Ivanov",
+            "categories": [
+                "Optics (physics.optics)",
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "",
+            "formats": {
+                "html": "http://arxiv.org/abs/2005.10196v1",
+                "pdf": "http://arxiv.org/pdf/2005.10196v1"
+            },
+            "id": "http://arxiv.org/abs/2005.10196v1",
+            "published": "2020-05-20T13:02:56-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "So far, selective excitation of a desired valley in the Brillouin zone of a hexagonal two-dimensional material has relied on using circularly polarized fields. We theoretically demonstrate a way to induce, control, and read valley polarization in hexagonal 2D materials on a few-femtosecond timescale using a few-cycle, linearly polarized pulse with controlled carrier-envelope phase. The valley pseudospin is encoded in the helicity of the emitted high harmonics of the driving pulse, allowing one to avoid additional probe pulses and permitting one to induce, manipulate and read the valley pseudospin all-optically, in one step. High circularity of the harmonic emission offers a method to generate highly elliptic attosecond pulses with a linearly polarized driver, in an all-solid-state setup.",
+            "title": "Sub-cycle valleytronics: control of valley polarization using few-cycle linearly polarized pulses",
+            "updated": "2020-05-20T13:02:56-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2005.10196",
+            "journal_url": null
+        },
+        {
+            "authors": "Álvaro Jiménez-Galán, Rui E. F. Silva, O. Smirnova, M. Ivanov",
+            "categories": [
+                "Optics (physics.optics)",
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "",
+            "doi": "10.1038/s41566-020-00717-3",
+            "formats": {
+                "html": "http://arxiv.org/abs/1910.07398v2",
+                "pdf": "http://arxiv.org/pdf/1910.07398v2"
+            },
+            "id": "http://arxiv.org/abs/1910.07398v2",
+            "published": "2019-10-16T11:06:06-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "Modern light generation technology offers extraordinary capabilities for sculpting light pulses, with full control over individual electric field oscillations within each laser cycle. These capabilities are at the core of lightwave electronics - the dream of ultrafast lightwave control over electron dynamics in solids, on a few-cycle to sub-cycle timescale, aiming at information processing at tera-Hertz to peta-Hertz rates. Here we show a robust and general approach to valley-selective electron excitations in two-dimensional solids, by controlling the sub-cycle structure of non-resonant driving fields at a few-femtosecond timescale. Bringing the frequency-domain concept of topological Floquet systems to the few-fsec time domain, we develop a transparent control mechanism in real space and an all-optical, non-element-specific method to coherently write, manipulate and read selective valley excitations using fields carried in a wide range of frequencies, on timescales that can be much shorter than the valley lifetime, crucial for implementation of valleytronic devices.",
+            "title": "Lightwave topology for strong-field valleytronics",
+            "updated": "2020-02-03T08:30:43-05:00",
+            "arxiv_url": "https://arxiv.org/abs/1910.07398",
+            "journal_url": "https://doi.org/10.1038/s41566-020-00717-3"
+        },
+        {
+            "authors": "Dino Habibović, Kathryn R. Hamilton, Ofer Neufeld, Laura Rego",
+            "categories": [
+                "Optics (physics.optics)",
+                "Quantum Physics (quant-ph)"
+            ],
+            "comment": "",
+            "doi": "10.1038/s42254-024-00763-8",
+            "formats": {
+                "html": "http://arxiv.org/abs/2404.05923v2",
+                "pdf": "http://arxiv.org/pdf/2404.05923v2"
+            },
+            "id": "http://arxiv.org/abs/2404.05923v2",
+            "published": "2024-04-08T20:59:34-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "Ultrashort laser pulses pose unique tools to trigger and probe the fastest charge dynamics in matter, allowing the investigation of fundamental physical phenomena with unprecedented resolution in space, time, and energy. One of the most fascinating opportunities that ultrashort pulses offer is the possibility of modulating and investigating symmetries by tailoring the properties of the laser beam in the spatial and polarization domains, effectively controlling symmetry breaking on multiple levels. In particular, this allows probing chiral matter and ultrafast chiral dynamics. In recent years, the development of highly sensitive approaches for studying chirality has been a hot topic in physics and chemistry that has developed largely separately from the field of tailored light. This perspective discusses the individual and joint evolution of these fields with an emphasis on how the fields have already cross-fertilized, opening new opportunities in science. We outline a future outlook of how the topics are expected to fully merge and mutually evolve, emphasizing outstanding open issues.",
+            "title": "The Application of Tailored Fields for Studying Chirality and Symmetry",
+            "updated": "2024-05-20T13:41:35-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2404.05923",
+            "journal_url": "https://doi.org/10.1038/s42254-024-00763-8"
+        },
+        {
+            "authors": "Laura Rego, Nathan J. Brooks, Quynh L. D. Nguyen, Julio San Román, Iona Binnie, Luis Plaja, Henry C. Kapteyn, Margaret M. Murnane, Carlos Hernández-García",
+            "categories": [
+                "Optics (physics.optics)"
+            ],
+            "comment": "Submitted to Science Advances",
+            "formats": {
+                "html": "http://arxiv.org/abs/2107.12669v1",
+                "pdf": "http://arxiv.org/pdf/2107.12669v1"
+            },
+            "id": "http://arxiv.org/abs/2107.12669v1",
+            "published": "2021-07-27T04:31:57-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "The extreme nonlinear optical process of high-harmonic generation (HHG) makes it possible to map the properties of a laser beam onto a radiating electron wavefunction, and in turn, onto the emitted x-ray light. Bright HHG beams typically emerge from a longitudinal phased distribution of atomic-scale quantum antennae. Here, we form a transverse necklace-shaped phased array of HHG emitters, where orbital angular momentum conservation allows us to tune the line spacing and divergence properties of extreme-ultraviolet and soft X-ray high harmonic combs. The on-axis HHG emission has extremely low divergence, well below that obtained when using Gaussian driving beams, which further decreases with harmonic order. This work provides a new degree of freedom for the design of harmonic combs, particularly in the soft X-ray regime, where very limited options are available. Such harmonic beams can enable more sensitive probes of the fastest correlated charge and spin dynamics in molecules, nanoparticles and materials.",
+            "title": "Necklace-structured high harmonic generation for low-divergence, soft X-ray harmonic combs with tunable line spacing",
+            "updated": "2021-07-27T04:31:57-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2107.12669",
+            "journal_url": null
+        },
+        {
+            "authors": "Eduardo B. Molinero, Anushree Datta, María J. Calderón, Elena Bascones, Rui E. F. Silva",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+                "Quantum Physics (quant-ph)"
+            ],
+            "comment": "5 pages, 4 figures",
+            "doi": "10.1364/OPTICA.510789",
+            "formats": {
+                "html": "http://arxiv.org/abs/2302.04127v1",
+                "pdf": "http://arxiv.org/pdf/2302.04127v1"
+            },
+            "id": "http://arxiv.org/abs/2302.04127v1",
+            "published": "2023-02-05T11:44:32-05:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "If we stack up two layers of graphene while changing their respective orientation by some twisting angle, we end up with a system that has striking differences when compared to single-layer graphene. For a very specific value of this twist angle, known as magic angle, twisted bilayer graphene displays a unique phase diagram that cannot be found in other systems. Recently, high harmonic generation spectroscopy has been successfully applied to elucidate the electronic properties of quantum materials. The purpose of the present work is to exploit the nonlinear optical response of magic-angle twisted bilayer graphene to unveil its electronic properties. We show that the band structure of magic-angle twisted bilayer graphene is imprinted onto its high-harmonic spectrum. Specifically, we observe a drastic decrease of harmonic signal as we approach the magic angle. Our results show that high harmonic generation can be used as a spectroscopy tool for measuring the twist angle and also the electronic properties of twisted bilayer graphene, paving the way for an all-optical characterization of moir\\'e materials.",
+            "title": "High-Harmonic Generation with a twist: all-optical characterization of magic-angle twisted bilayer graphene",
+            "updated": "2023-02-05T11:44:32-05:00",
+            "arxiv_url": "https://arxiv.org/abs/2302.04127",
+            "journal_url": "https://doi.org/10.1364/OPTICA.510789"
+        },
+        {
+            "authors": "Eduardo B. Molinero, Rui E. F. Silva",
+            "categories": [
+                "Strongly Correlated Electrons (cond-mat.str-el)",
+                "Optics (physics.optics)"
+            ],
+            "comment": "5 pages, 4 figures",
+            "doi": "10.1103/PhysRevResearch.4.043198",
+            "formats": {
+                "html": "http://arxiv.org/abs/2205.11896v2",
+                "pdf": "http://arxiv.org/pdf/2205.11896v2"
+            },
+            "id": "http://arxiv.org/abs/2205.11896v2",
+            "published": "2022-05-24T04:41:56-04:00",
+            "subject": "Strongly Correlated Electrons (cond-mat.str-el)",
+            "summary": "The use of intense tailored light fields is the perfect tool to achieve ultrafast control of electronic properties in quantum materials. Among them, Mott insulators are materials in which strong electron-electron interactions drive the material into an insulating phase. When shinning a Mott insulator with a strong laser pulse, the electric field may induce the creation of doublon-hole pairs, triggering an insulator-to-metal phase transition. In this work, we take advantage of the threshold character of this insulator-to-metal transition and we propose a pump-probe scheme that consists of a mid-infrared laser pulse and a train of short pulses separated by half-period of the mid-infrared with alternating phases. By varying the time-delay between the two pulses and the internal carrier envelope phase of the short pulses, we achieve control of the phase transition, which leaves its fingerprint at its high harmonic spectrum.",
+            "title": "Light-wave coherent control of the insulator-to-metal transition in a strongly correlated material",
+            "updated": "2022-06-14T04:59:53-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2205.11896",
+            "journal_url": "https://doi.org/10.1103/PhysRevResearch.4.043198"
+        },
+        {
+            "authors": "Eduardo B. Molinero, C. E. Creffield, F. Sols",
+            "categories": [
+                "Quantum Gases (cond-mat.quant-gas)"
+            ],
+            "comment": "19 pages, 8 figures. Slightly revised in response to referee reports",
+            "doi": "10.1088/1361-6455/ac6d35",
+            "formats": {
+                "html": "http://arxiv.org/abs/2107.13398v2",
+                "pdf": "http://arxiv.org/pdf/2107.13398v2"
+            },
+            "id": "http://arxiv.org/abs/2107.13398v2",
+            "journal_ref": "J. Phys. B 55 135301 (2022)",
+            "published": "2021-07-28T10:41:40-04:00",
+            "subject": "Quantum Gases (cond-mat.quant-gas)",
+            "summary": "We study the expansion of a one-dimensional boson gas by suddenly increasing the length of the chain where it resides. We consider three initial ground-state configurations: the Mott insulator, the conventional superfluid clumped around zero momentum, and the cat-like state with peaks at momenta $\\pm \\pi/2$, resulting from rapid kinetic driving. In turn, we consider three types of expansion: spectroscopic (with interactions tuned to zero), dynamic (with standard short-range repulsive interactions) and under kinetic driving. The numerical calculations are exact. We compute the momentum- and real-space one-particle densities as well as the two-particle momentum correlations. The spectroscopic time-of-flight experiment faithfully reflects the initial momentum distribution. For the dynamic expansion starting from an insulator, we reproduce the non-equilibrium quasi-condensation into momenta $\\pm \\pi/2$ while noticing correlations in the momentum distribution, and provide an intuitive physical picture. A discussion of various measures of the momentum correlations is also presented.",
+            "title": "Expansion of a one-dimensional Bose gas: the role of interactions and kinetic-energy driving",
+            "updated": "2022-05-27T10:45:42-04:00",
+            "arxiv_url": "https://arxiv.org/abs/2107.13398",
+            "journal_url": "https://doi.org/10.1088/1361-6455/ac6d35"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "0001":{
+        "name": "Pablo San-Jose",
+        "name_variants": ["Pablo San Jose", "Pablo Sanjose", "San-Jose, Pablo", "San Jose, Pablo", "Sanjose, Pablo"],
+        "arxiv_authorid": "sanjose_p_1",
+        "orcid": "0000-0002-7920-5273",
+        "date_in": "2020-01-01",
+        "date_out": null
+    },
+    "0002":{
+        "name": "Elsa Prada",
+        "name_variants": ["Prada, Elsa", "E. Prada"],
+        "arxiv_authorid": "prada_e_1",
+        "orcid": "0000-0001-7522-4795",
+        "date_in": "2020-01-01",
+        "date_out": null
+    },
+    "0003":{
+        "name": "Antonio Picón",
+        "name_variants": ["Antonio Picon", "Picón, Antonio", "Picon, Antonio", "A. Picón", "A. Picon"],
+        "arxiv_authorid": "picon_a_1",
+        "orcid": "0000-0002-6142-3440",
+        "date_in": "2020-01-01",
+        "date_out": null
+    },
+    "0004":{
+        "name": "Rui E. F. Silva",
+        "name_variants": ["Rui E F Silva", "Silva, Rui E. F.", "Silva, Rui E F", "R. E. F. Silva", "R E F Silva", "Rui Emanuel Ferreira da Silva"],
+        "arxiv_authorid": "silva_r_4",
+        "orcid": "0000-0002-1920-5861",
+        "date_in": "2020-01-01",
+        "date_out": null
+    },
+    "0005":{
+        "name": "Álvaro Jiménez-Galán",
+        "name_variants": ["Alvaro Jimenez-Galan", "Álvaro Jimenez Galan", "Alvaro Jimenez Galan", "Jiménez-Galán, Álvaro", "Jimenez-Galan, Alvaro", "Jimenez Galan, Alvaro", "Á. Jiménez-Galán", "A. Jimenez-Galan"],
+        "arxiv_authorid": "jimenez-galan_a_1",
+        "orcid": "0000-0003-2116-7187",
+        "date_in": "2020-01-01",
+        "date_out": null
+    },
+    "0006":{
+        "name": "Laura Rego",
+        "name_variants": ["Rego, Laura", "L. Rego"],
+        "arxiv_authorid": null,
+        "orcid": "0000-0002-7214-7402",
+        "date_in": "2020-01-01",
+        "date_out": null
+    },
+    "0007":{
+        "name": "Thomas Hansen",
+        "name_variants": ["Hansen, Thomas", "T. Hansen"],
+        "arxiv_authorid": null,
+        "orcid": "0000-0003-0990-2732",
+        "date_in": "2025-09-01",
+        "date_out": null
+    },
+    "0008":{
+        "name": "Carlos Payá",
+        "name_variants": ["Carlos Paya", "Payá, Carlos", "Paya, Carlos", "C. Payá", "C. Paya"],
+        "arxiv_authorid": "paya_c_1",
+        "orcid": "0000-0001-5709-2290",
+        "date_in": "2020-01-01",
+        "date_out": null
+    },
+    "0009":{
+        "name": "Francisco Lobo",
+        "name_variants": ["Lobo, Francisco", "F. Lobo"],
+        "arxiv_authorid": null,
+        "orcid": "0009-0003-8417-3610",
+        "date_in": "2020-01-01",
+        "date_out": null
+    },
+    "0010":{
+        "name": "Aday Cárdenas",
+        "name_variants": ["Aday Cardenas", "Cárdenas, Aday", "Cardenas, Aday", "A. Cárdenas", "A. Cardenas"],
+        "arxiv_authorid": null,
+        "orcid": null,
+        "date_in": "2020-01-01",
+        "date_out": null
+    },
+    "0011":{
+        "name": "Aude Rodriguez",
+        "name_variants": ["Rodriguez, Aude", "A. Rodriguez"],
+        "arxiv_authorid": null,
+        "orcid": "0009-0009-0292-1034",
+        "date_in": "2020-01-01",
+        "date_out": null
+    },
+    "0012":{
+        "name": "Pablo Estévez-Alonso",
+        "name_variants": ["Pablo Estevez-Alonso", "Pablo Estévez Alonso", "Pablo Estevez Alonso", "Estévez-Alonso, Pablo", "Estevez-Alonso, Pablo", "Estevez Alonso, Pablo", "P. Estévez-Alonso", "P. Estevez-Alonso"],
+        "arxiv_authorid": null,
+        "orcid": "0000-0003-1001-1793",
+        "date_in": "2020-01-01",
+        "date_out": null
+    },
+    "0013":{
+        "name": "César Robles",
+        "name_variants": ["Cesar Robles", "Robles, César", "Robles, Cesar", "C. Robles"],
+        "arxiv_authorid": null,
+        "orcid": null,
+        "date_in": "2020-01-01",
+        "date_out": null
+    },
+    "0014":{
+        "name": "Eduardo B. Molinero",
+        "name_variants": ["Molinero, Eduardo B.", "E. B. Molinero", "E B Molinero", "Eduardo B Molinero"],
+        "arxiv_authorid": null,
+        "orcid": "0000-0001-5062-3343",
+        "date_in": "2020-01-01",
+        "date_out": "2025-05-01"
+    },
+    "0015":{
+        "name": "Fernando Peñaranda",
+        "name_variants": ["Fernando Penaranda", "Peñaranda, Fernando", "Penaranda, Fernando", "F. Peñaranda", "F. Penaranda"],
+        "arxiv_authorid": null,
+        "orcid": "0000-0003-2180-3593",
+        "date_in": null,
+        "date_out": null
+    },
+    "0016":{
+        "name": "Samuel D. Escribano",
+        "name_variants": ["Escribano, Samuel D.", "S. D. Escribano", "S D Escribano", "Samuel D Escribano"],
+        "arxiv_authorid": null,
+        "orcid": "0000-0002-3985-0470",
+        "date_in": null,
+        "date_out": null
+    },
+    "0017":{
+        "name": "David Purschke",
+        "name_variants": ["Purschke, David", "D. Purschke"],
+        "arxiv_authorid": null,
+        "orcid": null,
+        "date_in": null,
+        "date_out": null
+    },
+    "0018":{
+        "name": "Yeganeh Alvankar",
+        "name_variants": ["Alvankar, Yeganeh", "Y. Alvankar"],
+        "arxiv_authorid": null,
+        "orcid": null,
+        "date_in": null,
+        "date_out": null
+    },
+    "0019":{
+        "name": "Hammid Talkhabi",
+        "name_variants": ["Talkhabi, Hammid", "H. Talkhabi"],
+        "arxiv_authorid": null,
+        "orcid": null,
+        "date_in": null,
+        "date_out": null
+    }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "qudyma-publications",
+  "version": "1.0.0",
+  "description": "QUDyMa research group publications database - fetches, merges, and standardizes publications from arXiv and ORCID",
+  "main": "src/index.js",
+  "bin": {
+    "qudyma": "./cli.js"
+  },
+  "scripts": {
+    "generate": "node cli.js generate",
+    "refresh": "node cli.js refresh",
+    "arxiv": "node cli.js arxiv-only",
+    "orcid": "node cli.js orcid-only",
+    "merge": "node cli.js merge-only",
+    "stats": "node cli.js stats"
+  },
+  "keywords": [
+    "publications",
+    "arxiv",
+    "orcid",
+    "research",
+    "academic",
+    "bibliography"
+  ],
+  "author": "QUDyMa Research Group",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
