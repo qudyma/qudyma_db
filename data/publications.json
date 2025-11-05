@@ -449,6 +449,193 @@
             "journal_url": "https://doi.org/10.1103/PhysRevLett.125.214301"
         },
         {
+            "id": "doi:10.21203/rs.3.rs-5772265/v1",
+            "title": "Ultrafast valleytronic logic operations",
+            "journal_ref": null,
+            "doi": "10.21203/rs.3.rs-5772265/v1",
+            "published": "2025-02-12T00:00:00.000Z",
+            "updated": "2025-02-12T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.21203/rs.3.rs-5772265/v1"
+        },
+        {
+            "id": "doi:10.21203/rs.3.rs-2949047/v1",
+            "title": "Supercurrent mediated by helical edge modes in bilayer graphene",
+            "journal_ref": null,
+            "doi": "10.21203/rs.3.rs-2949047/v1",
+            "published": "2023-07-10T00:00:00.000Z",
+            "updated": "2023-07-10T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.21203/rs.3.rs-2949047/v1"
+        },
+        {
+            "id": "orcid:0001-Helical modes and Majoranas in encapsulated graphene bilayers",
+            "title": "Helical modes and Majoranas in encapsulated graphene bilayers",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2023-01-01T00:00:00.000Z",
+            "updated": "2023-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0001-Quantica.jl: simulating tight-binding systems in the Julia language",
+            "title": "Quantica.jl: simulating tight-binding systems in the Julia language",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2023-01-01T00:00:00.000Z",
+            "updated": "2023-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0001-Majorana bound states in encapsulated bilayer graphene",
+            "title": "Majorana bound states in encapsulated bilayer graphene",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2022-01-01T00:00:00.000Z",
+            "updated": "2022-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0001-Majorana-like Coulomb spectroscopy in the absence of zero bias peaks",
+            "title": "Majorana-like Coulomb spectroscopy in the absence of zero bias peaks",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2022-01-01T00:00:00.000Z",
+            "updated": "2022-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0001-Engineering Majoranas in 2D crystals: three graphene-based recipes",
+            "title": "Engineering Majoranas in 2D crystals: three graphene-based recipes",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2021-01-01T00:00:00.000Z",
+            "updated": "2021-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0001-Flat bands in magic-angle vibrating plates",
+            "title": "Flat bands in magic-angle vibrating plates",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2021-01-01T00:00:00.000Z",
+            "updated": "2021-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "doi:10.1038/s42254-020-0228-y",
+            "title": "From Andreev to Majorana bound states in hybrid superconductor–semiconductor nanowires",
+            "journal_ref": null,
+            "doi": "10.1038/s42254-020-0228-y",
+            "published": "2020-09-22T00:00:00.000Z",
+            "updated": "2020-09-22T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s42254-020-0228-y"
+        },
+        {
+            "id": "doi:10.1103/physrevresearch.2.023171",
+            "title": "Even-odd effect and Majorana states in full-shell nanowires",
+            "journal_ref": null,
+            "doi": "10.1103/physrevresearch.2.023171",
+            "published": "2020-05-19T00:00:00.000Z",
+            "updated": "2020-05-19T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/physrevresearch.2.023171"
+        },
+        {
+            "id": "doi:10.1021/acs.nanolett.9b04536",
+            "title": "Symmetry Breakdown in Franckeite: Spontaneous Strain, Rippling, and Interlayer Moiré",
+            "journal_ref": null,
+            "doi": "10.1021/acs.nanolett.9b04536",
+            "published": "2020-01-01T00:00:00.000Z",
+            "updated": "2020-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1021/acs.nanolett.9b04536"
+        },
+        {
             "authors": "Carlos Payá, Oliver Solow, Elsa Prada, Ramón Aguado, Karsten Flensberg",
             "categories": [
                 "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
@@ -614,6 +801,1230 @@
             "updated": "2020-01-16T04:13:55-05:00",
             "arxiv_url": "https://arxiv.org/abs/2001.05704",
             "journal_url": "https://doi.org/10.1038/s41467-020-15882-w"
+        },
+        {
+            "id": "orcid:0002-Helical modes and Majoranas in encapsulated graphene bilayers",
+            "title": "Helical modes and Majoranas in encapsulated graphene bilayers",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2023-01-01T00:00:00.000Z",
+            "updated": "2023-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0002-Caroli-de Gennes-Matricon states in full-shell nanowires",
+            "title": "Caroli-de Gennes-Matricon states in full-shell nanowires",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2022-01-01T00:00:00.000Z",
+            "updated": "2022-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0002-Majorana bound states in encapsulated bilayer graphene",
+            "title": "Majorana bound states in encapsulated bilayer graphene",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2022-01-01T00:00:00.000Z",
+            "updated": "2022-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0002-Majorana-like Coulomb spectroscopy in the absence of zero bias peaks",
+            "title": "Majorana-like Coulomb spectroscopy in the absence of zero bias peaks",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2022-01-01T00:00:00.000Z",
+            "updated": "2022-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0002-Topological superconductivity and Majorana modes for quantum computing: a materials science perspective",
+            "title": "Topological superconductivity and Majorana modes for quantum computing: a materials science perspective",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2022-01-01T00:00:00.000Z",
+            "updated": "2022-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0002-(One of the) latest Majorana nanowire designs: ferromagnetic hybrid nanowires",
+            "title": "(One of the) latest Majorana nanowire designs: ferromagnetic hybrid nanowires",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2021-01-01T00:00:00.000Z",
+            "updated": "2021-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0002-Engineering Majoranas in 2D crystals: three graphene-based recipes",
+            "title": "Engineering Majoranas in 2D crystals: three graphene-based recipes",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2021-01-01T00:00:00.000Z",
+            "updated": "2021-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0002-From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires",
+            "title": "From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2021-01-01T00:00:00.000Z",
+            "updated": "2021-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0002-Latest semiconducting nanowire designs in the search for Majorana modes: ferromagnetic and full-shell hybrid nanowires",
+            "title": "Latest semiconducting nanowire designs in the search for Majorana modes: ferromagnetic and full-shell hybrid nanowires",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2021-01-01T00:00:00.000Z",
+            "updated": "2021-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0002-From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires",
+            "title": "From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2020-01-01T00:00:00.000Z",
+            "updated": "2020-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "doi:10.1016/j.saa.2024.124978",
+            "title": "Exploring the conformational landscape through rotational spectroscopy and computational modelling: The tunneling dynamics in 2,6-diethylphenol",
+            "journal_ref": null,
+            "doi": "10.1016/j.saa.2024.124978",
+            "published": "2025-01-01T00:00:00.000Z",
+            "updated": "2025-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1016/j.saa.2024.124978"
+        },
+        {
+            "id": "doi:10.1088/1361-6633/ad889f",
+            "title": "Topological phase transitions via attosecond x-ray absorption spectroscopy",
+            "journal_ref": null,
+            "doi": "10.1088/1361-6633/ad889f",
+            "published": "2024-11-01T00:00:00.000Z",
+            "updated": "2024-11-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1088/1361-6633/ad889f"
+        },
+        {
+            "id": "doi:10.1103/PhysRevLett.132.263202",
+            "title": "Core-Hole Coherent Spectroscopy in Molecules",
+            "journal_ref": null,
+            "doi": "10.1103/PhysRevLett.132.263202",
+            "published": "2024-06-25T00:00:00.000Z",
+            "updated": "2024-06-25T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/PhysRevLett.132.263202"
+        },
+        {
+            "id": "doi:10.1038/s42005-024-01689-4",
+            "title": "Exciton migration in two-dimensional materials",
+            "journal_ref": null,
+            "doi": "10.1038/s42005-024-01689-4",
+            "published": "2024-06-18T00:00:00.000Z",
+            "updated": "2024-06-18T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s42005-024-01689-4"
+        },
+        {
+            "id": "doi:10.1002/cssc.202300719",
+            "title": "Mapping the Ultrafast Mechanistic Pathways of Co Photocatalysts in Pure Water through Time‐Resolved X‐ray Spectroscopy",
+            "journal_ref": null,
+            "doi": "10.1002/cssc.202300719",
+            "published": "2023-11-08T00:00:00.000Z",
+            "updated": "2023-11-08T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1002/cssc.202300719"
+        },
+        {
+            "id": "doi:10.1103/PhysRevResearch.5.023092",
+            "title": "Effect of the shot-to-shot variation on charge migration induced by sub-fs x-ray free-electron laser pulses",
+            "journal_ref": null,
+            "doi": "10.1103/PhysRevResearch.5.023092",
+            "published": "2023-05-11T00:00:00.000Z",
+            "updated": "2023-05-11T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/PhysRevResearch.5.023092"
+        },
+        {
+            "id": "doi:10.1021/acs.jctc.2c00674",
+            "title": "Theoretical Approach for Electron Dynamics and Ultrafast Spectroscopy (EDUS)",
+            "journal_ref": null,
+            "doi": "10.1021/acs.jctc.2c00674",
+            "published": "2023-01-10T00:00:00.000Z",
+            "updated": "2023-01-10T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1021/acs.jctc.2c00674"
+        },
+        {
+            "id": "doi:10.1038/s41467-022-34670-2",
+            "title": "Observation of site-selective chemical bond changes via ultrafast chemical shifts",
+            "journal_ref": null,
+            "doi": "10.1038/s41467-022-34670-2",
+            "published": "2022-11-22T00:00:00.000Z",
+            "updated": "2022-11-22T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s41467-022-34670-2"
+        },
+        {
+            "id": "doi:10.1021/jacs.1c07058",
+            "title": "Magnetic, Mechanically Interlocked Porphyrin–Carbon Nanotubes for Quantum Computation and Spintronics",
+            "journal_ref": null,
+            "doi": "10.1021/jacs.1c07058",
+            "published": "2021-12-22T00:00:00.000Z",
+            "updated": "2021-12-22T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1021/jacs.1c07058"
+        },
+        {
+            "id": "doi:10.1063/5.0054125",
+            "title": "Publisher's Note: “Attosecond state-resolved carrier motion in quantum materials probed by soft x-ray XANES” [Appl. Phys Rev. 8, 011408 (2021)]",
+            "journal_ref": null,
+            "doi": "10.1063/5.0054125",
+            "published": "2021-06-01T00:00:00.000Z",
+            "updated": "2021-06-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1063/5.0054125"
+        },
+        {
+            "id": "doi:10.1063/5.0020649",
+            "title": "Attosecond state-resolved carrier motion in quantum materials probed by soft x-ray XANES",
+            "journal_ref": null,
+            "doi": "10.1063/5.0020649",
+            "published": "2021-03-01T00:00:00.000Z",
+            "updated": "2021-03-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1063/5.0020649"
+        },
+        {
+            "id": "doi:10.1103/PhysRevResearch.3.013144",
+            "title": "Attosecond x-ray transient absorption spectroscopy in graphene",
+            "journal_ref": null,
+            "doi": "10.1103/PhysRevResearch.3.013144",
+            "published": "2021-02-12T00:00:00.000Z",
+            "updated": "2021-02-12T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/PhysRevResearch.3.013144"
+        },
+        {
+            "id": "doi:10.1103/PhysRevB.102.134115",
+            "title": "Circular dichroism in higher-order harmonic generation: Heralding topological phases and transitions in Chern insulators",
+            "journal_ref": null,
+            "doi": "10.1103/PhysRevB.102.134115",
+            "published": "2020-10-21T00:00:00.000Z",
+            "updated": "2020-10-21T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/PhysRevB.102.134115"
+        },
+        {
+            "id": "doi:10.1002/chem.202001393",
+            "title": "Tracking the Light‐Induced Excited‐State Dynamics and Structural Configurations of an Extraordinarily Long‐Lived Metastable State at Room Temperature",
+            "journal_ref": null,
+            "doi": "10.1002/chem.202001393",
+            "published": "2020-08-21T00:00:00.000Z",
+            "updated": "2020-08-21T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1002/chem.202001393"
+        },
+        {
+            "id": "doi:10.1103/physrevlett.125.073203",
+            "title": "Electronic Population Transfer via Impulsive Stimulated X-Ray Raman Scattering with Attosecond Soft-X-Ray Pulses",
+            "journal_ref": null,
+            "doi": "10.1103/physrevlett.125.073203",
+            "published": "2020-08-11T00:00:00.000Z",
+            "updated": "2020-08-11T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/physrevlett.125.073203"
+        },
+        {
+            "id": "doi:10.1088/1367-2630/ab7dde",
+            "title": "Site-specific tunnel-ionization in high harmonic generation in molecules",
+            "journal_ref": null,
+            "doi": "10.1088/1367-2630/ab7dde",
+            "published": "2020-04-01T00:00:00.000Z",
+            "updated": "2020-04-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1088/1367-2630/ab7dde"
+        },
+        {
+            "id": "doi:10.1103/PhysRevResearch.7.L012063",
+            "title": "Spatial polarization gating of high-harmonic generation in solids",
+            "journal_ref": null,
+            "doi": "10.1103/PhysRevResearch.7.L012063",
+            "published": "2025-03-11T00:00:00.000Z",
+            "updated": "2025-03-11T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/PhysRevResearch.7.L012063"
+        },
+        {
+            "id": "doi:10.1103/PhysRevResearch.6.043005",
+            "title": "Real-space perspective on dephasing in solid-state high harmonic generation",
+            "journal_ref": null,
+            "doi": "10.1103/PhysRevResearch.6.043005",
+            "published": "2024-10-02T00:00:00.000Z",
+            "updated": "2024-10-02T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/PhysRevResearch.6.043005"
+        },
+        {
+            "id": "doi:10.1142/9789811279560_0002",
+            "title": "Manipulation of Quantum Properties in 2D Materials with Strong Tailored Fields",
+            "journal_ref": null,
+            "doi": "10.1142/9789811279560_0002",
+            "published": "2024-07-01T00:00:00.000Z",
+            "updated": "2024-07-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1142/9789811279560_0002"
+        },
+        {
+            "id": "doi:10.1142/9789811279560_0003",
+            "title": "Wannier Approach to the Semiconductor Bloch Equations",
+            "journal_ref": null,
+            "doi": "10.1142/9789811279560_0003",
+            "published": "2024-07-01T00:00:00.000Z",
+            "updated": "2024-07-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1142/9789811279560_0003"
+        },
+        {
+            "id": "doi:10.1364/JOSAB.513543",
+            "title": "Ultrafast dephasing in solid-state high harmonic generation: macroscopic origin revealed by real-space dynamics [Invited]",
+            "journal_ref": null,
+            "doi": "10.1364/JOSAB.513543",
+            "published": "2024-06-01T00:00:00.000Z",
+            "updated": "2024-06-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1364/JOSAB.513543"
+        },
+        {
+            "id": "doi:10.1038/s41586-024-07244-z",
+            "title": "Light-wave-controlled Haldane model in monolayer hexagonal boron nitride",
+            "journal_ref": null,
+            "doi": "10.1038/s41586-024-07244-z",
+            "published": "2024-04-25T00:00:00.000Z",
+            "updated": "2024-04-25T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s41586-024-07244-z"
+        },
+        {
+            "id": "doi:10.1038/s41586-024-07156-y",
+            "title": "Valleytronics in bulk MoS2 with a topologic optical field",
+            "journal_ref": null,
+            "doi": "10.1038/s41586-024-07156-y",
+            "published": "2024-04-25T00:00:00.000Z",
+            "updated": "2024-04-25T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s41586-024-07156-y"
+        },
+        {
+            "id": "doi:10.1364/OPTICA.510789",
+            "title": "High-harmonic generation with a twist: all-optical characterization of magic-angle twisted bilayer graphene",
+            "journal_ref": null,
+            "doi": "10.1364/OPTICA.510789",
+            "published": "2024-02-20T00:00:00.000Z",
+            "updated": "2024-02-20T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1364/OPTICA.510789"
+        },
+        {
+            "id": "doi:10.1038/s41586-023-06828-5",
+            "title": "Observation of interband Berry phase in laser-driven crystals",
+            "journal_ref": null,
+            "doi": "10.1038/s41586-023-06828-5",
+            "published": "2024-02-01T00:00:00.000Z",
+            "updated": "2024-02-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s41586-023-06828-5"
+        },
+        {
+            "id": "doi:10.1038/s41467-023-44041-0",
+            "title": "Orbital perspective on high-harmonic generation from solids",
+            "journal_ref": null,
+            "doi": "10.1038/s41467-023-44041-0",
+            "published": "2023-12-18T00:00:00.000Z",
+            "updated": "2023-12-18T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s41467-023-44041-0"
+        },
+        {
+            "id": "doi:10.1103/PhysRevLett.131.243201",
+            "title": "Following the Nonthermal Phase Transition in Niobium Dioxide by Time-Resolved Harmonic Spectroscopy",
+            "journal_ref": null,
+            "doi": "10.1103/PhysRevLett.131.243201",
+            "published": "2023-12-11T00:00:00.000Z",
+            "updated": "2023-12-11T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/PhysRevLett.131.243201"
+        },
+        {
+            "id": "doi:10.1364/oe.462692",
+            "title": "Symmetry-aware deep neural networks for high harmonic spectroscopy in solids",
+            "journal_ref": null,
+            "doi": "10.1364/oe.462692",
+            "published": "2023-06-05T00:00:00.000Z",
+            "updated": "2023-06-05T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1364/oe.462692"
+        },
+        {
+            "id": "doi:10.1103/PhysRevResearch.4.043198",
+            "title": "Coherent control of the photoinduced transition in a strongly correlated material",
+            "journal_ref": null,
+            "doi": "10.1103/PhysRevResearch.4.043198",
+            "published": "2022-12-19T00:00:00.000Z",
+            "updated": "2022-12-19T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/PhysRevResearch.4.043198"
+        },
+        {
+            "id": "doi:10.1103/PhysRevA.106.053103",
+            "title": "Reconstruction of attosecond beating by interference of two-photon interband transitions in solids",
+            "journal_ref": null,
+            "doi": "10.1103/PhysRevA.106.053103",
+            "published": "2022-11-02T00:00:00.000Z",
+            "updated": "2022-11-02T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/PhysRevA.106.053103"
+        },
+        {
+            "id": "doi:10.1364/oe.460291",
+            "title": "All-optical valley switch and clock of electronic dephasing",
+            "journal_ref": null,
+            "doi": "10.1364/oe.460291",
+            "published": "2022-08-15T00:00:00.000Z",
+            "updated": "2022-08-15T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1364/oe.460291"
+        },
+        {
+            "id": "doi:10.1038/s41566-022-01010-1",
+            "title": "Observation of light-driven band structure via multiband high-harmonic spectroscopy",
+            "journal_ref": null,
+            "doi": "10.1038/s41566-022-01010-1",
+            "published": "2022-06-01T00:00:00.000Z",
+            "updated": "2022-06-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s41566-022-01010-1"
+        },
+        {
+            "id": "doi:10.1103/physreva.105.043704",
+            "title": "Permutational symmetry for identical multilevel systems: A second-quantized approach",
+            "journal_ref": null,
+            "doi": "10.1103/physreva.105.043704",
+            "published": "2022-04-04T00:00:00.000Z",
+            "updated": "2022-04-04T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/physreva.105.043704"
+        },
+        {
+            "id": "doi:10.1103/physrevresearch.3.023250",
+            "title": "Tracking ultrafast solid-state dynamics using high harmonic spectroscopy",
+            "journal_ref": null,
+            "doi": "10.1103/physrevresearch.3.023250",
+            "published": "2021-06-28T00:00:00.000Z",
+            "updated": "2021-06-28T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/physrevresearch.3.023250"
+        },
+        {
+            "id": "doi:10.1364/optica.404257",
+            "title": "Sub-cycle valleytronics: control of valley polarization using few-cycle linearly polarized pulses",
+            "journal_ref": null,
+            "doi": "10.1364/optica.404257",
+            "published": "2021-03-20T00:00:00.000Z",
+            "updated": "2021-03-20T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1364/optica.404257"
+        },
+        {
+            "id": "doi:10.1038/s41566-020-00717-3",
+            "title": "Lightwave control of topological properties in 2D materials for sub-cycle and non-resonant valley manipulation",
+            "journal_ref": null,
+            "doi": "10.1038/s41566-020-00717-3",
+            "published": "2020-12-16T00:00:00.000Z",
+            "updated": "2020-12-16T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s41566-020-00717-3"
+        },
+        {
+            "id": "doi:10.1021/acsphotonics.0c01095",
+            "title": "Impact of Vibrational Modes in the Plasmonic Purcell Effect of Organic Molecules",
+            "journal_ref": null,
+            "doi": "10.1021/acsphotonics.0c01095",
+            "published": "2020-11-29T00:00:00.000Z",
+            "updated": "2020-11-29T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1021/acsphotonics.0c01095"
+        },
+        {
+            "id": "doi:10.1038/s41566-019-0574-4",
+            "title": "Attosecond spectral singularities in solid-state high-harmonic generation",
+            "journal_ref": null,
+            "doi": "10.1038/s41566-019-0574-4",
+            "published": "2020-03-20T00:00:00.000Z",
+            "updated": "2020-03-20T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s41566-019-0574-4"
+        },
+        {
+            "id": "doi:10.1038/s41467-020-15196-x",
+            "title": "Polaritonic molecular clock for all-optical ultrafast imaging of wavepacket dynamics without probe pulses",
+            "journal_ref": null,
+            "doi": "10.1038/s41467-020-15196-x",
+            "published": "2020-03-17T00:00:00.000Z",
+            "updated": "2020-03-17T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s41467-020-15196-x"
+        },
+        {
+            "id": "doi:10.1063/1.5138937",
+            "title": "Cumulant expansion for the treatment of light–matter interactions in arbitrary material structures",
+            "journal_ref": null,
+            "doi": "10.1063/1.5138937",
+            "published": "2020-01-21T00:00:00.000Z",
+            "updated": "2020-01-21T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1063/1.5138937"
+        },
+        {
+            "id": "doi:10.1103/physreva.108.l051103",
+            "title": "Microscopic mechanisms of high-order wave mixing in solids",
+            "journal_ref": null,
+            "doi": "10.1103/physreva.108.l051103",
+            "published": "2023-11-20T00:00:00.000Z",
+            "updated": "2023-11-20T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/physreva.108.l051103"
+        },
+        {
+            "id": "doi:10.1103/physrevlett.129.173202",
+            "title": "Role of Spin-Orbit Coupling in High-Order Harmonic Generation Revealed by Supercycle Rydberg Trajectories",
+            "journal_ref": null,
+            "doi": "10.1103/physrevlett.129.173202",
+            "published": "2022-10-18T00:00:00.000Z",
+            "updated": "2022-10-18T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/physrevlett.129.173202"
+        },
+        {
+            "id": "doi:10.1038/s41567-022-01505-2",
+            "title": "All-optical attoclock for imaging tunnelling wavepackets",
+            "journal_ref": null,
+            "doi": "10.1038/s41567-022-01505-2",
+            "published": "2022-04-01T00:00:00.000Z",
+            "updated": "2022-04-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s41567-022-01505-2"
+        },
+        {
+            "id": "doi:10.1038/s41467-021-22264-3",
+            "title": "Topological protection versus degree of entanglement of two-photon light in photonic topological insulators",
+            "journal_ref": null,
+            "doi": "10.1038/s41467-021-22264-3",
+            "published": "2021-03-30T00:00:00.000Z",
+            "updated": "2021-03-30T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s41467-021-22264-3"
+        },
+        {
+            "id": "doi:10.1364/optica.418152",
+            "title": "Light-induced valleytronics in pristine graphene",
+            "journal_ref": null,
+            "doi": "10.1364/optica.418152",
+            "published": "2021-03-20T00:00:00.000Z",
+            "updated": "2021-03-20T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1364/optica.418152"
+        },
+        {
+            "id": "doi:10.1063/5.0251524",
+            "title": "Attosecond physics and technology",
+            "journal_ref": null,
+            "doi": "10.1063/5.0251524",
+            "published": "2025-04-28T00:00:00.000Z",
+            "updated": "2025-04-28T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1063/5.0251524"
+        },
+        {
+            "id": "doi:10.1126/sciadv.adp0841",
+            "title": "Attosecond impulsive stimulated X-ray Raman scattering in liquid water",
+            "journal_ref": null,
+            "doi": "10.1126/sciadv.adp0841",
+            "published": "2024-09-27T00:00:00.000Z",
+            "updated": "2024-09-27T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1126/sciadv.adp0841"
+        },
+        {
+            "id": "doi:10.1038/s42254-024-00763-8",
+            "title": "Emerging tailored light sources for studying chirality and symmetry",
+            "journal_ref": null,
+            "doi": "10.1038/s42254-024-00763-8",
+            "published": "2024-09-23T00:00:00.000Z",
+            "updated": "2024-09-23T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s42254-024-00763-8"
+        },
+        {
+            "id": "doi:10.1088/1367-2630/acf150",
+            "title": "Structuring the local handedness of synthetic chiral light: global chirality versus polarization of chirality",
+            "journal_ref": null,
+            "doi": "10.1088/1367-2630/acf150",
+            "published": "2023-09-01T00:00:00.000Z",
+            "updated": "2023-09-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1088/1367-2630/acf150"
+        },
+        {
+            "id": "doi:10.1126/sciadv.adj1429",
+            "title": "Ultrafast control over chiral sum-frequency generation",
+            "journal_ref": null,
+            "doi": "10.1126/sciadv.adj1429",
+            "published": "2023-08-18T00:00:00.000Z",
+            "updated": "2023-08-18T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1126/sciadv.adj1429"
+        },
+        {
+            "id": "doi:10.1515/nanoph-2022-0802",
+            "title": "Tilting light’s polarization plane to spatially separate the ultrafast nonlinear response of chiral molecules",
+            "journal_ref": null,
+            "doi": "10.1515/nanoph-2022-0802",
+            "published": "2023-07-14T00:00:00.000Z",
+            "updated": "2023-07-14T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1515/nanoph-2022-0802"
+        },
+        {
+            "id": "doi:10.1038/s42254-022-00522-7",
+            "title": "How to optimize high-order harmonic generation in gases",
+            "journal_ref": null,
+            "doi": "10.1038/s42254-022-00522-7",
+            "published": "2022-10-13T00:00:00.000Z",
+            "updated": "2022-10-13T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s42254-022-00522-7"
+        },
+        {
+            "id": "doi:10.1126/sciadv.abj7380",
+            "title": "Necklace-structured high-harmonic generation for low-divergence, soft x-ray harmonic combs with tunable line spacing",
+            "journal_ref": null,
+            "doi": "10.1126/sciadv.abj7380",
+            "published": "2022-02-04T00:00:00.000Z",
+            "updated": "2022-02-04T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1126/sciadv.abj7380"
+        },
+        {
+            "id": "doi:10.1364/OPTICA.413531",
+            "title": "High-order nonlinear dipole response characterized by extreme ultraviolet ellipsometry",
+            "journal_ref": null,
+            "doi": "10.1364/OPTICA.413531",
+            "published": "2021-04-20T00:00:00.000Z",
+            "updated": "2021-04-20T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1364/OPTICA.413531"
+        },
+        {
+            "id": "orcid:0006-Necklace-structured high harmonic generation for low-divergence, soft X-ray harmonic combs with tunable line spacing",
+            "title": "Necklace-structured high harmonic generation for low-divergence, soft X-ray harmonic combs with tunable line spacing",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2021-01-01T00:00:00.000Z",
+            "updated": "2021-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "doi:10.1364/OL.404402",
+            "title": "Trains of attosecond pulses structured with time-ordered polarization states",
+            "journal_ref": null,
+            "doi": "10.1364/OL.404402",
+            "published": "2020-10-15T00:00:00.000Z",
+            "updated": "2020-10-15T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1364/OL.404402"
+        },
+        {
+            "id": "orcid:0006-High-order nonlinear dipole response characterized by extreme-ultraviolet ellipsometry",
+            "title": "High-order nonlinear dipole response characterized by extreme-ultraviolet ellipsometry",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2020-01-01T00:00:00.000Z",
+            "updated": "2020-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0011-650 nm LED Integrated in PON Optical Sub Assembly for Future PON Management",
+            "title": "650 nm LED Integrated in PON Optical Sub Assembly for Future PON Management",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2025-01-01T00:00:00.000Z",
+            "updated": "2025-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0011-Field trial of the first G-PON, XGS-PON, 50G-PON triple-MPM reaching >35 dB ODN OPL with 20 km reach",
+            "title": "Field trial of the first G-PON, XGS-PON, 50G-PON triple-MPM reaching >35 dB ODN OPL with 20 km reach",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2024-01-01T00:00:00.000Z",
+            "updated": "2024-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0011-Power Consumption and CO2 Emission Optimization for Future Passive Optical Networks",
+            "title": "Power Consumption and CO2 Emission Optimization for Future Passive Optical Networks",
+            "journal_ref": null,
+            "doi": null,
+            "published": "2024-01-01T00:00:00.000Z",
+            "updated": "2024-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "doi:10.1016/j.jlumin.2021.118249",
+            "title": "Improving the sensitivity of WGM pressure sensors with oxyfluoride glass microspheres",
+            "journal_ref": null,
+            "doi": "10.1016/j.jlumin.2021.118249",
+            "published": "2021-10-01T00:00:00.000Z",
+            "updated": "2021-10-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1016/j.jlumin.2021.118249"
+        },
+        {
+            "id": "doi:10.1088/1361-6455/ac6d35",
+            "title": "Expansion of a one-dimensional Bose gas: the role of interactions and kinetic-energy driving",
+            "journal_ref": null,
+            "doi": "10.1088/1361-6455/ac6d35",
+            "published": "2022-07-06T00:00:00.000Z",
+            "updated": "2022-07-06T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1088/1361-6455/ac6d35"
         }
     ]
 }

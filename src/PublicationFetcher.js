@@ -354,6 +354,16 @@ class PublicationFetcher {
         return null;
     }
 
+    formatOrcidDate(dateObj) {
+        if (!dateObj) return new Date().toISOString();
+        
+        const year = dateObj.year?.value || new Date().getFullYear();
+        const month = dateObj.month?.value || 1;
+        const day = dateObj.day?.value || 1;
+        
+        return new Date(`${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}`).toISOString();
+    }
+
     standardizeJournalRef(journalRef) {
         if (!journalRef) return null;
         
@@ -442,42 +452,74 @@ class PublicationFetcher {
             for (const orcidEntry of data.entries) {
                 const doi = this.extractDOIFromExternalIds(orcidEntry['external-ids']);
                 const arxivId = this.extractArxivIdFromExternalIds(orcidEntry['external-ids']);
+                
+                // Skip if this DOI was already added from arXiv
+                if (doi && processedDOIs.has(doi.toLowerCase())) {
+                    skippedCount++;
+                    continue;
+                }
 
-                if (doi && !processedDOIs.has(doi.toLowerCase())) {
-                    let arxivEntry = null;
-                    
-                    if (arxivId) {
-                        try {
-                            arxivEntry = await this.fetchArxivMetadata(arxivId);
-                        } catch (e) {
-                            // Ignore errors
-                        }
+                // Try to get or fetch arXiv metadata
+                let arxivEntry = null;
+                
+                if (arxivId) {
+                    try {
+                        arxivEntry = await this.fetchArxivMetadata(arxivId);
+                    } catch (e) {
+                        // Ignore errors
                     }
-                    
-                    if (!arxivEntry && doi) {
-                        try {
-                            const foundArxivId = await this.searchArxivByDOI(doi);
-                            if (foundArxivId) {
-                                arxivEntry = await this.fetchArxivMetadata(foundArxivId);
-                            }
-                        } catch (e) {
-                            // Ignore errors
+                }
+                
+                if (!arxivEntry && doi) {
+                    try {
+                        const foundArxivId = await this.searchArxivByDOI(doi);
+                        if (foundArxivId) {
+                            arxivEntry = await this.fetchArxivMetadata(foundArxivId);
                         }
+                    } catch (e) {
+                        // Ignore errors
                     }
+                }
 
-                    if (arxivEntry) {
-                        if (!merged[researcherId]) {
-                            merged[researcherId] = {
-                                name: data.name,
-                                entries: []
-                            };
-                        }
-                        merged[researcherId].entries.push(arxivEntry);
+                // If we have arXiv metadata, use it; otherwise create entry from ORCID data
+                if (arxivEntry) {
+                    if (!merged[researcherId]) {
+                        merged[researcherId] = {
+                            name: data.name,
+                            entries: []
+                        };
+                    }
+                    merged[researcherId].entries.push(arxivEntry);
+                    if (doi) {
                         processedDOIs.add(doi.toLowerCase());
-                        addedCount++;
-                    } else {
-                        skippedCount++;
                     }
+                    addedCount++;
+                } else {
+                    // Create entry from ORCID data if no arXiv found
+                    const orcidOnlyEntry = {
+                        id: doi ? `doi:${doi}` : `orcid:${researcherId}-${orcidEntry.title}`,
+                        title: orcidEntry.title || '',
+                        journal_ref: orcidEntry.journal ? orcidEntry.journal : null,
+                        doi: doi || null,
+                        published: this.formatOrcidDate(orcidEntry['publication-date']),
+                        updated: this.formatOrcidDate(orcidEntry['publication-date']),
+                        summary: '',
+                        authors: '',
+                        categories: [],
+                        formats: { html: null, pdf: null }
+                    };
+                    
+                    if (!merged[researcherId]) {
+                        merged[researcherId] = {
+                            name: data.name,
+                            entries: []
+                        };
+                    }
+                    merged[researcherId].entries.push(orcidOnlyEntry);
+                    if (doi) {
+                        processedDOIs.add(doi.toLowerCase());
+                    }
+                    addedCount++;
                 }
             }
             
