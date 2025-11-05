@@ -1,7 +1,7 @@
 {
   "name": "qudyma-publications",
   "version": "1.0.0",
-  "description": "QUDyMa research group publications database - fetches, merges, and standardizes publications from arXiv and ORCID",
+  "description": "QUDYMA research group publications database - fetches, merges, and standardizes publications from arXiv and ORCID",
   "main": "src/index.js",
   "bin": {
     "qudyma": "./cli.js"
@@ -22,7 +22,7 @@
     "academic",
     "bibliography"
   ],
-  "author": "QUDyMa Research Group",
+  "author": "QUDYMA Research Group",
   "license": "MIT",
   "engines": {
     "node": ">=14.0.0"

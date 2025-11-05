@@ -1,5 +1,5 @@
 /**
- * QUDyMa Publications Database - Main Entry Point
+ * QUDYMA Publications Database - Main Entry Point
  * 
  * This module provides a simple API for generating the publications database.
  * Can be called directly from a website backend to generate fresh publication data.
@@ -29,7 +29,7 @@ async function generatePublications(options = {}) {
     const fetcher = new PublicationFetcher(configPath, dataPath);
 
     try {
-        console.log('=== QUDyMa Publications Database Generation ===\n');
+        console.log('=== QUDYMA Publications Database Generation ===\n');
 
         // Step 1: Fetch from arXiv if enabled
         if (fetchArxiv) {

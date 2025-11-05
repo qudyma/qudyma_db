@@ -1,4 +1,4 @@
-# QUDyMa Publications Database
+# QUDYMA Publications Database
 
 Automated system to fetch, merge, and manage research publications from arXiv and ORCID APIs.
 

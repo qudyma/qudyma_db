@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * QUDyMa Publications Database CLI
+ * QUDYMA Publications Database CLI
  * 
  * Command-line interface for generating publications database
  */
@@ -103,7 +103,7 @@ async function main() {
         case '-h':
         default:
             console.log(`
-QUDyMa Publications Database CLI
+QUDYMA Publications Database CLI
 
 Usage:
   qudyma <command>
