@@ -413,6 +413,90 @@ class PublicationFetcher {
         return normalizedAuthors.join(', ');
     }
 
+    async inferJournalRefFromDOI(doi, orcidEntry) {
+        /**
+         * Infers journal reference from DOI using CrossRef API
+         * If ISBN is present, it's likely a book, so return "Book"
+         */
+        if (!doi) return null;
+        
+        try {
+            // Check if ORCID entry indicates this is a book (has ISBN)
+            if (orcidEntry && orcidEntry['external-ids']) {
+                const isbn = orcidEntry['external-ids'].find(e => e['external-id-type'] === 'isbn');
+                if (isbn) {
+                    return 'Book';
+                }
+            }
+            
+            // Try to fetch from CrossRef API
+            const cleanDoi = doi.replace('https://doi.org/', '').replace('http://doi.org/', '');
+            const url = `https://api.crossref.org/works/${cleanDoi}`;
+            
+            return new Promise((resolve) => {
+                const req = https.get(url, { timeout: 10000 }, (res) => {
+                    let data = '';
+                    res.on('data', (chunk) => { data += chunk; });
+                    res.on('end', () => {
+                        try {
+                            const json = JSON.parse(data);
+                            if (json.message) {
+                                const msg = json.message;
+                                
+                                // Try container-title (journal name)
+                                if (msg['container-title'] && msg['container-title'].length > 0) {
+                                    const journal = msg['container-title'][0];
+                                    
+                                    // Format: "Journal Name vol(issue), page-page (year)"
+                                    let ref = journal;
+                                    
+                                    if (msg.volume) {
+                                        ref += ` ${msg.volume}`;
+                                        if (msg.issue) {
+                                            ref += `(${msg.issue})`;
+                                        }
+                                    }
+                                    
+                                    if (msg.page) {
+                                        ref += `, ${msg.page}`;
+                                    }
+                                    
+                                    if (msg.issued && msg.issued['date-parts'] && msg.issued['date-parts'][0]) {
+                                        ref += ` (${msg.issued['date-parts'][0][0]})`;
+                                    }
+                                    
+                                    resolve(ref);
+                                    return;
+                                }
+                            }
+                            resolve(null);
+                        } catch (e) {
+                            resolve(null);
+                        }
+                    });
+                });
+                req.on('timeout', () => {
+                    req.destroy();
+                    resolve(null);
+                });
+                req.on('error', () => resolve(null));
+            });
+        } catch (e) {
+            return null;
+        }
+    }
+
+    normalizeAuthorNames(authorsString) {
+        if (!authorsString) return authorsString;
+        
+        const authors = authorsString.split(',').map(author => author.trim());
+        const normalizedAuthors = authors.map(author => {
+            return this.nameVariantsMap[author] || author;
+        });
+        
+        return normalizedAuthors.join(', ');
+    }
+
     async mergePublications() {
         // Load cached data
         const arxivPubs = this.loadJSON(path.join(this.dataPath, 'arxiv_publications.json'));
@@ -506,7 +590,9 @@ class PublicationFetcher {
                         summary: '',
                         authors: '',
                         categories: [],
-                        formats: { html: null, pdf: null }
+                        formats: { html: null, pdf: null },
+                        // Store ORCID external-ids for later ISBN/ISSN detection
+                        _orcid_external_ids: orcidEntry['external-ids']
                     };
                     
                     if (!merged[researcherId]) {
@@ -550,14 +636,33 @@ class PublicationFetcher {
                         entry.authors = this.normalizeAuthorNames(entry.authors);
                     }
                     
-                    // Standardize journal ref
+                    // Standardize journal ref, or infer from DOI if missing
                     if (entry.journal_ref) {
                         entry.journal_ref = this.standardizeJournalRef(entry.journal_ref);
+                    } else if (entry.doi) {
+                        // Check for ISBN first (indicates a book)
+                        if (entry._orcid_external_ids) {
+                            const isbn = entry._orcid_external_ids.find(e => e['external-id-type'] === 'isbn');
+                            if (isbn) {
+                                entry.journal_ref = 'Book';
+                            }
+                        }
+                        
+                        // If still no journal_ref, infer from DOI using CrossRef
+                        if (!entry.journal_ref) {
+                            const inferredRef = await this.inferJournalRefFromDOI(entry.doi, entry);
+                            if (inferredRef) {
+                                entry.journal_ref = inferredRef;
+                            }
+                        }
                     }
                     
                     // Add URLs
                     entry.arxiv_url = this.buildArxivUrl(entry);
                     entry.journal_url = entry.doi ? this.buildJournalUrl(entry.doi) : null;
+                    
+                    // Remove internal metadata fields
+                    delete entry._orcid_external_ids;
                     
                     // Add highlights
                     const highlightData = this.findHighlights(entry.doi);
