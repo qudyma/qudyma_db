@@ -451,40 +451,6 @@
             "journal_url": "https://doi.org/10.1103/PhysRevLett.125.214301"
         },
         {
-            "id": "doi:10.21203/rs.3.rs-5772265/v1",
-            "title": "Ultrafast valleytronic logic operations",
-            "journal_ref": null,
-            "doi": "10.21203/rs.3.rs-5772265/v1",
-            "published": "2025-02-12T00:00:00.000Z",
-            "updated": "2025-02-12T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.21203/rs.3.rs-5772265/v1"
-        },
-        {
-            "id": "doi:10.21203/rs.3.rs-2949047/v1",
-            "title": "Supercurrent mediated by helical edge modes in bilayer graphene",
-            "journal_ref": null,
-            "doi": "10.21203/rs.3.rs-2949047/v1",
-            "published": "2023-07-10T00:00:00.000Z",
-            "updated": "2023-07-10T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.21203/rs.3.rs-2949047/v1"
-        },
-        {
             "id": "orcid:0001-Helical modes and Majoranas in encapsulated graphene bilayers",
             "title": "Helical modes and Majoranas in encapsulated graphene bilayers",
             "journal_ref": null,
@@ -519,59 +485,8 @@
             "journal_url": null
         },
         {
-            "id": "orcid:0001-Majorana bound states in encapsulated bilayer graphene",
-            "title": "Majorana bound states in encapsulated bilayer graphene",
-            "journal_ref": null,
-            "doi": null,
-            "published": "2022-01-01T00:00:00.000Z",
-            "updated": "2022-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
-            "id": "orcid:0001-Majorana-like Coulomb spectroscopy in the absence of zero bias peaks",
-            "title": "Majorana-like Coulomb spectroscopy in the absence of zero bias peaks",
-            "journal_ref": null,
-            "doi": null,
-            "published": "2022-01-01T00:00:00.000Z",
-            "updated": "2022-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Engineering Majoranas in 2D crystals: three graphene-based recipes",
             "title": "Engineering Majoranas in 2D crystals: three graphene-based recipes",
-            "journal_ref": null,
-            "doi": null,
-            "published": "2021-01-01T00:00:00.000Z",
-            "updated": "2021-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
-            "id": "orcid:0001-Flat bands in magic-angle vibrating plates",
-            "title": "Flat bands in magic-angle vibrating plates",
             "journal_ref": null,
             "doi": null,
             "published": "2021-01-01T00:00:00.000Z",
@@ -824,40 +739,6 @@
         {
             "id": "orcid:0002-Caroli-de Gennes-Matricon states in full-shell nanowires",
             "title": "Caroli-de Gennes-Matricon states in full-shell nanowires",
-            "journal_ref": null,
-            "doi": null,
-            "published": "2022-01-01T00:00:00.000Z",
-            "updated": "2022-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
-            "id": "orcid:0002-Majorana bound states in encapsulated bilayer graphene",
-            "title": "Majorana bound states in encapsulated bilayer graphene",
-            "journal_ref": null,
-            "doi": null,
-            "published": "2022-01-01T00:00:00.000Z",
-            "updated": "2022-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
-            "id": "orcid:0002-Majorana-like Coulomb spectroscopy in the absence of zero bias peaks",
-            "title": "Majorana-like Coulomb spectroscopy in the absence of zero bias peaks",
             "journal_ref": null,
             "doi": null,
             "published": "2022-01-01T00:00:00.000Z",

@@ -617,7 +617,22 @@ class PublicationFetcher {
         const allPublications = { entries: [] };
         const seenIds = new Set();
         const seenDOIs = new Set();
+        const titleMap = {};
 
+        // Build a map of titles for duplicate detection
+        for (const [researcherId, data] of Object.entries(merged)) {
+            if (!data.entries || data.entries.length === 0) continue;
+            
+            for (const entry of data.entries) {
+                const title = entry.title ? entry.title.toLowerCase().trim() : '';
+                if (!titleMap[title]) {
+                    titleMap[title] = [];
+                }
+                titleMap[title].push({ researcherId, entry });
+            }
+        }
+
+        // Process each researcher's entries
         for (const [researcherId, data] of Object.entries(merged)) {
             if (!data.entries || data.entries.length === 0) continue;
             
@@ -629,6 +644,35 @@ class PublicationFetcher {
                 let isDuplicate = false;
                 if (arxivId && seenIds.has(arxivId)) isDuplicate = true;
                 if (doi && seenDOIs.has(doi)) isDuplicate = true;
+                
+                // Check for title-based duplicates (for ORCID entries with no arXiv ID)
+                if (!isDuplicate && !arxivId) {
+                    const titleKey = entry.title ? entry.title.toLowerCase().trim() : '';
+                    const duplicateEntries = titleMap[titleKey];
+                    
+                    if (duplicateEntries && duplicateEntries.length > 1) {
+                        // Multiple entries with same title - find the best one
+                        const completeEntries = duplicateEntries.filter(d => 
+                            d.entry.id && 
+                            (d.entry.id.includes('arxiv.org') || d.entry.authors) &&
+                            (d.entry.summary || d.entry.journal_ref)
+                        );
+                        
+                        if (completeEntries.length > 0) {
+                            // Use the complete entry (usually from arXiv)
+                            const bestEntry = completeEntries[0].entry;
+                            
+                            // Skip this entry if the complete one was already processed
+                            if (bestEntry === entry) {
+                                // This is the complete entry, process it
+                                isDuplicate = false;
+                            } else {
+                                // This is a duplicate ORCID entry, skip it
+                                isDuplicate = true;
+                            }
+                        }
+                    }
+                }
                 
                 if (!isDuplicate) {
                     // Normalize author names
