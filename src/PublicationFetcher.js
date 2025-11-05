@@ -482,7 +482,78 @@ class PublicationFetcher {
                 req.on('error', () => resolve(null));
             });
         } catch (e) {
-            return null;
+        }
+    }
+
+    async fetchMetadataFromCrossRef(doi) {
+        /**
+         * Fetches authors and abstract from CrossRef API for a given DOI
+         * Returns { authors: string, summary: string } or { authors: null, summary: null }
+         */
+        if (!doi) return { authors: null, summary: null };
+        
+        try {
+            const cleanDoi = doi.replace('https://doi.org/', '').replace('http://doi.org/', '');
+            const url = `https://api.crossref.org/works/${cleanDoi}`;
+            
+            return new Promise((resolve) => {
+                const req = https.get(url, { timeout: 10000 }, (res) => {
+                    let data = '';
+                    res.on('data', (chunk) => { data += chunk; });
+                    res.on('end', () => {
+                        try {
+                            const json = JSON.parse(data);
+                            if (json.message) {
+                                const msg = json.message;
+                                const result = { authors: null, summary: null };
+                                
+                                // Extract authors
+                                if (msg.author && msg.author.length > 0) {
+                                    const authorsList = msg.author.map(a => {
+                                        if (a.literal) return a.literal;
+                                        const name = [];
+                                        if (a.given) name.push(a.given);
+                                        if (a.family) name.push(a.family);
+                                        return name.join(' ') || '';
+                                    }).filter(a => a).join(', ');
+                                    
+                                    if (authorsList) {
+                                        result.authors = authorsList;
+                                    }
+                                }
+                                
+                                // Extract abstract/summary
+                                if (msg.abstract) {
+                                    // Clean up the abstract (remove HTML tags if any)
+                                    let abstract = msg.abstract
+                                        .replace(/<[^>]*>/g, '') // Remove HTML tags
+                                        .replace(/&lt;/g, '<')
+                                        .replace(/&gt;/g, '>')
+                                        .replace(/&amp;/g, '&')
+                                        .trim();
+                                    
+                                    if (abstract && abstract.length > 50) {
+                                        result.summary = abstract;
+                                    }
+                                }
+                                
+                                resolve(result);
+                                return;
+                            }
+                            resolve({ authors: null, summary: null });
+                        } catch (e) {
+                            resolve({ authors: null, summary: null });
+                        }
+                    });
+                });
+                req.on('timeout', () => {
+                    req.destroy();
+                    resolve({ authors: null, summary: null });
+                });
+                req.on('error', () => resolve({ authors: null, summary: null }));
+            });
+        } catch (e) {
+            return { authors: null, summary: null };
         }
     }
 
@@ -678,6 +749,17 @@ class PublicationFetcher {
                     // Normalize author names
                     if (entry.authors) {
                         entry.authors = this.normalizeAuthorNames(entry.authors);
+                    }
+                    
+                    // Fetch missing authors and summary from CrossRef if needed
+                    if (entry.doi && ((!entry.authors || entry.authors.trim() === '') || (!entry.summary || entry.summary.trim() === ''))) {
+                        const crossrefData = await this.fetchMetadataFromCrossRef(entry.doi);
+                        if (crossrefData.authors && (!entry.authors || entry.authors.trim() === '')) {
+                            entry.authors = crossrefData.authors;
+                        }
+                        if (crossrefData.summary && (!entry.summary || entry.summary.trim() === '')) {
+                            entry.summary = crossrefData.summary;
+                        }
                     }
                     
                     // Standardize journal ref, or infer from DOI if missing
