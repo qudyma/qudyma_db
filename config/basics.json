@@ -5,7 +5,8 @@
         "arxiv_authorid": "sanjose_p_1",
         "orcid": "0000-0002-7920-5273",
         "date_in": "2020-01-01",
-        "date_out": null
+        "date_out": null,
+        "url" : "https://pablosanjose.github.io/"
     },
     "0002":{
         "name": "Elsa Prada",
@@ -13,7 +14,8 @@
         "arxiv_authorid": "prada_e_1",
         "orcid": "0000-0001-7522-4795",
         "date_in": "2020-01-01",
-        "date_out": null
+        "date_out": null,
+        "url" : "https://elsaprada.github.io/"
     },
     "0003":{
         "name": "Antonio Picón",
@@ -21,7 +23,8 @@
         "arxiv_authorid": "picon_a_1",
         "orcid": "0000-0002-6142-3440",
         "date_in": "2020-01-01",
-        "date_out": null
+        "date_out": null,
+        "url" : "https://picongroup.wordpress.com/"
     },
     "0004":{
         "name": "Rui E. F. Silva",
@@ -29,7 +32,8 @@
         "arxiv_authorid": "silva_r_4",
         "orcid": "0000-0002-1920-5861",
         "date_in": "2020-01-01",
-        "date_out": null
+        "date_out": null,
+        "url" : "https://ruiefdasilva.wixsite.com/ruiefdasilva"
     },
     "0005":{
         "name": "Álvaro Jiménez-Galán",
@@ -37,7 +41,8 @@
         "arxiv_authorid": "jimenez-galan_a_1",
         "orcid": "0000-0003-2116-7187",
         "date_in": "2020-01-01",
-        "date_out": null
+        "date_out": null,
+        "url" : "https://attosecondscience.wixsite.com/alvaro-jimenez-galan"
     },
     "0006":{
         "name": "Laura Rego",
@@ -45,7 +50,8 @@
         "arxiv_authorid": null,
         "orcid": "0000-0002-7214-7402",
         "date_in": "2020-01-01",
-        "date_out": null
+        "date_out": null,
+        "url" : "https://scholar.google.es/citations?user=oJLW6EwAAAAJ&hl=es&oi=ao"
     },
     "0007":{
         "name": "Thomas Hansen",
@@ -53,7 +59,8 @@
         "arxiv_authorid": null,
         "orcid": "0000-0003-0990-2732",
         "date_in": "2025-09-01",
-        "date_out": null
+        "date_out": null,
+        "url" : "https://scholar.google.com/citations?hl=da&user=Etgxwy8AAAAJ&scilu=&scisig=AKwmTV4AAAAAaQSlH8ll-MoFxTH2XCVYhNgAZ2U&gmla=AKzYXQ28oZk_X8cEA795tb5aN_LoM7Aw5BLalH4YQl5jAQ8WQzd23p8BBcFZJB9byfKhvLxeHuGeS3Qk1cpYzD1brfdJ2_uliFN7xVfB1lc&sciund=4038906438423457338"
     },
     "0008":{
         "name": "Carlos Payá",
@@ -61,7 +68,8 @@
         "arxiv_authorid": "paya_c_1",
         "orcid": "0000-0001-5709-2290",
         "date_in": "2020-01-01",
-        "date_out": null
+        "date_out": null,
+        "url" : "https://carlosp24.github.io/"
     },
     "0009":{
         "name": "Francisco Lobo",
@@ -69,7 +77,8 @@
         "arxiv_authorid": null,
         "orcid": "0009-0003-8417-3610",
         "date_in": "2020-01-01",
-        "date_out": null
+        "date_out": null,
+        "url" : "https://franciscolobo1880.github.io/"
     },
     "0010":{
         "name": "Aday Cárdenas",
@@ -77,7 +86,8 @@
         "arxiv_authorid": null,
         "orcid": null,
         "date_in": "2020-01-01",
-        "date_out": null
+        "date_out": null,
+        "url" : null
     },
     "0011":{
         "name": "Aude Rodriguez",
@@ -85,7 +95,8 @@
         "arxiv_authorid": null,
         "orcid": "0009-0009-0292-1034",
         "date_in": "2020-01-01",
-        "date_out": null
+        "date_out": null,
+        "url" : "https://scholar.google.com/citations?user=q9RddoAAAAAJ&hl=en"
     },
     "0012":{
         "name": "Pablo Estévez-Alonso",
@@ -93,7 +104,8 @@
         "arxiv_authorid": null,
         "orcid": "0000-0003-1001-1793",
         "date_in": "2020-01-01",
-        "date_out": null
+        "date_out": null,
+        "url" : null
     },
     "0013":{
         "name": "César Robles",
@@ -101,7 +113,8 @@
         "arxiv_authorid": null,
         "orcid": null,
         "date_in": "2020-01-01",
-        "date_out": null
+        "date_out": null,
+        "url" : null
     },
     "0014":{
         "name": "Eduardo B. Molinero",
@@ -109,7 +122,8 @@
         "arxiv_authorid": null,
         "orcid": "0000-0001-5062-3343",
         "date_in": "2020-01-01",
-        "date_out": "2025-05-01"
+        "date_out": "2025-05-01",
+        "url" : "https://scholar.google.es/citations?user=0nf-axgAAAAJ&hl=es"
     },
     "0015":{
         "name": "Fernando Peñaranda",
@@ -117,7 +131,8 @@
         "arxiv_authorid": null,
         "orcid": "0000-0003-2180-3593",
         "date_in": null,
-        "date_out": null
+        "date_out": null,
+        "url" : "https://fernandopenaranda.github.io/"
     },
     "0016":{
         "name": "Samuel D. Escribano",
@@ -125,7 +140,8 @@
         "arxiv_authorid": null,
         "orcid": "0000-0002-3985-0470",
         "date_in": null,
-        "date_out": null
+        "date_out": null,
+        "url" : "https://www.samueldescribano.com/"
     },
     "0017":{
         "name": "David Purschke",
@@ -133,7 +149,8 @@
         "arxiv_authorid": null,
         "orcid": null,
         "date_in": null,
-        "date_out": null
+        "date_out": null,
+        "url" : null
     },
     "0018":{
         "name": "Yeganeh Alvankar",
@@ -141,7 +158,8 @@
         "arxiv_authorid": null,
         "orcid": null,
         "date_in": null,
-        "date_out": null
+        "date_out": null,
+        "url" : null
     },
     "0019":{
         "name": "Hammid Talkhabi",
@@ -149,6 +167,7 @@
         "arxiv_authorid": null,
         "orcid": null,
         "date_in": null,
-        "date_out": null
+        "date_out": null,
+        "url" : null
     }
 }
