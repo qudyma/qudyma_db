@@ -274,11 +274,46 @@ class PublicationFetcher {
                         const dateStr = `${pubDate.year.value}-${String(pubDate.month?.value || 1).padStart(2, '0')}-${String(pubDate.day?.value || 1).padStart(2, '0')}`;
 
                         if (this.isDateInRange(dateStr, researcher.date_in, researcher.date_out)) {
-                            publications[id].entries.push({
+                            const entry = {
                                 title: workSummary.title?.title?.value || 'Untitled',
                                 'publication-date': pubDate,
                                 'external-ids': workSummary['external-ids']?.['external-id'] || []
-                            });
+                            };
+                            
+                            // Check if this work needs full details (no DOI or arXiv ID)
+                            const hasDOI = entry['external-ids'].some(id => id['external-id-type'] === 'doi');
+                            const hasArxiv = entry['external-ids'].some(id => id['external-id-type'] === 'arxiv');
+                            
+                            if (!hasDOI && !hasArxiv && workSummary['put-code']) {
+                                // Fetch full work details to get contributors and citation
+                                try {
+                                    const fullWorkEndpoint = `/v3.0/${researcher.orcid}/work/${workSummary['put-code']}`;
+                                    const fullWork = await this.orcidRequest(fullWorkEndpoint);
+                                    
+                                    // Add contributors if available
+                                    if (fullWork.contributors && fullWork.contributors.contributor) {
+                                        entry.contributors = fullWork.contributors.contributor.map(c => {
+                                            const creditName = c['credit-name'];
+                                            return creditName ? creditName.value : null;
+                                        }).filter(n => n);
+                                    }
+                                    
+                                    // Add citation if available
+                                    if (fullWork.citation && fullWork.citation['citation-value']) {
+                                        entry.citation = {
+                                            type: fullWork.citation['citation-type'],
+                                            value: fullWork.citation['citation-value']
+                                        };
+                                    }
+                                    
+                                    // Small delay to respect rate limits
+                                    await new Promise(resolve => setTimeout(resolve, 500));
+                                } catch (err) {
+                                    // Silently ignore errors fetching full details
+                                }
+                            }
+                            
+                            publications[id].entries.push(entry);
                         }
                     }
                     console.log(`    Fetched ${publications[id].entries.length} publications`);
@@ -312,6 +347,141 @@ class PublicationFetcher {
                     resolve(idMatch ? idMatch[1] : null);
                 });
             }).on('error', reject);
+        });
+    }
+
+    async searchArxivByTitleAndAuthor(title, authorName) {
+        /**
+         * Searches arXiv by title and author name
+         * Returns the entry data if found, null otherwise
+         */
+        return new Promise((resolve) => {
+            // Clean and prepare search query
+            const cleanTitle = title.replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+            const cleanAuthor = authorName.split(',')[0].trim(); // Take first author
+            
+            // Search by title AND author
+            const query = encodeURIComponent(`ti:"${cleanTitle}" AND au:"${cleanAuthor}"`);
+            const url = `http://export.arxiv.org/api/query?search_query=${query}&max_results=1`;
+            
+            http.get(url, { timeout: 10000 }, (res) => {
+                let data = '';
+                res.on('data', (chunk) => { data += chunk; });
+                res.on('end', async () => {
+                    try {
+                        const idMatch = data.match(/<id>http:\/\/arxiv\.org\/abs\/([\d.]+v?\d*)<\/id>/);
+                        if (idMatch) {
+                            // Fetch full metadata for this arXiv ID
+                            const metadata = await this.fetchArxivMetadata(idMatch[1]);
+                            resolve(metadata);
+                        } else {
+                            resolve(null);
+                        }
+                    } catch (e) {
+                        resolve(null);
+                    }
+                });
+            }).on('error', () => resolve(null))
+              .on('timeout', () => resolve(null));
+        });
+    }
+
+    async searchCrossRefByTitleAndAuthor(title, authorName) {
+        /**
+         * Searches CrossRef by title and author name
+         * Returns { doi, authors, summary, journal_ref } if found, null otherwise
+         */
+        return new Promise((resolve) => {
+            const cleanTitle = title.replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+            const lastName = authorName.split(',')[0].trim().split(' ').pop(); // Get last name
+            
+            const query = encodeURIComponent(`${cleanTitle} ${lastName}`);
+            const url = `https://api.crossref.org/works?query=${query}&rows=3`;
+            
+            https.get(url, { timeout: 10000 }, (res) => {
+                let data = '';
+                res.on('data', (chunk) => { data += chunk; });
+                res.on('end', () => {
+                    try {
+                        const json = JSON.parse(data);
+                        if (json.message && json.message.items && json.message.items.length > 0) {
+                            // Find best match by comparing titles
+                            const cleanSearchTitle = cleanTitle.toLowerCase();
+                            let bestMatch = null;
+                            let bestScore = 0;
+                            
+                            for (const item of json.message.items) {
+                                if (!item.title || !item.title[0]) continue;
+                                
+                                const itemTitle = item.title[0].toLowerCase().replace(/[^\w\s]/g, ' ').replace(/\s+/g, ' ').trim();
+                                
+                                // Simple similarity: count matching words
+                                const searchWords = cleanSearchTitle.split(' ');
+                                const itemWords = itemTitle.split(' ');
+                                const matches = searchWords.filter(w => w.length > 3 && itemWords.some(iw => iw.includes(w) || w.includes(iw))).length;
+                                const score = matches / searchWords.length;
+                                
+                                if (score > bestScore && score > 0.6) {
+                                    bestScore = score;
+                                    bestMatch = item;
+                                }
+                            }
+                            
+                            if (bestMatch) {
+                                const result = {
+                                    doi: bestMatch.DOI ? `https://doi.org/${bestMatch.DOI}` : null,
+                                    authors: null,
+                                    summary: null,
+                                    journal_ref: null
+                                };
+                                
+                                // Extract authors
+                                if (bestMatch.author && bestMatch.author.length > 0) {
+                                    const authorsList = bestMatch.author.map(a => {
+                                        if (a.literal) return a.literal;
+                                        const name = [];
+                                        if (a.given) name.push(a.given);
+                                        if (a.family) name.push(a.family);
+                                        return name.join(' ') || '';
+                                    }).filter(a => a).join(', ');
+                                    result.authors = authorsList || null;
+                                }
+                                
+                                // Extract abstract
+                                if (bestMatch.abstract) {
+                                    result.summary = bestMatch.abstract
+                                        .replace(/<[^>]*>/g, '')
+                                        .replace(/&lt;/g, '<')
+                                        .replace(/&gt;/g, '>')
+                                        .replace(/&amp;/g, '&')
+                                        .trim() || null;
+                                }
+                                
+                                // Extract journal reference
+                                if (bestMatch['container-title'] && bestMatch['container-title'][0]) {
+                                    const journal = bestMatch['container-title'][0];
+                                    const volume = bestMatch.volume || '';
+                                    const page = bestMatch.page || '';
+                                    const year = bestMatch.published?.['date-parts']?.[0]?.[0] || '';
+                                    
+                                    let ref = journal;
+                                    if (volume) ref += ` ${volume}`;
+                                    if (page) ref += `, ${page}`;
+                                    if (year) ref += ` (${year})`;
+                                    result.journal_ref = ref;
+                                }
+                                
+                                resolve(result);
+                                return;
+                            }
+                        }
+                        resolve(null);
+                    } catch (e) {
+                        resolve(null);
+                    }
+                });
+            }).on('error', () => resolve(null))
+              .on('timeout', () => resolve(null));
         });
     }
 
@@ -619,6 +789,163 @@ class PublicationFetcher {
         return normalizedAuthors.join(', ');
     }
 
+    parseCitationData(citation) {
+        /**
+         * Parses citation data (BibTeX, RIS, etc.) to extract metadata
+         * Returns { authors: string, journal_ref: string, doi: string }
+         */
+        if (!citation || !citation.value) return { authors: null, journal_ref: null, doi: null };
+        
+        const result = { authors: null, journal_ref: null, doi: null };
+        const citationText = citation.value;
+        const citationType = citation.type ? citation.type.toLowerCase() : '';
+        
+        if (citationType === 'bibtex') {
+            // Parse BibTeX format
+            // Extract authors
+            const authorMatch = citationText.match(/author\s*=\s*\{([^}]+)\}/is);
+            if (authorMatch) {
+                // BibTeX uses "and" as separator
+                const authors = authorMatch[1].split(' and ').map(a => a.trim()).filter(a => a);
+                result.authors = authors.join(', ');
+            }
+            
+            // Extract journal or booktitle (for conferences)
+            // Handle both {...} and "..." formats, including nested content
+            let journalMatch = citationText.match(/journal\s*=\s*\{([^}]+)\}/is);
+            if (!journalMatch) {
+                journalMatch = citationText.match(/journal\s*=\s*"([^"]+)"/is);
+            }
+            if (!journalMatch) {
+                journalMatch = citationText.match(/booktitle\s*=\s*\{([^}]+)\}/is);
+            }
+            if (!journalMatch) {
+                journalMatch = citationText.match(/booktitle\s*=\s*"([^"]+)"/is);
+            }
+            
+            const volumeMatch = citationText.match(/volume\s*=\s*[{"{}]([^"{}]+)[}"{}]/is);
+            const numberMatch = citationText.match(/number\s*=\s*[{"{}]([^"{}]+)[}"{}]/is);
+            const pagesMatch = citationText.match(/pages\s*=\s*[{"{}]([^"{}]+)[}"{}]/is);
+            const yearMatch = citationText.match(/year\s*=\s*[{"{}]([^"{}]+)[}"{}]/is);
+            
+            if (journalMatch) {
+                let ref = journalMatch[1].trim();
+                if (volumeMatch) {
+                    ref += ` ${volumeMatch[1].trim()}`;
+                    if (numberMatch) {
+                        ref += `(${numberMatch[1].trim()})`;
+                    }
+                }
+                if (pagesMatch) {
+                    ref += `, ${pagesMatch[1].trim()}`;
+                }
+                if (yearMatch) {
+                    ref += ` (${yearMatch[1].trim()})`;
+                }
+                result.journal_ref = ref;
+            } else if (yearMatch) {
+                // If no journal/booktitle but we have a year, at least include the year
+                result.journal_ref = `(${yearMatch[1].trim()})`;
+            }
+            
+            // Extract DOI
+            const doiMatch = citationText.match(/doi\s*=\s*[{"{}]([^"{}]+)[}"{}]/is);
+            if (doiMatch) {
+                result.doi = `https://doi.org/${doiMatch[1].trim()}`;
+            }
+        } else if (citationType === 'ris') {
+            // Parse RIS format
+            const lines = citationText.split('\n');
+            const authors = [];
+            let journal = null;
+            let volume = null;
+            let issue = null;
+            let pages = null;
+            let year = null;
+            
+            for (const line of lines) {
+                const trimmed = line.trim();
+                if (trimmed.startsWith('AU  - ') || trimmed.startsWith('A1  - ')) {
+                    authors.push(trimmed.substring(6).trim());
+                } else if (trimmed.startsWith('JO  - ') || trimmed.startsWith('T2  - ')) {
+                    journal = trimmed.substring(6).trim();
+                } else if (trimmed.startsWith('VL  - ')) {
+                    volume = trimmed.substring(6).trim();
+                } else if (trimmed.startsWith('IS  - ')) {
+                    issue = trimmed.substring(6).trim();
+                } else if (trimmed.startsWith('SP  - ')) {
+                    const startPage = trimmed.substring(6).trim();
+                    pages = startPage;
+                } else if (trimmed.startsWith('EP  - ') && pages) {
+                    pages += `-${trimmed.substring(6).trim()}`;
+                } else if (trimmed.startsWith('PY  - ') || trimmed.startsWith('Y1  - ')) {
+                    year = trimmed.substring(6).trim().substring(0, 4); // Take just the year
+                } else if (trimmed.startsWith('DO  - ')) {
+                    result.doi = `https://doi.org/${trimmed.substring(6).trim()}`;
+                }
+            }
+            
+            if (authors.length > 0) {
+                result.authors = authors.join(', ');
+            }
+            
+            if (journal) {
+                let ref = journal;
+                if (volume) {
+                    ref += ` ${volume}`;
+                    if (issue) {
+                        ref += `(${issue})`;
+                    }
+                }
+                if (pages) {
+                    ref += `, ${pages}`;
+                }
+                if (year) {
+                    ref += ` (${year})`;
+                }
+                result.journal_ref = ref;
+            }
+        } else {
+            // Try generic parsing for other formats
+            // Look for common patterns in the text
+            const doiMatch = citationText.match(/(?:doi|DOI)[:.\s]*([0-9.]+\/[^\s,]+)/);
+            if (doiMatch) {
+                result.doi = `https://doi.org/${doiMatch[1].trim()}`;
+            }
+        }
+        
+        return result;
+    }
+
+    findQudymaAuthorIdsByName(authorsString) {
+        /**
+         * Finds QUDYMA author IDs by matching author names against all variants
+         * Returns an array of IDs (e.g., ["0001", "0002"])
+         */
+        if (!authorsString) return [];
+        
+        const foundIds = new Set();
+        const authors = authorsString.split(',').map(author => author.trim());
+        
+        // For each author in the publication
+        for (const author of authors) {
+            // Check if this author matches any researcher in basics.json
+            // First check if it's already a canonical name
+            const canonicalName = this.nameVariantsMap[author];
+            if (canonicalName) {
+                // Find the ID for this canonical name
+                for (const [id, researcher] of Object.entries(this.basics)) {
+                    if (researcher.name === canonicalName) {
+                        foundIds.add(id);
+                        break;
+                    }
+                }
+            }
+        }
+        
+        return Array.from(foundIds).sort();
+    }
+
     async mergePublications() {
         // Load cached data
         const arxivPubs = this.loadJSON(path.join(this.dataPath, 'arxiv_publications.json'));
@@ -714,7 +1041,10 @@ class PublicationFetcher {
                         categories: [],
                         formats: { html: null, pdf: null },
                         // Store ORCID external-ids for later ISBN/ISSN detection
-                        _orcid_external_ids: orcidEntry['external-ids']
+                        _orcid_external_ids: orcidEntry['external-ids'],
+                        // Store contributors and citation if available (for entries without DOI/arXiv)
+                        _orcid_contributors: orcidEntry.contributors || null,
+                        _orcid_citation: orcidEntry.citation || null
                     };
                     
                     if (!merged[researcherId]) {
@@ -754,7 +1084,17 @@ class PublicationFetcher {
                 titleMap[title].push({ researcherId, entry });
                 
                 // Track author IDs for this publication
-                const pubKey = entry.doi || entry.id || title;
+                // For ORCID entries without DOI, use title as key (so duplicates merge)
+                let pubKey;
+                if (entry.doi) {
+                    pubKey = entry.doi.toLowerCase();
+                } else if (entry.id && entry.id.startsWith('orcid:')) {
+                    // Use title for ORCID entries without DOI
+                    pubKey = title;
+                } else {
+                    pubKey = entry.id || title;
+                }
+                
                 if (!publicationAuthors[pubKey]) {
                     publicationAuthors[pubKey] = new Set();
                 }
@@ -800,11 +1140,68 @@ class PublicationFetcher {
                                 // This is a duplicate ORCID entry, skip it
                                 isDuplicate = true;
                             }
+                        } else {
+                            // All entries are equally incomplete - keep only the first one
+                            // (author IDs will be merged via publicationAuthors map)
+                            const firstEntry = duplicateEntries[0].entry;
+                            if (firstEntry !== entry) {
+                                isDuplicate = true;
+                            }
                         }
                     }
                 }
                 
                 if (!isDuplicate) {
+                    // For ORCID entries with missing authors, add the researcher's name
+                    if (entry.id && entry.id.startsWith('orcid:') && (!entry.authors || entry.authors.trim() === '')) {
+                        // Extract researcher ID from entry.id (format: "orcid:XXXX-Title")
+                        const orcidIdMatch = entry.id.match(/^orcid:(\d+)-/);
+                        if (orcidIdMatch) {
+                            const researcherId = orcidIdMatch[1];
+                            if (this.basics[researcherId]) {
+                                entry.authors = this.basics[researcherId].name;
+                            }
+                        }
+                    }
+                    
+                    // For ORCID entries with missing data, try to extract from contributors and citation
+                    if (entry.id && entry.id.startsWith('orcid:')) {
+                        const needsMetadata = !entry.authors || !entry.journal_ref || !entry.doi;
+                        
+                        if (needsMetadata) {
+                            // Extract from contributors
+                            if (entry._orcid_contributors && entry._orcid_contributors.length > 0) {
+                                if (!entry.authors || entry.authors.trim() === '') {
+                                    entry.authors = entry._orcid_contributors.join(', ');
+                                } else {
+                                    // Merge contributors with existing author
+                                    const allAuthors = [entry.authors, ...entry._orcid_contributors];
+                                    entry.authors = [...new Set(allAuthors)].join(', ');
+                                }
+                            }
+                            
+                            // Extract from citation
+                            if (entry._orcid_citation) {
+                                const citationData = this.parseCitationData(entry._orcid_citation);
+                                
+                                // Use citation authors if we still don't have any
+                                if (citationData.authors && (!entry.authors || entry.authors.trim() === '')) {
+                                    entry.authors = citationData.authors;
+                                }
+                                
+                                // Use citation journal_ref if missing
+                                if (citationData.journal_ref && !entry.journal_ref) {
+                                    entry.journal_ref = citationData.journal_ref;
+                                }
+                                
+                                // Use citation DOI if missing
+                                if (citationData.doi && !entry.doi) {
+                                    entry.doi = citationData.doi;
+                                }
+                            }
+                        }
+                    }
+                    
                     // Normalize author names
                     if (entry.authors) {
                         entry.authors = this.normalizeAuthorNames(entry.authors);
@@ -821,9 +1218,76 @@ class PublicationFetcher {
                         }
                     }
                     
+                    // For ORCID entries with missing data and no DOI (or DOI lookup failed), try searching by title + author
+                    if (entry.id && entry.id.startsWith('orcid:') && entry.title && entry.authors) {
+                        const needsEnrichment = !entry.doi || !entry.summary || !entry.arxiv_url || !entry.journal_ref;
+                        
+                        if (needsEnrichment) {
+                            // Try arXiv first
+                            try {
+                                const arxivResult = await this.searchArxivByTitleAndAuthor(entry.title, entry.authors);
+                                if (arxivResult) {
+                                    // Enrich with arXiv data
+                                    if (!entry.doi && arxivResult.doi) entry.doi = arxivResult.doi;
+                                    if (!entry.summary && arxivResult.summary) entry.summary = arxivResult.summary;
+                                    if (!entry.authors || entry.authors.trim() === '') entry.authors = arxivResult.authors;
+                                    if (arxivResult.id) {
+                                        const arxivId = arxivResult.id.match(/arxiv\.org\/abs\/(.+)$/)?.[1];
+                                        if (arxivId) {
+                                            const arxivIdClean = arxivId.replace(/v\d+$/, '');
+                                            if (!entry.formats || !entry.formats.html) {
+                                                entry.formats = {
+                                                    html: `http://arxiv.org/abs/${arxivIdClean}`,
+                                                    pdf: `http://arxiv.org/pdf/${arxivIdClean}`
+                                                };
+                                            }
+                                        }
+                                    }
+                                    if (arxivResult.categories && (!entry.categories || entry.categories.length === 0)) {
+                                        entry.categories = arxivResult.categories;
+                                    }
+                                }
+                            } catch (e) {
+                                // Ignore arXiv search errors
+                            }
+                            
+                            // Try CrossRef if still missing data
+                            if (!entry.doi || !entry.summary || !entry.journal_ref) {
+                                try {
+                                    const crossrefResult = await this.searchCrossRefByTitleAndAuthor(entry.title, entry.authors);
+                                    if (crossrefResult) {
+                                        if (!entry.doi && crossrefResult.doi) entry.doi = crossrefResult.doi;
+                                        if (!entry.summary && crossrefResult.summary) entry.summary = crossrefResult.summary;
+                                        if (!entry.authors || entry.authors.trim() === '') entry.authors = crossrefResult.authors;
+                                        if (!entry.journal_ref && crossrefResult.journal_ref) entry.journal_ref = crossrefResult.journal_ref;
+                                    }
+                                } catch (e) {
+                                    // Ignore CrossRef search errors
+                                }
+                            }
+                        }
+                    }
+                    
                     // Add QUDYMA author IDs from the tracking map
-                    const pubKey = entry.doi || entry.id || (entry.title ? entry.title.toLowerCase().trim() : '');
-                    entry.author_ids = publicationAuthors[pubKey] ? Array.from(publicationAuthors[pubKey]).sort() : [];
+                    // Use same key logic as when building the map
+                    let pubKey;
+                    if (entry.doi) {
+                        pubKey = entry.doi.toLowerCase();
+                    } else if (entry.id && entry.id.startsWith('orcid:')) {
+                        // Use title for ORCID entries without DOI
+                        pubKey = entry.title ? entry.title.toLowerCase().trim() : '';
+                    } else {
+                        pubKey = entry.id || (entry.title ? entry.title.toLowerCase().trim() : '');
+                    }
+                    
+                    const trackedIds = publicationAuthors[pubKey] ? Array.from(publicationAuthors[pubKey]) : [];
+                    
+                    // Also find IDs by matching author names (catches any missed authors)
+                    const nameMatchedIds = this.findQudymaAuthorIdsByName(entry.authors);
+                    
+                    // Combine both sets of IDs and remove duplicates
+                    const allIds = new Set([...trackedIds, ...nameMatchedIds]);
+                    entry.author_ids = Array.from(allIds).sort();
                     
                     // Standardize journal ref, or infer from DOI if missing
                     if (entry.journal_ref) {
@@ -863,6 +1327,8 @@ class PublicationFetcher {
                     
                     // Remove internal metadata fields
                     delete entry._orcid_external_ids;
+                    delete entry._orcid_contributors;
+                    delete entry._orcid_citation;
                     
                     // Add highlights
                     const highlightData = this.findHighlights(entry.doi);

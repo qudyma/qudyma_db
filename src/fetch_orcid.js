@@ -114,6 +114,39 @@ async function fetchOrcidPublications() {
                     external_ids: workSummary['external-ids'] ? workSummary['external-ids']['external-id'] : []
                 };
                 
+                // Check if this work needs full details (no DOI or arXiv ID)
+                const hasDOI = work.external_ids.some(id => id['external-id-type'] === 'doi');
+                const hasArxiv = work.external_ids.some(id => id['external-id-type'] === 'arxiv');
+                
+                if (!hasDOI && !hasArxiv) {
+                    // Fetch full work details to get contributors and citation
+                    try {
+                        console.log(`    Fetching full details for: ${work.title.substring(0, 50)}...`);
+                        const fullWork = await orcidRequest(researcher.orcid, `/work/${work.put_code}`);
+                        
+                        // Add contributors if available
+                        if (fullWork.contributors && fullWork.contributors.contributor) {
+                            work.contributors = fullWork.contributors.contributor.map(c => {
+                                const creditName = c['credit-name'];
+                                return creditName ? creditName.value : null;
+                            }).filter(n => n);
+                        }
+                        
+                        // Add citation if available
+                        if (fullWork.citation && fullWork.citation['citation-value']) {
+                            work.citation = {
+                                type: fullWork.citation['citation-type'],
+                                value: fullWork.citation['citation-value']
+                            };
+                        }
+                        
+                        // Add delay to respect rate limits
+                        await new Promise(resolve => setTimeout(resolve, 500));
+                    } catch (err) {
+                        console.log(`    Could not fetch full details: ${err.message}`);
+                    }
+                }
+                
                 filteredWorks.push(work);
             }
             

@@ -17,7 +17,10 @@
             "title": "Semiconductor Wannier equations: a real-time, real-space approach to the nonlinear optical response in crystals (ATATA)",
             "updated": "2025-10-24T18:59:46-04:00",
             "author_ids": [
-                "0001"
+                "0001",
+                "0004",
+                "0005",
+                "0014"
             ],
             "arxiv_url": "https://arxiv.org/abs/2510.22064",
             "journal_url": null
@@ -199,6 +202,8 @@
             "updated": "2024-12-11T06:53:57-05:00",
             "author_ids": [
                 "0001",
+                "0004",
+                "0005",
                 "0014"
             ],
             "arxiv_url": "https://arxiv.org/abs/2412.08318",
@@ -251,7 +256,9 @@
             "author_ids": [
                 "0001",
                 "0002",
-                "0008"
+                "0008",
+                "0015",
+                "0016"
             ],
             "arxiv_url": "https://arxiv.org/abs/2312.11613",
             "journal_url": "https://doi.org/10.1103/PhysRevB.109.115428"
@@ -277,6 +284,8 @@
             "author_ids": [
                 "0001",
                 "0003",
+                "0004",
+                "0005",
                 "0014"
             ],
             "journal_ref": "Science Advances 10(35) (2024)",
@@ -329,7 +338,8 @@
             "updated": "2023-05-17T14:21:12-04:00",
             "author_ids": [
                 "0001",
-                "0002"
+                "0002",
+                "0015"
             ],
             "arxiv_url": "https://arxiv.org/abs/2305.10505",
             "journal_url": "https://doi.org/10.1038/s41467-024-44952-6"
@@ -354,7 +364,8 @@
             "updated": "2023-04-20T07:38:16-04:00",
             "author_ids": [
                 "0001",
-                "0002"
+                "0002",
+                "0015"
             ],
             "arxiv_url": "https://arxiv.org/abs/2202.00593",
             "journal_url": "https://doi.org/10.21468/SciPostPhys.14.4.075"
@@ -377,7 +388,8 @@
             "title": "Majorana-like Coulomb spectroscopy in the absence of zero bias peaks",
             "updated": "2022-10-11T15:55:35-04:00",
             "author_ids": [
-                "0001"
+                "0001",
+                "0002"
             ],
             "journal_ref": "Nature 612(7940), 442-447 (2022)",
             "arxiv_url": "https://arxiv.org/abs/2203.07829",
@@ -410,7 +422,8 @@
             "updated": "2022-01-25T07:48:55-05:00",
             "author_ids": [
                 "0001",
-                "0002"
+                "0002",
+                "0016"
             ],
             "arxiv_url": "https://arxiv.org/abs/2107.13011",
             "journal_url": "https://doi.org/10.1103/PhysRevB.105.045418"
@@ -435,7 +448,8 @@
             "updated": "2021-08-10T09:30:52-04:00",
             "author_ids": [
                 "0001",
-                "0002"
+                "0002",
+                "0015"
             ],
             "arxiv_url": "https://arxiv.org/abs/2008.02348",
             "journal_url": "https://doi.org/10.1126/science.abf1513"
@@ -559,7 +573,8 @@
             "title": "Flat bands in magic-angle vibrating plates",
             "updated": "2020-08-26T13:48:26-04:00",
             "author_ids": [
-                "0001"
+                "0001",
+                "0015"
             ],
             "arxiv_url": "https://arxiv.org/abs/2008.11706",
             "journal_url": "https://doi.org/10.1103/PhysRevLett.125.214301"
@@ -591,19 +606,21 @@
         {
             "id": "orcid:0001-Helical modes and Majoranas in encapsulated graphene bilayers",
             "title": "Helical modes and Majoranas in encapsulated graphene bilayers",
-            "journal_ref": null,
+            "journal_ref": "\"Stories in the flatland (with a twist in the end)\", Symposium in honor of Prof. Francisco Guinea (2023)",
             "doi": null,
             "published": "2023-01-01T00:00:00.000Z",
             "updated": "2023-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Pablo San-Jose, Fernando Peñaranda, Ramón Aguado, Elsa Prada",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
             "author_ids": [
-                "0001"
+                "0001",
+                "0002",
+                "0015"
             ],
             "arxiv_url": null,
             "journal_url": null
@@ -611,12 +628,12 @@
         {
             "id": "orcid:0001-Quantica.jl: simulating tight-binding systems in the Julia language",
             "title": "Quantica.jl: simulating tight-binding systems in the Julia language",
-            "journal_ref": null,
+            "journal_ref": "\"Control of Ultrafast (Attosecond and Strong Field) Processes Using Structured Light\" (CUPUSL23) (2023)",
             "doi": null,
             "published": "2023-01-01T00:00:00.000Z",
             "updated": "2023-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Pablo San-Jose",
             "categories": [],
             "formats": {
                 "html": null,
@@ -631,19 +648,21 @@
         {
             "id": "orcid:0001-Engineering Majoranas in 2D crystals: three graphene-based recipes",
             "title": "Engineering Majoranas in 2D crystals: three graphene-based recipes",
-            "journal_ref": null,
+            "journal_ref": "IOP-EPS mini-colloquium: Real-space simulations of topological matter and disordered materials (2021)",
             "doi": null,
             "published": "2021-01-01T00:00:00.000Z",
             "updated": "2021-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Pablo San-Jose, Fernando Peñaranda, Ramón Aguado, Elsa Prada",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
             "author_ids": [
-                "0001"
+                "0001",
+                "0002",
+                "0015"
             ],
             "arxiv_url": null,
             "journal_url": null
@@ -689,7 +708,8 @@
             "title": "Effective conduction-band model for zincblende III-V semiconductors in the presence of strain: tuning the properties of bulk crystals and nanostructures",
             "updated": "2025-09-16T12:55:24-04:00",
             "author_ids": [
-                "0002"
+                "0002",
+                "0016"
             ],
             "arxiv_url": "https://arxiv.org/abs/2509.13246",
             "journal_url": null
@@ -713,7 +733,8 @@
             "title": "The feedback driven atomic scale Josephson microscope",
             "updated": "2025-07-28T03:27:47-04:00",
             "author_ids": [
-                "0002"
+                "0002",
+                "0016"
             ],
             "arxiv_url": "https://arxiv.org/abs/2311.12783",
             "journal_url": "https://doi.org/10.1038/s41467-025-60569-9"
@@ -738,7 +759,8 @@
             "updated": "2024-12-17T04:03:54-05:00",
             "author_ids": [
                 "0002",
-                "0008"
+                "0008",
+                "0016"
             ],
             "arxiv_url": "https://arxiv.org/abs/2405.07651",
             "journal_url": "https://doi.org/10.21468/SciPostPhys.18.2.069"
@@ -762,7 +784,8 @@
             "title": "Semiconductor-ferromagnet-superconductor planar heterostructures for 1D topological superconductivity",
             "updated": "2022-08-19T05:01:28-04:00",
             "author_ids": [
-                "0002"
+                "0002",
+                "0016"
             ],
             "arxiv_url": "https://arxiv.org/abs/2203.06644",
             "journal_url": "https://doi.org/10.1038/s41535-022-00489-9"
@@ -786,7 +809,8 @@
             "title": "Tunable proximity effects and topological superconductivity in ferromagnetic hybrid nanowires",
             "updated": "2021-07-21T05:04:24-04:00",
             "author_ids": [
-                "0002"
+                "0002",
+                "0016"
             ],
             "arxiv_url": "https://arxiv.org/abs/2011.06566",
             "journal_url": "https://doi.org/10.1103/PhysRevB.104.L041404"
@@ -811,7 +835,8 @@
             "title": "Improved effective equation for the Rashba spin-orbit coupling in semiconductor nanowires",
             "updated": "2020-08-24T07:19:46-04:00",
             "author_ids": [
-                "0002"
+                "0002",
+                "0016"
             ],
             "arxiv_url": "https://arxiv.org/abs/2001.04375",
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.2.033264"
@@ -835,7 +860,9 @@
             "title": "Even-odd effect and Majorana states in full-shell nanowires",
             "updated": "2020-05-20T08:17:42-04:00",
             "author_ids": [
-                "0002"
+                "0001",
+                "0002",
+                "0015"
             ],
             "arxiv_url": "https://arxiv.org/abs/1911.06805",
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.2.023171"
@@ -866,34 +893,14 @@
             "journal_url": "https://doi.org/10.1038/s41467-020-15882-w"
         },
         {
-            "id": "orcid:0002-Helical modes and Majoranas in encapsulated graphene bilayers",
-            "title": "Helical modes and Majoranas in encapsulated graphene bilayers",
-            "journal_ref": null,
-            "doi": null,
-            "published": "2023-01-01T00:00:00.000Z",
-            "updated": "2023-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0002-Caroli-de Gennes-Matricon states in full-shell nanowires",
             "title": "Caroli-de Gennes-Matricon states in full-shell nanowires",
-            "journal_ref": null,
-            "doi": null,
+            "journal_ref": "Quantum Designer Physics 2022 (2022)",
+            "doi": "https://doi.org/10.1103/physrevlett.134.206302",
             "published": "2022-01-01T00:00:00.000Z",
             "updated": "2022-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Elsa Prada",
             "categories": [],
             "formats": {
                 "html": null,
@@ -903,17 +910,17 @@
                 "0002"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1103/physrevlett.134.206302"
         },
         {
             "id": "orcid:0002-Topological superconductivity and Majorana modes for quantum computing: a materials science perspective",
             "title": "Topological superconductivity and Majorana modes for quantum computing: a materials science perspective",
-            "journal_ref": null,
+            "journal_ref": "@FlipPhysics workshop (2022)",
             "doi": null,
             "published": "2022-01-01T00:00:00.000Z",
             "updated": "2022-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Elsa Prada",
             "categories": [],
             "formats": {
                 "html": null,
@@ -928,32 +935,12 @@
         {
             "id": "orcid:0002-(One of the) latest Majorana nanowire designs: ferromagnetic hybrid nanowires",
             "title": "(One of the) latest Majorana nanowire designs: ferromagnetic hybrid nanowires",
-            "journal_ref": null,
+            "journal_ref": "Toposuper2021, Online conference on emergent topological superconductivity (2021)",
             "doi": null,
             "published": "2021-01-01T00:00:00.000Z",
             "updated": "2021-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
-            "id": "orcid:0002-Engineering Majoranas in 2D crystals: three graphene-based recipes",
-            "title": "Engineering Majoranas in 2D crystals: three graphene-based recipes",
-            "journal_ref": null,
-            "doi": null,
-            "published": "2021-01-01T00:00:00.000Z",
-            "updated": "2021-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "authors": "Elsa Prada",
             "categories": [],
             "formats": {
                 "html": null,
@@ -968,12 +955,12 @@
         {
             "id": "orcid:0002-Latest semiconducting nanowire designs in the search for Majorana modes: ferromagnetic and full-shell hybrid nanowires",
             "title": "Latest semiconducting nanowire designs in the search for Majorana modes: ferromagnetic and full-shell hybrid nanowires",
-            "journal_ref": null,
+            "journal_ref": "KITP Online Conference: Majorana zero modes:\nNew developments in experiment and theory, and the road ahead (2021)",
             "doi": null,
             "published": "2021-01-01T00:00:00.000Z",
             "updated": "2021-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Elsa Prada",
             "categories": [],
             "formats": {
                 "html": null,
@@ -1100,7 +1087,8 @@
             "title": "A theoretical approach for electron dynamics and ultrafast spectroscopy",
             "updated": "2022-07-01T03:42:44-04:00",
             "author_ids": [
-                "0003"
+                "0003",
+                "0004"
             ],
             "arxiv_url": "https://arxiv.org/abs/2207.00249",
             "journal_url": "https://doi.org/10.1021/acs.jctc.2c00674"
@@ -1345,7 +1333,8 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003"
+                "0003",
+                "0006"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1367-2630/ab7dde"
@@ -1365,7 +1354,9 @@
                 "pdf": null
             },
             "author_ids": [
-                "0004"
+                "0004",
+                "0005",
+                "0014"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.7.L012063"
@@ -1385,7 +1376,8 @@
                 "pdf": null
             },
             "author_ids": [
-                "0004"
+                "0004",
+                "0005"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.6.043005"
@@ -1405,7 +1397,9 @@
                 "pdf": null
             },
             "author_ids": [
-                "0004"
+                "0004",
+                "0005",
+                "0014"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1142/9789811279560_0002"
@@ -1425,7 +1419,9 @@
                 "pdf": null
             },
             "author_ids": [
-                "0004"
+                "0004",
+                "0005",
+                "0014"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1142/9789811279560_0003"
@@ -1445,7 +1441,8 @@
                 "pdf": null
             },
             "author_ids": [
-                "0004"
+                "0004",
+                "0005"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/JOSAB.513543"
@@ -1465,7 +1462,8 @@
                 "pdf": null
             },
             "author_ids": [
-                "0004"
+                "0004",
+                "0005"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41586-024-07244-z"
@@ -1485,7 +1483,8 @@
                 "pdf": null
             },
             "author_ids": [
-                "0004"
+                "0004",
+                "0005"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41586-024-07156-y"
@@ -1505,7 +1504,8 @@
                 "pdf": null
             },
             "author_ids": [
-                "0004"
+                "0004",
+                "0005"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41586-023-06828-5"
@@ -1545,7 +1545,8 @@
                 "pdf": null
             },
             "author_ids": [
-                "0004"
+                "0004",
+                "0005"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/oe.462692"
@@ -1565,7 +1566,8 @@
                 "pdf": null
             },
             "author_ids": [
-                "0004"
+                "0004",
+                "0005"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/oe.460291"
@@ -1605,7 +1607,8 @@
                 "pdf": null
             },
             "author_ids": [
-                "0004"
+                "0004",
+                "0005"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physrevresearch.3.023250"
@@ -1625,7 +1628,8 @@
                 "pdf": null
             },
             "author_ids": [
-                "0004"
+                "0004",
+                "0005"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41566-020-00717-3"
@@ -1665,7 +1669,8 @@
                 "pdf": null
             },
             "author_ids": [
-                "0004"
+                "0004",
+                "0005"
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41566-019-0574-4"
@@ -1730,6 +1735,7 @@
             "title": "Observation of light driven band structure via multi-band high harmonic spectroscopy",
             "updated": "2023-09-22T13:06:01-04:00",
             "author_ids": [
+                "0004",
                 "0005"
             ],
             "arxiv_url": "https://arxiv.org/abs/2309.13003",
@@ -1752,6 +1758,7 @@
             "title": "Orbital perspective on high-harmonic generation from solids",
             "updated": "2023-09-12T10:51:13-04:00",
             "author_ids": [
+                "0004",
                 "0005"
             ],
             "arxiv_url": "https://arxiv.org/abs/2309.06290",
@@ -1777,6 +1784,7 @@
             "title": "Reconstruction of attosecond beating by interference of two-photon interband transitions in solids",
             "updated": "2023-09-12T05:39:53-04:00",
             "author_ids": [
+                "0004",
                 "0005"
             ],
             "arxiv_url": "https://arxiv.org/abs/2009.02214",
@@ -1800,6 +1808,7 @@
             "title": "Deep neural networks for high harmonic spectroscopy in solids",
             "updated": "2021-06-24T11:03:54-04:00",
             "author_ids": [
+                "0004",
                 "0005"
             ],
             "arxiv_url": "https://arxiv.org/abs/2106.08638",
@@ -1823,6 +1832,7 @@
             "title": "Sub-cycle valleytronics: control of valley polarization using few-cycle linearly polarized pulses",
             "updated": "2020-05-20T13:02:56-04:00",
             "author_ids": [
+                "0004",
                 "0005"
             ],
             "arxiv_url": "https://arxiv.org/abs/2005.10196",
@@ -1876,7 +1886,7 @@
             "published": "2022-04-01T00:00:00.000Z",
             "updated": "2022-04-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Ihar Babushkin, Álvaro Jiménez Galán, José Ricardo Cardoso de Andrade, Anton Husakou, Felipe Morales, Martin Kretschmar, Tamas Nagy, Virgilijus Vaičaitis, Liping Shi, David Zuber, Luc Bergé, Stefan Skupin, Irina A. Nikolaeva, Nikolay A. Panov, Daniil E. Shipilo, Olga G. Kosareva, Adrian N. Pfeiffer, Ayhan Demircan, Mark J. J. Vrakking, Uwe Morgner, Misha Ivanov",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2010,6 +2020,7 @@
                 "pdf": null
             },
             "author_ids": [
+                "0003",
                 "0006"
             ],
             "arxiv_url": null,
@@ -2158,12 +2169,12 @@
         {
             "id": "orcid:0006-High-order nonlinear dipole response characterized by extreme-ultraviolet ellipsometry",
             "title": "High-order nonlinear dipole response characterized by extreme-ultraviolet ellipsometry",
-            "journal_ref": null,
-            "doi": null,
+            "journal_ref": "Optics InfoBase Conference Papers (2020)",
+            "doi": "https://doi.org/10.1364/hilas.2020.hf2b.5",
             "published": "2020-01-01T00:00:00.000Z",
             "updated": "2020-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "We demonstrate that polarization control and characterization of high-harmonic generation in non-collinear geometry perform as excellent ellipsometry that can precisely retrieve the non-perturbative dipole response, both amplitude and phase, in the extremely nonlinear up-conversion process.",
+            "authors": "Laura Rego, Chang, K.-Y., Huang, L.-C., Asaga, K., Tsai, M.-S., Rego, L., Huang, P.-C., Mashiko, H., Oguri, K., Hernández-García, C., Chen, M.-C.",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2173,17 +2184,17 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/hilas.2020.hf2b.5"
         },
         {
             "id": "orcid:0011-650 nm LED Integrated in PON Optical Sub Assembly for Future PON Management",
             "title": "650 nm LED Integrated in PON Optical Sub Assembly for Future PON Management",
-            "journal_ref": null,
+            "journal_ref": "2025 Optical Fiber Communications Conference and Exhibition (OFC), 1-3 (2025)",
             "doi": null,
             "published": "2025-01-01T00:00:00.000Z",
             "updated": "2025-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Aude Rodriguez, Potet, Jeremy, Gaillard, Georges, Saliou, Fabienne, Simon, Gaël, Rodriguez, Aude, Chevalier, Dylan, Chanclou, Philippe",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2198,12 +2209,12 @@
         {
             "id": "orcid:0011-Field trial of the first G-PON, XGS-PON, 50G-PON triple-MPM reaching >35 dB ODN OPL with 20 km reach",
             "title": "Field trial of the first G-PON, XGS-PON, 50G-PON triple-MPM reaching >35 dB ODN OPL with 20 km reach",
-            "journal_ref": null,
+            "journal_ref": "ECOC 2024; 50th European Conference on Optical Communication, 1551-1554 (2024)",
             "doi": null,
             "published": "2024-01-01T00:00:00.000Z",
             "updated": "2024-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Aude Rodriguez, Saliou, Fabienne, Simon, Gael, Zandueta, Joseph, Rodriguez, Aude, Le Huerou, Stephane, Chanclou, Philippe, Potet, Jeremy, Vu-Brugier, Guillaume",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2218,12 +2229,12 @@
         {
             "id": "orcid:0011-Power Consumption and CO2 Emission Optimization for Future Passive Optical Networks",
             "title": "Power Consumption and CO2 Emission Optimization for Future Passive Optical Networks",
-            "journal_ref": null,
+            "journal_ref": "ECOC 2024; 50th European Conference on Optical Communication, 1082-1085 (2024)",
             "doi": null,
             "published": "2024-01-01T00:00:00.000Z",
             "updated": "2024-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Aude Rodriguez, Rodriguez, Aude, Saliou, Fabienne, Le Huerou, Stephane, Broggi, Pomme, Szymanski, Michal, Simon, Gael, Potet, Jeremy, Chanclou, Philippe",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2274,6 +2285,7 @@
             "title": "High-Harmonic Generation with a twist: all-optical characterization of magic-angle twisted bilayer graphene",
             "updated": "2023-02-05T11:44:32-05:00",
             "author_ids": [
+                "0004",
                 "0014"
             ],
             "journal_ref": "Optica 11(2), 171 (2024)",
@@ -2299,6 +2311,7 @@
             "title": "Light-wave coherent control of the insulator-to-metal transition in a strongly correlated material",
             "updated": "2022-06-14T04:59:53-04:00",
             "author_ids": [
+                "0004",
                 "0014"
             ],
             "journal_ref": "Physical Review Research 4(4) (2022)",
