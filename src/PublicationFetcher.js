@@ -99,11 +99,33 @@ class PublicationFetcher {
         }
     }
 
-    isDateInRange(dateStr, dateInStr, dateOutStr) {
+    isDateInRange(dateStr, dateInStr, dateOutStr, journalRef = null) {
         const date = new Date(dateStr);
         const dateIn = new Date(dateInStr);
         const dateOut = dateOutStr ? new Date(dateOutStr) : new Date();
-        return date >= dateIn && date <= dateOut;
+        
+        // Check if the publication date is in range
+        if (date >= dateIn && date <= dateOut) {
+            return true;
+        }
+        
+        // If the publication date is before date_in but there's a journal reference,
+        // check if the journal year is within range (for arXiv papers published before
+        // the final journal version)
+        if (journalRef && date < dateIn) {
+            // Extract year from journal_ref (common formats: "Journal 20, 1141 (2020)" or "Journal 20(2), 1141-1147 (2020)")
+            const yearMatch = journalRef.match(/\((\d{4})\)/);
+            if (yearMatch) {
+                const journalYear = parseInt(yearMatch[1], 10);
+                const dateInYear = dateIn.getFullYear();
+                const dateOutYear = dateOut.getFullYear();
+                if (journalYear >= dateInYear && journalYear <= dateOutYear) {
+                    return true;
+                }
+            }
+        }
+        
+        return false;
     }
 
     async fetchArxiv() {
@@ -158,7 +180,7 @@ class PublicationFetcher {
             // Process entries if we got data
             if (data && data.entries) {
                 for (const entry of data.entries) {
-                    if (this.isDateInRange(entry.published, researcher.date_in, researcher.date_out)) {
+                    if (this.isDateInRange(entry.published, researcher.date_in, researcher.date_out, entry.journal_ref)) {
                         publications[id].entries.push(entry);
                     }
                 }
@@ -437,20 +459,12 @@ class PublicationFetcher {
     async inferJournalRefFromDOI(doi, orcidEntry) {
         /**
          * Infers journal reference from DOI using CrossRef API
-         * If ISBN is present, return "ISBN: <code>"
+         * If ISBN is present (and type is 'book'), return "ISBN: <code>"
          */
         if (!doi) return null;
         
         try {
-            // Check if ORCID entry indicates this is a book (has ISBN)
-            if (orcidEntry && orcidEntry['external-ids']) {
-                const isbn = orcidEntry['external-ids'].find(e => e['external-id-type'] === 'isbn');
-                if (isbn && isbn['external-id-value']) {
-                    return `ISBN: ${isbn['external-id-value']}`;
-                }
-            }
-            
-            // Try to fetch from CrossRef API
+            // Try to fetch from CrossRef API first to determine type
             const cleanDoi = doi.replace('https://doi.org/', '').replace('http://doi.org/', '');
             const url = `https://api.crossref.org/works/${cleanDoi}`;
             
@@ -463,6 +477,21 @@ class PublicationFetcher {
                             const json = JSON.parse(data);
                             if (json.message) {
                                 const msg = json.message;
+                                
+                                // Check if this is a book or book chapter
+                                const isBook = msg.type === 'book' || 
+                                             msg.type === 'book-chapter' || 
+                                             msg.type === 'monograph' ||
+                                             msg.type === 'edited-book';
+                                
+                                // If it's a book, check for ISBN in ORCID entry
+                                if (isBook && orcidEntry && orcidEntry['external-ids']) {
+                                    const isbn = orcidEntry['external-ids'].find(e => e['external-id-type'] === 'isbn');
+                                    if (isbn && isbn['external-id-value']) {
+                                        resolve(`ISBN: ${isbn['external-id-value']}`);
+                                        return;
+                                    }
+                                }
                                 
                                 // Try container-title (journal name)
                                 if (msg['container-title'] && msg['container-title'].length > 0) {
@@ -503,6 +532,7 @@ class PublicationFetcher {
                 req.on('error', () => resolve(null));
             });
         } catch (e) {
+            return null;
         }
     }
 
@@ -787,25 +817,36 @@ class PublicationFetcher {
                     if (entry.journal_ref) {
                         entry.journal_ref = this.standardizeJournalRef(entry.journal_ref);
                     } else if (entry.doi) {
-                        // Check for ISBN first (indicates a book)
-                        if (entry._orcid_external_ids) {
-                            const isbn = entry._orcid_external_ids.find(e => e['external-id-type'] === 'isbn');
-                            if (isbn && isbn['external-id-value']) {
-                                entry.journal_ref = `ISBN: ${isbn['external-id-value']}`;
-                            }
-                        }
-                        
-                        // If still no journal_ref, infer from DOI using CrossRef
-                        if (!entry.journal_ref) {
-                            const inferredRef = await this.inferJournalRefFromDOI(entry.doi, entry);
-                            if (inferredRef) {
-                                entry.journal_ref = inferredRef;
-                            }
+                        // Infer journal_ref from DOI using CrossRef (will detect books vs articles)
+                        const inferredRef = await this.inferJournalRefFromDOI(entry.doi, entry._orcid_external_ids ? { 'external-ids': entry._orcid_external_ids } : null);
+                        if (inferredRef) {
+                            entry.journal_ref = inferredRef;
                         }
                     }
                     
-                    // Add URLs
+                    // Add URLs - try to find arXiv version even for DOI-only entries
                     entry.arxiv_url = this.buildArxivUrl(entry);
+                    
+                    // If no arXiv URL yet but we have a DOI, try to find the arXiv version
+                    if (!entry.arxiv_url && entry.doi) {
+                        try {
+                            const foundArxivId = await this.searchArxivByDOI(entry.doi);
+                            if (foundArxivId) {
+                                const arxivIdClean = foundArxivId.replace(/v\d+$/, '');
+                                entry.arxiv_url = `https://arxiv.org/abs/${arxivIdClean}`;
+                                // Also populate formats if they're empty
+                                if (!entry.formats || !entry.formats.html) {
+                                    entry.formats = {
+                                        html: `http://arxiv.org/abs/${arxivIdClean}`,
+                                        pdf: `http://arxiv.org/pdf/${arxivIdClean}`
+                                    };
+                                }
+                            }
+                        } catch (e) {
+                            // Ignore errors when searching for arXiv version
+                        }
+                    }
+                    
                     entry.journal_url = entry.doi ? this.buildJournalUrl(entry.doi) : null;
                     
                     // Remove internal metadata fields

@@ -430,6 +430,27 @@
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.2.033493"
         },
         {
+            "authors": "Elsa Prada, Pablo San-Jose, Michiel W. A. de Moor, Attila Geresdi, Eduardo J. H. Lee, Jelena Klinovaja, Daniel Loss, Jesper Nygård, Ramón Aguado, Leo P. Kouwenhoven",
+            "categories": [
+                "Superconductivity (cond-mat.supr-con)"
+            ],
+            "comment": "Review. 23 pages, 8 figures, 1 table. Shareable published version by Springer Nature at https://rdcu.be/b7DWT (free to read but not to download)",
+            "doi": "10.1038/s42254-020-0228-y",
+            "formats": {
+                "html": "http://arxiv.org/abs/1911.04512v3",
+                "pdf": "http://arxiv.org/pdf/1911.04512v3"
+            },
+            "id": "http://arxiv.org/abs/1911.04512v3",
+            "journal_ref": "Nat. Rev. Phys. 2, 575 (2020)",
+            "published": "2019-11-11T14:00:21-05:00",
+            "subject": "Superconductivity (cond-mat.supr-con)",
+            "summary": "Electronic excitations above the ground state must overcome an energy gap in superconductors with spatially-homogeneous s-wave pairing. In contrast, inhomogeneous superconductors such as those with magnetic impurities or weak links, or heterojunctions containing normal metals or quantum dots, can host subgap electronic excitations that are generically known as Andreev bound states (ABSs). With the advent of topological superconductivity, a new kind of ABS with exotic qualities, known as Majorana bound state (MBS), has been discovered. We review the main properties of ABSs and MBSs, and the state-of-the-art techniques for their detection. We focus on hybrid superconductor-semiconductor nanowires, possibly coupled to quantum dots, as one of the most flexible and promising experimental platforms. We discuss how the combined effect of spin-orbit coupling and Zeeman field in these wires triggers the transition from ABSs into MBSs. We show theoretical progress beyond minimal models in understanding experiments, including the possibility of different types of robust zero modes that may emerge without a band-topological transition. We examine the role of spatial non-locality, a special property of MBS wavefunctions that, together with non-Abelian braiding, is the key to realizing topological quantum computation.",
+            "title": "From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires",
+            "updated": "2020-10-04T14:28:10-04:00",
+            "arxiv_url": "https://arxiv.org/abs/1911.04512",
+            "journal_url": "https://doi.org/10.1038/s42254-020-0228-y"
+        },
+        {
             "authors": "María Rosendo, Fernando Peñaranda, Johan Christensen, Pablo San-Jose",
             "categories": [
                 "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
@@ -449,6 +470,27 @@
             "updated": "2020-08-26T13:48:26-04:00",
             "arxiv_url": "https://arxiv.org/abs/2008.11706",
             "journal_url": "https://doi.org/10.1103/PhysRevLett.125.214301"
+        },
+        {
+            "authors": "Riccardo Frisenda, Gabriel Sanchez-Santolino, Nikos Papadopoulos, Joanna Urban, Michal Baranowski, Alessandro Surrente, Duncan K. Maude, Mar Garcia-Hernandez, Herre S. J. van der Zant, Paulina Plochocka, Pablo San-Jose, Andres Castellanos-Gomez",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "6 main text figures, Supp. Info. available upon request",
+            "doi": "10.1021/acs.nanolett.9b04536",
+            "formats": {
+                "html": "http://arxiv.org/abs/1908.03922v2",
+                "pdf": "http://arxiv.org/pdf/1908.03922v2"
+            },
+            "id": "http://arxiv.org/abs/1908.03922v2",
+            "journal_ref": "Nano Lett. 20, 1141-1147 (2020)",
+            "published": "2019-08-11T11:41:11-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Franckeite is a naturally occurring layered mineral with a structure composed of alternating stacks of SnS2-like and PbS-like layers. Although this superlattice is composed of a sequence of isotropic two-dimensional layers, it exhibits a spontaneous rippling that makes the material structurally anisotropic. We demonstrate that this rippling comes hand in hand with an inhomogeneous in-plane strain profile and anisotropic electrical, vibrational and optical properties. We argue that this symmetry breakdown results from a spatial modulation of the van der Waals interaction between layers due to the SnS2-like and PbS-like lattices incommensurability.",
+            "title": "Symmetry breakdown in franckeite: spontaneous strain, rippling and interlayer moir\\'e",
+            "updated": "2020-06-11T17:19:39-04:00",
+            "arxiv_url": "https://arxiv.org/abs/1908.03922",
+            "journal_url": "https://doi.org/10.1021/acs.nanolett.9b04536"
         },
         {
             "id": "orcid:0001-Helical modes and Majoranas in encapsulated graphene bilayers",
@@ -500,57 +542,6 @@
             },
             "arxiv_url": null,
             "journal_url": null
-        },
-        {
-            "id": "doi:10.1038/s42254-020-0228-y",
-            "title": "From Andreev to Majorana bound states in hybrid superconductor–semiconductor nanowires",
-            "journal_ref": "Nature Reviews Physics 2(10), 575-594 (2020)",
-            "doi": "10.1038/s42254-020-0228-y",
-            "published": "2020-09-22T00:00:00.000Z",
-            "updated": "2020-09-22T00:00:00.000Z",
-            "summary": "",
-            "authors": "Elsa Prada, Pablo San-Jose, Michiel W. A. de Moor, Attila Geresdi, Eduardo J. H. Lee, Jelena Klinovaja, Daniel Loss, Jesper Nygård, Ramón Aguado, Leo P. Kouwenhoven",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1038/s42254-020-0228-y"
-        },
-        {
-            "id": "doi:10.1103/physrevresearch.2.023171",
-            "title": "Even-odd effect and Majorana states in full-shell nanowires",
-            "journal_ref": "Physical Review Research 2(2) (2020)",
-            "doi": "10.1103/physrevresearch.2.023171",
-            "published": "2020-05-19T00:00:00.000Z",
-            "updated": "2020-05-19T00:00:00.000Z",
-            "summary": "",
-            "authors": "Fernando Peñaranda, Ramón Aguado, Pablo San-Jose, Elsa Prada",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1103/physrevresearch.2.023171"
-        },
-        {
-            "id": "doi:10.1021/acs.nanolett.9b04536",
-            "title": "Symmetry Breakdown in Franckeite: Spontaneous Strain, Rippling, and Interlayer Moiré",
-            "journal_ref": "ISBN: 15306992",
-            "doi": "10.1021/acs.nanolett.9b04536",
-            "published": "2020-01-01T00:00:00.000Z",
-            "updated": "2020-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Riccardo Frisenda, Gabriel Sanchez-Santolino, Nikos Papadopoulos, Joanna Urban, Michal Baranowski, Alessandro Surrente, Duncan K. Maude, Mar Garcia-Hernandez, Herre S. J. van der Zant, Paulina Plochocka, Pablo San-Jose, Andres Castellanos-Gomez",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1021/acs.nanolett.9b04536"
         },
         {
             "authors": "Carlos Payá, Oliver Solow, Elsa Prada, Ramón Aguado, Karsten Flensberg",
@@ -698,6 +689,27 @@
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.2.033264"
         },
         {
+            "authors": "Fernando Peñaranda, Ramón Aguado, Pablo San-Jose, Elsa Prada",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "8 pages, 4 figures. Final version",
+            "doi": "10.1103/PhysRevResearch.2.023171",
+            "formats": {
+                "html": "http://arxiv.org/abs/1911.06805v2",
+                "pdf": "http://arxiv.org/pdf/1911.06805v2"
+            },
+            "id": "http://arxiv.org/abs/1911.06805v2",
+            "journal_ref": "Phys. Rev. Research 2, 023171 (2020)",
+            "published": "2019-11-15T13:53:26-05:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Full-shell nanowires (semiconducting nanowires fully coated with a superconducting shell) have been recently presented as a novel means to create Majorana zero modes. In contrast to partially coated nanowires, it has been argued that full-shell nanowires do not require high magnetic fields and low densities to reach a putative topological regime. Here we present a theoretical study of these devices taking into account all the basic ingredients, including a charge distribution spread across the section of the nanowire, required to qualitatively explain the first experimental results (Vaitiekenas et al., arXiv:1809.05513). We derive a criterion, dependent on the even-odd occupation of the radial subbands with zero angular momentum, for the appearance of Majorana zero modes. In the absence of angular subband mixing, these give rise to strong zero-bias anomalies in tunneling transport in roughly half of the system's parameter space under an odd number of flux quanta. Due to their coexistence with gapless subbands, the zero modes do not enjoy generic topological protection. Depending on the details of subband mixing in realistic devices, they can develop a topological minigap, acquire a finite lifetime or even be destroyed.",
+            "title": "Even-odd effect and Majorana states in full-shell nanowires",
+            "updated": "2020-05-20T08:17:42-04:00",
+            "arxiv_url": "https://arxiv.org/abs/1911.06805",
+            "journal_url": "https://doi.org/10.1103/PhysRevResearch.2.023171"
+        },
+        {
             "authors": "Michael Seitz, Alvaro J. Magdaleno, Nerea Alcázar-Cano, Marc Meléndez, Tim J. Lubbers, Sanne W. Walraven, Sahar Pakdel, Elsa Prada, Rafael Delgado-Buscalioni, Ferry Prins",
             "categories": [
                 "Applied Physics (physics.app-ph)",
@@ -805,46 +817,12 @@
             "journal_url": null
         },
         {
-            "id": "orcid:0002-From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires",
-            "title": "From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires",
-            "journal_ref": null,
-            "doi": null,
-            "published": "2021-01-01T00:00:00.000Z",
-            "updated": "2021-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0002-Latest semiconducting nanowire designs in the search for Majorana modes: ferromagnetic and full-shell hybrid nanowires",
             "title": "Latest semiconducting nanowire designs in the search for Majorana modes: ferromagnetic and full-shell hybrid nanowires",
             "journal_ref": null,
             "doi": null,
             "published": "2021-01-01T00:00:00.000Z",
             "updated": "2021-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
-            "id": "orcid:0002-From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires",
-            "title": "From Andreev to Majorana bound states in hybrid superconductor-semiconductor nanowires",
-            "journal_ref": null,
-            "doi": null,
-            "published": "2020-01-01T00:00:00.000Z",
-            "updated": "2020-01-01T00:00:00.000Z",
             "summary": "",
             "authors": "",
             "categories": [],
@@ -959,6 +937,28 @@
             "updated": "2022-07-01T03:42:44-04:00",
             "arxiv_url": "https://arxiv.org/abs/2207.00249",
             "journal_url": "https://doi.org/10.1021/acs.jctc.2c00674"
+        },
+        {
+            "authors": "Alexis Chacón, Dasol Kim, Wei Zhu, Shane P. Kelly, Alexandre Dauphin, Emilio Pisanty, Andrew S. Maxwell, Antonio Picón, Marcelo F. Ciappina, Dong Eon Kim, Christopher Ticknor, Avadh Saxena, Maciej Lewenstein",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+                "Quantum Physics (quant-ph)"
+            ],
+            "comment": "9 pages including references, then 16 pages of Supplementary Material",
+            "doi": "10.1103/PhysRevB.102.134115",
+            "formats": {
+                "html": "http://arxiv.org/abs/1807.01616v4",
+                "pdf": "http://arxiv.org/pdf/1807.01616v4"
+            },
+            "id": "http://arxiv.org/abs/1807.01616v4",
+            "journal_ref": "Phys. Rev. B 102, 134115 (2020)",
+            "published": "2018-07-04T10:42:10-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Topological materials are of interest to both fundamental science and advanced technologies, because topological states are robust with respect to perturbations and dissipation. Experimental detection of topological invariants is thus in great demand, but it remains extremely challenging. Ultrafast laser-matter interactions, and in particular high-harmonic generation (HHG), meanwhile, were proposed several years ago as tools to explore the structural and dynamical properties of various matter targets. Here we show that the high-harmonic emission signal produced by a circularly-polarized laser contains signatures of the topological phase transition in the paradigmatic Haldane model. In addition to clear shifts of the overall emissivity and harmonic cutoff, the high-harmonic emission shows a unique circular dichroism, which exhibits clear changes in behavior at the topological phase boundary. Our findings pave the way to understand fundamental questions about the ultrafast electron-hole pair dynamics in topological materials via non-linear high-harmonic generation spectroscopy.",
+            "title": "Circular dichroism in high-order harmonic generation: Heralding topological phases and transitions in Chern insulators",
+            "updated": "2020-07-15T17:23:35-04:00",
+            "arxiv_url": "https://arxiv.org/abs/1807.01616",
+            "journal_url": "https://doi.org/10.1103/PhysRevB.102.134115"
         },
         {
             "id": "doi:10.1016/j.saa.2024.124978",
@@ -1095,23 +1095,6 @@
             },
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.3.013144"
-        },
-        {
-            "id": "doi:10.1103/PhysRevB.102.134115",
-            "title": "Circular dichroism in higher-order harmonic generation: Heralding topological phases and transitions in Chern insulators",
-            "journal_ref": "Physical Review B 102(13) (2020)",
-            "doi": "10.1103/PhysRevB.102.134115",
-            "published": "2020-10-21T00:00:00.000Z",
-            "updated": "2020-10-21T00:00:00.000Z",
-            "summary": "",
-            "authors": "Alexis Chacón, Dasol Kim, Wei Zhu, Shane P. Kelly, Alexandre Dauphin, Emilio Pisanty, Andrew S. Maxwell, Antonio Picón, Marcelo F. Ciappina, Dong Eon Kim, Christopher Ticknor, Avadh Saxena, Maciej Lewenstein",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1103/PhysRevB.102.134115"
         },
         {
             "id": "doi:10.1002/chem.202001393",
@@ -1554,7 +1537,7 @@
             "journal_url": null
         },
         {
-            "authors": "Álvaro Jiménez-Galán, Rui Silva, Olga Smirnova, Misha Ivanov",
+            "authors": "Álvaro Jiménez-Galán, Rui E. F. Silva, Olga Smirnova, Misha Ivanov",
             "categories": [
                 "Optics (physics.optics)",
                 "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
