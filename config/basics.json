@@ -6,7 +6,8 @@
         "orcid": "0000-0002-7920-5273",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://pablosanjose.github.io/"
+        "url" : "https://pablosanjose.github.io/",
+        "category" : "Senior Scientist"
     },
     "0002":{
         "name": "Elsa Prada",
@@ -15,7 +16,8 @@
         "orcid": "0000-0001-7522-4795",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://elsaprada.github.io/"
+        "url" : "https://elsaprada.github.io/",
+        "category" : "Senior Scientist"
     },
     "0003":{
         "name": "Antonio Picón",
@@ -24,7 +26,8 @@
         "orcid": "0000-0002-6142-3440",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://picongroup.wordpress.com/"
+        "url" : "https://picongroup.wordpress.com/",
+        "category" : "Tenured Scientist"
     },
     "0004":{
         "name": "Rui E. F. Silva",
@@ -33,7 +36,8 @@
         "orcid": "0000-0002-1920-5861",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://ruiefdasilva.wixsite.com/ruiefdasilva"
+        "url" : "https://ruiefdasilva.wixsite.com/ruiefdasilva",
+        "category" : "'Ramón y Cajal' Researcher"
     },
     "0005":{
         "name": "Álvaro Jiménez-Galán",
@@ -42,7 +46,8 @@
         "orcid": "0000-0003-2116-7187",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://attosecondscience.wixsite.com/alvaro-jimenez-galan"
+        "url" : "https://attosecondscience.wixsite.com/alvaro-jimenez-galan",
+        "category" : "'Talento CAM' Researcher"
     },
     "0006":{
         "name": "Laura Rego",
@@ -51,7 +56,8 @@
         "orcid": "0000-0002-7214-7402",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://scholar.google.es/citations?user=oJLW6EwAAAAJ&hl=es&oi=ao"
+        "url" : "https://scholar.google.es/citations?user=oJLW6EwAAAAJ&hl=es&oi=ao",
+        "category" : "'La Caixa' Fellow Posdoctoral Researcher"
     },
     "0007":{
         "name": "Thomas Hansen",
@@ -60,7 +66,8 @@
         "orcid": "0000-0003-0990-2732",
         "date_in": "2025-09-01",
         "date_out": null,
-        "url" : "https://scholar.google.com/citations?hl=da&user=Etgxwy8AAAAJ&scilu=&scisig=AKwmTV4AAAAAaQSlH8ll-MoFxTH2XCVYhNgAZ2U&gmla=AKzYXQ28oZk_X8cEA795tb5aN_LoM7Aw5BLalH4YQl5jAQ8WQzd23p8BBcFZJB9byfKhvLxeHuGeS3Qk1cpYzD1brfdJ2_uliFN7xVfB1lc&sciund=4038906438423457338"
+        "url" : "https://scholar.google.com/citations?hl=da&user=Etgxwy8AAAAJ&scilu=&scisig=AKwmTV4AAAAAaQSlH8ll-MoFxTH2XCVYhNgAZ2U&gmla=AKzYXQ28oZk_X8cEA795tb5aN_LoM7Aw5BLalH4YQl5jAQ8WQzd23p8BBcFZJB9byfKhvLxeHuGeS3Qk1cpYzD1brfdJ2_uliFN7xVfB1lc&sciund=4038906438423457338",
+        "category" : "Postdoctoral Researcher"
     },
     "0008":{
         "name": "Carlos Payá",
@@ -69,7 +76,8 @@
         "orcid": "0000-0001-5709-2290",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://carlosp24.github.io/"
+        "url" : "https://carlosp24.github.io/",
+        "category" : "PhD Candidate"
     },
     "0009":{
         "name": "Francisco Lobo",
@@ -78,7 +86,8 @@
         "orcid": "0009-0003-8417-3610",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://franciscolobo1880.github.io/"
+        "url" : "https://franciscolobo1880.github.io/",
+        "category" : "PhD Candidate"
     },
     "0010":{
         "name": "Aday Cárdenas",
@@ -87,7 +96,8 @@
         "orcid": null,
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : null
+        "url" : null,
+        "category" : "PhD Candidate"
     },
     "0011":{
         "name": "Aude Rodriguez",
@@ -96,7 +106,8 @@
         "orcid": "0009-0009-0292-1034",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://scholar.google.com/citations?user=q9RddoAAAAAJ&hl=en"
+        "url" : "https://scholar.google.com/citations?user=q9RddoAAAAAJ&hl=en",
+        "category" : "PhD Candidate"
     },
     "0012":{
         "name": "Pablo Estévez-Alonso",
@@ -105,7 +116,8 @@
         "orcid": "0000-0003-1001-1793",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : null
+        "url" : null,
+        "category" : "PhD Candidate"
     },
     "0013":{
         "name": "César Robles",
@@ -114,7 +126,8 @@
         "orcid": null,
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : null
+        "url" : null,
+        "category" : "Master's Student"
     },
     "0014":{
         "name": "Eduardo B. Molinero",
@@ -123,7 +136,8 @@
         "orcid": "0000-0001-5062-3343",
         "date_in": "2020-01-01",
         "date_out": "2025-05-01",
-        "url" : "https://scholar.google.es/citations?user=0nf-axgAAAAJ&hl=es"
+        "url" : "https://scholar.google.es/citations?user=0nf-axgAAAAJ&hl=es",
+        "category" : "PhD Candidate"
     },
     "0015":{
         "name": "Fernando Peñaranda",
@@ -131,8 +145,9 @@
         "arxiv_authorid": null,
         "orcid": "0000-0003-2180-3593",
         "date_in": null,
-        "date_out": null,
-        "url" : "https://fernandopenaranda.github.io/"
+        "date_out": "2023-04-30",
+        "url" : "https://fernandopenaranda.github.io/",
+        "category" : "PhD Candidate"
     },
     "0016":{
         "name": "Samuel D. Escribano",
@@ -140,8 +155,9 @@
         "arxiv_authorid": null,
         "orcid": "0000-0002-3985-0470",
         "date_in": null,
-        "date_out": null,
-        "url" : "https://www.samueldescribano.com/"
+        "date_out": "2022-12-31",
+        "url" : "https://www.samueldescribano.com/",
+        "category" : "PhD Candidate"
     },
     "0017":{
         "name": "David Purschke",
@@ -150,7 +166,8 @@
         "orcid": null,
         "date_in": null,
         "date_out": null,
-        "url" : null
+        "url" : null,
+        "category" : "Visiting Postdoctoral Researcher"
     },
     "0018":{
         "name": "Yeganeh Alvankar",
@@ -159,7 +176,8 @@
         "orcid": null,
         "date_in": null,
         "date_out": null,
-        "url" : null
+        "url" : null,
+        "category" : "Visiting PhD Candidate"
     },
     "0019":{
         "name": "Hammid Talkhabi",
@@ -168,6 +186,7 @@
         "orcid": null,
         "date_in": null,
         "date_out": null,
-        "url" : null
+        "url" : null,
+        "category" : "Visiting PhD Candidate"
     }
 }

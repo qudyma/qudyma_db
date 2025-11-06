@@ -1,6 +1,16 @@
 # QUDYMA Publications Database
 
-Automated system to fetch, merge, and manage research publications from arXiv and ORCID APIs.
+Automated system to fetch, merge, and manage research publications from arXiv and ORCID APIs with intelligent deduplication and metadata enrichment.
+
+## Features
+
+- **Multi-source fetching**: Aggregates publications from arXiv and ORCID APIs
+- **Smart deduplication**: Normalizes DOIs and merges entries by DOI, arXiv ID, and title similarity
+- **Metadata enrichment**: Automatically fills missing data via CrossRef API
+- **Date filtering**: Respects researcher join/leave dates with co-authorship support
+- **Author normalization**: Handles name variants and identifies QUDYMA authors
+- **Modular architecture**: Clean separation of concerns for maintainability
+- **Zero duplicates**: Post-enrichment duplicate detection ensures data quality
 
 ## Quick Start
 
@@ -20,6 +30,12 @@ npm run refresh     # Re-fetch all sources
 npm run arxiv       # Fetch arXiv only
 npm run orcid       # Fetch ORCID only
 npm run merge       # Merge cached data only
+
+# Direct CLI access
+node src/index.js all      # Same as npm run generate
+node src/index.js arxiv    # Fetch from arXiv
+node src/index.js orcid    # Fetch from ORCID
+node src/index.js merge    # Merge existing data
 ```
 
 ## Configuration
@@ -46,6 +62,12 @@ All configuration files are in the `config/` directory.
 - `arxiv_authorid`: arXiv author ID or empty string
 - `orcid`: ORCID identifier
 - `date_in/date_out`: Join/leave dates (ISO format or null)
+- `category`: Researcher category (e.g., "Postdoc", "PhD", "Visiting PhD")
+
+**Date Filtering Rules:**
+- Non-visiting members with `date_out: null` get ALL publications
+- Visiting members are filtered by date range
+- Publications after `date_out` are included if co-authored with active members
 
 ### 2. ORCID Credentials (`config/orcid_oauth.json`)
 
@@ -153,39 +175,80 @@ console.log(`Total: ${publications.entries.length}`);
 
 ## How It Works
 
-1. **Fetch** publications from arXiv and ORCID APIs
+1. **Fetch** publications from arXiv and ORCID APIs with date filtering
 2. **Cache** raw data in `data/arxiv_publications.json` and `data/orcid_publications.json`
-3. **Merge** and deduplicate by DOI, arXiv ID, and title
-4. **Normalize** author names using researcher variants
-5. **Standardize** journal references using abbreviation mappings
-6. **Enrich** missing metadata via CrossRef API
-7. **Output** final database to `data/publications.json`
+3. **Merge** and deduplicate by normalized DOI, arXiv ID, and title similarity
+4. **Normalize** DOIs by removing URL prefixes (http/https/doi.org)
+5. **Identify** QUDYMA authors using name variants
+6. **Standardize** journal references using abbreviation mappings
+7. **Enrich** missing metadata via CrossRef API
+8. **Re-check** for duplicates after enrichment (some publications gain DOIs)
+9. **Output** final database to `data/publications.json`
+
+### Duplicate Detection
+
+The system prevents duplicates through multiple strategies:
+
+- **DOI normalization**: Strips `http://`, `https://`, `doi.org/` prefixes before comparison
+- **Title similarity**: Uses normalized titles (lowercase, punctuation-stripped) to catch near-matches
+- **arXiv ID matching**: Treats same arXiv ID as same publication
+- **Post-enrichment check**: Conference papers that gain DOIs matching journal versions are filtered
+
+This ensures zero duplicates even when different sources provide inconsistent formats.
 
 ## Directory Structure
 
 ```
 qudyma_db/
-├── config/
-│   ├── basics.json
-│   ├── orcid_oauth.json
-│   ├── highlights.json
-│   ├── journal_abbreviations.json
+├── config/                          # Configuration files
+│   ├── basics.json                  # Researcher metadata
+│   ├── orcid_oauth.json            # ORCID API credentials
+│   ├── highlights.json             # Featured publications
+│   ├── journal_abbreviations.json  # Journal name mappings
 │   └── journal_normalization_patterns.json
-├── data/
-│   ├── publications.json
-│   ├── arxiv_publications.json
-│   └── orcid_publications.json
+├── data/                            # Generated data
+│   ├── publications.json           # Final merged database
+│   ├── arxiv_publications.json     # arXiv cache
+│   └── orcid_publications.json     # ORCID cache
 ├── src/
-│   ├── PublicationFetcher.js
-│   ├── fetch_arxiv.js
-│   ├── fetch_orcid.js
-│   ├── merge_publications.js
-│   └── index.js
+│   ├── PublicationFetcher.js       # Main orchestrator (157 lines)
+│   ├── index.js                    # API entry point + CLI
+│   ├── fetchers/                   # Data source fetchers
+│   │   ├── ArxivFetcher.js        # arXiv API client (181 lines)
+│   │   ├── OrcidFetcher.js        # ORCID API client (151 lines)
+│   │   └── CrossRefFetcher.js     # CrossRef enrichment (263 lines)
+│   ├── parsers/                    # Data parsers
+│   │   ├── CitationParser.js      # BibTeX & RIS parser (154 lines)
+│   │   └── XmlParser.js           # XML field extractor (37 lines)
+│   ├── utils/                      # Helper utilities
+│   │   ├── AuthorUtils.js         # Name normalization (59 lines)
+│   │   ├── DateUtils.js           # Date filtering logic (49 lines)
+│   │   └── UrlBuilder.js          # URL construction (22 lines)
+│   └── merger/                     # Merge & dedupe logic
+│       └── PublicationMerger.js   # Main merger (505 lines)
 ├── .github/workflows/
 │   └── update-publications.yml
-├── cli.js
 └── package.json
 ```
+
+## Architecture
+
+The codebase was refactored from a single 1,258-line monolithic file into 10 modular components:
+
+### Core Modules
+
+- **PublicationFetcher**: Orchestrates the entire pipeline
+- **Fetchers**: Handle API communication with rate limiting and error handling
+- **Parsers**: Extract structured data from various formats (XML, BibTeX, RIS)
+- **Utils**: Provide reusable logic for dates, authors, and URLs
+- **Merger**: Implements sophisticated deduplication and enrichment logic
+
+### Key Improvements
+
+1. **Separation of concerns**: Each module has a single responsibility
+2. **Testability**: Modules can be tested independently
+3. **Maintainability**: Clear interfaces between components
+4. **Scalability**: Easy to add new data sources or parsers
 
 ## License
 

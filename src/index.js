@@ -114,3 +114,46 @@ module.exports = {
     getPublicationsHandler,
     getCachedPublications
 };
+
+// CLI Support
+if (require.main === module) {
+    const command = process.argv[2];
+    
+    async function runCLI() {
+        const fetcher = new PublicationFetcher();
+        
+        try {
+            switch (command) {
+                case 'arxiv':
+                    console.log('Fetching from arXiv...');
+                    await fetcher.fetchArxiv();
+                    console.log('✅ arXiv fetch complete');
+                    break;
+                    
+                case 'orcid':
+                    console.log('Fetching from ORCID...');
+                    await fetcher.fetchOrcid();
+                    console.log('✅ ORCID fetch complete');
+                    break;
+                    
+                case 'merge':
+                    console.log('Merging publications...');
+                    await fetcher.mergePublications();
+                    console.log('✅ Merge complete');
+                    break;
+                    
+                case 'all':
+                default:
+                    console.log('Running full pipeline...');
+                    await generatePublications();
+                    console.log('✅ Full pipeline complete');
+                    break;
+            }
+        } catch (error) {
+            console.error('❌ Error:', error.message);
+            process.exit(1);
+        }
+    }
+    
+    runCLI();
+}
