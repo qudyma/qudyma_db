@@ -71,10 +71,17 @@ async function main() {
                 process.exit(1);
             }
             
+            // Overall statistics
+            const totalBooks = pubs.entries.filter(p => p.journal_ref && p.journal_ref.startsWith('ISBN:')).length;
+            const totalPublished = pubs.entries.filter(p => p.journal_ref && !p.journal_ref.startsWith('ISBN:')).length;
+            const totalPreprints = pubs.entries.filter(p => !p.journal_ref).length;
+            
             console.log('\n=== Publications Database Statistics ===\n');
-            console.log(`Total publications: ${pubs.entries.length}`);
+            console.log(`Total entries: ${pubs.entries.length}`);
+            console.log(`  Publications (with journal ref): ${totalPublished}`);
+            console.log(`  Books/Chapters (ISBN): ${totalBooks}`);
+            console.log(`  Preprints (no journal ref): ${totalPreprints}`);
             console.log(`Publications with DOI: ${pubs.entries.filter(p => p.doi).length}`);
-            console.log(`Publications with journal ref: ${pubs.entries.filter(p => p.journal_ref).length}`);
             console.log(`Publications with coverage: ${pubs.entries.filter(p => p.coverage && p.coverage.length > 0).length}`);
             console.log(`Publications with awards: ${pubs.entries.filter(p => p.awards && p.awards.length > 0).length}`);
             
@@ -98,12 +105,17 @@ async function main() {
                     return false;
                 });
                 
-                const withJournal = authorPubs.filter(p => p.journal_ref).length;
+                const books = authorPubs.filter(p => p.journal_ref && p.journal_ref.startsWith('ISBN:')).length;
+                const published = authorPubs.filter(p => p.journal_ref && !p.journal_ref.startsWith('ISBN:')).length;
                 const preprints = authorPubs.filter(p => !p.journal_ref).length;
                 const total = authorPubs.length;
                 
                 if (total > 0) {
-                    console.log(`  ${researcher.name}: ${total} total (${withJournal} published, ${preprints} preprints)`);
+                    const parts = [];
+                    if (published > 0) parts.push(`${published} published`);
+                    if (books > 0) parts.push(`${books} books`);
+                    if (preprints > 0) parts.push(`${preprints} preprints`);
+                    console.log(`  ${researcher.name}: ${total} total (${parts.join(', ')})`);
                 } else {
                     console.log(`  ${researcher.name}: 0 publications`);
                 }
