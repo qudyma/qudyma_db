@@ -28,7 +28,7 @@
     },
     "0004":{
         "name": "Rui E. F. Silva",
-        "name_variants": ["Rui E F Silva", "Silva, Rui E. F.", "Silva, Rui E F", "R. E. F. Silva", "R E F Silva", "Rui Emanuel Ferreira da Silva", "Rui Silva"],
+        "name_variants": ["Rui E F Silva", "Silva, Rui E. F.", "Silva, Rui E F", "R. E. F. Silva", "R E F Silva", "Rui Emanuel Ferreira da Silva", "Rui Silva", "Rui. E. F. Silva"],
         "arxiv_authorid": "silva_r_4",
         "orcid": "0000-0002-1920-5861",
         "date_in": "2020-01-01",
@@ -37,7 +37,7 @@
     },
     "0005":{
         "name": "Álvaro Jiménez-Galán",
-        "name_variants": ["Alvaro Jimenez-Galan", "Álvaro Jimenez Galan", "Alvaro Jimenez Galan", "Jiménez-Galán, Álvaro", "Jimenez-Galan, Alvaro", "Jimenez Galan, Alvaro", "Á. Jiménez-Galán", "A. Jimenez-Galan"],
+        "name_variants": ["Alvaro Jimenez-Galan", "Álvaro Jimenez Galan", "Alvaro Jimenez Galan", "Jiménez-Galán, Álvaro", "Jimenez-Galan, Alvaro", "Jimenez Galan, Alvaro", "Á. Jiménez-Galán", "A. Jimenez-Galan", "Álvaro Jiménez Galán"],
         "arxiv_authorid": "jimenez-galan_a_1",
         "orcid": "0000-0003-2116-7187",
         "date_in": "2020-01-01",
