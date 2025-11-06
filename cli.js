@@ -104,6 +104,8 @@ async function main() {
                 
                 if (total > 0) {
                     console.log(`  ${researcher.name}: ${total} total (${withJournal} published, ${preprints} preprints)`);
+                } else {
+                    console.log(`  ${researcher.name}: 0 publications`);
                 }
             }
             
