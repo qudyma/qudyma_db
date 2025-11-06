@@ -117,33 +117,54 @@ class PublicationFetcher {
                 continue;
             }
             
-            if (!researcher.arxiv_authorid) {
-                console.log(`    Skipping: no arXiv author ID`);
+            if (!researcher.arxiv_authorid && !researcher.orcid) {
+                console.log(`    Skipping: no arXiv author ID or ORCID`);
                 continue;
             }
             
             publications[id] = {
                 name: researcher.name,
                 arxiv_authorid: researcher.arxiv_authorid,
+                orcid: researcher.orcid,
                 date_in: researcher.date_in,
                 date_out: researcher.date_out,
                 entries: []
             };
             
-            try {
-                const url = `https://arxiv.org/a/${researcher.arxiv_authorid}.json`;
-                const data = await this.fetchJSON(url);
-                
-                if (data && data.entries) {
-                    for (const entry of data.entries) {
-                        if (this.isDateInRange(entry.published, researcher.date_in, researcher.date_out)) {
-                            publications[id].entries.push(entry);
-                        }
-                    }
-                    console.log(`    Fetched ${publications[id].entries.length} publications`);
+            let data = null;
+            
+            // Try arXiv author ID first
+            if (researcher.arxiv_authorid) {
+                try {
+                    const url = `https://arxiv.org/a/${researcher.arxiv_authorid}.json`;
+                    data = await this.fetchJSON(url);
+                    console.log(`    Fetched from arXiv author ID`);
+                } catch (error) {
+                    console.log(`    arXiv author ID failed: ${error.message}`);
                 }
-            } catch (error) {
-                console.log(`    Error: ${error.message}`);
+            }
+            
+            // Fallback to ORCID if arXiv author ID failed or not available
+            if (!data && researcher.orcid) {
+                try {
+                    const url = `https://arxiv.org/a/${researcher.orcid}.json`;
+                    data = await this.fetchJSON(url);
+                    console.log(`    Fetched from ORCID`);
+                } catch (error) {
+                    console.log(`    ORCID fallback also failed: ${error.message}`);
+                }
+            }
+            
+            // Process entries if we got data
+            if (data && data.entries) {
+                for (const entry of data.entries) {
+                    if (this.isDateInRange(entry.published, researcher.date_in, researcher.date_out)) {
+                        publications[id].entries.push(entry);
+                    }
+                }
+                console.log(`    Fetched ${publications[id].entries.length} publications`);
+            } else {
+                console.log(`    No data available`);
             }
         }
         

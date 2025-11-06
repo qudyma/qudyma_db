@@ -8,6 +8,7 @@
 
 const { generatePublications, getCachedPublications } = require('./src/index');
 const path = require('path');
+const fs = require('fs');
 
 const args = process.argv.slice(2);
 const command = args[0];
@@ -74,8 +75,37 @@ async function main() {
             console.log(`Total publications: ${pubs.entries.length}`);
             console.log(`Publications with DOI: ${pubs.entries.filter(p => p.doi).length}`);
             console.log(`Publications with journal ref: ${pubs.entries.filter(p => p.journal_ref).length}`);
-            console.log(`Publications with coverage: ${pubs.entries.filter(p => p.coverage).length}`);
-            console.log(`Publications with awards: ${pubs.entries.filter(p => p.awards).length}`);
+            console.log(`Publications with coverage: ${pubs.entries.filter(p => p.coverage && p.coverage.length > 0).length}`);
+            console.log(`Publications with awards: ${pubs.entries.filter(p => p.awards && p.awards.length > 0).length}`);
+            
+            // Load basics.json to get researcher names
+            const basicsPath = path.join(CONFIG_PATH, 'basics.json');
+            const basics = JSON.parse(fs.readFileSync(basicsPath, 'utf8'));
+            
+            // Per-author breakdown
+            console.log('\nPublications per author:');
+            for (const [id, researcher] of Object.entries(basics)) {
+                const authorPubs = pubs.entries.filter(pub => {
+                    if (!pub.authors) return false;
+                    const authorsLower = pub.authors.toLowerCase();
+                    // Check canonical name and variants
+                    if (authorsLower.includes(researcher.name.toLowerCase())) return true;
+                    if (researcher.name_variants) {
+                        return researcher.name_variants.some(variant => 
+                            authorsLower.includes(variant.toLowerCase())
+                        );
+                    }
+                    return false;
+                });
+                
+                const withJournal = authorPubs.filter(p => p.journal_ref).length;
+                const preprints = authorPubs.filter(p => !p.journal_ref).length;
+                const total = authorPubs.length;
+                
+                if (total > 0) {
+                    console.log(`  ${researcher.name}: ${total} total (${withJournal} published, ${preprints} preprints)`);
+                }
+            }
             
             // Categories breakdown
             const categories = {};
