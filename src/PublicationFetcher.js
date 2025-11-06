@@ -740,6 +740,7 @@ class PublicationFetcher {
         const seenIds = new Set();
         const seenDOIs = new Set();
         const titleMap = {};
+        const publicationAuthors = {}; // Maps publication ID to set of researcher IDs
 
         // Build a map of titles for duplicate detection
         for (const [researcherId, data] of Object.entries(merged)) {
@@ -751,6 +752,13 @@ class PublicationFetcher {
                     titleMap[title] = [];
                 }
                 titleMap[title].push({ researcherId, entry });
+                
+                // Track author IDs for this publication
+                const pubKey = entry.doi || entry.id || title;
+                if (!publicationAuthors[pubKey]) {
+                    publicationAuthors[pubKey] = new Set();
+                }
+                publicationAuthors[pubKey].add(researcherId);
             }
         }
 
@@ -812,6 +820,10 @@ class PublicationFetcher {
                             entry.summary = crossrefData.summary;
                         }
                     }
+                    
+                    // Add QUDYMA author IDs from the tracking map
+                    const pubKey = entry.doi || entry.id || (entry.title ? entry.title.toLowerCase().trim() : '');
+                    entry.author_ids = publicationAuthors[pubKey] ? Array.from(publicationAuthors[pubKey]).sort() : [];
                     
                     // Standardize journal ref, or infer from DOI if missing
                     if (entry.journal_ref) {
