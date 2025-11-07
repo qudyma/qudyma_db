@@ -252,6 +252,7 @@
         "url" : null,
         "status" : "visitor",
         "category" : "02",
+        "supervisors" : ["Rui Silva", "Álvaro Jiménez-Galán"],
         "home" : "Laboratory for Laser Energetics, Rochester University, USA"
     },
     "0018":{
@@ -264,6 +265,7 @@
         "url" : null,
         "status" : "visitor",
         "category" : "03",
+        "supervisors" : ["Álvaro Jiménez-Galán"],
         "home" : "Tarbiat Modares University, Iran"
     },
     "0019":{
@@ -276,6 +278,7 @@
         "url" : null,
         "status" : "visitor",
         "category" : "03",
+        "supervisors" : ["Álvaro Jiménez-Galán"],
         "home" : "Tarbiat Modares University, Iran"
     }
 }
