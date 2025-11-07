@@ -85,8 +85,8 @@ async function main() {
             console.log(`Publications with coverage: ${pubs.entries.filter(p => p.coverage && p.coverage.length > 0).length}`);
             console.log(`Publications with awards: ${pubs.entries.filter(p => p.awards && p.awards.length > 0).length}`);
             
-            // Load basics.json to get researcher names
-            const basicsPath = path.join(CONFIG_PATH, 'basics.json');
+            // Load members.json to get researcher names
+            const basicsPath = path.join(CONFIG_PATH, 'members.json');
             const basics = JSON.parse(fs.readFileSync(basicsPath, 'utf8'));
             
             // Per-author breakdown

@@ -32,7 +32,7 @@ class PublicationFetcher {
     }
 
     loadConfig() {
-        this.basics = this.loadJSON(path.join(this.configPath, 'basics.json'));
+        this.basics = this.loadJSON(path.join(this.configPath, 'members.json'));
         this.journalAbbreviations = this.loadJSON(path.join(this.configPath, 'journal_abbreviations.json'));
         this.normalizationPatterns = this.loadJSON(path.join(this.configPath, 'journal_normalization_patterns.json'));
         

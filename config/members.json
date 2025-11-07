@@ -6,9 +6,14 @@
         "orcid": "0000-0002-7920-5273",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://pablosanjose.github.io/",
         "status" : "member",
-        "category" : "02"
+        "category" : "02",
+        "social" : {
+            "web" : "https://pablosanjose.github.io/",
+            "mail" : "pablo.sanjose@csic.es",
+            "google_scholar" : "https://scholar.google.com/citations?user=pt3gvQgAAAAJ&hl=en",
+            "github" : "https://github.com/pablosanjose"
+        }
     },
     "0002":{
         "name": "Elsa Prada",
@@ -17,9 +22,14 @@
         "orcid": "0000-0001-7522-4795",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://elsaprada.github.io/",
         "status" : "member",
-        "category" : "02"
+        "category" : "02",
+        "social" : {
+            "web" : "https://elsaprada.github.io/",
+            "mail" : "elsa.prada@csic.es",
+            "google_scholar" : "https://scholar.google.com/citations?user=-XI445sAAAAJ&hl=en",
+            "linkedin" : "https://www.linkedin.com/in/elsa-prada-82b6a4347/"
+        }
     },
     "0003":{
         "name": "Antonio Picón",
@@ -28,9 +38,14 @@
         "orcid": "0000-0002-6142-3440",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://picongroup.wordpress.com/",
         "status" : "member",
-        "category" : "03"
+        "category" : "03",
+        "social" : {
+            "web" : "https://picongroup.wordpress.com/",
+            "mail" : "antonio.picon@csic.es",
+            "google_scholar" : "https://scholar.google.com/citations?user=_iSe8kkAAAAJ&hl=e",
+            "github" : "https://github.com/anpicon"
+        }
     },
     "0004":{
         "name": "Rui E. F. Silva",
@@ -39,9 +54,13 @@
         "orcid": "0000-0002-1920-5861",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://ruiefdasilva.wixsite.com/ruiefdasilva",
         "status" : "member",
-        "category" : "04"
+        "category" : "04",
+        "social" : {
+            "web" : "https://ruiefdasilva.wixsite.com/ruiefdasilva",
+            "mail" : "rui.silva@csic.es",
+            "google_scholar" : "https://scholar.google.com/citations?user=T8Lm0TMAAAAJ&hl=pt-PT"
+        }
     },
     "0005":{
         "name": "Álvaro Jiménez-Galán",
@@ -50,9 +69,13 @@
         "orcid": "0000-0003-2116-7187",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://attosecondscience.wixsite.com/alvaro-jimenez-galan",
         "status" : "member",
-        "category" : "05"
+        "category" : "05",
+        "social" : {
+            "web" : "https://attosecondscience.wixsite.com/alvaro-jimenez-galan",
+            "mail" : "alvaro.jimenez@csic.es",
+            "google_scholar" : "https://scholar.google.com/citations?user=6fPAFNAAAAAJ&hl=es"
+        }
     },
     "0006":{
         "name": "Laura Rego",
@@ -61,9 +84,12 @@
         "orcid": "0000-0002-7214-7402",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://scholar.google.es/citations?user=oJLW6EwAAAAJ&hl=es&oi=ao",
         "status" : "member",
-        "category" : "06"
+        "category" : "06",
+        "social" : {
+            "mail" : "laura.rego@csic.es",
+            "google_scholar" : "https://scholar.google.com/citations?user=Uu0gXHAAAAAJ&hl=es"
+        }
     },
     "0007":{
         "name": "Thomas Hansen",
@@ -72,9 +98,12 @@
         "orcid": "0000-0003-0990-2732",
         "date_in": "2025-09-01",
         "date_out": null,
-        "url" : "https://scholar.google.com/citations?hl=da&user=Etgxwy8AAAAJ&scilu=&scisig=AKwmTV4AAAAAaQSlH8ll-MoFxTH2XCVYhNgAZ2U&gmla=AKzYXQ28oZk_X8cEA795tb5aN_LoM7Aw5BLalH4YQl5jAQ8WQzd23p8BBcFZJB9byfKhvLxeHuGeS3Qk1cpYzD1brfdJ2_uliFN7xVfB1lc&sciund=4038906438423457338",
         "status" : "member",
-        "category" : "07"
+        "category" : "07",
+        "social" : {
+            "mail" : "thomas.hansen@csic.es",
+            "google_scholar" : "https://scholar.google.com/citations?hl=da&user=Etgxwy8AAAAJ&scilu=&scisig=AKwmTV4AAAAAaQSlH8ll-MoFxTH2XCVYhNgAZ2U&gmla=AKzYXQ28oZk_X8cEA795tb5aN_LoM7Aw5BLalH4YQl5jAQ8WQzd23p8BBcFZJB9byfKhvLxeHuGeS3Qk1cpYzD1brfdJ2_uliFN7xVfB1lc&sciund=4038906438423457338"
+        }
     },
     "0008":{
         "name": "Carlos Payá",
@@ -83,9 +112,15 @@
         "orcid": "0000-0001-5709-2290",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://carlosp24.github.io/",
         "status" : "member",
-        "category" : "08"
+        "category" : "08",
+        "social" : {
+            "web" : "https://carlospaya.github.io/",
+            "mail" : "carlos.paya@csic.es",
+            "google_scholar" : "https://scholar.google.com/citations?user=hiK2lg4AAAAJ&hl=es",
+            "github" : "https://github.com/CarlosP24",
+            "linkedin" : "https://www.linkedin.com/in/carlos-pay%C3%A1-150bb2249/"
+        }
     },
     "0009":{
         "name": "Francisco Lobo",
@@ -94,9 +129,14 @@
         "orcid": "0009-0003-8417-3610",
         "date_in": "2020-01-01",
         "date_out": null,
-        "url" : "https://franciscolobo1880.github.io/",
         "status" : "member",
-        "category" : "08"
+        "category" : "08",
+        "social" : {
+            "web" : "https://franciscolobo1880.github.io/",
+            "mail" : "francisco.lobo@csic.es",
+            "google_scholar" : "https://scholar.google.com/citations?user=ra6MTs0AAAAJ&hl=pt-PT",
+            "github" : "https://github.com/franciscolobo1880"
+        }
     },
     "0010":{
         "name": "Aday Cárdenas",
@@ -107,7 +147,10 @@
         "date_out": null,
         "url" : null,
         "status" : "member",
-        "category" : "08"
+        "category" : "08",
+        "social" : {
+            "mail" : "aday.cardenas@csic.es"
+        }
     },
     "0011":{
         "name": "Aude Rodriguez",
@@ -118,7 +161,11 @@
         "date_out": null,
         "url" : "https://scholar.google.com/citations?user=q9RddoAAAAAJ&hl=en",
         "status" : "member",
-        "category" : "08"
+        "category" : "08",
+        "social" : {
+            "mail" : "aude.rodriguez@csic.es",
+            "google_scholar" : "https://scholar.google.com/citations?user=q9RddoAAAAAJ&hl=en"
+        }
     },
     "0012":{
         "name": "Pablo Estévez-Alonso",
@@ -129,7 +176,11 @@
         "date_out": null,
         "url" : null,
         "status" : "member",
-        "category" : "08"
+        "category" : "08",
+        "social" : {
+            "mail" : "pablo.estevez@csic.es",
+            "linkedin" : "https://www.linkedin.com/in/pablo-est%C3%A9vez-alonso-b9574829b"
+        }
     },
     "0013":{
         "name": "César Robles",

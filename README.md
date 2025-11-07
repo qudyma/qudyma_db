@@ -42,7 +42,7 @@ node src/index.js merge    # Merge existing data
 
 All configuration files are in the `config/` directory.
 
-### 1. Researchers (`config/basics.json`)
+### 1. Researchers (`config/members.json`)
 
 ```json
 {
@@ -201,7 +201,7 @@ This ensures zero duplicates even when different sources provide inconsistent fo
 ```
 qudyma_db/
 ├── config/                          # Configuration files
-│   ├── basics.json                  # Researcher metadata
+│   ├── members.json                 # Researcher metadata
 │   ├── orcid_oauth.json            # ORCID API credentials
 │   ├── highlights.json             # Featured publications
 │   ├── journal_abbreviations.json  # Journal name mappings
