@@ -100,6 +100,7 @@
         "date_out": null,
         "status" : "member",
         "category" : "07",
+        "supervisors" : ["Rui Silva"],
         "social" : {
             "mail" : "thomas.hansen@csic.es",
             "google_scholar" : "https://scholar.google.com/citations?hl=da&user=Etgxwy8AAAAJ&scilu=&scisig=AKwmTV4AAAAAaQSlH8ll-MoFxTH2XCVYhNgAZ2U&gmla=AKzYXQ28oZk_X8cEA795tb5aN_LoM7Aw5BLalH4YQl5jAQ8WQzd23p8BBcFZJB9byfKhvLxeHuGeS3Qk1cpYzD1brfdJ2_uliFN7xVfB1lc&sciund=4038906438423457338"
@@ -114,6 +115,7 @@
         "date_out": null,
         "status" : "member",
         "category" : "08",
+        "supervisors" : ["Elsa Prada", "Ramón Aguado"],
         "social" : {
             "web" : "https://carlospaya.github.io/",
             "mail" : "carlos.paya@csic.es",
@@ -131,6 +133,7 @@
         "date_out": null,
         "status" : "member",
         "category" : "08",
+        "supervisors" : ["Pablo San-Jose", "Elsa Prada"],
         "social" : {
             "web" : "https://franciscolobo1880.github.io/",
             "mail" : "francisco.lobo@csic.es",
@@ -148,6 +151,7 @@
         "url" : null,
         "status" : "member",
         "category" : "08",
+        "supervisors" : ["Álvaro Jiménez-Galán"],
         "social" : {
             "mail" : "aday.cardenas@csic.es"
         }
@@ -162,6 +166,7 @@
         "url" : "https://scholar.google.com/citations?user=q9RddoAAAAAJ&hl=en",
         "status" : "member",
         "category" : "08",
+        "supervisors" : ["Laura Rego"],
         "social" : {
             "mail" : "aude.rodriguez@csic.es",
             "google_scholar" : "https://scholar.google.com/citations?user=q9RddoAAAAAJ&hl=en"
@@ -177,6 +182,7 @@
         "url" : null,
         "status" : "member",
         "category" : "08",
+        "supervisors" : ["Antonio Picón"],
         "social" : {
             "mail" : "pablo.estevez@csic.es",
             "linkedin" : "https://www.linkedin.com/in/pablo-est%C3%A9vez-alonso-b9574829b"
@@ -191,7 +197,8 @@
         "date_out": null,
         "url" : null,
         "status" : "member",
-        "category" : "09"
+        "category" : "09",
+        "supervisors" : ["Rui Silva"]
     },
     "0014":{
         "name": "Eduardo B. Molinero",
@@ -202,7 +209,10 @@
         "date_out": "2025-05-01",
         "url" : "https://scholar.google.es/citations?user=0nf-axgAAAAJ&hl=es",
         "status" : "member",
-        "category" : "08"
+        "category" : "08",
+        "supervisors" : ["Rui Silva"],
+        "defense_date" : "2025-04-15",
+        "current" : "Indra"
     },
     "0015":{
         "name": "Fernando Peñaranda",
@@ -213,7 +223,10 @@
         "date_out": "2023-04-30",
         "url" : "https://fernandopenaranda.github.io/",
         "status" : "member",
-        "category" : "08"
+        "category" : "08",
+        "supervisors" : ["Elsa Prada", "Pablo San-Jose"],
+        "defense_date" : "2023-04-15",
+        "current" : "DIPC"
     },
     "0016":{
         "name": "Samuel D. Escribano",
@@ -224,7 +237,10 @@
         "date_out": "2022-12-31",
         "url" : "https://www.samueldescribano.com/",
         "status" : "member",
-        "category" : "08"
+        "category" : "08",
+        "supervisors" : ["Elsa Prada", "Alfredo Levy-Yeyati"],
+        "defense_date" : "2022-12-15",
+        "current" : "Qarakal Quantum"
     },
     "0017":{
         "name": "David Purschke",
@@ -235,7 +251,8 @@
         "date_out": null,
         "url" : null,
         "status" : "visitor",
-        "category" : "02"
+        "category" : "02",
+        "home" : "Laboratory for Laser Energetics, Rochester University, USA"
     },
     "0018":{
         "name": "Yeganeh Alvankar",
@@ -246,7 +263,8 @@
         "date_out": null,
         "url" : null,
         "status" : "visitor",
-        "category" : "03"
+        "category" : "03",
+        "home" : "Tarbiat Modares University, Iran"
     },
     "0019":{
         "name": "Hammid Talkhabi",
@@ -257,6 +275,7 @@
         "date_out": null,
         "url" : null,
         "status" : "visitor",
-        "category" : "03"
+        "category" : "03",
+        "home" : "Tarbiat Modares University, Iran"
     }
 }
