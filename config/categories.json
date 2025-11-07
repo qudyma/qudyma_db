@@ -1,0 +1,71 @@
+{
+    "member": [
+        {
+            "title" : "Resear Professor",
+            "title_es" : "Profesor de Investigación",
+            "order" : "01"
+        },
+        {
+            "title" : "Senior Scientist",
+            "title_es" : "Investigador Científico",
+            "order" : "02"
+        },
+        {
+            "title" : "Tenured Scientist",
+            "title_es" : "Científico Titular",
+            "order" : "03"
+        },
+        {
+            "title" : "'Ramón y Cajal' researcher",
+            "title_es" : "Investigador 'Ramón y Cajal'",
+            "order" : "04"
+        },
+        {
+            "title" : "'Talento CAM' researcher",
+            "title_es" : "Investigador 'Talento CAM'",
+            "order" : "05"
+        },
+        {
+            "title" : "'La Caixa Junior Leader' fellow postdoc",
+            "title_es" : "Investigador postdoctoral 'La Caixa Junior Leader'",
+            "order" : "06"
+        },
+        {
+            "title" : "Postdoctoral Researcher",
+            "title_es" : "Investigador postdoctoral",
+            "order" : "07"
+        },
+        {
+            "title" : "PhD Candidate",
+            "title_es" : "Investigador predoctoral",
+            "order" : "08"
+        },
+        {
+            "title" : "MSc Student",
+            "title_es" : "Estudiante de Máster",
+            "order" : "09"
+        },
+        {
+            "title" : "BSc Student",
+            "title_es" : "Estudiante de Grado",
+            "order" : "10"
+        }
+    ],
+    "visitor": [
+        {
+            "title" : "Visiting Scientist",
+            "title_es" : "Científico Visitante",
+            "order" : "01"
+        },
+        {
+            "title" : "Visiting Postdoctoral Researcher",
+            "title_es" : "Investigador postdoctoral Visitante",
+            "order" : "02"
+        },
+        {
+            "title" : "Visiting PhD Candidate",
+            "title_es" : "Investigador predoctoral Visitante",
+            "order" : "03"
+        }
+    ]
+}

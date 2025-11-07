@@ -7,7 +7,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "url" : "https://pablosanjose.github.io/",
-        "category" : "Senior Scientist"
+        "status" : "member",
+        "category" : "02"
     },
     "0002":{
         "name": "Elsa Prada",
@@ -17,7 +18,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "url" : "https://elsaprada.github.io/",
-        "category" : "Senior Scientist"
+        "status" : "member",
+        "category" : "02"
     },
     "0003":{
         "name": "Antonio Picón",
@@ -27,7 +29,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "url" : "https://picongroup.wordpress.com/",
-        "category" : "Tenured Scientist"
+        "status" : "member",
+        "category" : "03"
     },
     "0004":{
         "name": "Rui E. F. Silva",
@@ -37,7 +40,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "url" : "https://ruiefdasilva.wixsite.com/ruiefdasilva",
-        "category" : "'Ramón y Cajal' Researcher"
+        "status" : "member",
+        "category" : "04"
     },
     "0005":{
         "name": "Álvaro Jiménez-Galán",
@@ -47,7 +51,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "url" : "https://attosecondscience.wixsite.com/alvaro-jimenez-galan",
-        "category" : "'Talento CAM' Researcher"
+        "status" : "member",
+        "category" : "05"
     },
     "0006":{
         "name": "Laura Rego",
@@ -57,7 +62,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "url" : "https://scholar.google.es/citations?user=oJLW6EwAAAAJ&hl=es&oi=ao",
-        "category" : "'La Caixa' Fellow Posdoctoral Researcher"
+        "status" : "member",
+        "category" : "06"
     },
     "0007":{
         "name": "Thomas Hansen",
@@ -67,7 +73,8 @@
         "date_in": "2025-09-01",
         "date_out": null,
         "url" : "https://scholar.google.com/citations?hl=da&user=Etgxwy8AAAAJ&scilu=&scisig=AKwmTV4AAAAAaQSlH8ll-MoFxTH2XCVYhNgAZ2U&gmla=AKzYXQ28oZk_X8cEA795tb5aN_LoM7Aw5BLalH4YQl5jAQ8WQzd23p8BBcFZJB9byfKhvLxeHuGeS3Qk1cpYzD1brfdJ2_uliFN7xVfB1lc&sciund=4038906438423457338",
-        "category" : "Postdoctoral Researcher"
+        "status" : "member",
+        "category" : "07"
     },
     "0008":{
         "name": "Carlos Payá",
@@ -77,7 +84,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "url" : "https://carlosp24.github.io/",
-        "category" : "PhD Candidate"
+        "status" : "member",
+        "category" : "08"
     },
     "0009":{
         "name": "Francisco Lobo",
@@ -87,7 +95,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "url" : "https://franciscolobo1880.github.io/",
-        "category" : "PhD Candidate"
+        "status" : "member",
+        "category" : "08"
     },
     "0010":{
         "name": "Aday Cárdenas",
@@ -97,7 +106,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "url" : null,
-        "category" : "PhD Candidate"
+        "status" : "member",
+        "category" : "08"
     },
     "0011":{
         "name": "Aude Rodriguez",
@@ -107,7 +117,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "url" : "https://scholar.google.com/citations?user=q9RddoAAAAAJ&hl=en",
-        "category" : "PhD Candidate"
+        "status" : "member",
+        "category" : "08"
     },
     "0012":{
         "name": "Pablo Estévez-Alonso",
@@ -117,7 +128,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "url" : null,
-        "category" : "PhD Candidate"
+        "status" : "member",
+        "category" : "08"
     },
     "0013":{
         "name": "César Robles",
@@ -127,7 +139,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "url" : null,
-        "category" : "Master's Student"
+        "status" : "member",
+        "category" : "09"
     },
     "0014":{
         "name": "Eduardo B. Molinero",
@@ -137,7 +150,8 @@
         "date_in": "2020-01-01",
         "date_out": "2025-05-01",
         "url" : "https://scholar.google.es/citations?user=0nf-axgAAAAJ&hl=es",
-        "category" : "PhD Candidate"
+        "status" : "member",
+        "category" : "08"
     },
     "0015":{
         "name": "Fernando Peñaranda",
@@ -147,7 +161,8 @@
         "date_in": null,
         "date_out": "2023-04-30",
         "url" : "https://fernandopenaranda.github.io/",
-        "category" : "PhD Candidate"
+        "status" : "member",
+        "category" : "08"
     },
     "0016":{
         "name": "Samuel D. Escribano",
@@ -157,7 +172,8 @@
         "date_in": null,
         "date_out": "2022-12-31",
         "url" : "https://www.samueldescribano.com/",
-        "category" : "PhD Candidate"
+        "status" : "member",
+        "category" : "08"
     },
     "0017":{
         "name": "David Purschke",
@@ -167,7 +183,8 @@
         "date_in": null,
         "date_out": null,
         "url" : null,
-        "category" : "Visiting Postdoctoral Researcher"
+        "status" : "visitor",
+        "category" : "02"
     },
     "0018":{
         "name": "Yeganeh Alvankar",
@@ -177,7 +194,8 @@
         "date_in": null,
         "date_out": null,
         "url" : null,
-        "category" : "Visiting PhD Candidate"
+        "status" : "visitor",
+        "category" : "03"
     },
     "0019":{
         "name": "Hammid Talkhabi",
@@ -187,6 +205,7 @@
         "date_in": null,
         "date_out": null,
         "url" : null,
-        "category" : "Visiting PhD Candidate"
+        "status" : "visitor",
+        "category" : "03"
     }
 }
