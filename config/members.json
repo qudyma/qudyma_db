@@ -8,6 +8,7 @@
         "date_out": null,
         "status" : "member",
         "category" : "02",
+        "office" : "216",
         "social" : {
             "web" : "https://pablosanjose.github.io/",
             "mail" : "pablo.sanjose@csic.es",
@@ -24,6 +25,7 @@
         "date_out": null,
         "status" : "member",
         "category" : "02",
+        "office" : "346",
         "social" : {
             "web" : "https://elsaprada.github.io/",
             "mail" : "elsa.prada@csic.es",
@@ -40,6 +42,7 @@
         "date_out": null,
         "status" : "member",
         "category" : "03",
+        "office" : "114",
         "social" : {
             "web" : "https://picongroup.wordpress.com/",
             "mail" : "antonio.picon@csic.es",
@@ -56,6 +59,7 @@
         "date_out": null,
         "status" : "member",
         "category" : "04",
+        "office" : "002",
         "social" : {
             "web" : "https://ruiefdasilva.wixsite.com/ruiefdasilva",
             "mail" : "rui.silva@csic.es",
@@ -71,6 +75,7 @@
         "date_out": null,
         "status" : "member",
         "category" : "05",
+        "office" : "002",
         "social" : {
             "web" : "https://attosecondscience.wixsite.com/alvaro-jimenez-galan",
             "mail" : "alvaro.jimenez@csic.es",
@@ -101,6 +106,7 @@
         "status" : "member",
         "category" : "07",
         "supervisors" : ["Rui Silva"],
+        "office" : "004",
         "social" : {
             "mail" : "thomas.hansen@csic.es",
             "google_scholar" : "https://scholar.google.com/citations?hl=da&user=Etgxwy8AAAAJ&scilu=&scisig=AKwmTV4AAAAAaQSlH8ll-MoFxTH2XCVYhNgAZ2U&gmla=AKzYXQ28oZk_X8cEA795tb5aN_LoM7Aw5BLalH4YQl5jAQ8WQzd23p8BBcFZJB9byfKhvLxeHuGeS3Qk1cpYzD1brfdJ2_uliFN7xVfB1lc&sciund=4038906438423457338"
@@ -116,6 +122,7 @@
         "status" : "member",
         "category" : "08",
         "supervisors" : ["Elsa Prada", "Ramón Aguado"],
+        "office" : "326",
         "social" : {
             "web" : "https://carlospaya.github.io/",
             "mail" : "carlos.paya@csic.es",
@@ -134,6 +141,7 @@
         "status" : "member",
         "category" : "08",
         "supervisors" : ["Pablo San-Jose", "Elsa Prada"],
+        "office" : "304",
         "social" : {
             "web" : "https://franciscolobo1880.github.io/",
             "mail" : "francisco.lobo@csic.es",
@@ -152,6 +160,7 @@
         "status" : "member",
         "category" : "08",
         "supervisors" : ["Álvaro Jiménez-Galán"],
+        "office" : "304",
         "social" : {
             "mail" : "aday.cardenas@csic.es"
         }
@@ -167,6 +176,7 @@
         "status" : "member",
         "category" : "08",
         "supervisors" : ["Laura Rego"],
+        "office" : "608",
         "social" : {
             "mail" : "aude.rodriguez@csic.es",
             "google_scholar" : "https://scholar.google.com/citations?user=q9RddoAAAAAJ&hl=en"
@@ -183,6 +193,7 @@
         "status" : "member",
         "category" : "08",
         "supervisors" : ["Antonio Picón"],
+        "office" : "126",
         "social" : {
             "mail" : "pablo.estevez@csic.es",
             "linkedin" : "https://www.linkedin.com/in/pablo-est%C3%A9vez-alonso-b9574829b"
