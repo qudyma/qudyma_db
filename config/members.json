@@ -7,7 +7,7 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "status" : "member",
-        "category" : "02",
+        "category" : 2,
         "office" : "216",
         "social" : {
             "web" : "https://pablosanjose.github.io/",
@@ -24,7 +24,7 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "status" : "member",
-        "category" : "02",
+        "category" : 2,
         "office" : "346",
         "social" : {
             "web" : "https://elsaprada.github.io/",
@@ -41,7 +41,7 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "status" : "member",
-        "category" : "03",
+        "category" : 3,
         "office" : "114",
         "social" : {
             "web" : "https://picongroup.wordpress.com/",
@@ -58,7 +58,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "status" : "member",
-        "category" : "04",
+        "category" : 4,
+        "fellowship" : "'Ramón y Cajal'",
         "office" : "002",
         "social" : {
             "web" : "https://ruiefdasilva.wixsite.com/ruiefdasilva",
@@ -74,7 +75,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "status" : "member",
-        "category" : "05",
+        "category" : 4,
+        "fellowship" : "'Talento CAM'",
         "office" : "002",
         "social" : {
             "web" : "https://attosecondscience.wixsite.com/alvaro-jimenez-galan",
@@ -90,7 +92,8 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "status" : "member",
-        "category" : "06",
+        "fellowship" : "'La Caixa Junior Leader'",
+        "category" : 5,
         "social" : {
             "mail" : "laura.rego@csic.es",
             "google_scholar" : "https://scholar.google.com/citations?user=oJLW6EwAAAAJ&hl=es"
@@ -104,9 +107,9 @@
         "date_in": "2025-09-01",
         "date_out": null,
         "status" : "member",
-        "category" : "07",
+        "category" : 6,
         "supervisors" : ["Rui Silva"],
-        "office" : "004",
+        "office" : 6,
         "social" : {
             "mail" : "thomas.hansen@csic.es",
             "google_scholar" : "https://scholar.google.com/citations?hl=da&user=Etgxwy8AAAAJ&scilu=&scisig=AKwmTV4AAAAAaQSlH8ll-MoFxTH2XCVYhNgAZ2U&gmla=AKzYXQ28oZk_X8cEA795tb5aN_LoM7Aw5BLalH4YQl5jAQ8WQzd23p8BBcFZJB9byfKhvLxeHuGeS3Qk1cpYzD1brfdJ2_uliFN7xVfB1lc&sciund=4038906438423457338"
@@ -120,7 +123,7 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "status" : "member",
-        "category" : "08",
+        "category" : 7,
         "supervisors" : ["Elsa Prada", "Ramón Aguado"],
         "office" : "326",
         "social" : {
@@ -139,7 +142,7 @@
         "date_in": "2020-01-01",
         "date_out": null,
         "status" : "member",
-        "category" : "08",
+        "category" : 7,
         "supervisors" : ["Pablo San-Jose", "Elsa Prada"],
         "office" : "304",
         "social" : {
@@ -158,7 +161,7 @@
         "date_out": null,
         "url" : null,
         "status" : "member",
-        "category" : "08",
+        "category" : 7,
         "supervisors" : ["Álvaro Jiménez-Galán"],
         "office" : "304",
         "social" : {
@@ -174,7 +177,7 @@
         "date_out": null,
         "url" : "https://scholar.google.com/citations?user=q9RddoAAAAAJ&hl=en",
         "status" : "member",
-        "category" : "08",
+        "category" : 7,
         "supervisors" : ["Laura Rego"],
         "office" : "608",
         "social" : {
@@ -191,7 +194,7 @@
         "date_out": null,
         "url" : null,
         "status" : "member",
-        "category" : "08",
+        "category" : 7,
         "supervisors" : ["Antonio Picón"],
         "office" : "126",
         "social" : {
@@ -208,7 +211,7 @@
         "date_out": null,
         "url" : null,
         "status" : "member",
-        "category" : "09",
+        "category" : 8,
         "supervisors" : ["Elsa Prada", "Pablo San-Jose"]
     },
     "0014":{
@@ -220,7 +223,7 @@
         "date_out": "2025-05-01",
         "url" : "https://scholar.google.es/citations?user=0nf-axgAAAAJ&hl=es",
         "status" : "member",
-        "category" : "08",
+        "category" : 7,
         "supervisors" : ["Rui Silva"],
         "defense_date" : "2025-04-15",
         "current" : "Indra"
@@ -234,7 +237,7 @@
         "date_out": "2023-04-30",
         "url" : "https://fernandopenaranda.github.io/",
         "status" : "member",
-        "category" : "08",
+        "category" : 7,
         "supervisors" : ["Elsa Prada", "Pablo San-Jose"],
         "defense_date" : "2023-04-15",
         "current" : "DIPC"
@@ -248,7 +251,7 @@
         "date_out": "2022-12-31",
         "url" : "https://www.samueldescribano.com/",
         "status" : "member",
-        "category" : "08",
+        "category" : 7,
         "supervisors" : ["Elsa Prada", "Alfredo Levy-Yeyati"],
         "defense_date" : "2022-12-15",
         "current" : "Qarakal Quantum"
@@ -262,7 +265,7 @@
         "date_out": "2025-06-30",
         "url" : null,
         "status" : "visitor",
-        "category" : "02",
+        "category" : 2,
         "supervisors" : ["Rui Silva", "Álvaro Jiménez-Galán"],
         "home" : "Laboratory for Laser Energetics, Rochester University, USA"
     },
@@ -275,7 +278,7 @@
         "date_out": null,
         "url" : null,
         "status" : "visitor",
-        "category" : "03",
+        "category" : 3,
         "supervisors" : ["Álvaro Jiménez-Galán"],
         "home" : "Tarbiat Modares University, Iran"
     },
@@ -288,7 +291,7 @@
         "date_out": null,
         "url" : null,
         "status" : "visitor",
-        "category" : "03",
+        "category" : 3,
         "supervisors" : ["Álvaro Jiménez-Galán"],
         "home" : "Tarbiat Modares University, Iran"
     }
