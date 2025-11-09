@@ -15,7 +15,7 @@ class DateUtils {
         if (!dateStr) return false;
         
         const date = new Date(dateStr);
-        const isVisiting = researcher.category && researcher.category.includes('Visiting');
+        const isVisiting = researcher?.status === 'visitor';
         
         // For non-visiting members with no date_out, include all publications
         if (!isVisiting && !researcher.date_out) {
