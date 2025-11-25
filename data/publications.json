@@ -1844,6 +1844,26 @@
             "journal_url": null
         },
         {
+            "id": "orcid:0001-Ultrafast Valley Manipulation in 2D Materials",
+            "title": "Ultrafast Valley Manipulation in 2D Materials",
+            "journal_ref": "2025 Conference on Lasers and Electro-Optics, CLEO 2025 (2025)",
+            "doi": "https://doi.org/10.1364/cleo_at.2025.jsy100_4",
+            "published": "2025-01-01T00:00:00.000Z",
+            "updated": "2025-01-01T00:00:00.000Z",
+            "summary": "We demonstrate ultrafast control of valley physics in 2D materials using tailored light fields. A trefoil field realizes a Haldane-like topological model, while phase-locked, polarization- controlled laser pulses achieve room-temperature valley switching.",
+            "authors": "Pablo San-Jose, Jiménez-Galán, Á., Mitra, S., Tyulnev, I., Gucci, F., Silva, R.E.F., Aulich, M., Poborska, J., Molinero, E.B., Neuhaus, M., Vamos, L., Russo, M., Pervak, V., Russell, P., Tani, F., Smirnova, O., San-Jose, P., Camargo, F.V.A., Maiuri, M., Kling, M.F., Ivanov, M., Dal Conte, S., Biswas, S., Biegert, J., Cerullo, Giulio",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001"
+            ],
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1364/cleo_at.2025.jsy100_4"
+        },
+        {
             "id": "orcid:0001-Helical modes and Majoranas in encapsulated graphene bilayers",
             "title": "Helical modes and Majoranas in encapsulated graphene bilayers",
             "journal_ref": "\"Stories in the flatland (with a twist in the end)\", Symposium in honor of Prof. Francisco Guinea (2023)",
