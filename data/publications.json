@@ -5323,6 +5323,32 @@
             "journal_url": "https://doi.org/10.1103/physreva.85.063414"
         },
         {
+            "authors": "Aday Cárdenas, David N. Purschke, Graham G. Brown, Pablo San-Jose, Rui E. F. Silva, Álvaro Jiménez-Galán",
+            "categories": [
+                "Optics (physics.optics)",
+                "Materials Science (cond-mat.mtrl-sci)"
+            ],
+            "comment": "",
+            "formats": {
+                "html": "http://arxiv.org/abs/2512.01712v1",
+                "pdf": "http://arxiv.org/pdf/2512.01712v1"
+            },
+            "id": "http://arxiv.org/abs/2512.01712v1",
+            "published": "2025-12-01T09:18:24-05:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "The interpretation of high-harmonic generation (HHG) in solids typically relies on phenomenological dephasing times far shorter than what is expected from microscopic scattering processes. Here we show that zero-point fluctuations associated with optical phonons naturally suppress long-range electronic coherences and generate clean harmonic spectra without introducing ad-hoc decoherence parameters. Using a 1D semiconductor composed of two distinct sites per unit cell and realistic phonon amplitudes, we demonstrate that random per-site optical-phonon jitter reproduces the spectral sharpening typically attributed to ultrafast $T_2$ dephasing. In contrast, acoustic phonons and local strain, whose distortions are correlated over nanometer scales, produce negligible spectral cleaning. We further show that such long-range site coherence leads to carrier-envelope-phase-dependent effects in the HHG spectrum driven by long pulses, but these effects collapse once optical-phonon-induced decoherence is included. Our results (i) identify optical zero-point motion as a key mechanism governing coherence in solid-state HHG, (ii) demonstrate that it can be qualitatively modeled in periodic solids through site-distance-dependent dephasing, and (iii) suggest that CEP-resolved measurements can probe electronic coherence lengths and atomic fluctuations in crystalline materials.",
+            "title": "Effects of Zero-Point Motion in the High Harmonic Generation Spectrum of Solids",
+            "updated": "2025-12-01T09:18:24-05:00",
+            "author_ids": [
+                "0001",
+                "0004",
+                "0005",
+                "0010"
+            ],
+            "arxiv_url": "https://arxiv.org/abs/2512.01712",
+            "journal_url": null
+        },
+        {
             "authors": "Ayelet J. Uzan-Narovlansky, Álvaro Jiménez-Galán, Gal Orenstein, Rui E. F. Silva, Talya Arusi-Parpar, Sergei Shames, Barry D. Bruner, Binghai Yan, Olga Smirnova, Misha Ivanov, Nirit Dudovich",
             "categories": [
                 "Optics (physics.optics)",
