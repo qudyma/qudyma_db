@@ -6656,15 +6656,15 @@
             ],
             "comment": "",
             "formats": {
-                "html": "http://arxiv.org/abs/2511.14678v1",
-                "pdf": "http://arxiv.org/pdf/2511.14678v1"
+                "html": "http://arxiv.org/abs/2511.14678v2",
+                "pdf": "http://arxiv.org/pdf/2511.14678v2"
             },
-            "id": "http://arxiv.org/abs/2511.14678v1",
+            "id": "http://arxiv.org/abs/2511.14678v2",
             "published": "2025-11-18T12:19:44-05:00",
             "subject": "Materials Science (cond-mat.mtrl-sci)",
             "summary": "High-harmonic generation (HHG) is a strong-field phenomenon that is sensitive to the attosecond dynamics of tunnel ionization and coherent transport of electron-hole pairs in solids. While the foundations of solid HHG have been established, a deep understanding into the nature of decoherence on sub-cycle timescales remains elusive. Furthermore, there is a growing need for tools to control ionization at the nanoscale. Here, we study HHG in silicon along a crystalline-to-amorphous (c-Si to a-Si) structural phase transition and observe a dramatic reshaping of the spectrum, with enhanced lower-order harmonic yield accompanied by quenching of the higher-order harmonics. Modelling the real-space quantum dynamics links our observations to a giant enhancement (>250 times) of tunnel ionization yield in the amorphous phase and a disorder-induced decoherence that damps the electron-hole polarization over approximately six lattice sites. HHG spectroscopy also reveals remnant order that was not apparent with conventional probes. Finally, we observe a rapid and targeted non-resonant laser annealing of amorphous silicon islands. Our results offer a unique insight into attosecond decoherence in strong-field phenomena, establish HHG spectroscopy as a probe of structural disorder, and pave the way for new opportunities in lightwave nanoelectronics.",
             "title": "Giant enhancement of attosecond tunnel ionization competes with disorder-driven decoherence in silicon",
-            "updated": "2025-11-18T12:19:44-05:00",
+            "updated": "2025-12-01T17:34:20-05:00",
             "author_ids": [
                 "0004",
                 "0005",
