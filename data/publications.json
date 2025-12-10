@@ -3038,11 +3038,13 @@
                 "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
             ],
             "comment": "6 pages, 3 figures in main text",
+            "doi": "10.1103/fpwv-vtvk",
             "formats": {
                 "html": "http://arxiv.org/abs/2501.16036v2",
                 "pdf": "http://arxiv.org/pdf/2501.16036v2"
             },
             "id": "http://arxiv.org/abs/2501.16036v2",
+            "journal_ref": "Phys. Rev. Research 7, 043265 (2025)",
             "published": "2025-01-27T08:31:56-05:00",
             "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
             "summary": "Valleytronics, as an alternative to traditional electronics or spintronics, is based on the encoding of quantum information in pseudospin valley quantum numbers, rather than in charge or spin states. A key ingredient is the (optical) manipulation of valley states before loss of coherence, which can be as fast as 100 femtoseconds. Previous works have shown the possibility of valley state manipulation using external fields. Here we propose uniaxial strain as a more flexible and robust scheme to manipulate the valley state through the breaking of the crystal symmetry and the concomitant lifting of the degeneracy of the 1s exciton energy. Our theory is corroborated by state-of-the-art numerical simulations in monolayer hBN and shows the possibility to control valley pseudospin at the attosecond time scale.",
@@ -3052,7 +3054,7 @@
                 "0003"
             ],
             "arxiv_url": "https://arxiv.org/abs/2501.16036",
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1103/fpwv-vtvk"
         },
         {
             "authors": "Juan F. P. Mosquera, Giovanni Cistaro, Mikhail Malakhov, Emilio Pisanty, Alexandre Dauphin, Luis Plaja, Alexis Chacón, Maciej Lewenstein, Antonio Picón",
@@ -4071,7 +4073,7 @@
         {
             "id": "doi:https://doi.org/10.1021/jacs.7b06828",
             "title": "Electronic π-Delocalization Boosts Catalytic Water Oxidation by Cu(II) Molecular Catalysts Heterogenized on Graphene Sheets",
-            "journal_ref": null,
+            "journal_ref": "Journal of the American Chemical Society 139(37), 12907-12910 (2017)",
             "doi": "https://doi.org/10.1021/jacs.7b06828",
             "published": "2017-09-20T00:00:00.000Z",
             "updated": "2017-09-20T00:00:00.000Z",
