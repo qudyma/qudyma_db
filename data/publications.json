@@ -3837,21 +3837,23 @@
             "doi": "https://doi.org/10.1063/5.0020649",
             "published": "2021-03-01T00:00:00.000Z",
             "updated": "2021-03-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Recent developments in attosecond technology led to table-top x-ray spectroscopy in the soft x-ray range, thus uniting the element- and state-specificity of core-level x-ray absorption spectroscopy with the time resolution to follow electronic dynamics in real-time. We describe recent work in attosecond technology and investigations into materials such as Si, SiO2, GaN, Al2O3, Ti, and TiO2, enabled by the convergence of these two capabilities. We showcase the state-of-the-art on isolated attosecond soft x-ray pulses for x-ray absorption near-edge spectroscopy to observe the 3d-state dynamics of the semi-metal TiS2 with attosecond resolution at the Ti L-edge (460 eV). We describe how the element- and state-specificity at the transition metal L-edge of the quantum material allows us to unambiguously identify how and where the optical field influences charge carriers. This precision elucidates that the Ti:3d conduction band states are efficiently photo-doped to a density of 1.9 × 1021 cm−3. The light-field induces coherent motion of intra-band carriers across 38% of the first Brillouin zone. Lastly, we describe the prospects with such unambiguous real-time observation of carrier dynamics in specific bonding or anti-bonding states and speculate that such capability will bring unprecedented opportunities toward an engineered approach for designer materials with pre-defined properties and efficiency. Examples are composites of semiconductors and insulators like Si, Ge, SiO2, GaN, BN, and quantum materials like graphene, transition metal dichalcogens, or high-Tc superconductors like NbN or LaBaCuO. Exiting are prospects to scrutinize canonical questions in multi-body physics, such as whether the electrons or lattice trigger phase transitions.",
+            "authors": "Bárbara Buades, Antonio Picón, Emma Berger, Iker León, Nicola Di Palo, Seth L. Cousin, Caterina Cocchi, Eric Pellegrin, Javier Herrero Martin, Samuel Mañas-Valero, Eugenio Coronado, Thomas Danz, Claudia Draxl, Mitsuharu Uemoto, Kazuhiro Yabana, Martin Schultze, Simon Wall, Michael Zürch, Jens Biegert",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1063/5.0020649"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevResearch.3.013144",
             "title": "Attosecond x-ray transient absorption spectroscopy in graphene",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Research 3(1) (2021)",
             "doi": "https://doi.org/10.1103/PhysRevResearch.3.013144",
             "published": "2021-02-12T00:00:00.000Z",
             "updated": "2021-02-12T00:00:00.000Z",
@@ -3915,17 +3917,14 @@
             "doi": "https://doi.org/10.1088/1367-2630/ab7dde",
             "published": "2020-04-01T00:00:00.000Z",
             "updated": "2020-04-01T00:00:00.000Z",
-            "summary": "Abstract\n               We demonstrate that the standard picture of strong-field tunnel-ionization from molecules should be reformulated. The extended nature of the molecular potential implies the separation of some of the molecular sites from the edge of the ionization barrier. We show that the dependence of the tunnel probability with the distance to the barrier is translated into the ionized wavepacket, modifying substantially the high-order harmonic emission. The introduction of the dependence of tunnel ionization with the molecular site significantly improves the theoretical description of high-order harmonic generation in molecules, which is used as a cornerstone in high-harmonic spectroscopy and attosecond imaging.",
-            "authors": "Laura Rego, Carlos Hernández-García, Antonio Picón, Luis Plaja",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003",
-                "0006"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1367-2630/ab7dde"
         },
@@ -4011,7 +4010,7 @@
         {
             "id": "doi:https://doi.org/10.1364/OPTICA.5.000502",
             "title": "Dispersive soft x-ray absorption fine- structure spectroscopy in graphite with an attosecond pulse",
-            "journal_ref": "Optica 5(5), 502 (2018)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1364/OPTICA.5.000502",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
@@ -4051,20 +4050,18 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/aabec7",
             "title": "Theory of high-order harmonic generation for gapless graphene",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 20(5), 053033 (2018)",
             "doi": "https://doi.org/10.1088/1367-2630/aabec7",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Óscar Zurrón, Antonio Picón, Luis Plaja",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1367-2630/aabec7"
         },
@@ -4134,7 +4131,7 @@
             "id": "orcid:0003-EUV light beams with fractional orbital angular momentum driven by high-order harmonic generation and conical refraction",
             "title": "EUV light beams with fractional orbital angular momentum driven by high-order harmonic generation and conical refraction",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8086813",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4145,11 +4142,10 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003",
-                "0006"
+                "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8086813"
         },
         {
             "id": "doi:https://doi.org/10.1039/C6CC08748E",
@@ -4178,14 +4174,17 @@
             "doi": "https://doi.org/10.1038/srep43888",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "AbstractWe investigate theoretically the generation of extreme-ultraviolet (EUV) beams carrying fractional orbital angular momentum. To this end, we drive high-order harmonic generation with infrared conical refraction (CR) beams. We show that the high-order harmonic beams emitted in the EUV/soft x-ray regime preserve the characteristic signatures of the driving beam, namely ringlike transverse intensity profile and CR-like polarization distribution. As a result, through orbital and spin angular momentum conservation, harmonic beams are emitted with fractional orbital angular momentum, and they can be synthesized into structured attosecond helical beams –or “structured attosecond light springs”– with rotating linear polarization along the azimuth. Our proposal overcomes the state of the art limitations for the generation of light beams far from the visible domain carrying non-integer orbital angular momentum and could be applied in fields such as diffraction imaging, EUV lithography, particle trapping, and super-resolution imaging.",
+            "authors": "Alex Turpin, Laura Rego, Antonio Picón, Julio San Román, Carlos Hernández-García",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003",
+                "0006"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/srep43888"
         },
@@ -5165,7 +5164,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0129-0",
             "title": "High-harmonic spectroscopy of ultrafast many-body dynamics in strongly correlated systems",
-            "journal_ref": "Nature Photonics 12(5), 266-270 (2018)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/s41566-018-0129-0",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
@@ -5283,7 +5282,7 @@
         {
             "id": "doi:https://doi.org/10.1021/jp3053136",
             "title": "Pump–Probe Scheme To Study the Autoionization Decay of Optically-Forbidden H2Doubly Excited States",
-            "journal_ref": "The Journal of Physical Chemistry A 116(46), 11304-11310 (2012)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1021/jp3053136",
             "published": "2012-11-01T00:00:00.000Z",
             "updated": "2012-11-01T00:00:00.000Z",
@@ -5649,7 +5648,7 @@
         {
             "id": "doi:https://doi.org/10.1364/optica.418152",
             "title": "Light-induced valleytronics in pristine graphene",
-            "journal_ref": null,
+            "journal_ref": "Optica 8(3), 422 (2021)",
             "doi": "https://doi.org/10.1364/optica.418152",
             "published": "2021-03-20T00:00:00.000Z",
             "updated": "2021-03-20T00:00:00.000Z",
@@ -5765,7 +5764,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.95.043426",
             "title": "Control of photoemission delay in resonant two-photon transitions",
-            "journal_ref": null,
+            "journal_ref": "Physical Review A 95(4) (2017)",
             "doi": "https://doi.org/10.1103/PHYSREVA.95.043426",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
@@ -5848,13 +5847,15 @@
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Andrew J. Orr-Ewing, Jan R. R. Verlet, Tom J. Penfold, Russell S. Minns, Michael P. Minitti, Theis I. Sølling, Oliver Schalk, Markus Kowalewski, Jon P. Marangos, Michael A. Robb, Allan S. Johnson, Hans Jakob Wörner, Dmitrii V. Shalashilin, R. J. Dwayne Miller, Wolfgang Domcke, Kiyoshi Ueda, Peter M. Weber, Raluca Cireasa, Morgane Vacher, Gareth M. Roberts, Piero Decleva, Filippo Bencivenga, Daniel M. Neumark, Oliver Gessner, Albert Stolow, Pankaj Kumar Mishra, Iakov Polyak, Kyoung Koo Baeck, Adam Kirrander, Danielle Dowek, Álvaro Jiménez-Galán, Fernando Martín, Shaul Mukamel, Taro Sekikawa, Maxim F. Gelin, Dave Townsend, Dmitry V. Makhov, Simon P. Neville",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1039/C6FD90070D"
         },
@@ -5899,18 +5900,20 @@
         {
             "id": "doi:https://doi.org/10.1088/1742-6596/635/1/012005",
             "title": "Modulation of Attosecond Beating by Resonant Two-Photon Transition",
-            "journal_ref": null,
+            "journal_ref": "Journal of Physics: Conference Series 635(1), 012005 (2015)",
             "doi": "https://doi.org/10.1088/1742-6596/635/1/012005",
             "published": "2015-09-07T00:00:00.000Z",
             "updated": "2015-09-07T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Álvaro Jiménez Galán, Luca Argenti, Fernando Martín",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1742-6596/635/1/012005"
         },
@@ -5937,25 +5940,27 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVLETT.113.263001",
             "title": "Modulation of Attosecond Beating in Resonant Two-Photon Ionization",
-            "journal_ref": "Physical Review Letters 113(26) (2014)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVLETT.113.263001",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Álvaro Jiménez-Galán, Luca Argenti, Fernando Martín",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PHYSREVLETT.113.263001"
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/15/11/113009",
             "title": "The soft-photon approximation in infrared-laser-assisted atomic ionization by extreme-ultraviolet attosecond-pulse trains",
-            "journal_ref": "New Journal of Physics 15(11), 113009 (2013)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/15/11/113009",
             "published": "2013-01-01T00:00:00.000Z",
             "updated": "2013-01-01T00:00:00.000Z",
@@ -6135,7 +6140,7 @@
         {
             "id": "doi:https://doi.org/10.1063/5.0251524",
             "title": "Attosecond physics and technology",
-            "journal_ref": null,
+            "journal_ref": "Applied Physics Letters 126(17) (2025)",
             "doi": "https://doi.org/10.1063/5.0251524",
             "published": "2025-04-28T00:00:00.000Z",
             "updated": "2025-04-28T00:00:00.000Z",
@@ -6155,7 +6160,7 @@
         {
             "id": "doi:https://doi.org/10.1126/sciadv.adp0841",
             "title": "Attosecond impulsive stimulated X-ray Raman scattering in liquid water",
-            "journal_ref": null,
+            "journal_ref": "Science Advances 10(39) (2024)",
             "doi": "https://doi.org/10.1126/sciadv.adp0841",
             "published": "2024-09-27T00:00:00.000Z",
             "updated": "2024-09-27T00:00:00.000Z",
@@ -6176,7 +6181,7 @@
         {
             "id": "doi:https://doi.org/10.1515/nanoph-2022-0802",
             "title": "Tilting light’s polarization plane to spatially separate the ultrafast nonlinear response of chiral molecules",
-            "journal_ref": "Nanophotonics 12(14), 2873-2879 (2023)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1515/nanoph-2022-0802",
             "published": "2023-07-14T00:00:00.000Z",
             "updated": "2023-07-14T00:00:00.000Z",
@@ -6258,14 +6263,16 @@
             "doi": "https://doi.org/10.1364/OL.404402",
             "published": "2020-10-15T00:00:00.000Z",
             "updated": "2020-10-15T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Ultrafast laser pulses generated at the attosecond timescale represent a unique tool to explore the fastest dynamics in matter. An accurate control of their properties, such as polarization, is fundamental to shape three-dimensional laser-driven dynamics. We introduce a technique to generate attosecond pulse trains whose polarization state varies from pulse to pulse. This is accomplished by driving high-harmonic generation with two time-delayed bichromatic counter-rotating fields with proper orbital angular momentum (OAM) content. Our simulations show that the evolution of the polarization state along the train can be controlled via OAM, pulse duration, and time delay of the driving fields. We, thus, introduce an additional control into structured attosecond pulses that provides an alternative route to explore ultrafast dynamics with potential applications in chiral and magnetic materials.",
+            "authors": "Laura Rego, Julio San Román, Luis Plaja, Carlos Hernández-García",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0006"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OL.404402"
         },
