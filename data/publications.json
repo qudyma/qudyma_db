@@ -5137,16 +5137,14 @@
             "doi": "https://doi.org/10.1038/s41467-020-15196-x",
             "published": "2020-03-17T00:00:00.000Z",
             "updated": "2020-03-17T00:00:00.000Z",
-            "summary": "AbstractConventional approaches to probing ultrafast molecular dynamics rely on the use of synchronized laser pulses with a well-defined time delay. Typically, a pump pulse excites a molecular wavepacket. A subsequent probe pulse can then dissociate or ionize the molecule, and measurement of the molecular fragments provides information about where the wavepacket was for each time delay. Here, we propose to exploit the ultrafast nuclear-position-dependent emission obtained due to large light–matter coupling in plasmonic nanocavities to image wavepacket dynamics using only a single pump pulse. We show that the time-resolved emission from the cavity provides information about when the wavepacket passes a given region in nuclear configuration space. This approach can image both cavity-modified dynamics on polaritonic (hybrid light–matter) potentials in the strong light–matter coupling regime and bare-molecule dynamics in the intermediate coupling regime of large Purcell enhancements, and provides a route towards ultrafast molecular spectroscopy with plasmonic nanocavities.",
-            "authors": "R. E. F. Silva, Javier del Pino, Francisco J. García-Vidal, Johannes Feist",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41467-020-15196-x"
         },
@@ -6311,10 +6309,10 @@
             "id": "orcid:0006-High-order nonlinear dipole response characterized by extreme-ultraviolet ellipsometry",
             "title": "High-order nonlinear dipole response characterized by extreme-ultraviolet ellipsometry",
             "journal_ref": "Optics InfoBase Conference Papers (2020)",
-            "doi": "https://doi.org/10.1364/hilas.2020.hf2b.5",
+            "doi": "https://doi.org/10.1109/cleo-pr62338.2022.10432593",
             "published": "2020-01-01T00:00:00.000Z",
             "updated": "2020-01-01T00:00:00.000Z",
-            "summary": "We demonstrate that polarization control and characterization of high-harmonic generation in non-collinear geometry perform as excellent ellipsometry that can precisely retrieve the non-perturbative dipole response, both amplitude and phase, in the extremely nonlinear up-conversion process.",
+            "summary": "",
             "authors": "Laura Rego, Chang, K.-Y., Huang, L.-C., Asaga, K., Tsai, M.-S., Rego, L., Huang, P.-C., Mashiko, H., Oguri, K., Hernández-García, C., Chen, M.-C.",
             "categories": [],
             "formats": {
@@ -6325,7 +6323,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/hilas.2020.hf2b.5"
+            "journal_url": "https://doi.org/10.1109/cleo-pr62338.2022.10432593"
         },
         {
             "id": "doi:https://doi.org/10.1109/JSTQE.2019.2919777",
