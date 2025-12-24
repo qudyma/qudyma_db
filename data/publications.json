@@ -5097,15 +5097,13 @@
             "published": "2020-11-29T00:00:00.000Z",
             "updated": "2020-11-29T00:00:00.000Z",
             "summary": "",
-            "authors": "Dongxing Zhao, Rui E. F. Silva, Clàudia Climent, Johannes Feist, Antonio I. Fernández-Domínguez, Francisco J. García-Vidal",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1021/acsphotonics.0c01095"
         },
@@ -6311,10 +6309,10 @@
             "id": "orcid:0006-High-order nonlinear dipole response characterized by extreme-ultraviolet ellipsometry",
             "title": "High-order nonlinear dipole response characterized by extreme-ultraviolet ellipsometry",
             "journal_ref": "Optics InfoBase Conference Papers (2020)",
-            "doi": "https://doi.org/10.1364/hilas.2020.hf2b.5",
+            "doi": "https://doi.org/10.1109/cleo-pr62338.2022.10432593",
             "published": "2020-01-01T00:00:00.000Z",
             "updated": "2020-01-01T00:00:00.000Z",
-            "summary": "We demonstrate that polarization control and characterization of high-harmonic generation in non-collinear geometry perform as excellent ellipsometry that can precisely retrieve the non-perturbative dipole response, both amplitude and phase, in the extremely nonlinear up-conversion process.",
+            "summary": "",
             "authors": "Laura Rego, Chang, K.-Y., Huang, L.-C., Asaga, K., Tsai, M.-S., Rego, L., Huang, P.-C., Mashiko, H., Oguri, K., Hernández-García, C., Chen, M.-C.",
             "categories": [],
             "formats": {
@@ -6325,7 +6323,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/hilas.2020.hf2b.5"
+            "journal_url": "https://doi.org/10.1109/cleo-pr62338.2022.10432593"
         },
         {
             "id": "doi:https://doi.org/10.1109/JSTQE.2019.2919777",
