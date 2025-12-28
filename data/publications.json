@@ -3937,7 +3937,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/ab7dde",
             "title": "Site-specific tunnel-ionization in high harmonic generation in molecules",
-            "journal_ref": "New Journal of Physics 22(4), 043012 (2020)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/ab7dde",
             "published": "2020-04-01T00:00:00.000Z",
             "updated": "2020-04-01T00:00:00.000Z",
@@ -5213,7 +5213,7 @@
         {
             "id": "doi:https://doi.org/10.1038/srep32653",
             "title": "Even harmonic generation in isotropic media of dissociating homonuclear molecules",
-            "journal_ref": "Scientific Reports 6(1) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/srep32653",
             "published": "2016-09-06T00:00:00.000Z",
             "updated": "2016-09-06T00:00:00.000Z",
@@ -5233,7 +5233,7 @@
         {
             "id": "doi:https://doi.org/10.1103/physrevlett.117.093003",
             "title": "Enhancing High-Order Harmonic Generation in Light Molecules by Using Chirped Pulses",
-            "journal_ref": "Physical Review Letters 117(9) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physrevlett.117.093003",
             "published": "2016-08-01T00:00:00.000Z",
             "updated": "2016-08-01T00:00:00.000Z",
@@ -5276,15 +5276,13 @@
             "published": "2014-02-01T00:00:00.000Z",
             "updated": "2014-02-01T00:00:00.000Z",
             "summary": "",
-            "authors": "F. Catoire, R. E. F. Silva, P. Rivière, H. Bachau, F. Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.89.023415"
         },
@@ -5296,15 +5294,13 @@
             "published": "2013-03-01T00:00:00.000Z",
             "updated": "2013-03-01T00:00:00.000Z",
             "summary": "",
-            "authors": "R. E. F. Silva, F. Catoire, P. Rivière, H. Bachau, F. Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physrevlett.110.113001"
         },
@@ -5336,15 +5332,13 @@
             "published": "2012-06-01T00:00:00.000Z",
             "updated": "2012-06-01T00:00:00.000Z",
             "summary": "",
-            "authors": "R. E. F. Silva, P. Rivière, F. Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.85.063414"
         },
@@ -5604,15 +5598,13 @@
             "published": "2023-11-20T00:00:00.000Z",
             "updated": "2023-11-20T00:00:00.000Z",
             "summary": "",
-            "authors": "David N. Purschke, Álvaro Jiménez-Galán, Thomas Brabec, Andrei Yu. Naumov, André Staudte, David M. Villeneuve, Giulio Vampa",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.108.l051103"
         },
@@ -5659,7 +5651,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41467-021-22264-3",
             "title": "Topological protection versus degree of entanglement of two-photon light in photonic topological insulators",
-            "journal_ref": "Nature Communications 12(1) (2021)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/s41467-021-22264-3",
             "published": "2021-03-30T00:00:00.000Z",
             "updated": "2021-03-30T00:00:00.000Z",
@@ -5677,7 +5669,7 @@
         {
             "id": "doi:https://doi.org/10.1364/optica.418152",
             "title": "Light-induced valleytronics in pristine graphene",
-            "journal_ref": "Optica 8(3), 422 (2021)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1364/optica.418152",
             "published": "2021-03-20T00:00:00.000Z",
             "updated": "2021-03-20T00:00:00.000Z",
@@ -5702,15 +5694,13 @@
             "published": "2018-11-05T00:00:00.000Z",
             "updated": "2018-11-05T00:00:00.000Z",
             "summary": "",
-            "authors": "Gopal Dixit, Álvaro Jiménez-Galán, Lukas Medišauskas, Misha Ivanov",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.98.053402"
         },
