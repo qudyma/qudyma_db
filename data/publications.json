@@ -3981,13 +3981,15 @@
             "published": "2019-03-04T00:00:00.000Z",
             "updated": "2019-03-04T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Óscar Zurrón-Cifuentes, Roberto Boyero-García, Carlos Hernández-García, Antonio Picón, Luis Plaja",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OE.27.007776"
         },
@@ -4075,7 +4077,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/aabec7",
             "title": "Theory of high-order harmonic generation for gapless graphene",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 20(5), 053033 (2018)",
             "doi": "https://doi.org/10.1088/1367-2630/aabec7",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
@@ -4501,7 +4503,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.117.163202",
             "title": "Nonperturbative Twist in the Generation of Extreme-Ultraviolet Vortex Beams",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Letters 117(16) (2016)",
             "doi": "https://doi.org/10.1103/PhysRevLett.117.163202",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
@@ -4930,14 +4932,17 @@
             "doi": "https://doi.org/10.1038/s41586-024-07244-z",
             "published": "2024-04-25T00:00:00.000Z",
             "updated": "2024-04-25T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Abstract\n                  \n                    In recent years, the stacking and twisting of atom-thin structures with matching crystal symmetry has provided a unique way to create new superlattice structures in which new properties emerge\n                    1,2\n                    . In parallel, control over the temporal characteristics of strong light fields has allowed researchers to manipulate coherent electron transport in such atom-thin structures on sublaser-cycle timescales\n                    3,4\n                    . Here we demonstrate a tailored light-wave-driven analogue to twisted layer stacking. Tailoring the spatial symmetry of the light waveform to that of the lattice of a hexagonal boron nitride monolayer and then twisting this waveform result in optical control of time-reversal symmetry breaking\n                    5\n                    and the realization of the topological Haldane model\n                    6\n                    in a laser-dressed two-dimensional insulating crystal. Further, the parameters of the effective Haldane-type Hamiltonian can be controlled by rotating the light waveform, thus enabling ultrafast switching between band structure configurations and allowing unprecedented control over the magnitude, location and curvature of the bandgap. This results in an asymmetric population between complementary quantum valleys that leads to a measurable valley Hall current\n                    7\n                    , which can be detected by optical harmonic polarimetry. The universality and robustness of our scheme paves the way to valley-selective bandgap engineering on the fly and unlocks the possibility of creating few-femtosecond switches with quantum degrees of freedom.",
+            "authors": "Sambit Mitra, Álvaro Jiménez-Galán, Mario Aulich, Marcel Neuhaus, Rui E. F. Silva, Volodymyr Pervak, Matthias F. Kling, Shubhadeep Biswas",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004",
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41586-024-07244-z"
         },
@@ -4986,7 +4991,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.131.243201",
             "title": "Following the Nonthermal Phase Transition in Niobium Dioxide by Time-Resolved Harmonic Spectroscopy",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Letters 131(24) (2023)",
             "doi": "https://doi.org/10.1103/PhysRevLett.131.243201",
             "published": "2023-12-11T00:00:00.000Z",
             "updated": "2023-12-11T00:00:00.000Z",
@@ -5025,25 +5030,28 @@
         {
             "id": "doi:https://doi.org/10.1364/oe.460291",
             "title": "All-optical valley switch and clock of electronic dephasing",
-            "journal_ref": null,
+            "journal_ref": "Optics Express 30(17), 30347 (2022)",
             "doi": "https://doi.org/10.1364/oe.460291",
             "published": "2022-08-15T00:00:00.000Z",
             "updated": "2022-08-15T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "2D materials with broken inversion symmetry posses an extra degree of freedom, the valley pseudospin, that labels in which of the two energy-degenerate crystal momenta, K or K’, the conducting carriers are located. It has been shown that shining circularly-polarized light allows to achieve close to 100% of valley polarization, opening the way to valley-based transistors. Yet, switching of the valley polarization is still a key challenge for the practical implementation of such devices due to the short valley lifetimes. Recent progress in ultrashort laser technology now allows to produce trains of attosecond pulses with controlled phase and polarization between the pulses. Taking advantage of such technology, we introduce a coherent control protocol to turn on, off and switch the valley polarization at faster timescales than electron-hole decoherence and valley depolarization, that is, an ultrafast optical valley switch. We theoretically demonstrate the protocol for hBN and MoS2 monolayers calculated from first principles. Additionally, using two time-delayed linearly-polarized pulses with perpendicular polarization, we show that we can extract the electronic dephasing time T2 from the valley Hall conductivity.",
+            "authors": "Rui E. F. Silva, Misha Ivanov, Álvaro Jiménez-Galán",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004",
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/oe.460291"
         },
         {
             "id": "doi:https://doi.org/10.1103/physreva.105.043704",
             "title": "Permutational symmetry for identical multilevel systems: A second-quantized approach",
-            "journal_ref": null,
+            "journal_ref": "Physical Review A 105(4) (2022)",
             "doi": "https://doi.org/10.1103/physreva.105.043704",
             "published": "2022-04-04T00:00:00.000Z",
             "updated": "2022-04-04T00:00:00.000Z",
@@ -5063,7 +5071,7 @@
         {
             "id": "doi:https://doi.org/10.1103/physrevresearch.3.023250",
             "title": "Tracking ultrafast solid-state dynamics using high harmonic spectroscopy",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Research 3(2) (2021)",
             "doi": "https://doi.org/10.1103/physrevresearch.3.023250",
             "published": "2021-06-28T00:00:00.000Z",
             "updated": "2021-06-28T00:00:00.000Z",
@@ -5084,18 +5092,20 @@
         {
             "id": "doi:https://doi.org/10.1021/acsphotonics.0c01095",
             "title": "Impact of Vibrational Modes in the Plasmonic Purcell Effect of Organic Molecules",
-            "journal_ref": null,
+            "journal_ref": "ACS Photonics 7(12), 3369-3375 (2020)",
             "doi": "https://doi.org/10.1021/acsphotonics.0c01095",
             "published": "2020-11-29T00:00:00.000Z",
             "updated": "2020-11-29T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Dongxing Zhao, Rui E. F. Silva, Clàudia Climent, Johannes Feist, Antonio I. Fernández-Domínguez, Francisco J. García-Vidal",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1021/acsphotonics.0c01095"
         },
@@ -5107,20 +5117,23 @@
             "published": "2020-03-20T00:00:00.000Z",
             "updated": "2020-03-20T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Ayelet Julie Uzan, Gal Orenstein, Álvaro Jiménez-Galán, Chris McDonald, Rui E. F. Silva, Barry D. Bruner, Nikolai D. Klimkin, Valerie Blanchet, Talya Arusi-Parpar, Michael Krüger, Alexey N. Rubtsov, Olga Smirnova, Misha Ivanov, Binghai Yan, Thomas Brabec, Nirit Dudovich",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004",
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41566-019-0574-4"
         },
         {
             "id": "doi:https://doi.org/10.1038/s41467-020-15196-x",
             "title": "Polaritonic molecular clock for all-optical ultrafast imaging of wavepacket dynamics without probe pulses",
-            "journal_ref": null,
+            "journal_ref": "Nature Communications 11(1) (2020)",
             "doi": "https://doi.org/10.1038/s41467-020-15196-x",
             "published": "2020-03-17T00:00:00.000Z",
             "updated": "2020-03-17T00:00:00.000Z",
@@ -5180,7 +5193,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0129-0",
             "title": "High-harmonic spectroscopy of ultrafast many-body dynamics in strongly correlated systems",
-            "journal_ref": null,
+            "journal_ref": "Nature Photonics 12(5), 266-270 (2018)",
             "doi": "https://doi.org/10.1038/s41566-018-0129-0",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
