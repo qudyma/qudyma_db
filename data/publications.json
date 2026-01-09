@@ -3018,6 +3018,7 @@
                 "Quantum Physics (quant-ph)"
             ],
             "comment": "",
+            "doi": "10.1103/y6dt-1sfw",
             "formats": {
                 "html": "http://arxiv.org/abs/2512.13079v1",
                 "pdf": "http://arxiv.org/pdf/2512.13079v1"
@@ -3031,8 +3032,9 @@
             "author_ids": [
                 "0003"
             ],
+            "journal_ref": "Physical Review X (2025)",
             "arxiv_url": "https://arxiv.org/abs/2512.13079",
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1103/y6dt-1sfw"
         },
         {
             "authors": "Maurício F. C. Martins Quintela, Guilherme J. Inacio, Miguel Sá, Giovanni Cistaro, Alberto M. Ruiz, José J. Baldoví, Juan J. Palacios, Antonio Picón",
