@@ -1844,6 +1844,29 @@
             "journal_url": null
         },
         {
+            "id": "doi:https://doi.org/10.1038/s41566-025-01823-w",
+            "title": "Encoding and manipulating ultrafast coherent valleytronic information with lightwaves",
+            "journal_ref": "Nature Photonics (2026)",
+            "doi": "https://doi.org/10.1038/s41566-025-01823-w",
+            "published": "2026-01-09T00:00:00.000Z",
+            "updated": "2026-01-09T00:00:00.000Z",
+            "summary": "",
+            "authors": "Francesco Gucci, Eduardo B. Molinero, Mattia Russo, Pablo San-Jose, Franco V. A. Camargo, Margherita Maiuri, Misha Ivanov, Álvaro Jiménez-Galán, Rui E. F. Silva, Stefano Dal Conte, Giulio Cerullo",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001",
+                "0004",
+                "0005",
+                "0014"
+            ],
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s41566-025-01823-w"
+        },
+        {
             "id": "orcid:0001-Ultrafast Valley Manipulation in 2D Materials",
             "title": "Ultrafast Valley Manipulation in 2D Materials",
             "journal_ref": "2025 Conference on Lasers and Electro-Optics, CLEO 2025 (2025)",
@@ -6191,7 +6214,7 @@
         {
             "id": "doi:https://doi.org/10.1126/sciadv.adp0841",
             "title": "Attosecond impulsive stimulated X-ray Raman scattering in liquid water",
-            "journal_ref": "Science Advances 10(39) (2024)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1126/sciadv.adp0841",
             "published": "2024-09-27T00:00:00.000Z",
             "updated": "2024-09-27T00:00:00.000Z",
