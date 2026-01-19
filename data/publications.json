@@ -4067,13 +4067,15 @@
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Bárbara Buades, Dooshaye Moonshiram, Themistoklis P. H. Sidiropoulos, Iker León, Peter Schmidt, Irina Pi, Nicola Di Palo, Seth L. Cousin, Antonio Picón, Frank Koppens, Jens Biegert",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OPTICA.5.000502"
         },
@@ -4506,7 +4508,7 @@
         {
             "id": "doi:https://doi.org/10.1021/acs.jpcc.6b06883",
             "title": "Mechanistic Evaluation of a Nickel Proton Reduction Catalyst Using Time-Resolved X-ray Absorption Spectroscopy",
-            "journal_ref": null,
+            "journal_ref": "The Journal of Physical Chemistry C 120(36), 20049-20057 (2016)",
             "doi": "https://doi.org/10.1021/acs.jpcc.6b06883",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
@@ -4547,7 +4549,7 @@
         {
             "id": "doi:https://doi.org/10.1021/jacs.6b05680",
             "title": "Tracking the Structural and Electronic Configurations of a Cobalt Proton Reduction Catalyst in Water",
-            "journal_ref": null,
+            "journal_ref": "Journal of the American Chemical Society 138(33), 10586-10596 (2016)",
             "doi": "https://doi.org/10.1021/jacs.6b05680",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
@@ -4587,7 +4589,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/17/9/093029",
             "title": "Quantum-path signatures in attosecond helical beams driven by optical vortices",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 17(9), 093029 (2015)",
             "doi": "https://doi.org/10.1088/1367-2630/17/9/093029",
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
@@ -4951,7 +4953,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41586-024-07244-z",
             "title": "Light-wave-controlled Haldane model in monolayer hexagonal boron nitride",
-            "journal_ref": null,
+            "journal_ref": "Nature 628(8009), 752-757 (2024)",
             "doi": "https://doi.org/10.1038/s41586-024-07244-z",
             "published": "2024-04-25T00:00:00.000Z",
             "updated": "2024-04-25T00:00:00.000Z",
@@ -4997,14 +4999,17 @@
             "doi": "https://doi.org/10.1038/s41586-023-06828-5",
             "published": "2024-02-01T00:00:00.000Z",
             "updated": "2024-02-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Abstract\n                  \n                    Ever since its discovery\n                    1\n                    , the notion of the Berry phase has permeated all branches of physics and plays an important part in a variety of quantum phenomena\n                    2\n                    . However, so far all its realizations have been based on a continuous evolution of the quantum state, following a cyclic path. Here we introduce and demonstrate a conceptually new manifestation of the Berry phase in light-driven crystals, in which the electronic wavefunction accumulates a geometric phase during a discrete evolution between different bands, while preserving the coherence of the process. We experimentally reveal this phase by using a strong laser field to engineer an internal interferometer, induced during less than one cycle of the driving field, which maps the phase onto the emission of higher-order harmonics. Our work provides an opportunity for the study of geometric phases, leading to a variety of observations in light-driven topological phenomena and attosecond solid-state physics.",
+            "authors": "Ayelet J. Uzan-Narovlansky, Lior Faeyrman, Graham G. Brown, Sergei Shames, Vladimir Narovlansky, Jiewen Xiao, Talya Arusi-Parpar, Omer Kneller, Barry D. Bruner, Olga Smirnova, Rui E. F. Silva, Binghai Yan, Álvaro Jiménez-Galán, Misha Ivanov, Nirit Dudovich",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004",
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41586-023-06828-5"
         },
@@ -5029,25 +5034,28 @@
         {
             "id": "doi:https://doi.org/10.1364/oe.462692",
             "title": "Symmetry-aware deep neural networks for high harmonic spectroscopy in solids",
-            "journal_ref": null,
+            "journal_ref": "Optics Express 31(12), 20559 (2023)",
             "doi": "https://doi.org/10.1364/oe.462692",
             "published": "2023-06-05T00:00:00.000Z",
             "updated": "2023-06-05T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Neural networks are a prominent tool for identifying and modeling complex patterns, which are otherwise hard to detect and analyze. While machine learning and neural networks have been finding applications across many areas of science and technology, their use in decoding ultrafast dynamics of quantum systems driven by strong laser fields has been limited so far. Here we use standard deep neural networks to analyze simulated noisy spectra of highly nonlinear optical response of a 2-dimensional gapped graphene crystal to intense few-cycle laser pulses. We show that a computationally simple 1-dimensional system provides a useful \"nursery school\" for our neural network, allowing it to be retrained to treat more complex 2D systems, recovering the parametrized band structure and spectral phases of the incident few-cycle pulse with high accuracy, in spite of significant amplitude noise and phase jitter. Our results offer a route for attosecond high harmonic spectroscopy of quantum dynamics in solids with a simultaneous, all-optical, solid-state based complete characterization of few-cycle pulses, including their nonlinear spectral phase and the carrier envelope phase.",
+            "authors": "Nikolai D Klimkin, Álvaro Jiménez-Galán, Rui E. F. Silva, Misha Ivanov",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004",
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/oe.462692"
         },
         {
             "id": "doi:https://doi.org/10.1364/oe.460291",
             "title": "All-optical valley switch and clock of electronic dephasing",
-            "journal_ref": null,
+            "journal_ref": "Optics Express 30(17), 30347 (2022)",
             "doi": "https://doi.org/10.1364/oe.460291",
             "published": "2022-08-15T00:00:00.000Z",
             "updated": "2022-08-15T00:00:00.000Z",
@@ -5114,13 +5122,15 @@
             "published": "2020-11-29T00:00:00.000Z",
             "updated": "2020-11-29T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Dongxing Zhao, Rui E. F. Silva, Clàudia Climent, Johannes Feist, Antonio I. Fernández-Domínguez, Francisco J. García-Vidal",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1021/acsphotonics.0c01095"
         },
@@ -5132,13 +5142,16 @@
             "published": "2020-03-20T00:00:00.000Z",
             "updated": "2020-03-20T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Ayelet Julie Uzan, Gal Orenstein, Álvaro Jiménez-Galán, Chris McDonald, Rui E. F. Silva, Barry D. Bruner, Nikolai D. Klimkin, Valerie Blanchet, Talya Arusi-Parpar, Michael Krüger, Alexey N. Rubtsov, Olga Smirnova, Misha Ivanov, Binghai Yan, Thomas Brabec, Nirit Dudovich",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004",
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41566-019-0574-4"
         },
@@ -5149,14 +5162,16 @@
             "doi": "https://doi.org/10.1038/s41467-020-15196-x",
             "published": "2020-03-17T00:00:00.000Z",
             "updated": "2020-03-17T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "AbstractConventional approaches to probing ultrafast molecular dynamics rely on the use of synchronized laser pulses with a well-defined time delay. Typically, a pump pulse excites a molecular wavepacket. A subsequent probe pulse can then dissociate or ionize the molecule, and measurement of the molecular fragments provides information about where the wavepacket was for each time delay. Here, we propose to exploit the ultrafast nuclear-position-dependent emission obtained due to large light–matter coupling in plasmonic nanocavities to image wavepacket dynamics using only a single pump pulse. We show that the time-resolved emission from the cavity provides information about when the wavepacket passes a given region in nuclear configuration space. This approach can image both cavity-modified dynamics on polaritonic (hybrid light–matter) potentials in the strong light–matter coupling regime and bare-molecule dynamics in the intermediate coupling regime of large Purcell enhancements, and provides a route towards ultrafast molecular spectroscopy with plasmonic nanocavities.",
+            "authors": "R. E. F. Silva, Javier del Pino, Francisco J. García-Vidal, Johannes Feist",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41467-020-15196-x"
         },
