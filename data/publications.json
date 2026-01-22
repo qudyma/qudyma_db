@@ -4006,15 +4006,13 @@
             "published": "2019-03-04T00:00:00.000Z",
             "updated": "2019-03-04T00:00:00.000Z",
             "summary": "",
-            "authors": "Óscar Zurrón-Cifuentes, Roberto Boyero-García, Carlos Hernández-García, Antonio Picón, Luis Plaja",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OE.27.007776"
         },
@@ -4067,15 +4065,13 @@
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Bárbara Buades, Dooshaye Moonshiram, Themistoklis P. H. Sidiropoulos, Iker León, Peter Schmidt, Irina Pi, Nicola Di Palo, Seth L. Cousin, Antonio Picón, Frank Koppens, Jens Biegert",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OPTICA.5.000502"
         },
@@ -4107,22 +4103,20 @@
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Óscar Zurrón, Antonio Picón, Luis Plaja",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1367-2630/aabec7"
         },
         {
             "id": "doi:https://doi.org/10.1021/jacs.7b06828",
             "title": "Electronic π-Delocalization Boosts Catalytic Water Oxidation by Cu(II) Molecular Catalysts Heterogenized on Graphene Sheets",
-            "journal_ref": "Journal of the American Chemical Society 139(37), 12907-12910 (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1021/jacs.7b06828",
             "published": "2017-09-20T00:00:00.000Z",
             "updated": "2017-09-20T00:00:00.000Z",
@@ -4142,21 +4136,18 @@
         {
             "id": "doi:https://doi.org/10.3390/photonics4020028",
             "title": "Generation and Applications of Extreme-Ultraviolet Vortices",
-            "journal_ref": "Photonics 4(2), 28 (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.3390/photonics4020028",
             "published": "2017-04-07T00:00:00.000Z",
             "updated": "2017-04-07T00:00:00.000Z",
-            "summary": "Vortex light beams are structures of the electromagnetic field with a spiral phase ramp around a point-phase singularity. These vortices have many applications in the optical regime, ranging from optical trapping and quantum information to spectroscopy and microscopy. The extension of vortices into the extreme-ultraviolet (XUV)/X-ray regime constitutes a significant step forward to bring those applications to the nanometer or even atomic scale. The recent development of a new generation of X-ray sources, and the refinement of other techniques, such as harmonic generation, have boosted the interest of producing vortex beams at short wavelengths. In this manuscript, we review the recent studies in the subject, and we collect the major prospects of this emerging field. We also focus on the unique and promising applications of ultrashort XUV/X-ray vortex pulses.",
-            "authors": "Carlos Hernández-García, Jorge Vieira, Jose Mendonça, Laura Rego, Julio San Román, Luis Plaja, Primoz Ribic, David Gauthier, Antonio Picón",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003",
-                "0006"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.3390/photonics4020028"
         },
@@ -4204,7 +4195,7 @@
         {
             "id": "doi:https://doi.org/10.1039/C6CC08748E",
             "title": "Elucidating light-induced charge accumulation in an artificial analogue of methane monooxygenase enzymes using time-resolved X-ray absorption spectroscopy",
-            "journal_ref": "Chemical Communications 53(18), 2725-2728 (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1039/C6CC08748E",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
@@ -4228,17 +4219,14 @@
             "doi": "https://doi.org/10.1038/srep43888",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "AbstractWe investigate theoretically the generation of extreme-ultraviolet (EUV) beams carrying fractional orbital angular momentum. To this end, we drive high-order harmonic generation with infrared conical refraction (CR) beams. We show that the high-order harmonic beams emitted in the EUV/soft x-ray regime preserve the characteristic signatures of the driving beam, namely ringlike transverse intensity profile and CR-like polarization distribution. As a result, through orbital and spin angular momentum conservation, harmonic beams are emitted with fractional orbital angular momentum, and they can be synthesized into structured attosecond helical beams –or “structured attosecond light springs”– with rotating linear polarization along the azimuth. Our proposal overcomes the state of the art limitations for the generation of light beams far from the visible domain carrying non-integer orbital angular momentum and could be applied in fields such as diffraction imaging, EUV lithography, particle trapping, and super-resolution imaging.",
-            "authors": "Alex Turpin, Laura Rego, Antonio Picón, Julio San Román, Carlos Hernández-García",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003",
-                "0006"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/srep43888"
         },
@@ -5081,15 +5069,13 @@
             "published": "2022-04-04T00:00:00.000Z",
             "updated": "2022-04-04T00:00:00.000Z",
             "summary": "",
-            "authors": "Rui E. F. Silva, Johannes Feist",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.105.043704"
         },
@@ -5316,7 +5302,7 @@
         {
             "id": "doi:https://doi.org/10.1103/physrevlett.110.113001",
             "title": "Correlated Electron and Nuclear Dynamics in Strong Field Photoionization ofH2+",
-            "journal_ref": "Physical Review Letters 110(11) (2013)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physrevlett.110.113001",
             "published": "2013-03-01T00:00:00.000Z",
             "updated": "2013-03-01T00:00:00.000Z",
@@ -5762,7 +5748,7 @@
         {
             "id": "doi:https://doi.org/10.1038/S41467-018-03167-2",
             "title": "Attosecond recorder of the polarization state of light",
-            "journal_ref": "Nature Communications 9(1) (2018)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/S41467-018-03167-2",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
@@ -5818,7 +5804,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.95.043426",
             "title": "Control of photoemission delay in resonant two-photon transitions",
-            "journal_ref": "Physical Review A 95(4) (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVA.95.043426",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
@@ -5863,15 +5849,13 @@
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Sebastian Heuser, Álvaro Jiménez Galán, Claudio Cirelli, Carlos Marante, Mazyar Sabbar, Robert Boge, Matteo Lucchini, Lukas Gallmann, Igor Ivanov, Anatoli S. Kheifets, J. Marcus Dahlström, Eva Lindroth, Luca Argenti, Fernando Martín, Ursula Keller",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PHYSREVA.94.063409"
         },
@@ -5882,8 +5866,8 @@
             "doi": "https://doi.org/10.1126/SCIENCE.AAH5188",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
-            "summary": "Watching as helium goes topsy-turvy\n          \n            Theorists have long pondered the underpinnings of the Fano resonance, a spectral feature that resembles adjacent rightside-up and upside-down peaks. An especially well-studied instance of this feature appears in the electronic spectrum of helium as a transient state undergoes delayed ionization. Two studies have now traced the dynamics of this state in real time. Gruson\n            et al.\n            used photoelectron spectroscopy to extract the amplitude and phase of the electron wave packet after inducing its interference with reference wave packets tuned into resonance at variable delays. Kaldun\n            et al.\n            used extreme ultraviolet absorption spectroscopy to probe the transient state while variably forcing ionization with a strong near-infrared field.\n          \n          \n            Science\n            , this issue pp.\n            734\n            and\n            738",
-            "authors": "V. Gruson, L. Barreau, Á. Jiménez-Galan, F. Risoud, J. Caillat, A. Maquet, B. Carré, F. Lepetit, J.-F. Hergott, T. Ruchon, L. Argenti, R. Taïeb, F. Martín, P. Salières",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
