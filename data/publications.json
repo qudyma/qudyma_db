@@ -5936,20 +5936,18 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.93.023429",
             "title": "Two-photon finite-pulse model for resonant transitions in attosecond experiments",
-            "journal_ref": "Physical Review A 93(2) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVA.93.023429",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Álvaro Jiménez-Galán, Fernando Martín, Luca Argenti",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PHYSREVA.93.023429"
         },
@@ -5976,20 +5974,18 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.91.061403",
             "title": "Dressing effects in the attosecond transient absorption spectra of doubly excited states in helium",
-            "journal_ref": "Physical Review A 91(6) (2015)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVA.91.061403",
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "L. Argenti, Á. Jiménez-Galán, C. Marante, C. Ott, T. Pfeifer, F. Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PHYSREVA.91.061403"
         },
