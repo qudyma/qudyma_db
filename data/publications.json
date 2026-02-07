@@ -3924,7 +3924,7 @@
         {
             "id": "doi:https://doi.org/10.1002/chem.202001393",
             "title": "Tracking the Light‐Induced Excited‐State Dynamics and Structural Configurations of an Extraordinarily Long‐Lived Metastable State at Room Temperature",
-            "journal_ref": null,
+            "journal_ref": "Chemistry – A European Journal 26(47), 10801-10810 (2020)",
             "doi": "https://doi.org/10.1002/chem.202001393",
             "published": "2020-08-21T00:00:00.000Z",
             "updated": "2020-08-21T00:00:00.000Z",
@@ -3985,7 +3985,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/ab1311",
             "title": "Attosecond x-ray transient absorption in condensed-matter: a core-state-resolved Bloch model",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 21(4), 043029 (2019)",
             "doi": "https://doi.org/10.1088/1367-2630/ab1311",
             "published": "2019-04-15T00:00:00.000Z",
             "updated": "2019-04-15T00:00:00.000Z",
@@ -4049,13 +4049,15 @@
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Noslen Suárez, Alexis Chacón, Emilio Pisanty, Lisa Ortmann, Alexandra S. Landsman, Antonio Picón, Jens Biegert, Maciej Lewenstein, Marcelo F. Ciappina",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevA.97.033415"
         },
@@ -4067,20 +4069,22 @@
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Bárbara Buades, Dooshaye Moonshiram, Themistoklis P. H. Sidiropoulos, Iker León, Peter Schmidt, Irina Pi, Nicola Di Palo, Seth L. Cousin, Antonio Picón, Frank Koppens, Jens Biegert",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OPTICA.5.000502"
         },
         {
             "id": "doi:https://doi.org/10.1002/chem.201800330",
             "title": "Elucidating the Nature of the Excited State of a Heteroleptic Copper Photosensitizer by using Time-Resolved X-ray Absorption Spectroscopy",
-            "journal_ref": null,
+            "journal_ref": "Chemistry – A European Journal 24(24), 6464-6472 (2018)",
             "doi": "https://doi.org/10.1002/chem.201800330",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
@@ -4105,13 +4109,15 @@
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Óscar Zurrón, Antonio Picón, Luis Plaja",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1367-2630/aabec7"
         },
@@ -4163,14 +4169,17 @@
             "doi": "https://doi.org/10.1017/hpl.2017.1",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Optical vortices are structures of the electromagnetic field with a spiral phase ramp about a point-phase singularity, carrying orbital angular momentum (OAM). Recently, OAM has been imprinted to short-wavelength radiation through high-order harmonic generation (HHG), leading to the emission of attosecond twisted beams in the extreme-ultraviolet (XUV) regime. We explore the details of the mapping of the driving vortex to its harmonic spectrum. In particular, we show that the geometry of the harmonic vortices is convoluted, arising from the superposition of the contribution from the short and long quantum paths responsible of HHG. Finally, we show how to take advantage of transverse phase-matching to select twisted attosecond beams with different spatiotemporal properties.",
+            "authors": "Carlos Hernández-García, Laura Rego, Julio San Román, Antonio Picón, Luis Plaja",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003",
+                "0006"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1017/hpl.2017.1"
         },
@@ -5562,6 +5571,7 @@
                 "0004",
                 "0005"
             ],
+            "journal_ref": "Nature Photonics 13(12), 849-854 (2019)",
             "arxiv_url": "https://arxiv.org/abs/1806.11232",
             "journal_url": "https://doi.org/10.1038/s41566-019-0516-1"
         },
@@ -5698,14 +5708,16 @@
             "doi": "https://doi.org/10.1364/optica.418152",
             "published": "2021-03-20T00:00:00.000Z",
             "updated": "2021-03-20T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Electrons in two-dimensional hexagonal materials have an extra degree of freedom, the valley pseudospin, that can be used to encode and process quantum information. Valley-selective excitations, governed by the circularly polarized light resonant with the material’s bandgap, are the foundation of valleytronics. It is often assumed that achieving valley selective excitation in pristine graphene with all-optical means is not possible due to the inversion symmetry of the system. Here, we demonstrate that both valley-selective excitation and valley-selective high-harmonic generation can be achieved in pristine graphene by using a combination of two counter-rotating circularly polarized fields, the fundamental and its second harmonic. Controlling the relative phase between the two colors allows us to select the valleys where the electron–hole pairs and higher-order harmonics are generated. We also describe an all-optical method for measuring valley polarization in graphene with a weak probe pulse. This work offers a robust recipe to write and read valley-selective electron excitations in materials with zero bandgap and zero Berry curvature.",
+            "authors": "M. S. Mrudul, Álvaro Jiménez-Galán, Misha Ivanov, Gopal Dixit",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/optica.418152"
         },
@@ -5717,13 +5729,15 @@
             "published": "2018-11-05T00:00:00.000Z",
             "updated": "2018-11-05T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Gopal Dixit, Álvaro Jiménez-Galán, Lukas Medišauskas, Misha Ivanov",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.98.053402"
         },
