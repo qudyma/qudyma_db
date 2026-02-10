@@ -6016,7 +6016,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/15/11/113009",
             "title": "The soft-photon approximation in infrared-laser-assisted atomic ionization by extreme-ultraviolet attosecond-pulse trains",
-            "journal_ref": "New Journal of Physics 15(11), 113009 (2013)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/15/11/113009",
             "published": "2013-01-01T00:00:00.000Z",
             "updated": "2013-01-01T00:00:00.000Z",
@@ -6200,16 +6200,14 @@
             "doi": "https://doi.org/10.1063/5.0251524",
             "published": "2025-04-28T00:00:00.000Z",
             "updated": "2025-04-28T00:00:00.000Z",
-            "summary": "In this Perspective, we provide an overview of the field of attosecond physics and technology for which the 2023 Nobel Prize in Physics was awarded to Pierre Agostini, Ferenc Krausz, and Anne L'Huillier. We look at the current state-of-the-art in attosecond timescale measurements and recent advances enabled by the light field driven technology inspired by the earlier work in the field. We end this Perspective with some comments on the exciting future directions now developing in the field.",
-            "authors": "O. Alexander, D. Ayuso, M. Matthews, L. Rego, J. W. G. Tisch, B. Weaver, J. P. Marangos",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0006"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1063/5.0251524"
         },
