@@ -3968,17 +3968,14 @@
             "doi": "https://doi.org/10.1088/1367-2630/ab7dde",
             "published": "2020-04-01T00:00:00.000Z",
             "updated": "2020-04-01T00:00:00.000Z",
-            "summary": "Abstract\n               We demonstrate that the standard picture of strong-field tunnel-ionization from molecules should be reformulated. The extended nature of the molecular potential implies the separation of some of the molecular sites from the edge of the ionization barrier. We show that the dependence of the tunnel probability with the distance to the barrier is translated into the ionized wavepacket, modifying substantially the high-order harmonic emission. The introduction of the dependence of tunnel ionization with the molecular site significantly improves the theoretical description of high-order harmonic generation in molecules, which is used as a cornerstone in high-harmonic spectroscopy and attosecond imaging.",
-            "authors": "Laura Rego, Carlos Hernández-García, Antonio Picón, Luis Plaja",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003",
-                "0006"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1367-2630/ab7dde"
         },
@@ -4003,7 +4000,7 @@
         {
             "id": "doi:https://doi.org/10.1364/OE.27.007776",
             "title": "Optical anisotropy of non-perturbative high-order harmonic generation in gapless graphene",
-            "journal_ref": "Optics Express 27(5), 7776 (2019)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1364/OE.27.007776",
             "published": "2019-03-04T00:00:00.000Z",
             "updated": "2019-03-04T00:00:00.000Z",
@@ -4023,7 +4020,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0304-3",
             "title": "Controlling the polarization and vortex charge of attosecond high-harmonic beams via simultaneous spin–orbit momentum conservation",
-            "journal_ref": "Nature Photonics 13(2), 123-130 (2018)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/s41566-018-0304-3",
             "published": "2019-02-01T00:00:00.000Z",
             "updated": "2019-02-01T00:00:00.000Z",
@@ -4044,7 +4041,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevA.97.033415",
             "title": "Above-threshold ionization in multicenter molecules: The role of the initial state",
-            "journal_ref": null,
+            "journal_ref": "Physical Review A 97(3) (2018)",
             "doi": "https://doi.org/10.1103/PhysRevA.97.033415",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
@@ -4084,7 +4081,7 @@
         {
             "id": "doi:https://doi.org/10.1002/chem.201800330",
             "title": "Elucidating the Nature of the Excited State of a Heteroleptic Copper Photosensitizer by using Time-Resolved X-ray Absorption Spectroscopy",
-            "journal_ref": null,
+            "journal_ref": "Chemistry – A European Journal 24(24), 6464-6472 (2018)",
             "doi": "https://doi.org/10.1002/chem.201800330",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
@@ -4104,7 +4101,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/aabec7",
             "title": "Theory of high-order harmonic generation for gapless graphene",
-            "journal_ref": "New Journal of Physics 20(5), 053033 (2018)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/aabec7",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
@@ -4165,30 +4162,12 @@
         {
             "id": "doi:https://doi.org/10.1017/hpl.2017.1",
             "title": "Attosecond twisted beams from high-order harmonic generation driven by optical vortices",
-            "journal_ref": null,
+            "journal_ref": "High Power Laser Science and Engineering 5 (2017)",
             "doi": "https://doi.org/10.1017/hpl.2017.1",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [],
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1017/hpl.2017.1"
-        },
-        {
-            "id": "orcid:0003-EUV light beams with fractional orbital angular momentum driven by high-order harmonic generation and conical refraction",
-            "title": "EUV light beams with fractional orbital angular momentum driven by high-order harmonic generation and conical refraction",
-            "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": null,
-            "published": "2017-01-01T00:00:00.000Z",
-            "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Antonio Picón, Turpin, Alex, Rego, Laura, Picon, Antonio, San Roman, Julio, Plaja, Luis, Hernandez-Garcia, Carlos, IEEE",
+            "summary": "Optical vortices are structures of the electromagnetic field with a spiral phase ramp about a point-phase singularity, carrying orbital angular momentum (OAM). Recently, OAM has been imprinted to short-wavelength radiation through high-order harmonic generation (HHG), leading to the emission of attosecond twisted beams in the extreme-ultraviolet (XUV) regime. We explore the details of the mapping of the driving vortex to its harmonic spectrum. In particular, we show that the geometry of the harmonic vortices is convoluted, arising from the superposition of the contribution from the short and long quantum paths responsible of HHG. Finally, we show how to take advantage of transverse phase-matching to select twisted attosecond beams with different spatiotemporal properties.",
+            "authors": "Carlos Hernández-García, Laura Rego, Julio San Román, Antonio Picón, Luis Plaja",
             "categories": [],
             "formats": {
                 "html": null,
@@ -4199,7 +4178,27 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1017/hpl.2017.1"
+        },
+        {
+            "id": "orcid:0003-EUV light beams with fractional orbital angular momentum driven by high-order harmonic generation and conical refraction",
+            "title": "EUV light beams with fractional orbital angular momentum driven by high-order harmonic generation and conical refraction",
+            "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8086813",
+            "published": "2017-01-01T00:00:00.000Z",
+            "updated": "2017-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Antonio Picón, Turpin, Alex, Rego, Laura, Picon, Antonio, San Roman, Julio, Plaja, Luis, Hernandez-Garcia, Carlos, IEEE",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0003"
+            ],
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8086813"
         },
         {
             "id": "doi:https://doi.org/10.1039/C6CC08748E",
@@ -4589,7 +4588,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/17/9/093029",
             "title": "Quantum-path signatures in attosecond helical beams driven by optical vortices",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 17(9), 093029 (2015)",
             "doi": "https://doi.org/10.1088/1367-2630/17/9/093029",
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
@@ -4867,7 +4866,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevResearch.6.043005",
             "title": "Real-space perspective on dephasing in solid-state high harmonic generation",
-            "journal_ref": "Physical Review Research 6(4) (2024)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PhysRevResearch.6.043005",
             "published": "2024-10-02T00:00:00.000Z",
             "updated": "2024-10-02T00:00:00.000Z",
@@ -4893,24 +4892,20 @@
             "published": "2024-07-01T00:00:00.000Z",
             "updated": "2024-07-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Eduardo B. Molinero, Rui E. F. Silva, Álvaro Jiménez-Galán",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004",
-                "0005",
-                "0014"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1142/9789811279560_0002"
         },
         {
             "id": "doi:https://doi.org/10.1142/9789811279560_0003",
             "title": "Wannier Approach to the Semiconductor Bloch Equations",
-            "journal_ref": "ISBN: 9789811279553",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1142/9789811279560_0003",
             "published": "2024-07-01T00:00:00.000Z",
             "updated": "2024-07-01T00:00:00.000Z",
@@ -4974,7 +4969,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41586-024-07156-y",
             "title": "Valleytronics in bulk MoS2 with a topologic optical field",
-            "journal_ref": null,
+            "journal_ref": "Nature 628(8009), 746-751 (2024)",
             "doi": "https://doi.org/10.1038/s41586-024-07156-y",
             "published": "2024-04-25T00:00:00.000Z",
             "updated": "2024-04-25T00:00:00.000Z",
@@ -5096,7 +5091,7 @@
         {
             "id": "doi:https://doi.org/10.1103/physrevresearch.3.023250",
             "title": "Tracking ultrafast solid-state dynamics using high harmonic spectroscopy",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Research 3(2) (2021)",
             "doi": "https://doi.org/10.1103/physrevresearch.3.023250",
             "published": "2021-06-28T00:00:00.000Z",
             "updated": "2021-06-28T00:00:00.000Z",
@@ -5122,13 +5117,15 @@
             "published": "2020-11-29T00:00:00.000Z",
             "updated": "2020-11-29T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Dongxing Zhao, Rui E. F. Silva, Clàudia Climent, Johannes Feist, Antonio I. Fernández-Domínguez, Francisco J. García-Vidal",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1021/acsphotonics.0c01095"
         },
@@ -5160,21 +5157,23 @@
             "doi": "https://doi.org/10.1038/s41467-020-15196-x",
             "published": "2020-03-17T00:00:00.000Z",
             "updated": "2020-03-17T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "AbstractConventional approaches to probing ultrafast molecular dynamics rely on the use of synchronized laser pulses with a well-defined time delay. Typically, a pump pulse excites a molecular wavepacket. A subsequent probe pulse can then dissociate or ionize the molecule, and measurement of the molecular fragments provides information about where the wavepacket was for each time delay. Here, we propose to exploit the ultrafast nuclear-position-dependent emission obtained due to large light–matter coupling in plasmonic nanocavities to image wavepacket dynamics using only a single pump pulse. We show that the time-resolved emission from the cavity provides information about when the wavepacket passes a given region in nuclear configuration space. This approach can image both cavity-modified dynamics on polaritonic (hybrid light–matter) potentials in the strong light–matter coupling regime and bare-molecule dynamics in the intermediate coupling regime of large Purcell enhancements, and provides a route towards ultrafast molecular spectroscopy with plasmonic nanocavities.",
+            "authors": "R. E. F. Silva, Javier del Pino, Francisco J. García-Vidal, Johannes Feist",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41467-020-15196-x"
         },
         {
             "id": "doi:https://doi.org/10.1063/1.5138937",
             "title": "Cumulant expansion for the treatment of light–matter interactions in arbitrary material structures",
-            "journal_ref": null,
+            "journal_ref": "The Journal of Chemical Physics 152(3) (2020)",
             "doi": "https://doi.org/10.1063/1.5138937",
             "published": "2020-01-21T00:00:00.000Z",
             "updated": "2020-01-21T00:00:00.000Z",
@@ -5272,20 +5271,18 @@
         {
             "id": "doi:https://doi.org/10.1103/physreva.92.013426",
             "title": "Energy- and angle-resolved ionization ofH2+interacting with xuv subfemtosecond laser pulses",
-            "journal_ref": "Physical Review A 92(1) (2015)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physreva.92.013426",
             "published": "2015-07-01T00:00:00.000Z",
             "updated": "2015-07-01T00:00:00.000Z",
             "summary": "",
-            "authors": "R. E. F. Silva, F. Catoire, P. Rivière, T. Niederhausen, H. Bachau, F. Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.92.013426"
         },
@@ -5357,15 +5354,13 @@
             "published": "2012-06-01T00:00:00.000Z",
             "updated": "2012-06-01T00:00:00.000Z",
             "summary": "",
-            "authors": "R. E. F. Silva, P. Rivière, F. Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.85.063414"
         },
@@ -5540,7 +5535,6 @@
                 "0004",
                 "0005"
             ],
-            "journal_ref": "Nature Photonics 14(12), 728-732 (2020)",
             "arxiv_url": "https://arxiv.org/abs/1910.07398",
             "journal_url": "https://doi.org/10.1038/s41566-020-00717-3"
         },
@@ -5565,7 +5559,6 @@
                 "0004",
                 "0005"
             ],
-            "journal_ref": "Nature Photonics 13(12), 849-854 (2019)",
             "arxiv_url": "https://arxiv.org/abs/1806.11232",
             "journal_url": "https://doi.org/10.1038/s41566-019-0516-1"
         },
@@ -5684,8 +5677,8 @@
             "doi": "https://doi.org/10.1038/s41467-021-22264-3",
             "published": "2021-03-30T00:00:00.000Z",
             "updated": "2021-03-30T00:00:00.000Z",
-            "summary": "AbstractTopological insulators combine insulating properties in the bulk with scattering-free transport along edges, supporting dissipationless unidirectional energy and information flow even in the presence of defects and disorder. The feasibility of engineering quantum Hamiltonians with photonic tools, combined with the availability of entangled photons, raises the intriguing possibility of employing topologically protected entangled states in optical quantum computing and information processing. However, while two-photon states built as a product of two topologically protected single-photon states inherit full protection from their single-photon “parents”, a high degree of non-separability may lead to rapid deterioration of the two-photon states after propagation through disorder. In this work, we identify physical mechanisms which contribute to the vulnerability of entangled states in topological photonic lattices. Further, we show that in order to maximize entanglement without sacrificing topological protection, the joint spectral correlation map of two-photon states must fit inside a well-defined topological window of protection.",
-            "authors": "Konrad Tschernig, Álvaro Jimenez-Galán, Demetrios N. Christodoulides, Misha Ivanov, Kurt Busch, Miguel A. Bandres, Armando Perez-Leija",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
@@ -5698,7 +5691,7 @@
         {
             "id": "doi:https://doi.org/10.1364/optica.418152",
             "title": "Light-induced valleytronics in pristine graphene",
-            "journal_ref": "Optica 8(3), 422 (2021)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1364/optica.418152",
             "published": "2021-03-20T00:00:00.000Z",
             "updated": "2021-03-20T00:00:00.000Z",
@@ -5723,22 +5716,20 @@
             "published": "2018-11-05T00:00:00.000Z",
             "updated": "2018-11-05T00:00:00.000Z",
             "summary": "",
-            "authors": "Gopal Dixit, Álvaro Jiménez-Galán, Lukas Medišauskas, Misha Ivanov",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.98.053402"
         },
         {
             "id": "doi:https://doi.org/10.1038/S41467-018-03009-1",
             "title": "Anisotropic photoemission time delays close to a Fano resonance",
-            "journal_ref": "Nature Communications 9(1) (2018)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/S41467-018-03009-1",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
@@ -5778,12 +5769,12 @@
         {
             "id": "doi:https://doi.org/10.1088/1361-6455/AAA057",
             "title": "Time-frequency representation of autoionization dynamics in helium",
-            "journal_ref": "Journal of Physics B: Atomic, Molecular and Optical Physics 51(4), 044002 (2018)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1361-6455/AAA057",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "D Busto, L Barreau, M Isinger, M Turconi, C Alexandridi, A Harth, S Zhong, R J Squibb, D Kroon, S Plogmaker, M Miranda, Á Jiménez-Galán, L Argenti, C L Arnold, R Feifel, F Martín, M Gisselbrecht, A L’Huillier, P Salières",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
@@ -5796,7 +5787,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/AA732F",
             "title": "Attosecond control of spin polarization in electron-ion recollision driven by intense tailored fields",
-            "journal_ref": "New Journal of Physics 19(7), 073007 (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/AA732F",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
