@@ -2294,7 +2294,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.86.4275",
             "title": "Resonant radiation pressure on neutral particles in a waveguide",
-            "journal_ref": "Physical Review Letters 86(19), 4275-4277 (2001)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PhysRevLett.86.4275",
             "published": "2001-01-01T00:00:00.000Z",
             "updated": "2001-01-01T00:00:00.000Z",
@@ -2582,7 +2582,6 @@
             "author_ids": [
                 "0002"
             ],
-            "journal_ref": "Nanotechnology 30(24), 24LT01 (2019)",
             "arxiv_url": "https://arxiv.org/abs/1903.02449",
             "journal_url": "https://doi.org/10.1088/1361-6528/ab0bc1"
         },
@@ -2954,6 +2953,26 @@
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1140/epjb/e2004-00284-8"
+        },
+        {
+            "id": "orcid:0002-Caroli-de Gennes-Matricon states in full-shell nanowires",
+            "title": "Caroli-de Gennes-Matricon states in full-shell nanowires",
+            "journal_ref": "Quantum Designer Physics 2022 (2022)",
+            "doi": null,
+            "published": "2022-01-01T00:00:00.000Z",
+            "updated": "2022-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Elsa Prada",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0002"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
         },
         {
             "id": "orcid:0002-Topological superconductivity and Majorana modes for quantum computing: a materials science perspective",
@@ -3864,20 +3883,18 @@
         {
             "id": "doi:https://doi.org/10.1063/5.0054125",
             "title": "Publisher's Note: “Attosecond state-resolved carrier motion in quantum materials probed by soft x-ray XANES” [Appl. Phys Rev. 8, 011408 (2021)]",
-            "journal_ref": "Applied Physics Reviews 8(2) (2021)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1063/5.0054125",
             "published": "2021-06-01T00:00:00.000Z",
             "updated": "2021-06-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Bárbara Buades, Antonio Picón, Emma Berger, Iker León, Nicola Di Palo, Seth L. Cousin, Caterina Cocchi, Eric Pellegrin, Javier Herrero Martin, Samuel Mañas-Valero, Eugenio Coronado, Thomas Danz, Claudia Draxl, Mitsuharu Uemoto, Kazuhiro Yabana, Martin Schultze, Simon Wall, Michael Zürch, Jens Biegert",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1063/5.0054125"
         },
@@ -3888,16 +3905,14 @@
             "doi": "https://doi.org/10.1063/5.0020649",
             "published": "2021-03-01T00:00:00.000Z",
             "updated": "2021-03-01T00:00:00.000Z",
-            "summary": "Recent developments in attosecond technology led to table-top x-ray spectroscopy in the soft x-ray range, thus uniting the element- and state-specificity of core-level x-ray absorption spectroscopy with the time resolution to follow electronic dynamics in real-time. We describe recent work in attosecond technology and investigations into materials such as Si, SiO2, GaN, Al2O3, Ti, and TiO2, enabled by the convergence of these two capabilities. We showcase the state-of-the-art on isolated attosecond soft x-ray pulses for x-ray absorption near-edge spectroscopy to observe the 3d-state dynamics of the semi-metal TiS2 with attosecond resolution at the Ti L-edge (460 eV). We describe how the element- and state-specificity at the transition metal L-edge of the quantum material allows us to unambiguously identify how and where the optical field influences charge carriers. This precision elucidates that the Ti:3d conduction band states are efficiently photo-doped to a density of 1.9 × 1021 cm−3. The light-field induces coherent motion of intra-band carriers across 38% of the first Brillouin zone. Lastly, we describe the prospects with such unambiguous real-time observation of carrier dynamics in specific bonding or anti-bonding states and speculate that such capability will bring unprecedented opportunities toward an engineered approach for designer materials with pre-defined properties and efficiency. Examples are composites of semiconductors and insulators like Si, Ge, SiO2, GaN, BN, and quantum materials like graphene, transition metal dichalcogens, or high-Tc superconductors like NbN or LaBaCuO. Exiting are prospects to scrutinize canonical questions in multi-body physics, such as whether the electrons or lattice trigger phase transitions.",
-            "authors": "Bárbara Buades, Antonio Picón, Emma Berger, Iker León, Nicola Di Palo, Seth L. Cousin, Caterina Cocchi, Eric Pellegrin, Javier Herrero Martin, Samuel Mañas-Valero, Eugenio Coronado, Thomas Danz, Claudia Draxl, Mitsuharu Uemoto, Kazuhiro Yabana, Martin Schultze, Simon Wall, Michael Zürch, Jens Biegert",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1063/5.0020649"
         },
@@ -3944,7 +3959,7 @@
         {
             "id": "doi:https://doi.org/10.1103/physrevlett.125.073203",
             "title": "Electronic Population Transfer via Impulsive Stimulated X-Ray Raman Scattering with Attosecond Soft-X-Ray Pulses",
-            "journal_ref": "Physical Review Letters 125(7) (2020)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physrevlett.125.073203",
             "published": "2020-08-11T00:00:00.000Z",
             "updated": "2020-08-11T00:00:00.000Z",
@@ -3964,7 +3979,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/ab7dde",
             "title": "Site-specific tunnel-ionization in high harmonic generation in molecules",
-            "journal_ref": "New Journal of Physics 22(4), 043012 (2020)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/ab7dde",
             "published": "2020-04-01T00:00:00.000Z",
             "updated": "2020-04-01T00:00:00.000Z",
@@ -4008,56 +4023,49 @@
             "published": "2019-03-04T00:00:00.000Z",
             "updated": "2019-03-04T00:00:00.000Z",
             "summary": "",
-            "authors": "Óscar Zurrón-Cifuentes, Roberto Boyero-García, Carlos Hernández-García, Antonio Picón, Luis Plaja",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OE.27.007776"
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0304-3",
             "title": "Controlling the polarization and vortex charge of attosecond high-harmonic beams via simultaneous spin–orbit momentum conservation",
-            "journal_ref": "Nature Photonics 13(2), 123-130 (2018)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/s41566-018-0304-3",
             "published": "2019-02-01T00:00:00.000Z",
             "updated": "2019-02-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Kevin M. Dorney, Laura Rego, Nathan J. Brooks, Julio San Román, Chen-Ting Liao, Jennifer L. Ellis, Dmitriy Zusin, Christian Gentry, Quynh L. Nguyen, Justin M. Shaw, Antonio Picón, Luis Plaja, Henry C. Kapteyn, Margaret M. Murnane, Carlos Hernández-García",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003",
-                "0006"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41566-018-0304-3"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevA.97.033415",
             "title": "Above-threshold ionization in multicenter molecules: The role of the initial state",
-            "journal_ref": "Physical Review A 97(3) (2018)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PhysRevA.97.033415",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Noslen Suárez, Alexis Chacón, Emilio Pisanty, Lisa Ortmann, Alexandra S. Landsman, Antonio Picón, Jens Biegert, Maciej Lewenstein, Marcelo F. Ciappina",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevA.97.033415"
         },
@@ -4069,15 +4077,13 @@
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Bárbara Buades, Dooshaye Moonshiram, Themistoklis P. H. Sidiropoulos, Iker León, Peter Schmidt, Irina Pi, Nicola Di Palo, Seth L. Cousin, Antonio Picón, Frank Koppens, Jens Biegert",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OPTICA.5.000502"
         },
@@ -4124,7 +4130,7 @@
         {
             "id": "doi:https://doi.org/10.1021/jacs.7b06828",
             "title": "Electronic π-Delocalization Boosts Catalytic Water Oxidation by Cu(II) Molecular Catalysts Heterogenized on Graphene Sheets",
-            "journal_ref": "Journal of the American Chemical Society 139(37), 12907-12910 (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1021/jacs.7b06828",
             "published": "2017-09-20T00:00:00.000Z",
             "updated": "2017-09-20T00:00:00.000Z",
@@ -4551,20 +4557,18 @@
         {
             "id": "doi:https://doi.org/10.1021/jacs.6b05680",
             "title": "Tracking the Structural and Electronic Configurations of a Cobalt Proton Reduction Catalyst in Water",
-            "journal_ref": "Journal of the American Chemical Society 138(33), 10586-10596 (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1021/jacs.6b05680",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Dooshaye Moonshiram, Carolina Gimbert-Suriñach, Alexander Guda, Antonio Picon, C. Stefan Lehmann, Xiaoyi Zhang, Gilles Doumy, Anne Marie March, Jordi Benet-Buchholz, Alexander Soldatov, Antoni Llobet, Stephen H. Southworth",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1021/jacs.6b05680"
         },
@@ -4749,7 +4753,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/12/8/083053",
             "title": "Transferring orbital and spin angular momenta of light to atoms",
-            "journal_ref": "New Journal of Physics 12(8), 083053 (2010)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/12/8/083053",
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
@@ -4767,7 +4771,7 @@
         {
             "id": "doi:https://doi.org/10.1109/cleoe-eqec.2009.5196335",
             "title": "Photoionization with a large transfer of angular momentum",
-            "journal_ref": "CLEO/Europe - EQEC 2009 - European Conference on Lasers and Electro-Optics and the European Quantum Electronics Conference, 1-1 (2009)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1109/cleoe-eqec.2009.5196335",
             "published": "2009-01-01T00:00:00.000Z",
             "updated": "2009-01-01T00:00:00.000Z",
@@ -4788,7 +4792,7 @@
             "id": "orcid:0003-Manipulation of Single-Photon States encoded in Orbital Angular Momentum",
             "title": "Manipulation of Single-Photon States encoded in Orbital Angular Momentum",
             "journal_ref": "(2008)",
-            "doi": "https://doi.org/10.1093/nsr/nwu048",
+            "doi": null,
             "published": "2008-01-01T00:00:00.000Z",
             "updated": "2008-01-01T00:00:00.000Z",
             "summary": "",
@@ -4802,7 +4806,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1093/nsr/nwu048"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevA.73.013805",
@@ -4847,7 +4851,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevResearch.7.L012063",
             "title": "Spatial polarization gating of high-harmonic generation in solids",
-            "journal_ref": "Physical Review Research 7(1) (2025)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PhysRevResearch.7.L012063",
             "published": "2025-03-11T00:00:00.000Z",
             "updated": "2025-03-11T00:00:00.000Z",
@@ -4890,22 +4894,18 @@
         {
             "id": "doi:https://doi.org/10.1142/9789811279560_0002",
             "title": "Manipulation of Quantum Properties in 2D Materials with Strong Tailored Fields",
-            "journal_ref": "ISBN: 9789811279553",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1142/9789811279560_0002",
             "published": "2024-07-01T00:00:00.000Z",
             "updated": "2024-07-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Eduardo B. Molinero, Rui E. F. Silva, Álvaro Jiménez-Galán",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004",
-                "0005",
-                "0014"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1142/9789811279560_0002"
         },
@@ -4917,24 +4917,20 @@
             "published": "2024-07-01T00:00:00.000Z",
             "updated": "2024-07-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Eduardo B. Molinero, Álvaro Jiménez-Galán, Rui E. F. Silva",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004",
-                "0005",
-                "0014"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1142/9789811279560_0003"
         },
         {
             "id": "doi:https://doi.org/10.1364/JOSAB.513543",
             "title": "Ultrafast dephasing in solid-state high harmonic generation: macroscopic origin revealed by real-space dynamics [Invited]",
-            "journal_ref": "Journal of the Optical Society of America B 41(6), B40 (2024)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1364/JOSAB.513543",
             "published": "2024-06-01T00:00:00.000Z",
             "updated": "2024-06-01T00:00:00.000Z",
@@ -5160,7 +5156,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41467-020-15196-x",
             "title": "Polaritonic molecular clock for all-optical ultrafast imaging of wavepacket dynamics without probe pulses",
-            "journal_ref": "Nature Communications 11(1) (2020)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/s41467-020-15196-x",
             "published": "2020-03-17T00:00:00.000Z",
             "updated": "2020-03-17T00:00:00.000Z",
@@ -5184,16 +5180,14 @@
             "doi": "https://doi.org/10.1063/1.5138937",
             "published": "2020-01-21T00:00:00.000Z",
             "updated": "2020-01-21T00:00:00.000Z",
-            "summary": "Strong coupling of quantum emitters with confined electromagnetic modes of nanophotonic structures may be used to change optical, chemical, and transport properties of materials, with significant theoretical effort invested toward a better understanding of this phenomenon. However, a full theoretical description of both matter and light is an extremely challenging task. Typical theoretical approaches simplify the description of the photonic environment by describing it as a single mode or few modes. While this approximation is accurate in some cases, it breaks down strongly in complex environments, such as within plasmonic nanocavities, and the electromagnetic environment must be fully taken into account. This requires the quantum description of a continuum of bosonic modes, a problem that is computationally hard. We here investigate a compromise where the quantum character of light is taken into account at modest computational cost. To do so, we focus on a quantum emitter that interacts with an arbitrary photonic spectral density and employ the cumulant, or cluster, expansion method to the Heisenberg equations of motion up to first, second, and third order. We benchmark the method by comparing it with exact solutions for specific situations and show that it can accurately represent dynamics for many parameter ranges.",
-            "authors": "M. Sánchez-Barquilla, R. E. F. Silva, J. Feist",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1063/1.5138937"
         },
@@ -5205,15 +5199,13 @@
             "published": "2019-11-15T00:00:00.000Z",
             "updated": "2019-11-15T00:00:00.000Z",
             "summary": "",
-            "authors": "R. E. F. Silva, F. Martín, M. Ivanov",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevB.100.195201"
         },
@@ -5225,15 +5217,13 @@
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "R. E. F. Silva, Igor V. Blinov, Alexey N. Rubtsov, O. Smirnova, M. Ivanov",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41566-018-0129-0"
         },
@@ -5260,7 +5250,7 @@
         {
             "id": "doi:https://doi.org/10.1103/physrevlett.117.093003",
             "title": "Enhancing High-Order Harmonic Generation in Light Molecules by Using Chirped Pulses",
-            "journal_ref": "Physical Review Letters 117(9) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physrevlett.117.093003",
             "published": "2016-08-01T00:00:00.000Z",
             "updated": "2016-08-01T00:00:00.000Z",
@@ -5278,27 +5268,25 @@
         {
             "id": "doi:https://doi.org/10.1103/physreva.92.013426",
             "title": "Energy- and angle-resolved ionization ofH2+interacting with xuv subfemtosecond laser pulses",
-            "journal_ref": "Physical Review A 92(1) (2015)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physreva.92.013426",
             "published": "2015-07-01T00:00:00.000Z",
             "updated": "2015-07-01T00:00:00.000Z",
             "summary": "",
-            "authors": "R. E. F. Silva, F. Catoire, P. Rivière, T. Niederhausen, H. Bachau, F. Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.92.013426"
         },
         {
             "id": "doi:https://doi.org/10.1103/physreva.89.023415",
             "title": "Molecular resolvent-operator method: Electronic and nuclear dynamics in strong-field ionization",
-            "journal_ref": "Physical Review A 89(2) (2014)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physreva.89.023415",
             "published": "2014-02-01T00:00:00.000Z",
             "updated": "2014-02-01T00:00:00.000Z",
@@ -5358,20 +5346,18 @@
         {
             "id": "doi:https://doi.org/10.1103/physreva.85.063414",
             "title": "Autoionizing decay of H2doubly excited states by using xuv-pump–infrared-probe schemes with trains of attosecond pulses",
-            "journal_ref": "Physical Review A 85(6) (2012)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physreva.85.063414",
             "published": "2012-06-01T00:00:00.000Z",
             "updated": "2012-06-01T00:00:00.000Z",
             "summary": "",
-            "authors": "R. E. F. Silva, P. Rivière, F. Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.85.063414"
         },
@@ -5546,7 +5532,6 @@
                 "0004",
                 "0005"
             ],
-            "journal_ref": "Nature Photonics 14(12), 728-732 (2020)",
             "arxiv_url": "https://arxiv.org/abs/1910.07398",
             "journal_url": "https://doi.org/10.1038/s41566-020-00717-3"
         },
@@ -5571,7 +5556,6 @@
                 "0004",
                 "0005"
             ],
-            "journal_ref": "Nature Photonics 13(12), 849-854 (2019)",
             "arxiv_url": "https://arxiv.org/abs/1806.11232",
             "journal_url": "https://doi.org/10.1038/s41566-019-0516-1"
         },
@@ -5664,7 +5648,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41567-022-01505-2",
             "title": "All-optical attoclock for imaging tunnelling wavepackets",
-            "journal_ref": "Nature Physics 18(4), 417-422 (2022)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/s41567-022-01505-2",
             "published": "2022-04-01T00:00:00.000Z",
             "updated": "2022-04-01T00:00:00.000Z",
@@ -5722,20 +5706,18 @@
         {
             "id": "doi:https://doi.org/10.1103/physreva.98.053402",
             "title": "Control of the helicity of high-order harmonic radiation using bichromatic circularly polarized laser fields",
-            "journal_ref": "Physical Review A 98(5) (2018)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physreva.98.053402",
             "published": "2018-11-05T00:00:00.000Z",
             "updated": "2018-11-05T00:00:00.000Z",
             "summary": "",
-            "authors": "Gopal Dixit, Álvaro Jiménez-Galán, Lukas Medišauskas, Misha Ivanov",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.98.053402"
         },
@@ -5823,22 +5805,20 @@
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "L. Argenti, Á. Jiménez-Galán, J. Caillat, R. Taïeb, A. Maquet, F. Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PHYSREVA.95.043426"
         },
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.96.063401",
             "title": "Strong-field approximation in a rotating frame: High-order harmonic emission from p states in bicircular fields",
-            "journal_ref": "Physical Review A 96(6) (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVA.96.063401",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
@@ -5858,7 +5838,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.94.063409",
             "title": "Angular dependence of photoemission time delay in helium",
-            "journal_ref": "Physical Review A 94(6) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVA.94.063409",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
@@ -5878,12 +5858,12 @@
         {
             "id": "doi:https://doi.org/10.1126/SCIENCE.AAH5188",
             "title": "Attosecond dynamics through a Fano resonance: Monitoring the birth of a photoelectron",
-            "journal_ref": null,
+            "journal_ref": "Science 354(6313), 734-738 (2016)",
             "doi": "https://doi.org/10.1126/SCIENCE.AAH5188",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
-            "summary": "Watching as helium goes topsy-turvy\n          \n            Theorists have long pondered the underpinnings of the Fano resonance, a spectral feature that resembles adjacent rightside-up and upside-down peaks. An especially well-studied instance of this feature appears in the electronic spectrum of helium as a transient state undergoes delayed ionization. Two studies have now traced the dynamics of this state in real time. Gruson\n            et al.\n            used photoelectron spectroscopy to extract the amplitude and phase of the electron wave packet after inducing its interference with reference wave packets tuned into resonance at variable delays. Kaldun\n            et al.\n            used extreme ultraviolet absorption spectroscopy to probe the transient state while variably forcing ionization with a strong near-infrared field.\n          \n          \n            Science\n            , this issue pp.\n            734\n            and\n            738",
-            "authors": "V. Gruson, L. Barreau, Á. Jiménez-Galan, F. Risoud, J. Caillat, A. Maquet, B. Carré, F. Lepetit, J.-F. Hergott, T. Ruchon, L. Argenti, R. Taïeb, F. Martín, P. Salières",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
@@ -5896,7 +5876,7 @@
         {
             "id": "doi:https://doi.org/10.1039/C6FD90070D",
             "title": "Electronic and non-adiabatic dynamics: general discussion",
-            "journal_ref": null,
+            "journal_ref": "Faraday Discussions 194, 209-257 (2016)",
             "doi": "https://doi.org/10.1039/C6FD90070D",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
@@ -5920,8 +5900,8 @@
             "doi": "https://doi.org/10.1038/NCOMMS10566",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
-            "summary": "AbstractElectron dynamics induced by resonant absorption of light is of fundamental importance in nature and has been the subject of countless studies in many scientific areas. Above the ionization threshold of atomic or molecular systems, the presence of discrete states leads to autoionization, which is an interference between two quantum paths: direct ionization and excitation of the discrete state coupled to the continuum. Traditionally studied with synchrotron radiation, the probability for autoionization exhibits a universal Fano intensity profile as a function of excitation energy. However, without additional phase information, the full temporal dynamics cannot be recovered. Here we use tunable attosecond pulses combined with weak infrared radiation in an interferometric setup to measure not only the intensity but also the phase variation of the photoionization amplitude across an autoionization resonance in argon. The phase variation can be used as a fingerprint of the interactions between the discrete state and the ionization continua, indicating a new route towards monitoring electron correlations in time.",
-            "authors": "M. Kotur, D. Guénot, Á Jiménez-Galán, D. Kroon, E. W. Larsen, M. Louisy, S. Bengtsson, M. Miranda, J. Mauritsson, C. L. Arnold, S. E. Canton, M. Gisselbrecht, T. Carette, J. M. Dahlström, E. Lindroth, A. Maquet, L. Argenti, F. Martín, A. L’Huillier",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
@@ -5974,7 +5954,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.91.061403",
             "title": "Dressing effects in the attosecond transient absorption spectra of doubly excited states in helium",
-            "journal_ref": null,
+            "journal_ref": "Physical Review A 91(6) (2015)",
             "doi": "https://doi.org/10.1103/PHYSREVA.91.061403",
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
@@ -6214,7 +6194,7 @@
         {
             "id": "doi:https://doi.org/10.1126/sciadv.adp0841",
             "title": "Attosecond impulsive stimulated X-ray Raman scattering in liquid water",
-            "journal_ref": null,
+            "journal_ref": "Science Advances 10(39) (2024)",
             "doi": "https://doi.org/10.1126/sciadv.adp0841",
             "published": "2024-09-27T00:00:00.000Z",
             "updated": "2024-09-27T00:00:00.000Z",
@@ -6235,18 +6215,20 @@
         {
             "id": "doi:https://doi.org/10.1515/nanoph-2022-0802",
             "title": "Tilting light’s polarization plane to spatially separate the ultrafast nonlinear response of chiral molecules",
-            "journal_ref": null,
+            "journal_ref": "Nanophotonics 12(14), 2873-2879 (2023)",
             "doi": "https://doi.org/10.1515/nanoph-2022-0802",
             "published": "2023-07-14T00:00:00.000Z",
             "updated": "2023-07-14T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Abstract\n               Distinguishing between the left- and right-handed versions of a chiral molecule (enantiomers) is vital, but also inherently difficult. Traditional optical methods using elliptically/circularly polarized light rely on linear effects which arise beyond the electric-dipole approximation, posing major limitations for ultrafast spectroscopy. Here we show how to turn an ultrashort elliptical pulse into an efficient chiro-optical tool: by tilting its polarization plane towards its propagation direction. This forward tilt can be achieved by focusing the beam tightly, creating structured light which exhibits a nontrivial polarization pattern in space. Using state-of-the-art computational modelling, we show that our structured field realizes a near-field interferometer for efficient chiral recognition that separates the nonlinear optical response of left- and right-handed molecules in space. Our work provides a simple, yet highly efficient, way of spatially structuring the polarization of light to image molecular chirality, with extreme enantio-efficiency and on ultrafast time scales.",
+            "authors": "Laura Rego, Olga Smirnova, David Ayuso",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0006"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1515/nanoph-2022-0802"
         },
@@ -6313,18 +6295,20 @@
         {
             "id": "doi:https://doi.org/10.1364/OL.404402",
             "title": "Trains of attosecond pulses structured with time-ordered polarization states",
-            "journal_ref": null,
+            "journal_ref": "Optics Letters 45(20), 5636 (2020)",
             "doi": "https://doi.org/10.1364/OL.404402",
             "published": "2020-10-15T00:00:00.000Z",
             "updated": "2020-10-15T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Ultrafast laser pulses generated at the attosecond timescale represent a unique tool to explore the fastest dynamics in matter. An accurate control of their properties, such as polarization, is fundamental to shape three-dimensional laser-driven dynamics. We introduce a technique to generate attosecond pulse trains whose polarization state varies from pulse to pulse. This is accomplished by driving high-harmonic generation with two time-delayed bichromatic counter-rotating fields with proper orbital angular momentum (OAM) content. Our simulations show that the evolution of the polarization state along the train can be controlled via OAM, pulse duration, and time delay of the driving fields. We, thus, introduce an additional control into structured attosecond pulses that provides an alternative route to explore ultrafast dynamics with potential applications in chiral and magnetic materials.",
+            "authors": "Laura Rego, Julio San Román, Luis Plaja, Carlos Hernández-García",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0006"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OL.404402"
         },
