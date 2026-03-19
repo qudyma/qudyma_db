@@ -3886,7 +3886,7 @@
         {
             "id": "doi:https://doi.org/10.1063/5.0020649",
             "title": "Attosecond state-resolved carrier motion in quantum materials probed by soft x-ray XANES",
-            "journal_ref": null,
+            "journal_ref": "Applied Physics Reviews 8(1) (2021)",
             "doi": "https://doi.org/10.1063/5.0020649",
             "published": "2021-03-01T00:00:00.000Z",
             "updated": "2021-03-01T00:00:00.000Z",
@@ -3906,18 +3906,20 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevResearch.3.013144",
             "title": "Attosecond x-ray transient absorption spectroscopy in graphene",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Research 3(1) (2021)",
             "doi": "https://doi.org/10.1103/PhysRevResearch.3.013144",
             "published": "2021-02-12T00:00:00.000Z",
             "updated": "2021-02-12T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Giovanni Cistaro, Luis Plaja, Fernando Martín, Antonio Picón",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.3.013144"
         },
@@ -3928,14 +3930,16 @@
             "doi": "https://doi.org/10.1002/chem.202001393",
             "published": "2020-08-21T00:00:00.000Z",
             "updated": "2020-08-21T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "AbstractTime‐resolved X‐ray (Tr‐XAS) and optical transient absorption (OTA) spectroscopy on the pico‐microsecond timescale coupled with density functional theory calculations are applied to study the light‐induced spin crossover processes of a Fe‐based macrocyclic complex in solution. Tr‐XAS analysis after light illumination shows the formation of a seven‐coordinated high‐spin quintet metastable state, which relaxes to a six‐coordinated high‐spin configuration before decaying to the ground state. Kinetic analysis of the macrocyclic complex reveals an unprecedented long‐lived decay lifetime of approximately 42.6 μs. Comparative studies with a non‐macrocyclic counterpart illustrate a significantly shortened approximately 568‐fold decay lifetime of about 75 ns, and highlight the importance of the ligand arrangement in stabilizing the reactivity of the excited state. Lastly, OTA analysis shows the seven‐coordinated high‐spin state to be formed within approximately 6.2 ps. These findings provide a complete understanding of the spin crossover reaction and relaxation pathways of the macrocyclic complex, and reveal the importance of a flexible coordination environment for their rational design.",
+            "authors": "Sirma Iglesias, Arturo Gamonal, Abasi Abudulimu, Antonio Picón, Esther Carrasco, David Écija, Cunming Liu, Larry Luer, Xiaoyi Zhang, José Sánchez Costa, Dooshaye Moonshiram",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1002/chem.202001393"
         },
@@ -3983,7 +3987,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/ab1311",
             "title": "Attosecond x-ray transient absorption in condensed-matter: a core-state-resolved Bloch model",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 21(4), 043029 (2019)",
             "doi": "https://doi.org/10.1088/1367-2630/ab1311",
             "published": "2019-04-15T00:00:00.000Z",
             "updated": "2019-04-15T00:00:00.000Z",
@@ -4006,20 +4010,22 @@
             "published": "2019-03-04T00:00:00.000Z",
             "updated": "2019-03-04T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Óscar Zurrón-Cifuentes, Roberto Boyero-García, Carlos Hernández-García, Antonio Picón, Luis Plaja",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OE.27.007776"
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0304-3",
             "title": "Controlling the polarization and vortex charge of attosecond high-harmonic beams via simultaneous spin–orbit momentum conservation",
-            "journal_ref": null,
+            "journal_ref": "Nature Photonics 13(2), 123-130 (2018)",
             "doi": "https://doi.org/10.1038/s41566-018-0304-3",
             "published": "2019-02-01T00:00:00.000Z",
             "updated": "2019-02-01T00:00:00.000Z",
@@ -4084,21 +4090,23 @@
             "doi": "https://doi.org/10.1002/chem.201800330",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "AbstractWe report the light‐induced electronic and geometric changes taking place within a heteroleptic CuI photosensitizer, namely [(xant)Cu(Me2phenPh2)]PF6 (xant=xantphos, Me2phenPh2=bathocuproine), by time‐resolved X‐ray absorption spectroscopy in the ps–μs time regime. Time‐resolved X‐ray absorption near edge structure (XANES) and extended X‐ray absorption fine structure (EXAFS) analysis enabled the elucidation of the electronic and structural configuration of the copper center in the excited state as well as its decay dynamics in different solvent conditions with and without triethylamine acting as a sacrificial electron donor. A three‐fold decrease in the decay lifetime of the excited state is observed in the presence of triethylamine, showing the feasibility of the reductive quenching pathway in the latter case. A prominent pre‐edge feature is observed in the XANES spectrum of the excited state upon metal to charge ligand transfer transition, showing an increased hybridization of the 3d states with the ligand p orbitals in the tetrahedron around the Cu center. EXAFS and density functional theory illustrate a significant shortening of the Cu−N and an elongation of the Cu−P bonds together with a decrease in the torsional angle between the xantphos and bathocuproine ligand. This study provides mechanistic time‐resolved understanding for the development of improved heteroleptic CuI photosensitizers, which can be used for the light‐driven production of hydrogen from water.",
+            "authors": "Dooshaye Moonshiram, Pablo Garrido‐Barros, Carolina Gimbert‐Suriñach, Antonio Picón, Cunming Liu, Xiaoyi Zhang, Michael Karnahl, Antoni Llobet",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1002/chem.201800330"
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/aabec7",
             "title": "Theory of high-order harmonic generation for gapless graphene",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 20(5), 053033 (2018)",
             "doi": "https://doi.org/10.1088/1367-2630/aabec7",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
@@ -4644,7 +4652,7 @@
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
             "title": "Relevance of the transversal phase-matching in high-order harmonic generation",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (CLEO) - Laser Science to Photonic Applications, 2 pp. (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.88",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4658,30 +4666,32 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.88"
         },
         {
             "id": "doi:https://doi.org/10.1051/epjconf/20134102008",
             "title": "Attosecond intramolecular electron dynamics",
-            "journal_ref": null,
+            "journal_ref": "EPJ Web of Conferences 41, 02008 (2013)",
             "doi": "https://doi.org/10.1051/epjconf/20134102008",
             "published": "2013-01-01T00:00:00.000Z",
             "updated": "2013-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "A. Becker, N. Takemoto, A. Picón, A. Jaroń-Becker",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1051/epjconf/20134102008"
         },
         {
             "id": "doi:https://doi.org/10.1080/09500340.2012.752113",
             "title": "X-ray quantum optics",
-            "journal_ref": null,
+            "journal_ref": "Journal of Modern Optics 60(1), 2-21 (2013)",
             "doi": "https://doi.org/10.1080/09500340.2012.752113",
             "published": "2013-01-01T00:00:00.000Z",
             "updated": "2013-01-01T00:00:00.000Z",
@@ -4706,13 +4716,15 @@
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "A. Picón, A. Jaroń-Becker, A. Becker",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevLett.109.163002"
         },
@@ -4724,20 +4736,22 @@
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "A. Benseny, S. Fernández-Vidal, J. Bagudà, R. Corbalán, A. Picón, L. Roso, G. Birkl, J. Mompart",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevA.82.013604"
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/12/8/083053",
             "title": "Transferring orbital and spin angular momenta of light to atoms",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 12(8), 083053 (2010)",
             "doi": "https://doi.org/10.1088/1367-2630/12/8/083053",
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
@@ -4760,13 +4774,15 @@
             "published": "2009-01-01T00:00:00.000Z",
             "updated": "2009-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "A. Picon, J. Mompart, J.V. Vazquez de Aldana, L. Plaja, G.F. Calvo, L. Roso",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1109/cleoe-eqec.2009.5196335"
         },
@@ -4898,7 +4914,7 @@
         {
             "id": "doi:https://doi.org/10.1142/9789811279560_0003",
             "title": "Wannier Approach to the Semiconductor Bloch Equations",
-            "journal_ref": null,
+            "journal_ref": "ISBN: 9789811279553",
             "doi": "https://doi.org/10.1142/9789811279560_0003",
             "published": "2024-07-01T00:00:00.000Z",
             "updated": "2024-07-01T00:00:00.000Z",
@@ -4920,7 +4936,7 @@
         {
             "id": "doi:https://doi.org/10.1364/JOSAB.513543",
             "title": "Ultrafast dephasing in solid-state high harmonic generation: macroscopic origin revealed by real-space dynamics [Invited]",
-            "journal_ref": null,
+            "journal_ref": "Journal of the Optical Society of America B 41(6), B40 (2024)",
             "doi": "https://doi.org/10.1364/JOSAB.513543",
             "published": "2024-06-01T00:00:00.000Z",
             "updated": "2024-06-01T00:00:00.000Z",
@@ -4945,14 +4961,17 @@
             "doi": "https://doi.org/10.1038/s41586-024-07244-z",
             "published": "2024-04-25T00:00:00.000Z",
             "updated": "2024-04-25T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Abstract\n                  \n                    In recent years, the stacking and twisting of atom-thin structures with matching crystal symmetry has provided a unique way to create new superlattice structures in which new properties emerge\n                    1,2\n                    . In parallel, control over the temporal characteristics of strong light fields has allowed researchers to manipulate coherent electron transport in such atom-thin structures on sublaser-cycle timescales\n                    3,4\n                    . Here we demonstrate a tailored light-wave-driven analogue to twisted layer stacking. Tailoring the spatial symmetry of the light waveform to that of the lattice of a hexagonal boron nitride monolayer and then twisting this waveform result in optical control of time-reversal symmetry breaking\n                    5\n                    and the realization of the topological Haldane model\n                    6\n                    in a laser-dressed two-dimensional insulating crystal. Further, the parameters of the effective Haldane-type Hamiltonian can be controlled by rotating the light waveform, thus enabling ultrafast switching between band structure configurations and allowing unprecedented control over the magnitude, location and curvature of the bandgap. This results in an asymmetric population between complementary quantum valleys that leads to a measurable valley Hall current\n                    7\n                    , which can be detected by optical harmonic polarimetry. The universality and robustness of our scheme paves the way to valley-selective bandgap engineering on the fly and unlocks the possibility of creating few-femtosecond switches with quantum degrees of freedom.",
+            "authors": "Sambit Mitra, Álvaro Jiménez-Galán, Mario Aulich, Marcel Neuhaus, Rui E. F. Silva, Volodymyr Pervak, Matthias F. Kling, Shubhadeep Biswas",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004",
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41586-024-07244-z"
         },
@@ -5143,7 +5162,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41467-020-15196-x",
             "title": "Polaritonic molecular clock for all-optical ultrafast imaging of wavepacket dynamics without probe pulses",
-            "journal_ref": null,
+            "journal_ref": "Nature Communications 11(1) (2020)",
             "doi": "https://doi.org/10.1038/s41467-020-15196-x",
             "published": "2020-03-17T00:00:00.000Z",
             "updated": "2020-03-17T00:00:00.000Z",
@@ -5306,20 +5325,22 @@
             "published": "2013-03-01T00:00:00.000Z",
             "updated": "2013-03-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "R. E. F. Silva, F. Catoire, P. Rivière, H. Bachau, F. Martín",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physrevlett.110.113001"
         },
         {
             "id": "doi:https://doi.org/10.1021/jp3053136",
             "title": "Pump–Probe Scheme To Study the Autoionization Decay of Optically-Forbidden H2Doubly Excited States",
-            "journal_ref": null,
+            "journal_ref": "The Journal of Physical Chemistry A 116(46), 11304-11310 (2012)",
             "doi": "https://doi.org/10.1021/jp3053136",
             "published": "2012-11-01T00:00:00.000Z",
             "updated": "2012-11-01T00:00:00.000Z",
@@ -5339,18 +5360,20 @@
         {
             "id": "doi:https://doi.org/10.1103/physreva.85.063414",
             "title": "Autoionizing decay of H2doubly excited states by using xuv-pump–infrared-probe schemes with trains of attosecond pulses",
-            "journal_ref": null,
+            "journal_ref": "Physical Review A 85(6) (2012)",
             "doi": "https://doi.org/10.1103/physreva.85.063414",
             "published": "2012-06-01T00:00:00.000Z",
             "updated": "2012-06-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "R. E. F. Silva, P. Rivière, F. Martín",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.85.063414"
         },
@@ -5525,6 +5548,7 @@
                 "0004",
                 "0005"
             ],
+            "journal_ref": "Nature Photonics 14(12), 728-732 (2020)",
             "arxiv_url": "https://arxiv.org/abs/1910.07398",
             "journal_url": "https://doi.org/10.1038/s41566-020-00717-3"
         },
@@ -5549,6 +5573,7 @@
                 "0004",
                 "0005"
             ],
+            "journal_ref": "Nature Photonics 13(12), 849-854 (2019)",
             "arxiv_url": "https://arxiv.org/abs/1806.11232",
             "journal_url": "https://doi.org/10.1038/s41566-019-0516-1"
         },
@@ -5648,13 +5673,15 @@
             "published": "2022-04-01T00:00:00.000Z",
             "updated": "2022-04-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Ihar Babushkin, Álvaro Jiménez Galán, José Ricardo Cardoso de Andrade, Anton Husakou, Felipe Morales, Martin Kretschmar, Tamas Nagy, Virgilijus Vaičaitis, Liping Shi, David Zuber, Luc Bergé, Stefan Skupin, Irina A. Nikolaeva, Nikolay A. Panov, Daniil E. Shipilo, Olga G. Kosareva, Adrian N. Pfeiffer, Ayhan Demircan, Mark J. J. Vrakking, Uwe Morgner, Misha Ivanov",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41567-022-01505-2"
         },
@@ -5665,8 +5692,8 @@
             "doi": "https://doi.org/10.1038/s41467-021-22264-3",
             "published": "2021-03-30T00:00:00.000Z",
             "updated": "2021-03-30T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "AbstractTopological insulators combine insulating properties in the bulk with scattering-free transport along edges, supporting dissipationless unidirectional energy and information flow even in the presence of defects and disorder. The feasibility of engineering quantum Hamiltonians with photonic tools, combined with the availability of entangled photons, raises the intriguing possibility of employing topologically protected entangled states in optical quantum computing and information processing. However, while two-photon states built as a product of two topologically protected single-photon states inherit full protection from their single-photon “parents”, a high degree of non-separability may lead to rapid deterioration of the two-photon states after propagation through disorder. In this work, we identify physical mechanisms which contribute to the vulnerability of entangled states in topological photonic lattices. Further, we show that in order to maximize entanglement without sacrificing topological protection, the joint spectral correlation map of two-photon states must fit inside a well-defined topological window of protection.",
+            "authors": "Konrad Tschernig, Álvaro Jimenez-Galán, Demetrios N. Christodoulides, Misha Ivanov, Kurt Busch, Miguel A. Bandres, Armando Perez-Leija",
             "categories": [],
             "formats": {
                 "html": null,
@@ -5683,21 +5710,23 @@
             "doi": "https://doi.org/10.1364/optica.418152",
             "published": "2021-03-20T00:00:00.000Z",
             "updated": "2021-03-20T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Electrons in two-dimensional hexagonal materials have an extra degree of freedom, the valley pseudospin, that can be used to encode and process quantum information. Valley-selective excitations, governed by the circularly polarized light resonant with the material’s bandgap, are the foundation of valleytronics. It is often assumed that achieving valley selective excitation in pristine graphene with all-optical means is not possible due to the inversion symmetry of the system. Here, we demonstrate that both valley-selective excitation and valley-selective high-harmonic generation can be achieved in pristine graphene by using a combination of two counter-rotating circularly polarized fields, the fundamental and its second harmonic. Controlling the relative phase between the two colors allows us to select the valleys where the electron–hole pairs and higher-order harmonics are generated. We also describe an all-optical method for measuring valley polarization in graphene with a weak probe pulse. This work offers a robust recipe to write and read valley-selective electron excitations in materials with zero bandgap and zero Berry curvature.",
+            "authors": "M. S. Mrudul, Álvaro Jiménez-Galán, Misha Ivanov, Gopal Dixit",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/optica.418152"
         },
         {
             "id": "doi:https://doi.org/10.1103/physreva.98.053402",
             "title": "Control of the helicity of high-order harmonic radiation using bichromatic circularly polarized laser fields",
-            "journal_ref": null,
+            "journal_ref": "Physical Review A 98(5) (2018)",
             "doi": "https://doi.org/10.1103/physreva.98.053402",
             "published": "2018-11-05T00:00:00.000Z",
             "updated": "2018-11-05T00:00:00.000Z",
@@ -5717,7 +5746,7 @@
         {
             "id": "doi:https://doi.org/10.1038/S41467-018-03009-1",
             "title": "Anisotropic photoemission time delays close to a Fano resonance",
-            "journal_ref": null,
+            "journal_ref": "Nature Communications 9(1) (2018)",
             "doi": "https://doi.org/10.1038/S41467-018-03009-1",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
@@ -5741,14 +5770,16 @@
             "doi": "https://doi.org/10.1038/S41467-018-03167-2",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "AbstractHigh harmonic generation in multi-color laser fields opens the opportunity of generating isolated attosecond pulses with high ellipticity. Such pulses hold the potential for time-resolving chiral electronic, magnetization, and spin dynamics at their natural timescale. However, this potential cannot be realized without characterizing the exact polarization state of light on the attosecond timescale. Here we propose and numerically demonstrate a complete solution of this problem. Our solution exploits the extrinsic two-dimensional chirality induced in an atom interacting with the chiral attosecond pulse and a linearly polarized infrared probe. The resulting asymmetry in the photoelectron spectra allows to reconstruct the complete polarization state of the attosecond pulse, including its possible time dependence. The challenging problem of distinguishing circularly polarized, partially polarized, or unpolarized pulses in the extreme ultraviolet range is also resolved. We expect this approach to become the core ingredient for attosecond measurements of chiral-sensitive processes in gas and condensed phase.",
+            "authors": "Álvaro Jiménez-Galán, Gopal Dixit, Serguei Patchkovskii, Olga Smirnova, Felipe Morales, Misha Ivanov",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/S41467-018-03167-2"
         },
@@ -5773,7 +5804,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/AA732F",
             "title": "Attosecond control of spin polarization in electron-ion recollision driven by intense tailored fields",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 19(7), 073007 (2017)",
             "doi": "https://doi.org/10.1088/1367-2630/AA732F",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
@@ -5796,13 +5827,15 @@
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "L. Argenti, Á. Jiménez-Galán, J. Caillat, R. Taïeb, A. Maquet, F. Martín",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PHYSREVA.95.043426"
         },
@@ -5834,13 +5867,15 @@
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Sebastian Heuser, Álvaro Jiménez Galán, Claudio Cirelli, Carlos Marante, Mazyar Sabbar, Robert Boge, Matteo Lucchini, Lukas Gallmann, Igor Ivanov, Anatoli S. Kheifets, J. Marcus Dahlström, Eva Lindroth, Luca Argenti, Fernando Martín, Ursula Keller",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PHYSREVA.94.063409"
         },
@@ -6208,7 +6243,7 @@
             "doi": "https://doi.org/10.1515/nanoph-2022-0802",
             "published": "2023-07-14T00:00:00.000Z",
             "updated": "2023-07-14T00:00:00.000Z",
-            "summary": "Abstract\n               Distinguishing between the left- and right-handed versions of a chiral molecule (enantiomers) is vital, but also inherently difficult. Traditional optical methods using elliptically/circularly polarized light rely on linear effects which arise beyond the electric-dipole approximation, posing major limitations for ultrafast spectroscopy. Here we show how to turn an ultrashort elliptical pulse into an efficient chiro-optical tool: by tilting its polarization plane towards its propagation direction. This forward tilt can be achieved by focusing the beam tightly, creating structured light which exhibits a nontrivial polarization pattern in space. Using state-of-the-art computational modelling, we show that our structured field realizes a near-field interferometer for efficient chiral recognition that separates the nonlinear optical response of left- and right-handed molecules in space. Our work provides a simple, yet highly efficient, way of spatially structuring the polarization of light to image molecular chirality, with extreme enantio-efficiency and on ultrafast time scales.",
+            "summary": "Abstract\n                  Distinguishing between the left- and right-handed versions of a chiral molecule (enantiomers) is vital, but also inherently difficult. Traditional optical methods using elliptically/circularly polarized light rely on linear effects which arise beyond the electric-dipole approximation, posing major limitations for ultrafast spectroscopy. Here we show how to turn an ultrashort elliptical pulse into an efficient chiro-optical tool: by tilting its polarization plane towards its propagation direction. This forward tilt can be achieved by focusing the beam tightly, creating structured light which exhibits a nontrivial polarization pattern in space. Using state-of-the-art computational modelling, we show that our structured field realizes a near-field interferometer for efficient chiral recognition that separates the nonlinear optical response of left- and right-handed molecules in space. Our work provides a simple, yet highly efficient, way of spatially structuring the polarization of light to image molecular chirality, with extreme enantio-efficiency and on ultrafast time scales.",
             "authors": "Laura Rego, Olga Smirnova, David Ayuso",
             "categories": [],
             "formats": {
