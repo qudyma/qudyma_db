@@ -4871,7 +4871,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevResearch.6.043005",
             "title": "Real-space perspective on dephasing in solid-state high harmonic generation",
-            "journal_ref": "Physical Review Research 6(4) (2024)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PhysRevResearch.6.043005",
             "published": "2024-10-02T00:00:00.000Z",
             "updated": "2024-10-02T00:00:00.000Z",
@@ -6687,7 +6687,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/ad5755",
             "title": "Lattice imperfections and high-harmonic generation in correlated systems",
-            "journal_ref": "New Journal of Physics 26(6), 063023 (2024)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/ad5755",
             "published": "2024-06-01T00:00:00.000Z",
             "updated": "2024-06-01T00:00:00.000Z",
@@ -6791,10 +6791,10 @@
         {
             "id": "doi:https://doi.org/10.1021/acs.inorgchem.5c04991",
             "title": "Brønsted and Lewis Acid Activation of a Reactive Mn(III)–O–Ce(IV) Intermediate",
-            "journal_ref": "Inorganic Chemistry (2026)",
+            "journal_ref": "Inorganic Chemistry 65(11), 5954-5963 (2026)",
             "doi": "https://doi.org/10.1021/acs.inorgchem.5c04991",
-            "published": "2026-03-09T00:00:00.000Z",
-            "updated": "2026-03-09T00:00:00.000Z",
+            "published": "2026-03-23T00:00:00.000Z",
+            "updated": "2026-03-23T00:00:00.000Z",
             "summary": "",
             "authors": "Parkhi Sharma, Sikha Gupta, Asterios Charisiadis, Lucia Velasco, Pablo Estévez Alonso, Rakesh Kumar, Indresh Verma, Dooshaye Moonshiram, Apparao Draksharapu",
             "categories": [],
