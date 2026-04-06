@@ -5963,13 +5963,15 @@
             "published": "2015-09-07T00:00:00.000Z",
             "updated": "2015-09-07T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Álvaro Jiménez Galán, Luca Argenti, Fernando Martín",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1742-6596/635/1/012005"
         },
