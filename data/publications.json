@@ -2299,7 +2299,7 @@
             "published": "2001-01-01T00:00:00.000Z",
             "updated": "2001-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "R. Gómez-Medina, P. San José, A. García-Martín, M. Lester, M. Nieto-Vesperinas, J. J. Sáenz",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
@@ -3813,15 +3813,13 @@
             "published": "2023-05-11T00:00:00.000Z",
             "updated": "2023-05-11T00:00:00.000Z",
             "summary": "",
-            "authors": "Gilbert Grell, Zhaoheng Guo, Taran Driver, Piero Decleva, Etienne Plésiat, Antonio Picón, Jesús González-Vázquez, Peter Walter, Jonathan P. Marangos, James P. Cryan, Agostino Marinelli, Alicia Palacios, Fernando Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.5.023092"
         },
@@ -4733,32 +4731,30 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevA.82.013604",
             "title": "Atomtronics with holes: Coherent transport of an empty site in a triple-well potential",
-            "journal_ref": "Physical Review A 82(1) (2010)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PhysRevA.82.013604",
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "A. Benseny, S. Fernández-Vidal, J. Bagudà, R. Corbalán, A. Picón, L. Roso, G. Birkl, J. Mompart",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevA.82.013604"
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/12/8/083053",
             "title": "Transferring orbital and spin angular momenta of light to atoms",
-            "journal_ref": "New Journal of Physics 12(8), 083053 (2010)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/12/8/083053",
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "A Picón, A Benseny, J Mompart, J R Vázquez de Aldana, L Plaja, G F Calvo, L Roso",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
@@ -4776,15 +4772,13 @@
             "published": "2009-01-01T00:00:00.000Z",
             "updated": "2009-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "A. Picon, J. Mompart, J.V. Vazquez de Aldana, L. Plaja, G.F. Calvo, L. Roso",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1109/cleoe-eqec.2009.5196335"
         },
@@ -5164,7 +5158,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41467-020-15196-x",
             "title": "Polaritonic molecular clock for all-optical ultrafast imaging of wavepacket dynamics without probe pulses",
-            "journal_ref": null,
+            "journal_ref": "Nature Communications 11(1) (2020)",
             "doi": "https://doi.org/10.1038/s41467-020-15196-x",
             "published": "2020-03-17T00:00:00.000Z",
             "updated": "2020-03-17T00:00:00.000Z",
