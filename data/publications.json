@@ -1,6 +1,31 @@
 {
     "entries": [
         {
+            "authors": "Carlos Payá, César Robles, Pablo San-Jose, Elsa Prada",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
+            ],
+            "comment": "11 pages, 4 figures, 6 appendices",
+            "formats": {
+                "html": "http://arxiv.org/abs/2604.24858v1",
+                "pdf": "http://arxiv.org/pdf/2604.24858v1"
+            },
+            "id": "http://arxiv.org/abs/2604.24858v1",
+            "published": "2026-04-27T14:00:05-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Tunneling spectroscopy cannot be used as an unambiguous detection tool for Majorana zero modes (MZMs) in conventional partial-shell nanowires. The presence of smooth confinement at the end of the hybrid wire (among other sources of disorder) can create exponentially pinned zero-energy states, called quasi-MZMs, that mimic all local signatures of MZMs but lack topological protection. We find that this ambiguity in MZM detection does not occur in full-shell hybrid nanowires, an alternative nanowire design where a superconducting shell fully surrounds the semiconductor core. Acting as a synthetic vortex, a full-shell hybrid nanowire hosts Caroli-de Gennes-Matricon analog states. In the presence of smooth confinement, these states create a topologically trivial skin at the wire's end that prevents the local probe from detecting quasi-MZMs. Conversely, the trivial skin disappears when true MZMs form at the edge. This renders tunneling spectroscopy a reliable MZM detection technique for full-shell hybrid nanowires in the presence of smooth disorder.",
+            "title": "Absence of Quasi-Majorana False Positives in Full-Shell Hybrid Nanowires",
+            "updated": "2026-04-27T14:00:05-04:00",
+            "author_ids": [
+                "0001",
+                "0002",
+                "0008",
+                "0013"
+            ],
+            "arxiv_url": "https://arxiv.org/abs/2604.24858",
+            "journal_url": null
+        },
+        {
             "authors": "Pablo San-Jose, Elsa Prada",
             "categories": [
                 "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
@@ -2310,31 +2335,6 @@
             "journal_url": "https://doi.org/10.1103/PhysRevLett.86.4275"
         },
         {
-            "authors": "Carlos Payá, César Robles, Pablo San-Jose, Elsa Prada",
-            "categories": [
-                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
-            ],
-            "comment": "11 pages, 4 figures, 6 appendices",
-            "formats": {
-                "html": "http://arxiv.org/abs/2604.24858v1",
-                "pdf": "http://arxiv.org/pdf/2604.24858v1"
-            },
-            "id": "http://arxiv.org/abs/2604.24858v1",
-            "published": "2026-04-27T14:00:05-04:00",
-            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
-            "summary": "Tunneling spectroscopy cannot be used as an unambiguous detection tool for Majorana zero modes (MZMs) in conventional partial-shell nanowires. The presence of smooth confinement at the end of the hybrid wire (among other sources of disorder) can create exponentially pinned zero-energy states, called quasi-MZMs, that mimic all local signatures of MZMs but lack topological protection. We find that this ambiguity in MZM detection does not occur in full-shell hybrid nanowires, an alternative nanowire design where a superconducting shell fully surrounds the semiconductor core. Acting as a synthetic vortex, a full-shell hybrid nanowire hosts Caroli-de Gennes-Matricon analog states. In the presence of smooth confinement, these states create a topologically trivial skin at the wire's end that prevents the local probe from detecting quasi-MZMs. Conversely, the trivial skin disappears when true MZMs form at the edge. This renders tunneling spectroscopy a reliable MZM detection technique for full-shell hybrid nanowires in the presence of smooth disorder.",
-            "title": "Absence of Quasi-Majorana False Positives in Full-Shell Hybrid Nanowires",
-            "updated": "2026-04-27T14:00:05-04:00",
-            "author_ids": [
-                "0001",
-                "0002",
-                "0008",
-                "0013"
-            ],
-            "arxiv_url": "https://arxiv.org/abs/2604.24858",
-            "journal_url": null
-        },
-        {
             "authors": "Carlos Payá, Oliver Solow, Elsa Prada, Ramón Aguado, Karsten Flensberg",
             "categories": [
                 "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
@@ -3853,7 +3853,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41467-022-34670-2",
             "title": "Observation of site-selective chemical bond changes via ultrafast chemical shifts",
-            "journal_ref": null,
+            "journal_ref": "Nature Communications 13(1) (2022)",
             "doi": "https://doi.org/10.1038/s41467-022-34670-2",
             "published": "2022-11-22T00:00:00.000Z",
             "updated": "2022-11-22T00:00:00.000Z",
@@ -3873,18 +3873,20 @@
         {
             "id": "doi:https://doi.org/10.1021/jacs.1c07058",
             "title": "Magnetic, Mechanically Interlocked Porphyrin–Carbon Nanotubes for Quantum Computation and Spintronics",
-            "journal_ref": "Journal of the American Chemical Society 143(50), 21286-21293 (2021)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1021/jacs.1c07058",
             "published": "2021-12-22T00:00:00.000Z",
             "updated": "2021-12-22T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Sara Moreno-Da Silva, Jesús I. Martínez, Aysegul Develioglu, Belén Nieto-Ortega, Leire de Juan-Fernández, Luisa Ruiz-Gonzalez, Antonio Picón, Soléne Oberli, Pablo J. Alonso, Dooshaye Moonshiram, Emilio M. Pérez, Enrique Burzurí",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1021/jacs.1c07058"
         },
@@ -3932,15 +3934,13 @@
             "published": "2021-02-12T00:00:00.000Z",
             "updated": "2021-02-12T00:00:00.000Z",
             "summary": "",
-            "authors": "Giovanni Cistaro, Luis Plaja, Fernando Martín, Antonio Picón",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.3.013144"
         },
@@ -3983,7 +3983,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/ab7dde",
             "title": "Site-specific tunnel-ionization in high harmonic generation in molecules",
-            "journal_ref": "New Journal of Physics 22(4), 043012 (2020)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/ab7dde",
             "published": "2020-04-01T00:00:00.000Z",
             "updated": "2020-04-01T00:00:00.000Z",
@@ -4006,7 +4006,7 @@
             "published": "2019-04-15T00:00:00.000Z",
             "updated": "2019-04-15T00:00:00.000Z",
             "summary": "",
-            "authors": "A Picón, L Plaja, J Biegert",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
@@ -4078,15 +4078,13 @@
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Bárbara Buades, Dooshaye Moonshiram, Themistoklis P. H. Sidiropoulos, Iker León, Peter Schmidt, Irina Pi, Nicola Di Palo, Seth L. Cousin, Antonio Picón, Frank Koppens, Jens Biegert",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OPTICA.5.000502"
         },
@@ -4116,15 +4114,13 @@
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Óscar Zurrón, Antonio Picón, Luis Plaja",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1367-2630/aabec7"
         },
