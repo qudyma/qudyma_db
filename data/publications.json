@@ -6291,6 +6291,26 @@
             "journal_url": "https://doi.org/10.1126/science.aaw9486"
         },
         {
+            "id": "doi:https://doi.org/10.1038/s42005-026-02671-y",
+            "title": "Tutorial: theoretical methods for attosecond molecular ionization and dynamics",
+            "journal_ref": "Communications Physics 9(1) (2026)",
+            "doi": "https://doi.org/10.1038/s42005-026-02671-y",
+            "published": "2026-05-20T00:00:00.000Z",
+            "updated": "2026-05-20T00:00:00.000Z",
+            "summary": "",
+            "authors": "Fernando Martín, Jakub Benda, Jimena D. Gorfinkiel, Zdeněk Mašín, Laura Rego, Armin Scrinzi",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0006"
+            ],
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s42005-026-02671-y"
+        },
+        {
             "id": "doi:https://doi.org/10.1063/5.0251524",
             "title": "Attosecond physics and technology",
             "journal_ref": "Applied Physics Letters 126(17) (2025)",
