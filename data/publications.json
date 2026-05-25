@@ -3893,7 +3893,7 @@
         {
             "id": "doi:https://doi.org/10.1063/5.0054125",
             "title": "Publisher's Note: “Attosecond state-resolved carrier motion in quantum materials probed by soft x-ray XANES” [Appl. Phys Rev. 8, 011408 (2021)]",
-            "journal_ref": "Applied Physics Reviews 8(2) (2021)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1063/5.0054125",
             "published": "2021-06-01T00:00:00.000Z",
             "updated": "2021-06-01T00:00:00.000Z",
@@ -4539,7 +4539,7 @@
         {
             "id": "doi:https://doi.org/10.1021/acs.jpcc.6b06883",
             "title": "Mechanistic Evaluation of a Nickel Proton Reduction Catalyst Using Time-Resolved X-ray Absorption Spectroscopy",
-            "journal_ref": "The Journal of Physical Chemistry C 120(36), 20049-20057 (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1021/acs.jpcc.6b06883",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
@@ -4564,16 +4564,13 @@
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Laura Rego, Julio San Román, Antonio Picón, Luis Plaja, Carlos Hernández-García",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003",
-                "0006"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevLett.117.163202"
         },
@@ -4600,7 +4597,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/17/8/083038",
             "title": "Stimulated Raman adiabatic passage with two-color x-ray pulses",
-            "journal_ref": "New Journal of Physics 17(8), 083038 (2015)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/17/8/083038",
             "published": "2015-08-19T00:00:00.000Z",
             "updated": "2015-08-19T00:00:00.000Z",
@@ -4620,7 +4617,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/17/9/093029",
             "title": "Quantum-path signatures in attosecond helical beams driven by optical vortices",
-            "journal_ref": "New Journal of Physics 17(9), 093029 (2015)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/17/9/093029",
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
@@ -4861,38 +4858,31 @@
             "published": "2005-01-01T00:00:00.000Z",
             "updated": "2005-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "G. F. Calvo, A. Picon, E. Bagan",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1117/12.623798"
         },
         {
             "id": "doi:https://doi.org/10.1103/msy5-4yxd",
             "title": "Effects of zero-point motion on the high harmonic generation spectrum of solids",
-            "journal_ref": "Physical Review B 113(18) (2026)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/msy5-4yxd",
             "published": "2026-05-11T00:00:00.000Z",
             "updated": "2026-05-11T00:00:00.000Z",
-            "summary": "The interpretation of high harmonic generation (HHG) in solids typically relies on phenomenological dephasing times far shorter than what is expected from microscopic scattering processes. Here we show that zero-point fluctuations associated with optical phonons naturally suppress long-range electronic coherences and generate clean harmonic spectra without introducing  decoherence parameters. Using a one-dimensional semiconductor composed of two distinct sites per unit cell and realistic phonon amplitudes, we demonstrate that random per-site optical-phonon jitter reproduces the spectral sharpening typically attributed to ultrafast\n                    \n                      \n                        T\n                        2\n                      \n                    \n                    dephasing. In contrast, acoustic phonons and local strain, whose distortions are correlated over nanometer scales, produce negligible spectral cleaning. We further show that such long-range site coherence leads to carrier-envelope-phase (CEP)-dependent effects in the HHG spectrum driven by long pulses, but these effects are lost once optical-phonon-induced decoherence is included. Our results (i) identify optical zero-point motion as a key mechanism governing coherence in solid-state HHG, (ii) demonstrate that it can be qualitatively modeled in periodic solids through site-distance-dependent dephasing, and (iii) suggest that CEP-resolved measurements can probe electronic coherence lengths and atomic fluctuations in crystalline materials.",
-            "authors": "Aday Cárdenas, David N. Purschke, Graham G. Brown, Pablo San-Jose, Rui E. F. Silva, Álvaro Jiménez-Galán",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0001",
-                "0004",
-                "0005",
-                "0010"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/msy5-4yxd"
         },
@@ -4942,7 +4932,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevResearch.6.043005",
             "title": "Real-space perspective on dephasing in solid-state high harmonic generation",
-            "journal_ref": "Physical Review Research 6(4) (2024)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PhysRevResearch.6.043005",
             "published": "2024-10-02T00:00:00.000Z",
             "updated": "2024-10-02T00:00:00.000Z",
@@ -4963,7 +4953,7 @@
         {
             "id": "doi:https://doi.org/10.1142/9789811279560_0002",
             "title": "Manipulation of Quantum Properties in 2D Materials with Strong Tailored Fields",
-            "journal_ref": "ISBN: 9789811279553",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1142/9789811279560_0002",
             "published": "2024-07-01T00:00:00.000Z",
             "updated": "2024-07-01T00:00:00.000Z",
@@ -5134,24 +5124,21 @@
             "doi": "https://doi.org/10.1364/oe.460291",
             "published": "2022-08-15T00:00:00.000Z",
             "updated": "2022-08-15T00:00:00.000Z",
-            "summary": "2D materials with broken inversion symmetry posses an extra degree of freedom, the valley pseudospin, that labels in which of the two energy-degenerate crystal momenta, K or K’, the conducting carriers are located. It has been shown that shining circularly-polarized light allows to achieve close to 100% of valley polarization, opening the way to valley-based transistors. Yet, switching of the valley polarization is still a key challenge for the practical implementation of such devices due to the short valley lifetimes. Recent progress in ultrashort laser technology now allows to produce trains of attosecond pulses with controlled phase and polarization between the pulses. Taking advantage of such technology, we introduce a coherent control protocol to turn on, off and switch the valley polarization at faster timescales than electron-hole decoherence and valley depolarization, that is, an ultrafast optical valley switch. We theoretically demonstrate the protocol for hBN and MoS2 monolayers calculated from first principles. Additionally, using two time-delayed linearly-polarized pulses with perpendicular polarization, we show that we can extract the electronic dephasing time T2 from the valley Hall conductivity.",
-            "authors": "Rui E. F. Silva, Misha Ivanov, Álvaro Jiménez-Galán",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004",
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/oe.460291"
         },
         {
             "id": "doi:https://doi.org/10.1103/physreva.105.043704",
             "title": "Permutational symmetry for identical multilevel systems: A second-quantized approach",
-            "journal_ref": "Physical Review A 105(4) (2022)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physreva.105.043704",
             "published": "2022-04-04T00:00:00.000Z",
             "updated": "2022-04-04T00:00:00.000Z",
@@ -5293,7 +5280,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0129-0",
             "title": "High-harmonic spectroscopy of ultrafast many-body dynamics in strongly correlated systems",
-            "journal_ref": "Nature Photonics 12(5), 266-270 (2018)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/s41566-018-0129-0",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
@@ -5313,7 +5300,7 @@
         {
             "id": "doi:https://doi.org/10.1038/srep32653",
             "title": "Even harmonic generation in isotropic media of dissociating homonuclear molecules",
-            "journal_ref": "Scientific Reports 6(1) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/srep32653",
             "published": "2016-09-06T00:00:00.000Z",
             "updated": "2016-09-06T00:00:00.000Z",
@@ -5333,7 +5320,7 @@
         {
             "id": "doi:https://doi.org/10.1103/physrevlett.117.093003",
             "title": "Enhancing High-Order Harmonic Generation in Light Molecules by Using Chirped Pulses",
-            "journal_ref": "Physical Review Letters 117(9) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physrevlett.117.093003",
             "published": "2016-08-01T00:00:00.000Z",
             "updated": "2016-08-01T00:00:00.000Z",
@@ -5396,15 +5383,13 @@
             "published": "2013-03-01T00:00:00.000Z",
             "updated": "2013-03-01T00:00:00.000Z",
             "summary": "",
-            "authors": "R. E. F. Silva, F. Catoire, P. Rivière, H. Bachau, F. Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physrevlett.110.113001"
         },
@@ -5743,7 +5728,7 @@
         {
             "id": "doi:https://doi.org/10.1103/physrevlett.129.173202",
             "title": "Role of Spin-Orbit Coupling in High-Order Harmonic Generation Revealed by Supercycle Rydberg Trajectories",
-            "journal_ref": "Physical Review Letters 129(17) (2022)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physrevlett.129.173202",
             "published": "2022-10-18T00:00:00.000Z",
             "updated": "2022-10-18T00:00:00.000Z",
@@ -5768,27 +5753,25 @@
             "published": "2022-04-01T00:00:00.000Z",
             "updated": "2022-04-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Ihar Babushkin, Álvaro Jiménez Galán, José Ricardo Cardoso de Andrade, Anton Husakou, Felipe Morales, Martin Kretschmar, Tamas Nagy, Virgilijus Vaičaitis, Liping Shi, David Zuber, Luc Bergé, Stefan Skupin, Irina A. Nikolaeva, Nikolay A. Panov, Daniil E. Shipilo, Olga G. Kosareva, Adrian N. Pfeiffer, Ayhan Demircan, Mark J. J. Vrakking, Uwe Morgner, Misha Ivanov",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41567-022-01505-2"
         },
         {
             "id": "doi:https://doi.org/10.1038/s41467-021-22264-3",
             "title": "Topological protection versus degree of entanglement of two-photon light in photonic topological insulators",
-            "journal_ref": "Nature Communications 12(1) (2021)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/s41467-021-22264-3",
             "published": "2021-03-30T00:00:00.000Z",
             "updated": "2021-03-30T00:00:00.000Z",
-            "summary": "AbstractTopological insulators combine insulating properties in the bulk with scattering-free transport along edges, supporting dissipationless unidirectional energy and information flow even in the presence of defects and disorder. The feasibility of engineering quantum Hamiltonians with photonic tools, combined with the availability of entangled photons, raises the intriguing possibility of employing topologically protected entangled states in optical quantum computing and information processing. However, while two-photon states built as a product of two topologically protected single-photon states inherit full protection from their single-photon “parents”, a high degree of non-separability may lead to rapid deterioration of the two-photon states after propagation through disorder. In this work, we identify physical mechanisms which contribute to the vulnerability of entangled states in topological photonic lattices. Further, we show that in order to maximize entanglement without sacrificing topological protection, the joint spectral correlation map of two-photon states must fit inside a well-defined topological window of protection.",
-            "authors": "Konrad Tschernig, Álvaro Jimenez-Galán, Demetrios N. Christodoulides, Misha Ivanov, Kurt Busch, Miguel A. Bandres, Armando Perez-Leija",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
@@ -5801,7 +5784,7 @@
         {
             "id": "doi:https://doi.org/10.1364/optica.418152",
             "title": "Light-induced valleytronics in pristine graphene",
-            "journal_ref": "Optica 8(3), 422 (2021)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1364/optica.418152",
             "published": "2021-03-20T00:00:00.000Z",
             "updated": "2021-03-20T00:00:00.000Z",
@@ -5881,7 +5864,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1361-6455/AAA057",
             "title": "Time-frequency representation of autoionization dynamics in helium",
-            "journal_ref": "Journal of Physics B: Atomic, Molecular and Optical Physics 51(4), 044002 (2018)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1361-6455/AAA057",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
@@ -5917,20 +5900,18 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.95.043426",
             "title": "Control of photoemission delay in resonant two-photon transitions",
-            "journal_ref": "Physical Review A 95(4) (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVA.95.043426",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "L. Argenti, Á. Jiménez-Galán, J. Caillat, R. Taïeb, A. Maquet, F. Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PHYSREVA.95.043426"
         },
@@ -5957,20 +5938,18 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.94.063409",
             "title": "Angular dependence of photoemission time delay in helium",
-            "journal_ref": "Physical Review A 94(6) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVA.94.063409",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Sebastian Heuser, Álvaro Jiménez Galán, Claudio Cirelli, Carlos Marante, Mazyar Sabbar, Robert Boge, Matteo Lucchini, Lukas Gallmann, Igor Ivanov, Anatoli S. Kheifets, J. Marcus Dahlström, Eva Lindroth, Luca Argenti, Fernando Martín, Ursula Keller",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PHYSREVA.94.063409"
         },
@@ -6015,12 +5994,12 @@
         {
             "id": "doi:https://doi.org/10.1038/NCOMMS10566",
             "title": "Spectral phase measurement of a Fano resonance using tunable attosecond pulses",
-            "journal_ref": "Nature Communications 7(1) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/NCOMMS10566",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
-            "summary": "AbstractElectron dynamics induced by resonant absorption of light is of fundamental importance in nature and has been the subject of countless studies in many scientific areas. Above the ionization threshold of atomic or molecular systems, the presence of discrete states leads to autoionization, which is an interference between two quantum paths: direct ionization and excitation of the discrete state coupled to the continuum. Traditionally studied with synchrotron radiation, the probability for autoionization exhibits a universal Fano intensity profile as a function of excitation energy. However, without additional phase information, the full temporal dynamics cannot be recovered. Here we use tunable attosecond pulses combined with weak infrared radiation in an interferometric setup to measure not only the intensity but also the phase variation of the photoionization amplitude across an autoionization resonance in argon. The phase variation can be used as a fingerprint of the interactions between the discrete state and the ionization continua, indicating a new route towards monitoring electron correlations in time.",
-            "authors": "M. Kotur, D. Guénot, Á Jiménez-Galán, D. Kroon, E. W. Larsen, M. Louisy, S. Bengtsson, M. Miranda, J. Mauritsson, C. L. Arnold, S. E. Canton, M. Gisselbrecht, T. Carette, J. M. Dahlström, E. Lindroth, A. Maquet, L. Argenti, F. Martín, A. L’Huillier",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
@@ -6053,20 +6032,18 @@
         {
             "id": "doi:https://doi.org/10.1088/1742-6596/635/1/012005",
             "title": "Modulation of Attosecond Beating by Resonant Two-Photon Transition",
-            "journal_ref": "Journal of Physics: Conference Series 635(1), 012005 (2015)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1742-6596/635/1/012005",
             "published": "2015-09-07T00:00:00.000Z",
             "updated": "2015-09-07T00:00:00.000Z",
             "summary": "",
-            "authors": "Álvaro Jiménez Galán, Luca Argenti, Fernando Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1742-6596/635/1/012005"
         },
@@ -6317,23 +6294,21 @@
             "doi": "https://doi.org/10.1063/5.0251524",
             "published": "2025-04-28T00:00:00.000Z",
             "updated": "2025-04-28T00:00:00.000Z",
-            "summary": "In this Perspective, we provide an overview of the field of attosecond physics and technology for which the 2023 Nobel Prize in Physics was awarded to Pierre Agostini, Ferenc Krausz, and Anne L'Huillier. We look at the current state-of-the-art in attosecond timescale measurements and recent advances enabled by the light field driven technology inspired by the earlier work in the field. We end this Perspective with some comments on the exciting future directions now developing in the field.",
-            "authors": "O. Alexander, D. Ayuso, M. Matthews, L. Rego, J. W. G. Tisch, B. Weaver, J. P. Marangos",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0006"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1063/5.0251524"
         },
         {
             "id": "doi:https://doi.org/10.1126/sciadv.adp0841",
             "title": "Attosecond impulsive stimulated X-ray Raman scattering in liquid water",
-            "journal_ref": "Science Advances 10(39) (2024)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1126/sciadv.adp0841",
             "published": "2024-09-27T00:00:00.000Z",
             "updated": "2024-09-27T00:00:00.000Z",
@@ -6571,7 +6546,7 @@
             "id": "orcid:0006-Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "title": "Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "journal_ref": "Optics InfoBase Conference Papers Part F140-CLEO\\_Europe 2019 (2019)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871613",
+            "doi": null,
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6585,7 +6560,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871613"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0145-0",
@@ -6771,7 +6746,6 @@
             "author_ids": [
                 "0007"
             ],
-            "journal_ref": "Physical Review B 106(23) (2022)",
             "arxiv_url": "https://arxiv.org/abs/2209.04311",
             "journal_url": "https://doi.org/10.1103/PhysRevB.106.235142"
         },
@@ -6797,14 +6771,13 @@
             "author_ids": [
                 "0007"
             ],
-            "journal_ref": "Physical Review A 105(5) (2022)",
             "arxiv_url": "https://arxiv.org/abs/2201.06879",
             "journal_url": "https://doi.org/10.1103/PhysRevA.105.053118"
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/ad5755",
             "title": "Lattice imperfections and high-harmonic generation in correlated systems",
-            "journal_ref": "New Journal of Physics 26(6), 063023 (2024)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/ad5755",
             "published": "2024-06-01T00:00:00.000Z",
             "updated": "2024-06-01T00:00:00.000Z",
@@ -6928,20 +6901,18 @@
         {
             "id": "doi:https://doi.org/10.1016/j.jlumin.2021.118249",
             "title": "Improving the sensitivity of WGM pressure sensors with oxyfluoride glass microspheres",
-            "journal_ref": "Journal of Luminescence 238, 118249 (2021)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1016/j.jlumin.2021.118249",
             "published": "2021-10-01T00:00:00.000Z",
             "updated": "2021-10-01T00:00:00.000Z",
             "summary": "",
-            "authors": "K. Soler-Carracedo, P. Estévez-Alonso, I.R. Martin, S. Rios",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0012"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1016/j.jlumin.2021.118249"
         },
@@ -6967,7 +6938,6 @@
                 "0004",
                 "0014"
             ],
-            "journal_ref": "Optica 11(2), 171 (2024)",
             "arxiv_url": "https://arxiv.org/abs/2302.04127",
             "journal_url": "https://doi.org/10.1364/OPTICA.510789"
         },
