@@ -3833,7 +3833,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevResearch.5.023092",
             "title": "Effect of the shot-to-shot variation on charge migration induced by sub-fs x-ray free-electron laser pulses",
-            "journal_ref": "Physical Review Research 5(2) (2023)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PhysRevResearch.5.023092",
             "published": "2023-05-11T00:00:00.000Z",
             "updated": "2023-05-11T00:00:00.000Z",
@@ -3878,15 +3878,13 @@
             "published": "2021-12-22T00:00:00.000Z",
             "updated": "2021-12-22T00:00:00.000Z",
             "summary": "",
-            "authors": "Sara Moreno-Da Silva, Jesús I. Martínez, Aysegul Develioglu, Belén Nieto-Ortega, Leire de Juan-Fernández, Luisa Ruiz-Gonzalez, Antonio Picón, Soléne Oberli, Pablo J. Alonso, Dooshaye Moonshiram, Emilio M. Pérez, Enrique Burzurí",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1021/jacs.1c07058"
         },
@@ -3898,13 +3896,15 @@
             "published": "2021-06-01T00:00:00.000Z",
             "updated": "2021-06-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Bárbara Buades, Antonio Picón, Emma Berger, Iker León, Nicola Di Palo, Seth L. Cousin, Caterina Cocchi, Eric Pellegrin, Javier Herrero Martin, Samuel Mañas-Valero, Eugenio Coronado, Thomas Danz, Claudia Draxl, Mitsuharu Uemoto, Kazuhiro Yabana, Martin Schultze, Simon Wall, Michael Zürch, Jens Biegert",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1063/5.0054125"
         },
@@ -3947,7 +3947,7 @@
         {
             "id": "doi:https://doi.org/10.1002/chem.202001393",
             "title": "Tracking the Light‐Induced Excited‐State Dynamics and Structural Configurations of an Extraordinarily Long‐Lived Metastable State at Room Temperature",
-            "journal_ref": "Chemistry – A European Journal 26(47), 10801-10810 (2020)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1002/chem.202001393",
             "published": "2020-08-21T00:00:00.000Z",
             "updated": "2020-08-21T00:00:00.000Z",
@@ -3970,20 +3970,22 @@
             "published": "2020-08-11T00:00:00.000Z",
             "updated": "2020-08-11T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Jordan T. O’Neal, Elio G. Champenois, Solène Oberli, Razib Obaid, Andre Al-Haddad, Jonathan Barnard, Nora Berrah, Ryan Coffee, Joseph Duris, Gediminas Galinis, Douglas Garratt, James M. Glownia, Daniel Haxton, Phay Ho, Siqi Li, Xiang Li, James MacArthur, Jon P Marangos, Adi Natan, Niranjan Shivaram, Daniel S. Slaughter, Peter Walter, Scott Wandel, Linda Young, Christoph Bostedt, Philip H. Bucksbaum, Antonio Picón, Agostino Marinelli, James P. Cryan",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physrevlett.125.073203"
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/ab7dde",
             "title": "Site-specific tunnel-ionization in high harmonic generation in molecules",
-            "journal_ref": "New Journal of Physics 22(4), 043012 (2020)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/ab7dde",
             "published": "2020-04-01T00:00:00.000Z",
             "updated": "2020-04-01T00:00:00.000Z",
@@ -4078,13 +4080,15 @@
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Bárbara Buades, Dooshaye Moonshiram, Themistoklis P. H. Sidiropoulos, Iker León, Peter Schmidt, Irina Pi, Nicola Di Palo, Seth L. Cousin, Antonio Picón, Frank Koppens, Jens Biegert",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OPTICA.5.000502"
         },
@@ -4145,18 +4149,21 @@
         {
             "id": "doi:https://doi.org/10.3390/photonics4020028",
             "title": "Generation and Applications of Extreme-Ultraviolet Vortices",
-            "journal_ref": null,
+            "journal_ref": "Photonics 4(2), 28 (2017)",
             "doi": "https://doi.org/10.3390/photonics4020028",
             "published": "2017-04-07T00:00:00.000Z",
             "updated": "2017-04-07T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Vortex light beams are structures of the electromagnetic field with a spiral phase ramp around a point-phase singularity. These vortices have many applications in the optical regime, ranging from optical trapping and quantum information to spectroscopy and microscopy. The extension of vortices into the extreme-ultraviolet (XUV)/X-ray regime constitutes a significant step forward to bring those applications to the nanometer or even atomic scale. The recent development of a new generation of X-ray sources, and the refinement of other techniques, such as harmonic generation, have boosted the interest of producing vortex beams at short wavelengths. In this manuscript, we review the recent studies in the subject, and we collect the major prospects of this emerging field. We also focus on the unique and promising applications of ultrashort XUV/X-ray vortex pulses.",
+            "authors": "Carlos Hernández-García, Jorge Vieira, Jose Mendonça, Laura Rego, Julio San Román, Luis Plaja, Primoz Ribic, David Gauthier, Antonio Picón",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003",
+                "0006"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.3390/photonics4020028"
         },
@@ -4167,14 +4174,17 @@
             "doi": "https://doi.org/10.1017/hpl.2017.1",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Optical vortices are structures of the electromagnetic field with a spiral phase ramp about a point-phase singularity, carrying orbital angular momentum (OAM). Recently, OAM has been imprinted to short-wavelength radiation through high-order harmonic generation (HHG), leading to the emission of attosecond twisted beams in the extreme-ultraviolet (XUV) regime. We explore the details of the mapping of the driving vortex to its harmonic spectrum. In particular, we show that the geometry of the harmonic vortices is convoluted, arising from the superposition of the contribution from the short and long quantum paths responsible of HHG. Finally, we show how to take advantage of transverse phase-matching to select twisted attosecond beams with different spatiotemporal properties.",
+            "authors": "Carlos Hernández-García, Laura Rego, Julio San Román, Antonio Picón, Luis Plaja",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003",
+                "0006"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1017/hpl.2017.1"
         },
@@ -4258,7 +4268,7 @@
         {
             "id": "doi:https://doi.org/10.1364/OPTICA.4.000520",
             "title": "Extreme ultraviolet vector beams driven by infrared lasers",
-            "journal_ref": null,
+            "journal_ref": "Optica 4(5), 520 (2017)",
             "doi": "https://doi.org/10.1364/OPTICA.4.000520",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
@@ -4419,20 +4429,23 @@
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Alex Turpin, Laura Rego, Julio San Román, Antonio Picón, Luis Plaja, Carlos Hernández-García",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003",
+                "0006"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1117/12.2265811"
         },
         {
             "id": "doi:https://doi.org/10.5772/64908",
             "title": "Ultrashort Extreme Ultraviolet Vortices",
-            "journal_ref": null,
+            "journal_ref": "Vortex Dynamics and Optical Vortices (2017)",
             "doi": "https://doi.org/10.5772/64908",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
@@ -4450,18 +4463,20 @@
         {
             "id": "doi:https://doi.org/10.1038/ncomms11652",
             "title": "Hetero-site-specific X-ray pump-probe spectroscopy for femtosecond intramolecular dynamics",
-            "journal_ref": null,
+            "journal_ref": "Nature Communications 7(1) (2016)",
             "doi": "https://doi.org/10.1038/ncomms11652",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "A. Picón, C. S. Lehmann, C. Bostedt, A. Rudenko, A. Marinelli, T. Osipov, D. Rolles, N. Berrah, C. Bomme, M. Bucher, G. Doumy, B. Erk, K. R. Ferguson, T. Gorkhover, P. J. Ho, E. P. Kanter, B. Krässig, J. Krzywinski, A. A. Lutman, A. M. March, D. Moonshiram, D. Ray, L. Young, S. T. Pratt, S. H. Southworth",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/ncomms11652"
         },
@@ -4540,7 +4555,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/17/8/083038",
             "title": "Stimulated Raman adiabatic passage with two-color x-ray pulses",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 17(8), 083038 (2015)",
             "doi": "https://doi.org/10.1088/1367-2630/17/8/083038",
             "published": "2015-08-19T00:00:00.000Z",
             "updated": "2015-08-19T00:00:00.000Z",
@@ -4558,7 +4573,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/17/9/093029",
             "title": "Quantum-path signatures in attosecond helical beams driven by optical vortices",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 17(9), 093029 (2015)",
             "doi": "https://doi.org/10.1088/1367-2630/17/9/093029",
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
