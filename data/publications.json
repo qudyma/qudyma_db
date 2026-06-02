@@ -2782,7 +2782,6 @@
             "author_ids": [
                 "0002"
             ],
-            "journal_ref": "Journal of Computational Electronics 12(2), 63-75 (2012)",
             "arxiv_url": "https://arxiv.org/abs/1012.4345",
             "journal_url": "https://doi.org/10.1007/s10825-012-0427-6"
         },
@@ -2983,6 +2982,26 @@
             "journal_url": "https://doi.org/10.1140/epjb/e2004-00284-8"
         },
         {
+            "id": "orcid:0002-Caroli-de Gennes-Matricon states in full-shell nanowires",
+            "title": "Caroli-de Gennes-Matricon states in full-shell nanowires",
+            "journal_ref": "Quantum Designer Physics 2022 (2022)",
+            "doi": null,
+            "published": "2022-01-01T00:00:00.000Z",
+            "updated": "2022-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Elsa Prada",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0002"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
             "id": "orcid:0002-Topological superconductivity and Majorana modes for quantum computing: a materials science perspective",
             "title": "Topological superconductivity and Majorana modes for quantum computing: a materials science perspective",
             "journal_ref": "@FlipPhysics workshop (2022)",
@@ -3045,7 +3064,7 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/7/1/183",
             "title": "Clauser-Horne inequality for the full counting statistics",
-            "journal_ref": "New Journal of Physics 7, 183-183 (2005)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/7/1/183",
             "published": "2005-01-01T00:00:00.000Z",
             "updated": "2005-01-01T00:00:00.000Z",
@@ -3310,7 +3329,6 @@
             "author_ids": [
                 "0003"
             ],
-            "journal_ref": "Physical Chemistry Chemical Physics 21(46), 25626-25634 (2019)",
             "arxiv_url": "https://arxiv.org/abs/1910.09955",
             "journal_url": "https://doi.org/10.1039/C9CP04441H"
         },
@@ -3793,7 +3811,7 @@
         {
             "id": "doi:https://doi.org/10.1016/j.saa.2024.124978",
             "title": "Exploring the conformational landscape through rotational spectroscopy and computational modelling: The tunneling dynamics in 2,6-diethylphenol",
-            "journal_ref": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 324, 124978 (2025)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1016/j.saa.2024.124978",
             "published": "2025-01-01T00:00:00.000Z",
             "updated": "2025-01-01T00:00:00.000Z",
@@ -3813,7 +3831,7 @@
         {
             "id": "doi:https://doi.org/10.1002/cssc.202300719",
             "title": "Mapping the Ultrafast Mechanistic Pathways of Co Photocatalysts in Pure Water through Time‐Resolved X‐ray Spectroscopy",
-            "journal_ref": "ChemSusChem 16(21) (2023)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1002/cssc.202300719",
             "published": "2023-11-08T00:00:00.000Z",
             "updated": "2023-11-08T00:00:00.000Z",
@@ -3836,42 +3854,38 @@
             "published": "2023-05-11T00:00:00.000Z",
             "updated": "2023-05-11T00:00:00.000Z",
             "summary": "",
-            "authors": "Gilbert Grell, Zhaoheng Guo, Taran Driver, Piero Decleva, Etienne Plésiat, Antonio Picón, Jesús González-Vázquez, Peter Walter, Jonathan P. Marangos, James P. Cryan, Agostino Marinelli, Alicia Palacios, Fernando Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.5.023092"
         },
         {
             "id": "doi:https://doi.org/10.1038/s41467-022-34670-2",
             "title": "Observation of site-selective chemical bond changes via ultrafast chemical shifts",
-            "journal_ref": "Nature Communications 13(1) (2022)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/s41467-022-34670-2",
             "published": "2022-11-22T00:00:00.000Z",
             "updated": "2022-11-22T00:00:00.000Z",
-            "summary": "AbstractThe concomitant motion of electrons and nuclei on the femtosecond time scale marks the fate of chemical and biological processes. Here we demonstrate the ability to initiate and track the ultrafast electron rearrangement and chemical bond breaking site-specifically in real time for the carbon monoxide diatomic molecule. We employ a local resonant x-ray pump at the oxygen atom and probe the chemical shifts of the carbon core-electron binding energy. We observe charge redistribution accompanying core-excitation followed by Auger decay, eventually leading to dissociation and hole trapping at one site of the molecule. The presented technique is general in nature with sensitivity to chemical environment changes including transient electronic excited state dynamics. This work provides a route to investigate energy and charge transport processes in more complex systems by tracking selective chemical bond changes on their natural timescale.",
-            "authors": "Andre Al-Haddad, Solène Oberli, Jesús González-Vázquez, Maximilian Bucher, Gilles Doumy, Phay Ho, Jacek Krzywinski, Thomas J. Lane, Alberto Lutman, Agostino Marinelli, Timothy J. Maxwell, Stefan Moeller, Stephen T. Pratt, Dipanwita Ray, Ron Shepard, Stephen H. Southworth, Álvaro Vázquez-Mayagoitia, Peter Walter, Linda Young, Antonio Picón, Christoph Bostedt",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41467-022-34670-2"
         },
         {
             "id": "doi:https://doi.org/10.1021/jacs.1c07058",
             "title": "Magnetic, Mechanically Interlocked Porphyrin–Carbon Nanotubes for Quantum Computation and Spintronics",
-            "journal_ref": null,
+            "journal_ref": "Journal of the American Chemical Society 143(50), 21286-21293 (2021)",
             "doi": "https://doi.org/10.1021/jacs.1c07058",
             "published": "2021-12-22T00:00:00.000Z",
             "updated": "2021-12-22T00:00:00.000Z",
@@ -3889,29 +3903,11 @@
         {
             "id": "doi:https://doi.org/10.1063/5.0054125",
             "title": "Publisher's Note: “Attosecond state-resolved carrier motion in quantum materials probed by soft x-ray XANES” [Appl. Phys Rev. 8, 011408 (2021)]",
-            "journal_ref": null,
+            "journal_ref": "Applied Physics Reviews 8(2) (2021)",
             "doi": "https://doi.org/10.1063/5.0054125",
             "published": "2021-06-01T00:00:00.000Z",
             "updated": "2021-06-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [],
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1063/5.0054125"
-        },
-        {
-            "id": "doi:https://doi.org/10.1063/5.0020649",
-            "title": "Attosecond state-resolved carrier motion in quantum materials probed by soft x-ray XANES",
-            "journal_ref": null,
-            "doi": "https://doi.org/10.1063/5.0020649",
-            "published": "2021-03-01T00:00:00.000Z",
-            "updated": "2021-03-01T00:00:00.000Z",
-            "summary": "Recent developments in attosecond technology led to table-top x-ray spectroscopy in the soft x-ray range, thus uniting the element- and state-specificity of core-level x-ray absorption spectroscopy with the time resolution to follow electronic dynamics in real-time. We describe recent work in attosecond technology and investigations into materials such as Si, SiO2, GaN, Al2O3, Ti, and TiO2, enabled by the convergence of these two capabilities. We showcase the state-of-the-art on isolated attosecond soft x-ray pulses for x-ray absorption near-edge spectroscopy to observe the 3d-state dynamics of the semi-metal TiS2 with attosecond resolution at the Ti L-edge (460 eV). We describe how the element- and state-specificity at the transition metal L-edge of the quantum material allows us to unambiguously identify how and where the optical field influences charge carriers. This precision elucidates that the Ti:3d conduction band states are efficiently photo-doped to a density of 1.9 × 1021 cm−3. The light-field induces coherent motion of intra-band carriers across 38% of the first Brillouin zone. Lastly, we describe the prospects with such unambiguous real-time observation of carrier dynamics in specific bonding or anti-bonding states and speculate that such capability will bring unprecedented opportunities toward an engineered approach for designer materials with pre-defined properties and efficiency. Examples are composites of semiconductors and insulators like Si, Ge, SiO2, GaN, BN, and quantum materials like graphene, transition metal dichalcogens, or high-Tc superconductors like NbN or LaBaCuO. Exiting are prospects to scrutinize canonical questions in multi-body physics, such as whether the electrons or lattice trigger phase transitions.",
             "authors": "Bárbara Buades, Antonio Picón, Emma Berger, Iker León, Nicola Di Palo, Seth L. Cousin, Caterina Cocchi, Eric Pellegrin, Javier Herrero Martin, Samuel Mañas-Valero, Eugenio Coronado, Thomas Danz, Claudia Draxl, Mitsuharu Uemoto, Kazuhiro Yabana, Martin Schultze, Simon Wall, Michael Zürch, Jens Biegert",
             "categories": [],
             "formats": {
@@ -3922,32 +3918,48 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1063/5.0020649"
+            "journal_url": "https://doi.org/10.1063/5.0054125"
         },
         {
-            "id": "doi:https://doi.org/10.1103/PhysRevResearch.3.013144",
-            "title": "Attosecond x-ray transient absorption spectroscopy in graphene",
-            "journal_ref": "Physical Review Research 3(1) (2021)",
-            "doi": "https://doi.org/10.1103/PhysRevResearch.3.013144",
-            "published": "2021-02-12T00:00:00.000Z",
-            "updated": "2021-02-12T00:00:00.000Z",
+            "id": "doi:https://doi.org/10.1063/5.0020649",
+            "title": "Attosecond state-resolved carrier motion in quantum materials probed by soft x-ray XANES",
+            "journal_ref": null,
+            "doi": "https://doi.org/10.1063/5.0020649",
+            "published": "2021-03-01T00:00:00.000Z",
+            "updated": "2021-03-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Giovanni Cistaro, Luis Plaja, Fernando Martín, Antonio Picón",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1063/5.0020649"
+        },
+        {
+            "id": "doi:https://doi.org/10.1103/PhysRevResearch.3.013144",
+            "title": "Attosecond x-ray transient absorption spectroscopy in graphene",
+            "journal_ref": null,
+            "doi": "https://doi.org/10.1103/PhysRevResearch.3.013144",
+            "published": "2021-02-12T00:00:00.000Z",
+            "updated": "2021-02-12T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.3.013144"
         },
         {
             "id": "doi:https://doi.org/10.1002/chem.202001393",
             "title": "Tracking the Light‐Induced Excited‐State Dynamics and Structural Configurations of an Extraordinarily Long‐Lived Metastable State at Room Temperature",
-            "journal_ref": "Chemistry – A European Journal 26(47), 10801-10810 (2020)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1002/chem.202001393",
             "published": "2020-08-21T00:00:00.000Z",
             "updated": "2020-08-21T00:00:00.000Z",
