@@ -2609,6 +2609,7 @@
             "author_ids": [
                 "0002"
             ],
+            "journal_ref": "Nanotechnology 30(24), 24LT01 (2019)",
             "arxiv_url": "https://arxiv.org/abs/1903.02449",
             "journal_url": "https://doi.org/10.1088/1361-6528/ab0bc1"
         },
@@ -3832,7 +3833,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevResearch.5.023092",
             "title": "Effect of the shot-to-shot variation on charge migration induced by sub-fs x-ray free-electron laser pulses",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Research 5(2) (2023)",
             "doi": "https://doi.org/10.1103/PhysRevResearch.5.023092",
             "published": "2023-05-11T00:00:00.000Z",
             "updated": "2023-05-11T00:00:00.000Z",
@@ -3852,7 +3853,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41467-022-34670-2",
             "title": "Observation of site-selective chemical bond changes via ultrafast chemical shifts",
-            "journal_ref": null,
+            "journal_ref": "Nature Communications 13(1) (2022)",
             "doi": "https://doi.org/10.1038/s41467-022-34670-2",
             "published": "2022-11-22T00:00:00.000Z",
             "updated": "2022-11-22T00:00:00.000Z",
@@ -3877,25 +3878,7 @@
             "published": "2021-12-22T00:00:00.000Z",
             "updated": "2021-12-22T00:00:00.000Z",
             "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [],
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1021/jacs.1c07058"
-        },
-        {
-            "id": "doi:https://doi.org/10.1063/5.0054125",
-            "title": "Publisher's Note: “Attosecond state-resolved carrier motion in quantum materials probed by soft x-ray XANES” [Appl. Phys Rev. 8, 011408 (2021)]",
-            "journal_ref": "Applied Physics Reviews 8(2) (2021)",
-            "doi": "https://doi.org/10.1063/5.0054125",
-            "published": "2021-06-01T00:00:00.000Z",
-            "updated": "2021-06-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Bárbara Buades, Antonio Picón, Emma Berger, Iker León, Nicola Di Palo, Seth L. Cousin, Caterina Cocchi, Eric Pellegrin, Javier Herrero Martin, Samuel Mañas-Valero, Eugenio Coronado, Thomas Danz, Claudia Draxl, Mitsuharu Uemoto, Kazuhiro Yabana, Martin Schultze, Simon Wall, Michael Zürch, Jens Biegert",
+            "authors": "Sara Moreno-Da Silva, Jesús I. Martínez, Aysegul Develioglu, Belén Nieto-Ortega, Leire de Juan-Fernández, Luisa Ruiz-Gonzalez, Antonio Picón, Soléne Oberli, Pablo J. Alonso, Dooshaye Moonshiram, Emilio M. Pérez, Enrique Burzurí",
             "categories": [],
             "formats": {
                 "html": null,
@@ -3904,6 +3887,24 @@
             "author_ids": [
                 "0003"
             ],
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1021/jacs.1c07058"
+        },
+        {
+            "id": "doi:https://doi.org/10.1063/5.0054125",
+            "title": "Publisher's Note: “Attosecond state-resolved carrier motion in quantum materials probed by soft x-ray XANES” [Appl. Phys Rev. 8, 011408 (2021)]",
+            "journal_ref": null,
+            "doi": "https://doi.org/10.1063/5.0054125",
+            "published": "2021-06-01T00:00:00.000Z",
+            "updated": "2021-06-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1063/5.0054125"
         },
@@ -3914,21 +3915,23 @@
             "doi": "https://doi.org/10.1063/5.0020649",
             "published": "2021-03-01T00:00:00.000Z",
             "updated": "2021-03-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Recent developments in attosecond technology led to table-top x-ray spectroscopy in the soft x-ray range, thus uniting the element- and state-specificity of core-level x-ray absorption spectroscopy with the time resolution to follow electronic dynamics in real-time. We describe recent work in attosecond technology and investigations into materials such as Si, SiO2, GaN, Al2O3, Ti, and TiO2, enabled by the convergence of these two capabilities. We showcase the state-of-the-art on isolated attosecond soft x-ray pulses for x-ray absorption near-edge spectroscopy to observe the 3d-state dynamics of the semi-metal TiS2 with attosecond resolution at the Ti L-edge (460 eV). We describe how the element- and state-specificity at the transition metal L-edge of the quantum material allows us to unambiguously identify how and where the optical field influences charge carriers. This precision elucidates that the Ti:3d conduction band states are efficiently photo-doped to a density of 1.9 × 1021 cm−3. The light-field induces coherent motion of intra-band carriers across 38% of the first Brillouin zone. Lastly, we describe the prospects with such unambiguous real-time observation of carrier dynamics in specific bonding or anti-bonding states and speculate that such capability will bring unprecedented opportunities toward an engineered approach for designer materials with pre-defined properties and efficiency. Examples are composites of semiconductors and insulators like Si, Ge, SiO2, GaN, BN, and quantum materials like graphene, transition metal dichalcogens, or high-Tc superconductors like NbN or LaBaCuO. Exiting are prospects to scrutinize canonical questions in multi-body physics, such as whether the electrons or lattice trigger phase transitions.",
+            "authors": "Bárbara Buades, Antonio Picón, Emma Berger, Iker León, Nicola Di Palo, Seth L. Cousin, Caterina Cocchi, Eric Pellegrin, Javier Herrero Martin, Samuel Mañas-Valero, Eugenio Coronado, Thomas Danz, Claudia Draxl, Mitsuharu Uemoto, Kazuhiro Yabana, Martin Schultze, Simon Wall, Michael Zürch, Jens Biegert",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1063/5.0020649"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevResearch.3.013144",
             "title": "Attosecond x-ray transient absorption spectroscopy in graphene",
-            "journal_ref": "Physical Review Research 3(1) (2021)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PhysRevResearch.3.013144",
             "published": "2021-02-12T00:00:00.000Z",
             "updated": "2021-02-12T00:00:00.000Z",
@@ -3969,15 +3972,13 @@
             "published": "2020-08-11T00:00:00.000Z",
             "updated": "2020-08-11T00:00:00.000Z",
             "summary": "",
-            "authors": "Jordan T. O’Neal, Elio G. Champenois, Solène Oberli, Razib Obaid, Andre Al-Haddad, Jonathan Barnard, Nora Berrah, Ryan Coffee, Joseph Duris, Gediminas Galinis, Douglas Garratt, James M. Glownia, Daniel Haxton, Phay Ho, Siqi Li, Xiang Li, James MacArthur, Jon P Marangos, Adi Natan, Niranjan Shivaram, Daniel S. Slaughter, Peter Walter, Scott Wandel, Linda Young, Christoph Bostedt, Philip H. Bucksbaum, Antonio Picón, Agostino Marinelli, James P. Cryan",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physrevlett.125.073203"
         },
