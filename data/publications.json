@@ -1,25 +1,26 @@
 {
     "entries": [
         {
-            "authors": "Vo Tien Phong, Elsa Prada, Pablo San-Jose, Francisco Guinea, Eugene J Mele",
+            "authors": "Vo Tien Phong, Francisco Lobo, Elsa Prada, Pablo San-Jose, Francisco Guinea, Eugene J Mele",
             "categories": [
                 "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
                 "Superconductivity (cond-mat.supr-con)"
             ],
             "comment": "Comments are very appreciated; 7 + 37 pages, 5 + 18 figures",
             "formats": {
-                "html": "http://arxiv.org/abs/2606.14878v1",
-                "pdf": "http://arxiv.org/pdf/2606.14878v1"
+                "html": "http://arxiv.org/abs/2606.14878v2",
+                "pdf": "http://arxiv.org/pdf/2606.14878v2"
             },
-            "id": "http://arxiv.org/abs/2606.14878v1",
+            "id": "http://arxiv.org/abs/2606.14878v2",
             "published": "2026-06-12T14:32:58-04:00",
             "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
-            "summary": "Rhombohedral multilayer graphene polarized by a moderate perpendicular displacement field hosts a time-reversal-symmetry-breaking valley-and-spin-polarized metallic phase that may condense into a chiral superconductor. Recent magnetic imaging and transport measurements in this unconventional system suggest the presence of domain walls both in the metallic and superconducting phases. In this work, we show that valley domain walls are impenetrable barriers to transport in the metallic regime. Transmission through such a domain wall must therefore be mediated by intervalley interactions. We derive the symmetry-allowed terms and show via microscopic numerical simulations that they enable the transmission of electrons across the domain wall. In the superconducting phase, we find that intervalley mixing is crucial for supporting an appreciable supercurrent through a SNS' Josephson junction that connects opposite-chirality superconducting regions. Taken together, our work elucidates the nature of domain walls in these experimentally relevant multilayer systems and emphasizes the critical role of intervalley hybridization plays in governing their transport properties.",
+            "summary": "Rhombohedral multilayer graphene polarized by a moderate perpendicular displacement field hosts a time-reversal-symmetry-breaking valley-and-spin-polarized metallic phase that may condense into a chiral superconductor. Recent magnetic imaging and transport measurements in this unconventional system suggest the presence of domain walls both in the metallic and superconducting phases. In this work, we show that valley domain walls are impenetrable barriers to transport in the metallic regime. Transmission through such a domain wall must therefore be mediated by intervalley interactions. We derive the symmetry-allowed terms and show via microscopic numerical simulations that they enable the transmission of electrons across the domain wall. In the superconducting phase, we find that intervalley mixing is crucial for supporting an appreciable supercurrent through a SNS' Josephson junction that connects opposite-chirality superconducting regions. Taken together, our work elucidates the nature of domain walls in these experimentally relevant multilayer systems and emphasizes the critical role of intervalley hybridization in governing their transport properties.",
             "title": "Valley Valves at Domain Walls in Symmetry-Broken Rhombohedral Graphene",
-            "updated": "2026-06-12T14:32:58-04:00",
+            "updated": "2026-06-24T17:54:22-04:00",
             "author_ids": [
                 "0001",
-                "0002"
+                "0002",
+                "0009"
             ],
             "arxiv_url": "https://arxiv.org/abs/2606.14878",
             "journal_url": null
@@ -4223,20 +4224,18 @@
         {
             "id": "doi:https://doi.org/10.1021/jacs.7b06828",
             "title": "Electronic π-Delocalization Boosts Catalytic Water Oxidation by Cu(II) Molecular Catalysts Heterogenized on Graphene Sheets",
-            "journal_ref": "Journal of the American Chemical Society 139(37), 12907-12910 (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1021/jacs.7b06828",
             "published": "2017-09-20T00:00:00.000Z",
             "updated": "2017-09-20T00:00:00.000Z",
             "summary": "",
-            "authors": "Pablo Garrido-Barros, Carolina Gimbert-Suriñach, Dooshaye Moonshiram, Antonio Picón, Pere Monge, Victor S. Batista, Antoni Llobet",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1021/jacs.7b06828"
         },
@@ -4247,24 +4246,21 @@
             "doi": "https://doi.org/10.3390/photonics4020028",
             "published": "2017-04-07T00:00:00.000Z",
             "updated": "2017-04-07T00:00:00.000Z",
-            "summary": "Vortex light beams are structures of the electromagnetic field with a spiral phase ramp around a point-phase singularity. These vortices have many applications in the optical regime, ranging from optical trapping and quantum information to spectroscopy and microscopy. The extension of vortices into the extreme-ultraviolet (XUV)/X-ray regime constitutes a significant step forward to bring those applications to the nanometer or even atomic scale. The recent development of a new generation of X-ray sources, and the refinement of other techniques, such as harmonic generation, have boosted the interest of producing vortex beams at short wavelengths. In this manuscript, we review the recent studies in the subject, and we collect the major prospects of this emerging field. We also focus on the unique and promising applications of ultrashort XUV/X-ray vortex pulses.",
-            "authors": "Carlos Hernández-García, Jorge Vieira, Jose Mendonça, Laura Rego, Julio San Román, Luis Plaja, Primoz Ribic, David Gauthier, Antonio Picón",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003",
-                "0006"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.3390/photonics4020028"
         },
         {
             "id": "doi:https://doi.org/10.1017/hpl.2017.1",
             "title": "Attosecond twisted beams from high-order harmonic generation driven by optical vortices",
-            "journal_ref": "High Power Laser Science and Engineering 5 (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1017/hpl.2017.1",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
@@ -4286,7 +4282,7 @@
             "id": "orcid:0003-EUV light beams with fractional orbital angular momentum driven by high-order harmonic generation and conical refraction",
             "title": "EUV light beams with fractional orbital angular momentum driven by high-order harmonic generation and conical refraction",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8086813",
+            "doi": null,
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4297,10 +4293,11 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003"
+                "0003",
+                "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8086813"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1039/C6CC08748E",
@@ -4347,7 +4344,7 @@
             "id": "orcid:0003-Extreme Ultraviolet Vector Beams Driven by Multicycle Infrared Laser Pulses",
             "title": "Extreme Ultraviolet Vector Beams Driven by Multicycle Infrared Laser Pulses",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics (Cleo) (2017)",
-            "doi": "https://doi.org/10.1364/cleo_si.2017.stu1i.1",
+            "doi": null,
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4361,7 +4358,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/cleo_si.2017.stu1i.1"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1364/OPTICA.4.000520",
@@ -4371,15 +4368,13 @@
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Carlos Hernández-García, Alex Turpin, Julio San Román, Antonio Picón, Rokas Drevinskas, Ausra Cerkauskaite, Peter G. Kazansky, Charles G. Durfee, Íñigo J. Sola",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OPTICA.4.000520"
         },
@@ -5441,7 +5436,7 @@
         {
             "id": "doi:https://doi.org/10.1103/physreva.89.023415",
             "title": "Molecular resolvent-operator method: Electronic and nuclear dynamics in strong-field ionization",
-            "journal_ref": "Physical Review A 89(2) (2014)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physreva.89.023415",
             "published": "2014-02-01T00:00:00.000Z",
             "updated": "2014-02-01T00:00:00.000Z",
@@ -5461,20 +5456,18 @@
         {
             "id": "doi:https://doi.org/10.1103/physrevlett.110.113001",
             "title": "Correlated Electron and Nuclear Dynamics in Strong Field Photoionization ofH2+",
-            "journal_ref": "Physical Review Letters 110(11) (2013)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physrevlett.110.113001",
             "published": "2013-03-01T00:00:00.000Z",
             "updated": "2013-03-01T00:00:00.000Z",
             "summary": "",
-            "authors": "R. E. F. Silva, F. Catoire, P. Rivière, H. Bachau, F. Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physrevlett.110.113001"
         },
@@ -5506,15 +5499,13 @@
             "published": "2012-06-01T00:00:00.000Z",
             "updated": "2012-06-01T00:00:00.000Z",
             "summary": "",
-            "authors": "R. E. F. Silva, P. Rivière, F. Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.85.063414"
         },
@@ -5793,7 +5784,7 @@
         {
             "id": "doi:https://doi.org/10.1103/physreva.108.l051103",
             "title": "Microscopic mechanisms of high-order wave mixing in solids",
-            "journal_ref": "Physical Review A 108(5) (2023)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physreva.108.l051103",
             "published": "2023-11-20T00:00:00.000Z",
             "updated": "2023-11-20T00:00:00.000Z",
@@ -5974,7 +5965,7 @@
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "David Ayuso, Alvaro Jiménez-Galán, Felipe Morales, Misha Ivanov, Olga Smirnova",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
@@ -5987,7 +5978,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.95.043426",
             "title": "Control of photoemission delay in resonant two-photon transitions",
-            "journal_ref": "Physical Review A 95(4) (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVA.95.043426",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
@@ -6007,7 +5998,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.96.063401",
             "title": "Strong-field approximation in a rotating frame: High-order harmonic emission from p states in bicircular fields",
-            "journal_ref": "Physical Review A 96(6) (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVA.96.063401",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
@@ -6065,7 +6056,7 @@
         {
             "id": "doi:https://doi.org/10.1039/C6FD90070D",
             "title": "Electronic and non-adiabatic dynamics: general discussion",
-            "journal_ref": "Faraday Discussions 194, 209-257 (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1039/C6FD90070D",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
@@ -6089,8 +6080,8 @@
             "doi": "https://doi.org/10.1038/NCOMMS10566",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
-            "summary": "AbstractElectron dynamics induced by resonant absorption of light is of fundamental importance in nature and has been the subject of countless studies in many scientific areas. Above the ionization threshold of atomic or molecular systems, the presence of discrete states leads to autoionization, which is an interference between two quantum paths: direct ionization and excitation of the discrete state coupled to the continuum. Traditionally studied with synchrotron radiation, the probability for autoionization exhibits a universal Fano intensity profile as a function of excitation energy. However, without additional phase information, the full temporal dynamics cannot be recovered. Here we use tunable attosecond pulses combined with weak infrared radiation in an interferometric setup to measure not only the intensity but also the phase variation of the photoionization amplitude across an autoionization resonance in argon. The phase variation can be used as a fingerprint of the interactions between the discrete state and the ionization continua, indicating a new route towards monitoring electron correlations in time.",
-            "authors": "M. Kotur, D. Guénot, Á Jiménez-Galán, D. Kroon, E. W. Larsen, M. Louisy, S. Bengtsson, M. Miranda, J. Mauritsson, C. L. Arnold, S. E. Canton, M. Gisselbrecht, T. Carette, J. M. Dahlström, E. Lindroth, A. Maquet, L. Argenti, F. Martín, A. L’Huillier",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
