@@ -4888,7 +4888,7 @@
             "id": "orcid:0003-Manipulation of Single-Photon States encoded in Orbital Angular Momentum",
             "title": "Manipulation of Single-Photon States encoded in Orbital Angular Momentum",
             "journal_ref": "(2008)",
-            "doi": null,
+            "doi": "https://doi.org/10.1093/nsr/nwu048",
             "published": "2008-01-01T00:00:00.000Z",
             "updated": "2008-01-01T00:00:00.000Z",
             "summary": "",
@@ -4902,7 +4902,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1093/nsr/nwu048"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevA.73.013805",
@@ -6550,10 +6550,10 @@
             "id": "orcid:0006-High-order nonlinear dipole response characterized by extreme-ultraviolet ellipsometry",
             "title": "High-order nonlinear dipole response characterized by extreme-ultraviolet ellipsometry",
             "journal_ref": "Optics InfoBase Conference Papers (2020)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/hilas.2020.hf2b.5",
             "published": "2020-01-01T00:00:00.000Z",
             "updated": "2020-01-01T00:00:00.000Z",
-            "summary": "",
+            "summary": "We demonstrate that polarization control and characterization of high-harmonic generation in non-collinear geometry perform as excellent ellipsometry that can precisely retrieve the non-perturbative dipole response, both amplitude and phase, in the extremely nonlinear up-conversion process.",
             "authors": "Laura Rego, Chang, K.-Y., Huang, L.-C., Asaga, K., Tsai, M.-S., Rego, L., Huang, P.-C., Mashiko, H., Oguri, K., Hernández-García, C., Chen, M.-C.",
             "categories": [],
             "formats": {
@@ -6564,7 +6564,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/hilas.2020.hf2b.5"
         },
         {
             "id": "doi:https://doi.org/10.1109/JSTQE.2019.2919777",
