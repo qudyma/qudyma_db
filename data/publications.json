@@ -2344,7 +2344,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.86.4275",
             "title": "Resonant radiation pressure on neutral particles in a waveguide",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Letters 86(19), 4275-4277 (2001)",
             "doi": "https://doi.org/10.1103/PhysRevLett.86.4275",
             "published": "2001-01-01T00:00:00.000Z",
             "updated": "2001-01-01T00:00:00.000Z",
@@ -2634,6 +2634,7 @@
             "author_ids": [
                 "0002"
             ],
+            "journal_ref": "Nanotechnology 30(24), 24LT01 (2019)",
             "arxiv_url": "https://arxiv.org/abs/1903.02449",
             "journal_url": "https://doi.org/10.1088/1361-6528/ab0bc1"
         },
@@ -3927,26 +3928,6 @@
             "doi": "https://doi.org/10.1038/s41467-022-34670-2",
             "published": "2022-11-22T00:00:00.000Z",
             "updated": "2022-11-22T00:00:00.000Z",
-            "summary": "AbstractThe concomitant motion of electrons and nuclei on the femtosecond time scale marks the fate of chemical and biological processes. Here we demonstrate the ability to initiate and track the ultrafast electron rearrangement and chemical bond breaking site-specifically in real time for the carbon monoxide diatomic molecule. We employ a local resonant x-ray pump at the oxygen atom and probe the chemical shifts of the carbon core-electron binding energy. We observe charge redistribution accompanying core-excitation followed by Auger decay, eventually leading to dissociation and hole trapping at one site of the molecule. The presented technique is general in nature with sensitivity to chemical environment changes including transient electronic excited state dynamics. This work provides a route to investigate energy and charge transport processes in more complex systems by tracking selective chemical bond changes on their natural timescale.",
-            "authors": "Andre Al-Haddad, Solène Oberli, Jesús González-Vázquez, Maximilian Bucher, Gilles Doumy, Phay Ho, Jacek Krzywinski, Thomas J. Lane, Alberto Lutman, Agostino Marinelli, Timothy J. Maxwell, Stefan Moeller, Stephen T. Pratt, Dipanwita Ray, Ron Shepard, Stephen H. Southworth, Álvaro Vázquez-Mayagoitia, Peter Walter, Linda Young, Antonio Picón, Christoph Bostedt",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0003"
-            ],
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1038/s41467-022-34670-2"
-        },
-        {
-            "id": "doi:https://doi.org/10.1021/jacs.1c07058",
-            "title": "Magnetic, Mechanically Interlocked Porphyrin–Carbon Nanotubes for Quantum Computation and Spintronics",
-            "journal_ref": "Journal of the American Chemical Society 143(50), 21286-21293 (2021)",
-            "doi": "https://doi.org/10.1021/jacs.1c07058",
-            "published": "2021-12-22T00:00:00.000Z",
-            "updated": "2021-12-22T00:00:00.000Z",
             "summary": "",
             "authors": "",
             "categories": [],
@@ -3956,12 +3937,32 @@
             },
             "author_ids": [],
             "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1038/s41467-022-34670-2"
+        },
+        {
+            "id": "doi:https://doi.org/10.1021/jacs.1c07058",
+            "title": "Magnetic, Mechanically Interlocked Porphyrin–Carbon Nanotubes for Quantum Computation and Spintronics",
+            "journal_ref": null,
+            "doi": "https://doi.org/10.1021/jacs.1c07058",
+            "published": "2021-12-22T00:00:00.000Z",
+            "updated": "2021-12-22T00:00:00.000Z",
+            "summary": "",
+            "authors": "Sara Moreno-Da Silva, Jesús I. Martínez, Aysegul Develioglu, Belén Nieto-Ortega, Leire de Juan-Fernández, Luisa Ruiz-Gonzalez, Antonio Picón, Soléne Oberli, Pablo J. Alonso, Dooshaye Moonshiram, Emilio M. Pérez, Enrique Burzurí",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0003"
+            ],
+            "arxiv_url": null,
             "journal_url": "https://doi.org/10.1021/jacs.1c07058"
         },
         {
             "id": "doi:https://doi.org/10.1063/5.0054125",
             "title": "Publisher's Note: “Attosecond state-resolved carrier motion in quantum materials probed by soft x-ray XANES” [Appl. Phys Rev. 8, 011408 (2021)]",
-            "journal_ref": null,
+            "journal_ref": "Applied Physics Reviews 8(2) (2021)",
             "doi": "https://doi.org/10.1063/5.0054125",
             "published": "2021-06-01T00:00:00.000Z",
             "updated": "2021-06-01T00:00:00.000Z",
@@ -3983,16 +3984,14 @@
             "doi": "https://doi.org/10.1063/5.0020649",
             "published": "2021-03-01T00:00:00.000Z",
             "updated": "2021-03-01T00:00:00.000Z",
-            "summary": "Recent developments in attosecond technology led to table-top x-ray spectroscopy in the soft x-ray range, thus uniting the element- and state-specificity of core-level x-ray absorption spectroscopy with the time resolution to follow electronic dynamics in real-time. We describe recent work in attosecond technology and investigations into materials such as Si, SiO2, GaN, Al2O3, Ti, and TiO2, enabled by the convergence of these two capabilities. We showcase the state-of-the-art on isolated attosecond soft x-ray pulses for x-ray absorption near-edge spectroscopy to observe the 3d-state dynamics of the semi-metal TiS2 with attosecond resolution at the Ti L-edge (460 eV). We describe how the element- and state-specificity at the transition metal L-edge of the quantum material allows us to unambiguously identify how and where the optical field influences charge carriers. This precision elucidates that the Ti:3d conduction band states are efficiently photo-doped to a density of 1.9 × 1021 cm−3. The light-field induces coherent motion of intra-band carriers across 38% of the first Brillouin zone. Lastly, we describe the prospects with such unambiguous real-time observation of carrier dynamics in specific bonding or anti-bonding states and speculate that such capability will bring unprecedented opportunities toward an engineered approach for designer materials with pre-defined properties and efficiency. Examples are composites of semiconductors and insulators like Si, Ge, SiO2, GaN, BN, and quantum materials like graphene, transition metal dichalcogens, or high-Tc superconductors like NbN or LaBaCuO. Exiting are prospects to scrutinize canonical questions in multi-body physics, such as whether the electrons or lattice trigger phase transitions.",
-            "authors": "Bárbara Buades, Antonio Picón, Emma Berger, Iker León, Nicola Di Palo, Seth L. Cousin, Caterina Cocchi, Eric Pellegrin, Javier Herrero Martin, Samuel Mañas-Valero, Eugenio Coronado, Thomas Danz, Claudia Draxl, Mitsuharu Uemoto, Kazuhiro Yabana, Martin Schultze, Simon Wall, Michael Zürch, Jens Biegert",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1063/5.0020649"
         },
@@ -4021,14 +4020,16 @@
             "doi": "https://doi.org/10.1002/chem.202001393",
             "published": "2020-08-21T00:00:00.000Z",
             "updated": "2020-08-21T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "AbstractTime‐resolved X‐ray (Tr‐XAS) and optical transient absorption (OTA) spectroscopy on the pico‐microsecond timescale coupled with density functional theory calculations are applied to study the light‐induced spin crossover processes of a Fe‐based macrocyclic complex in solution. Tr‐XAS analysis after light illumination shows the formation of a seven‐coordinated high‐spin quintet metastable state, which relaxes to a six‐coordinated high‐spin configuration before decaying to the ground state. Kinetic analysis of the macrocyclic complex reveals an unprecedented long‐lived decay lifetime of approximately 42.6 μs. Comparative studies with a non‐macrocyclic counterpart illustrate a significantly shortened approximately 568‐fold decay lifetime of about 75 ns, and highlight the importance of the ligand arrangement in stabilizing the reactivity of the excited state. Lastly, OTA analysis shows the seven‐coordinated high‐spin state to be formed within approximately 6.2 ps. These findings provide a complete understanding of the spin crossover reaction and relaxation pathways of the macrocyclic complex, and reveal the importance of a flexible coordination environment for their rational design.",
+            "authors": "Sirma Iglesias, Arturo Gamonal, Abasi Abudulimu, Antonio Picón, Esther Carrasco, David Écija, Cunming Liu, Larry Luer, Xiaoyi Zhang, José Sánchez Costa, Dooshaye Moonshiram",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1002/chem.202001393"
         },
@@ -4233,7 +4234,7 @@
         {
             "id": "doi:https://doi.org/10.1017/hpl.2017.1",
             "title": "Attosecond twisted beams from high-order harmonic generation driven by optical vortices",
-            "journal_ref": "High Power Laser Science and Engineering 5 (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1017/hpl.2017.1",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
@@ -4276,16 +4277,14 @@
             "doi": "https://doi.org/10.1039/C6CC08748E",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "Probing the light-induced two electron transfer processes at a diiron(iii,iii) multimolecular photocatalytic system.",
-            "authors": "Dooshaye Moonshiram, Antonio Picón, Alvaro Vazquez-Mayagoitia, Xiaoyi Zhang, Ming-Feng Tu, Pablo Garrido-Barros, Jean-Pierre Mahy, Frédéric Avenier, Ally Aukauloo",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1039/C6CC08748E"
         },
@@ -4330,7 +4329,7 @@
         {
             "id": "doi:https://doi.org/10.1364/OPTICA.4.000520",
             "title": "Extreme ultraviolet vector beams driven by infrared lasers",
-            "journal_ref": "Optica 4(5), 520 (2017)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1364/OPTICA.4.000520",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
