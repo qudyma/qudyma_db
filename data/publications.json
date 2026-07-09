@@ -3094,6 +3094,7 @@
                 "Optics (physics.optics)"
             ],
             "comment": "",
+            "doi": "10.1021/jacs.6c06538",
             "formats": {
                 "html": "http://arxiv.org/abs/2606.17776v1",
                 "pdf": "http://arxiv.org/pdf/2606.17776v1"
@@ -3109,7 +3110,7 @@
                 "0012"
             ],
             "arxiv_url": "https://arxiv.org/abs/2606.17776",
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1021/jacs.6c06538"
         },
         {
             "authors": "G. Fiorentini, N. Di Palo, G. Inzani, G. L. Dolso, S. Bonetti, Q. Li, F. Liu, X. Zhu, A. Giglia, N. Mahne, L. Pasquali, M. D'Alessandro, M. Malakhov, M. Camarasa-Gómez, J. J. Esteve-Paredes, J. J. Palacios, R. Borrego-Varillas, M. Nisoli, Antonio Picón, D. Sangalli, M. Lucchini",
@@ -4310,7 +4311,7 @@
             "doi": "https://doi.org/10.1039/C6CC08748E",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "Probing the light-induced two electron transfer processes at a diiron(iii,iii) multimolecular photocatalytic system.",
+            "summary": "Probing the light-induced two electron transfer processes at a diiron(\n                    iii\n                    ,\n                    iii\n                    ) multimolecular photocatalytic system.",
             "authors": "Dooshaye Moonshiram, Antonio Picón, Alvaro Vazquez-Mayagoitia, Xiaoyi Zhang, Ming-Feng Tu, Pablo Garrido-Barros, Jean-Pierre Mahy, Frédéric Avenier, Ally Aukauloo",
             "categories": [],
             "formats": {
