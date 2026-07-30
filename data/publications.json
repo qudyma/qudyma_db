@@ -2005,6 +2005,27 @@
             "journal_url": null
         },
         {
+            "id": "orcid:0001-Zero-energy pinning of Majorana in nanowires",
+            "title": "Zero-energy pinning of Majorana in nanowires",
+            "journal_ref": "Workshop \"New Trends in Material Science\" (2017)",
+            "doi": null,
+            "published": "2017-01-01T00:00:00.000Z",
+            "updated": "2017-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose, Elsa Prada, Jorge Cayao, Ramón Aguado",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001",
+                "0002"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
             "id": "orcid:0001-Controlling Commensuration in Graphene/hBN multilayers",
             "title": "Controlling Commensuration in Graphene/hBN multilayers",
             "journal_ref": "Spinograph Workshop 2016 - New trends in 2D Mater.. (2016)",
@@ -2189,27 +2210,6 @@
             "journal_url": "https://doi.org/10.3762/bjnano.9.50"
         },
         {
-            "id": "orcid:0001-Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
-            "title": "Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
-            "journal_ref": "March Meeting of the American Physical Society (2012)",
-            "doi": null,
-            "published": "2012-01-01T00:00:00.000Z",
-            "updated": "2012-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose, R. Aguado, P. San Jose, Elsa Prada",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001",
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Localization in twisted graphene bilayers",
             "title": "Localization in twisted graphene bilayers",
             "journal_ref": "VII Reunión del Grupo Especializado de Física de Estado Sólido - GEFES 2012 (2012)",
@@ -2233,7 +2233,7 @@
             "id": "orcid:0001-Non-Abelian gauge fields in Moiré graphene bilayers",
             "title": "Non-Abelian gauge fields in Moiré graphene bilayers",
             "journal_ref": "Fundamental Aspects of Graphene and Other Carbon Allotropes (2012)",
-            "doi": null,
+            "doi": "https://doi.org/10.1103/physrevb.94.165401",
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
             "summary": "",
@@ -2247,7 +2247,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1103/physrevb.94.165401"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.106.045502",
@@ -3156,7 +3156,7 @@
                 "0003",
                 "0012"
             ],
-            "journal_ref": "Journal of the American Chemical Society (2026)",
+            "journal_ref": "Journal of the American\nChemical Society 148(29), 31088-31098 (2026)",
             "arxiv_url": "https://arxiv.org/abs/2606.17776",
             "journal_url": "https://doi.org/10.1021/jacs.6c06538"
         },
@@ -4799,7 +4799,7 @@
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
             "title": "Relevance of the transversal phase-matching in high-order harmonic generation",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (CLEO) - Laser Science to Photonic Applications, 2 pp. (2014)",
-            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.88",
+            "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4813,7 +4813,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.88"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1051/epjconf/20134102008",
@@ -6677,7 +6677,7 @@
             "id": "orcid:0006-Extreme-ultraviolet pulses with self-torque",
             "title": "Extreme-ultraviolet pulses with self-torque",
             "journal_ref": "Optics InfoBase Conference Papers Part F143-EQEC 2019 (2019)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871516",
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6691,7 +6691,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871516"
         },
         {
             "id": "doi:https://doi.org/10.23919/CLEO.2019.8749379",
