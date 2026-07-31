@@ -2005,31 +2005,10 @@
             "journal_url": null
         },
         {
-            "id": "orcid:0001-Zero-energy pinning of Majorana in nanowires",
-            "title": "Zero-energy pinning of Majorana in nanowires",
-            "journal_ref": "Workshop \"New Trends in Material Science\" (2017)",
-            "doi": null,
-            "published": "2017-01-01T00:00:00.000Z",
-            "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose, Elsa Prada, Jorge Cayao, Ramón Aguado",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001",
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Controlling Commensuration in Graphene/hBN multilayers",
             "title": "Controlling Commensuration in Graphene/hBN multilayers",
             "journal_ref": "Spinograph Workshop 2016 - New trends in 2D Mater.. (2016)",
-            "doi": "https://doi.org/10.1021/acs.langmuir.5b03653.s001",
+            "doi": null,
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
@@ -2043,7 +2022,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1021/acs.langmuir.5b03653.s001"
+            "journal_url": null
         },
         {
             "id": "orcid:0001-Premio Nobel de Física 2016: Revolución topológica en materia condensada",
@@ -2070,7 +2049,7 @@
             "id": "orcid:0001-Majorana bound states without topological superconductivity",
             "title": "Majorana bound states without topological superconductivity",
             "journal_ref": "APS March Meeting 2015 (2015)",
-            "doi": "https://doi.org/10.1209/0295-5075/108/60001",
+            "doi": null,
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
             "summary": "",
@@ -2085,16 +2064,16 @@
                 "0002"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1209/0295-5075/108/60001"
+            "journal_url": null
         },
         {
             "id": "orcid:0001-MatG, a quantum simulator",
             "title": "MatG, a quantum simulator",
             "journal_ref": "Mini-workshop ¿Topological Nanodevice Modeling¿ (2014)",
-            "doi": "https://doi.org/10.1364/fio.2020.jw6a.25",
+            "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
-            "summary": "Recent advances in high dimensional quantum computing systems demonstrate the feasibility of this paradigm. Here, we introduce QuantumSkynet, a cloud-based high dimensional quantum computing simulator. This platform allows simulations of qudit-based quantum gates and circuits.",
+            "summary": "",
             "authors": "Pablo San-Jose",
             "categories": [],
             "formats": {
@@ -2105,7 +2084,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/fio.2020.jw6a.25"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/15/11/113050",
@@ -2233,7 +2212,7 @@
             "id": "orcid:0001-Non-Abelian gauge fields in Moiré graphene bilayers",
             "title": "Non-Abelian gauge fields in Moiré graphene bilayers",
             "journal_ref": "Fundamental Aspects of Graphene and Other Carbon Allotropes (2012)",
-            "doi": "https://doi.org/10.1103/physrevb.94.165401",
+            "doi": null,
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
             "summary": "",
@@ -2247,7 +2226,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1103/physrevb.94.165401"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.106.045502",
@@ -4779,7 +4758,7 @@
             "id": "orcid:0003-Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "title": "Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (Cleo) (2014)",
-            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.104",
+            "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4793,13 +4772,13 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.104"
+            "journal_url": null
         },
         {
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
             "title": "Relevance of the transversal phase-matching in high-order harmonic generation",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (CLEO) - Laser Science to Photonic Applications, 2 pp. (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.88",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4813,7 +4792,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.88"
         },
         {
             "id": "doi:https://doi.org/10.1051/epjconf/20134102008",
@@ -5254,7 +5233,7 @@
             "doi": "https://doi.org/10.1364/oe.460291",
             "published": "2022-08-15T00:00:00.000Z",
             "updated": "2022-08-15T00:00:00.000Z",
-            "summary": "2D materials with broken inversion symmetry posses an extra degree of freedom, the valley pseudospin, that labels in which of the two energy-degenerate crystal momenta, K or K’, the conducting carriers are located. It has been shown that shining circularly-polarized light allows to achieve close to 100% of valley polarization, opening the way to valley-based transistors. Yet, switching of the valley polarization is still a key challenge for the practical implementation of such devices due to the short valley lifetimes. Recent progress in ultrashort laser technology now allows to produce trains of attosecond pulses with controlled phase and polarization between the pulses. Taking advantage of such technology, we introduce a coherent control protocol to turn on, off and switch the valley polarization at faster timescales than electron-hole decoherence and valley depolarization, that is, an ultrafast optical valley switch. We theoretically demonstrate the protocol for hBN and MoS2 monolayers calculated from first principles. Additionally, using two time-delayed linearly-polarized pulses with perpendicular polarization, we show that we can extract the electronic dephasing time T2 from the valley Hall conductivity.",
+            "summary": "2D materials with broken inversion symmetry posses an extra degree of freedom, the valley pseudospin, that labels in which of the two energy-degenerate crystal momenta, K or K’, the conducting carriers are located. It has been shown that shining circularly-polarized light allows to achieve close to 100% of valley polarization, opening the way to valley-based transistors. Yet, switching of the valley polarization is still a key challenge for the practical implementation of such devices due to the short valley lifetimes. Recent progress in ultrashort laser technology now allows to produce trains of attosecond pulses with controlled phase and polarization between the pulses. Taking advantage of such technology, we introduce a coherent control protocol to turn on, off and switch the valley polarization at faster timescales than electron-hole decoherence and valley depolarization, that is, an ultrafast optical valley switch. We theoretically demonstrate the protocol for hBN and MoS\n                    2\n                    monolayers calculated from first principles. Additionally, using two time-delayed linearly-polarized pulses with perpendicular polarization, we show that we can extract the electronic dephasing time\n                    T\n                    2\n                    from the valley Hall conductivity.",
             "authors": "Rui E. F. Silva, Misha Ivanov, Álvaro Jiménez-Galán",
             "categories": [],
             "formats": {
