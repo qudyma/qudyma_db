@@ -2005,31 +2005,10 @@
             "journal_url": null
         },
         {
-            "id": "orcid:0001-Zero-energy pinning of Majorana in nanowires",
-            "title": "Zero-energy pinning of Majorana in nanowires",
-            "journal_ref": "Workshop \"New Trends in Material Science\" (2017)",
-            "doi": null,
-            "published": "2017-01-01T00:00:00.000Z",
-            "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose, Elsa Prada, Jorge Cayao, Ramón Aguado",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001",
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Controlling Commensuration in Graphene/hBN multilayers",
             "title": "Controlling Commensuration in Graphene/hBN multilayers",
             "journal_ref": "Spinograph Workshop 2016 - New trends in 2D Mater.. (2016)",
-            "doi": null,
+            "doi": "https://doi.org/10.1021/acs.langmuir.5b03653.s001",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
@@ -2043,7 +2022,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1021/acs.langmuir.5b03653.s001"
         },
         {
             "id": "orcid:0001-Premio Nobel de Física 2016: Revolución topológica en materia condensada",
@@ -2096,26 +2075,6 @@
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
             "authors": "Pablo San-Jose",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
-            "id": "orcid:0001-Stacking boundaries and transport in bilayer graphenes",
-            "title": "Stacking boundaries and transport in bilayer graphenes",
-            "journal_ref": "GrapEsp ¿ A European Conference/Workshop\non the Synthesis, Characterization and Applications of Graphene. (2014)",
-            "doi": null,
-            "published": "2014-01-01T00:00:00.000Z",
-            "updated": "2014-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose, Francisco Guinea",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2253,7 +2212,7 @@
             "id": "orcid:0001-Non-Abelian gauge fields in Moiré graphene bilayers",
             "title": "Non-Abelian gauge fields in Moiré graphene bilayers",
             "journal_ref": "Fundamental Aspects of Graphene and Other Carbon Allotropes (2012)",
-            "doi": null,
+            "doi": "https://doi.org/10.1103/physrevb.94.165401",
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
             "summary": "",
@@ -2267,7 +2226,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1103/physrevb.94.165401"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.106.045502",
@@ -2306,26 +2265,6 @@
             "author_ids": [
                 "0001",
                 "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
-            "id": "orcid:0001-Zero Landau level in folded graphene ribbons",
-            "title": "Zero Landau level in folded graphene ribbons",
-            "journal_ref": "CECAM Charge and Spin Transport in Chemically Modified Graphene-Based Materials (2011)",
-            "doi": null,
-            "published": "2011-01-01T00:00:00.000Z",
-            "updated": "2011-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001"
             ],
             "arxiv_url": null,
             "journal_url": null
@@ -4497,7 +4436,7 @@
             "id": "orcid:0003-Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "title": "Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8086777",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4508,11 +4447,10 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003",
-                "0006"
+                "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8086777"
         },
         {
             "id": "doi:https://doi.org/10.1117/12.2263388",
@@ -4559,7 +4497,7 @@
             "id": "orcid:0003-Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "title": "Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8087755",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4573,7 +4511,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8087755"
         },
         {
             "id": "orcid:0003-Time-Resolved Two-Color X-ray Pump / X-ray Probe Photoelectron Spectroscopy at LCLS",
@@ -5608,6 +5546,29 @@
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.85.063414"
+        },
+        {
+            "authors": "Rui E. F. Silva, Olga Smirnova, Misha Ivanov, Álvaro Jiménez-Galán",
+            "categories": [
+                "Optics (physics.optics)"
+            ],
+            "comment": "",
+            "formats": {
+                "html": "http://arxiv.org/abs/2608.03242v1",
+                "pdf": "http://arxiv.org/pdf/2608.03242v1"
+            },
+            "id": "http://arxiv.org/abs/2608.03242v1",
+            "published": "2026-08-04T03:12:46-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "Valley polarization in hexagonal materials driven by the form of the lightwave and its orientation relative to the lattice, rather than solely by the helicity of the driver, has recently been demonstrated both theoretically and experimentally. This has extended valley control to the non-resonant, sub-cycle regime and to inversion-symmetric materials. One interpretation of this field-orientation-dependent valley polarization is that the laser-dressed, cycle-averaged band structure obtained from a Floquet-type approach is modified so as to lift the degeneracy between the valleys. Here, we derive a complementary explanation based on strong-field tunneling dynamics. We show that the effective valley gap at the dominant injection times depends on the orientation of the field relative to the lattice through the trigonal-warping term of the low-energy dispersion. We derive general expressions for co- and counter-rotating $\\omega+N\\omega$ fields and show that the leading orientation-dependent contribution survives the cycle average only for field configurations compatible with the threefold lattice symmetry, most notably counter-rotating $\\omega+2\\omega$ and co-rotating $\\omega+4\\omega$ fields. As a complementary weak-field result, we show that, for counter-rotating bicircular fields, the one-photon valley selection rules can be represented as valley-dependent energy detunings in a rotating frame where both colors acquire the same frequency.",
+            "title": "Valley polarization driven by two-color circular fields: a rotating frame and strong-field perspective",
+            "updated": "2026-08-04T03:12:46-04:00",
+            "author_ids": [
+                "0004",
+                "0005"
+            ],
+            "arxiv_url": "https://arxiv.org/abs/2608.03242",
+            "journal_url": null
         },
         {
             "authors": "Aday Cárdenas, Rui E. F. Silva, Álvaro Jiménez-Galán",
@@ -6718,7 +6679,7 @@
             "id": "orcid:0006-Extreme-ultraviolet pulses with self-torque",
             "title": "Extreme-ultraviolet pulses with self-torque",
             "journal_ref": "Optics InfoBase Conference Papers Part F143-EQEC 2019 (2019)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871516",
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6732,7 +6693,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871516"
         },
         {
             "id": "doi:https://doi.org/10.23919/CLEO.2019.8749379",
