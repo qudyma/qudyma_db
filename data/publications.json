@@ -2049,7 +2049,7 @@
             "id": "orcid:0001-Majorana bound states without topological superconductivity",
             "title": "Majorana bound states without topological superconductivity",
             "journal_ref": "APS March Meeting 2015 (2015)",
-            "doi": null,
+            "doi": "https://doi.org/10.1209/0295-5075/108/60001",
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
             "summary": "",
@@ -2064,16 +2064,16 @@
                 "0002"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1209/0295-5075/108/60001"
         },
         {
             "id": "orcid:0001-MatG, a quantum simulator",
             "title": "MatG, a quantum simulator",
             "journal_ref": "Mini-workshop ¿Topological Nanodevice Modeling¿ (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/fio.2020.jw6a.25",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
-            "summary": "",
+            "summary": "Recent advances in high dimensional quantum computing systems demonstrate the feasibility of this paradigm. Here, we introduce QuantumSkynet, a cloud-based high dimensional quantum computing simulator. This platform allows simulations of qudit-based quantum gates and circuits.",
             "authors": "Pablo San-Jose",
             "categories": [],
             "formats": {
@@ -2084,7 +2084,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/fio.2020.jw6a.25"
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/15/11/113050",
@@ -2171,10 +2171,10 @@
             "id": "orcid:0001-AC Josephson effect and Majorana Fermions",
             "title": "AC Josephson effect and Majorana Fermions",
             "journal_ref": "Trends in Nanotechnology TNT2012 (2012)",
-            "doi": "https://doi.org/10.3762/bjnano.9.50",
+            "doi": null,
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
-            "summary": "We study theoretically the local density of states (DOS) in a topological Josephson junction. We show that the well-known 4π Josephson effect originates from the interference effect between two Majorana fermions (MFs) that are localized at the Josephson junction. In addition, the DOS for electrons (holes) shows the 4π interference information along each parity conserved energy spectrum. The DOS displays a 2π period oscillation when two trivial states interfere with each other. This means that the DOS information may be used to distinguish the MFs from trivial localized states. We suggest that the interference effect and the DOS can be detected by using two STM leads or two normal leads. A single side lead can only detect the Andreev reflection tunneling process in the junction, which cannot reveal information about the interference effect in general. However, using two side leads, we can reveal information about the interference effect of the MFs as well as the DOS by combining Andreev reflection with the electron transmission process.",
+            "summary": "",
             "authors": "Pablo San-Jose, Pablo San-Jose, Elsa Prada, R. Aguado",
             "categories": [],
             "formats": {
@@ -2186,7 +2186,7 @@
                 "0002"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.3762/bjnano.9.50"
+            "journal_url": null
         },
         {
             "id": "orcid:0001-Localization in twisted graphene bilayers",
@@ -4436,7 +4436,7 @@
             "id": "orcid:0003-Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "title": "Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8086777",
+            "doi": null,
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4447,10 +4447,11 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003"
+                "0003",
+                "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8086777"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1117/12.2263388",
@@ -4758,7 +4759,7 @@
             "id": "orcid:0003-Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "title": "Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (Cleo) (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.104",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4772,7 +4773,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.104"
         },
         {
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
