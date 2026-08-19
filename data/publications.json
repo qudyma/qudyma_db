@@ -2005,10 +2005,31 @@
             "journal_url": null
         },
         {
+            "id": "orcid:0001-Zero-energy pinning of Majorana in nanowires",
+            "title": "Zero-energy pinning of Majorana in nanowires",
+            "journal_ref": "Workshop \"New Trends in Material Science\" (2017)",
+            "doi": null,
+            "published": "2017-01-01T00:00:00.000Z",
+            "updated": "2017-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose, Elsa Prada, Jorge Cayao, Ramón Aguado",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001",
+                "0002"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
             "id": "orcid:0001-Controlling Commensuration in Graphene/hBN multilayers",
             "title": "Controlling Commensuration in Graphene/hBN multilayers",
             "journal_ref": "Spinograph Workshop 2016 - New trends in 2D Mater.. (2016)",
-            "doi": "https://doi.org/10.1021/acs.langmuir.5b03653.s001",
+            "doi": null,
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
@@ -2022,7 +2043,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1021/acs.langmuir.5b03653.s001"
+            "journal_url": null
         },
         {
             "id": "orcid:0001-Premio Nobel de Física 2016: Revolución topológica en materia condensada",
@@ -2049,7 +2070,7 @@
             "id": "orcid:0001-Majorana bound states without topological superconductivity",
             "title": "Majorana bound states without topological superconductivity",
             "journal_ref": "APS March Meeting 2015 (2015)",
-            "doi": "https://doi.org/10.1209/0295-5075/108/60001",
+            "doi": null,
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
             "summary": "",
@@ -2064,7 +2085,7 @@
                 "0002"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1209/0295-5075/108/60001"
+            "journal_url": null
         },
         {
             "id": "orcid:0001-MatG, a quantum simulator",
@@ -2085,6 +2106,26 @@
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/fio.2020.jw6a.25"
+        },
+        {
+            "id": "orcid:0001-Stacking boundaries and transport in bilayer graphenes",
+            "title": "Stacking boundaries and transport in bilayer graphenes",
+            "journal_ref": "GrapEsp ¿ A European Conference/Workshop\non the Synthesis, Characterization and Applications of Graphene. (2014)",
+            "doi": null,
+            "published": "2014-01-01T00:00:00.000Z",
+            "updated": "2014-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose, Francisco Guinea",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/15/11/113050",
@@ -2171,11 +2212,32 @@
             "id": "orcid:0001-AC Josephson effect and Majorana Fermions",
             "title": "AC Josephson effect and Majorana Fermions",
             "journal_ref": "Trends in Nanotechnology TNT2012 (2012)",
+            "doi": "https://doi.org/10.3762/bjnano.9.50",
+            "published": "2012-01-01T00:00:00.000Z",
+            "updated": "2012-01-01T00:00:00.000Z",
+            "summary": "We study theoretically the local density of states (DOS) in a topological Josephson junction. We show that the well-known 4π Josephson effect originates from the interference effect between two Majorana fermions (MFs) that are localized at the Josephson junction. In addition, the DOS for electrons (holes) shows the 4π interference information along each parity conserved energy spectrum. The DOS displays a 2π period oscillation when two trivial states interfere with each other. This means that the DOS information may be used to distinguish the MFs from trivial localized states. We suggest that the interference effect and the DOS can be detected by using two STM leads or two normal leads. A single side lead can only detect the Andreev reflection tunneling process in the junction, which cannot reveal information about the interference effect in general. However, using two side leads, we can reveal information about the interference effect of the MFs as well as the DOS by combining Andreev reflection with the electron transmission process.",
+            "authors": "Pablo San-Jose, Pablo San-Jose, Elsa Prada, R. Aguado",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001",
+                "0002"
+            ],
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.3762/bjnano.9.50"
+        },
+        {
+            "id": "orcid:0001-Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
+            "title": "Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
+            "journal_ref": "March Meeting of the American Physical Society (2012)",
             "doi": null,
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Pablo San-Jose, Pablo San-Jose, Elsa Prada, R. Aguado",
+            "authors": "Pablo San-Jose, R. Aguado, P. San Jose, Elsa Prada",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2212,7 +2274,7 @@
             "id": "orcid:0001-Non-Abelian gauge fields in Moiré graphene bilayers",
             "title": "Non-Abelian gauge fields in Moiré graphene bilayers",
             "journal_ref": "Fundamental Aspects of Graphene and Other Carbon Allotropes (2012)",
-            "doi": "https://doi.org/10.1103/physrevb.94.165401",
+            "doi": null,
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
             "summary": "",
@@ -2226,7 +2288,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1103/physrevb.94.165401"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.106.045502",
@@ -2265,6 +2327,26 @@
             "author_ids": [
                 "0001",
                 "0002"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0001-Zero Landau level in folded graphene ribbons",
+            "title": "Zero Landau level in folded graphene ribbons",
+            "journal_ref": "CECAM Charge and Spin Transport in Chemically Modified Graphene-Based Materials (2011)",
+            "doi": null,
+            "published": "2011-01-01T00:00:00.000Z",
+            "updated": "2011-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001"
             ],
             "arxiv_url": null,
             "journal_url": null
@@ -3112,6 +3194,28 @@
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1367-2630/7/1/183"
+        },
+        {
+            "authors": "Giovanni Cistaro, Miguel Sá, Davide Sangalli, Antonio Picón, Nicola Colonna",
+            "categories": [
+                "Materials Science (cond-mat.mtrl-sci)"
+            ],
+            "comment": "",
+            "formats": {
+                "html": "http://arxiv.org/abs/2608.16226v1",
+                "pdf": "http://arxiv.org/pdf/2608.16226v1"
+            },
+            "id": "http://arxiv.org/abs/2608.16226v1",
+            "published": "2026-08-17T04:01:39-04:00",
+            "subject": "Materials Science (cond-mat.mtrl-sci)",
+            "summary": "We present an efficient first-principles approach for simulating the nonequilibrium electron dynamics in extended systems beyond the linear regime. The method combines Koopmans-compliant functionals, which provide an accurate quasiparticle band structures, with the real-time evolution of the electronic density matrix in a Wannier basis within the Hartree plus screened exchange (HSEX) approximation. The locality of the orbital basis enables physically motivated approximations that significantly reduce both the computational cost and memory requirements while preserving accuracy. The screened Coulomb interaction, the central ingredient of the HSEX self-energy, is computed efficiently using density-functional perturbation theory. We benchmark the approach in the linear regime against experimental spectra and reference Green's function calculations for systems featuring both weakly and strongly bound excitons. Moving to the nonlinear regime, we investigate high-harmonic generation (HHG) in silicon and lithium fluoride. While in silicon the HHG spectrum is largely governed by the quasiparticle band structure, in LiF, a material featuring strong excitonics effect, the harmonic emission is selectively enhanced at excitonic resonances, suggesting that HHG probes correlated electron-hole excitations rather than solely the quasiparticle band structure. The present framework enables fully \\textit{ab-initio} simulations of excitonic effects in nonlinear optical spectra at a significantly reduced computational cost compared to real-time Green's function approaches, providing an efficient route to the study of ultrafast and strong-field phenomena in solids.",
+            "title": "Efficient nonequilibrium electron dynamics from first-principles: leveraging Koopmans spectral functionals and Wannier localization",
+            "updated": "2026-08-17T04:01:39-04:00",
+            "author_ids": [
+                "0003"
+            ],
+            "arxiv_url": "https://arxiv.org/abs/2608.16226",
+            "journal_url": null
         },
         {
             "authors": "Ana Martínez Gutiérrez, Oliver Alexander, Pablo Estévez-Alonso, Lorenzo Paoloni, Terry Mullins, André Al-Haddad, Thomas M. Baumann, Rebecca Boll, Christoph Bostedt, Simon Dold, Alberto De Fanis, Gianluca Geloni, Markus Ilchen, Iyas Ismail, Björn Lautenschlager, Tommaso Mazza, Dooshaye Moonshiram, Solène Oberli, Dawei Peng, Ralph Püttner, Svitozar Serkez, Marc Simon, Florian Trinter, Sergey Usenko, Michael Meyer, Jonathan P. Marangos, Jesús González-Vázquez, Daniel E. Rivas, Antonio Picón",
@@ -4216,7 +4320,7 @@
             "doi": "https://doi.org/10.1002/chem.201800330",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
-            "summary": "AbstractWe report the light‐induced electronic and geometric changes taking place within a heteroleptic CuI photosensitizer, namely [(xant)Cu(Me2phenPh2)]PF6 (xant=xantphos, Me2phenPh2=bathocuproine), by time‐resolved X‐ray absorption spectroscopy in the ps–μs time regime. Time‐resolved X‐ray absorption near edge structure (XANES) and extended X‐ray absorption fine structure (EXAFS) analysis enabled the elucidation of the electronic and structural configuration of the copper center in the excited state as well as its decay dynamics in different solvent conditions with and without triethylamine acting as a sacrificial electron donor. A three‐fold decrease in the decay lifetime of the excited state is observed in the presence of triethylamine, showing the feasibility of the reductive quenching pathway in the latter case. A prominent pre‐edge feature is observed in the XANES spectrum of the excited state upon metal to charge ligand transfer transition, showing an increased hybridization of the 3d states with the ligand p orbitals in the tetrahedron around the Cu center. EXAFS and density functional theory illustrate a significant shortening of the Cu−N and an elongation of the Cu−P bonds together with a decrease in the torsional angle between the xantphos and bathocuproine ligand. This study provides mechanistic time‐resolved understanding for the development of improved heteroleptic CuI photosensitizers, which can be used for the light‐driven production of hydrogen from water.",
+            "summary": "Abstract\n                  \n                    We report the light‐induced electronic and geometric changes taking place within a heteroleptic Cu\n                    I\n                    photosensitizer, namely [(xant)Cu(Me\n                    2\n                    phenPh\n                    2\n                    )]PF\n                    6\n                    (xant=xantphos, Me\n                    2\n                    phenPh\n                    2\n                    =bathocuproine), by time‐resolved X‐ray absorption spectroscopy in the ps–μs time regime. Time‐resolved X‐ray absorption near edge structure (XANES) and extended X‐ray absorption fine structure (EXAFS) analysis enabled the elucidation of the electronic and structural configuration of the copper center in the excited state as well as its decay dynamics in different solvent conditions with and without triethylamine acting as a sacrificial electron donor. A three‐fold decrease in the decay lifetime of the excited state is observed in the presence of triethylamine, showing the feasibility of the reductive quenching pathway in the latter case. A prominent pre‐edge feature is observed in the XANES spectrum of the excited state upon metal to charge ligand transfer transition, showing an increased hybridization of the 3d states with the ligand p orbitals in the tetrahedron around the Cu center. EXAFS and density functional theory illustrate a significant shortening of the Cu−N and an elongation of the Cu−P bonds together with a decrease in the torsional angle between the xantphos and bathocuproine ligand. This study provides mechanistic time‐resolved understanding for the development of improved heteroleptic Cu\n                    I\n                    photosensitizers, which can be used for the light‐driven production of hydrogen from water.",
             "authors": "Dooshaye Moonshiram, Pablo Garrido‐Barros, Carolina Gimbert‐Suriñach, Antonio Picón, Cunming Liu, Xiaoyi Zhang, Michael Karnahl, Antoni Llobet",
             "categories": [],
             "formats": {
@@ -4416,7 +4520,7 @@
             "id": "orcid:0003-Generation of extreme ultraviolet vector beams from infrared laser pulses",
             "title": "Generation of extreme ultraviolet vector beams from infrared laser pulses",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8086734",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4430,7 +4534,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8086734"
         },
         {
             "id": "orcid:0003-Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
@@ -4759,7 +4863,7 @@
             "id": "orcid:0003-Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "title": "Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (Cleo) (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.104",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4773,7 +4877,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.104"
         },
         {
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
@@ -6718,7 +6822,7 @@
             "id": "orcid:0006-Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "title": "Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "journal_ref": "Optics InfoBase Conference Papers Part F140-CLEO\\_Europe 2019 (2019)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871613",
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6732,7 +6836,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871613"
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0145-0",
