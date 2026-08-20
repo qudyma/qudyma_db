@@ -1898,6 +1898,29 @@
             "journal_url": null
         },
         {
+            "id": "doi:https://doi.org/10.1103/msy5-4yxd",
+            "title": "Effects of zero-point motion on the high harmonic generation spectrum of solids",
+            "journal_ref": "Physical Review B 113(18) (2026)",
+            "doi": "https://doi.org/10.1103/msy5-4yxd",
+            "published": "2026-05-11T00:00:00.000Z",
+            "updated": "2026-05-11T00:00:00.000Z",
+            "summary": "The interpretation of high harmonic generation (HHG) in solids typically relies on phenomenological dephasing times far shorter than what is expected from microscopic scattering processes. Here we show that zero-point fluctuations associated with optical phonons naturally suppress long-range electronic coherences and generate clean harmonic spectra without introducing  decoherence parameters. Using a one-dimensional semiconductor composed of two distinct sites per unit cell and realistic phonon amplitudes, we demonstrate that random per-site optical-phonon jitter reproduces the spectral sharpening typically attributed to ultrafast\n                    \n                      \n                        T\n                        2\n                      \n                    \n                    dephasing. In contrast, acoustic phonons and local strain, whose distortions are correlated over nanometer scales, produce negligible spectral cleaning. We further show that such long-range site coherence leads to carrier-envelope-phase (CEP)-dependent effects in the HHG spectrum driven by long pulses, but these effects are lost once optical-phonon-induced decoherence is included. Our results (i) identify optical zero-point motion as a key mechanism governing coherence in solid-state HHG, (ii) demonstrate that it can be qualitatively modeled in periodic solids through site-distance-dependent dephasing, and (iii) suggest that CEP-resolved measurements can probe electronic coherence lengths and atomic fluctuations in crystalline materials.",
+            "authors": "Aday Cárdenas, David N. Purschke, Graham G. Brown, Pablo San-Jose, Rui E. F. Silva, Álvaro Jiménez-Galán",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001",
+                "0004",
+                "0005",
+                "0010"
+            ],
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1103/msy5-4yxd"
+        },
+        {
             "id": "doi:https://doi.org/10.1038/s41566-025-01823-w",
             "title": "Encoding and manipulating ultrafast coherent valleytronic information with lightwaves",
             "journal_ref": "Nature Photonics 20(3), 266-272 (2026)",
@@ -2005,27 +2028,6 @@
             "journal_url": null
         },
         {
-            "id": "orcid:0001-Zero-energy pinning of Majorana in nanowires",
-            "title": "Zero-energy pinning of Majorana in nanowires",
-            "journal_ref": "Workshop \"New Trends in Material Science\" (2017)",
-            "doi": null,
-            "published": "2017-01-01T00:00:00.000Z",
-            "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose, Elsa Prada, Jorge Cayao, Ramón Aguado",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001",
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Controlling Commensuration in Graphene/hBN multilayers",
             "title": "Controlling Commensuration in Graphene/hBN multilayers",
             "journal_ref": "Spinograph Workshop 2016 - New trends in 2D Mater.. (2016)",
@@ -2070,7 +2072,7 @@
             "id": "orcid:0001-Majorana bound states without topological superconductivity",
             "title": "Majorana bound states without topological superconductivity",
             "journal_ref": "APS March Meeting 2015 (2015)",
-            "doi": null,
+            "doi": "https://doi.org/10.1209/0295-5075/108/60001",
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
             "summary": "",
@@ -2085,37 +2087,17 @@
                 "0002"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1209/0295-5075/108/60001"
         },
         {
             "id": "orcid:0001-MatG, a quantum simulator",
             "title": "MatG, a quantum simulator",
             "journal_ref": "Mini-workshop ¿Topological Nanodevice Modeling¿ (2014)",
-            "doi": "https://doi.org/10.1364/fio.2020.jw6a.25",
-            "published": "2014-01-01T00:00:00.000Z",
-            "updated": "2014-01-01T00:00:00.000Z",
-            "summary": "Recent advances in high dimensional quantum computing systems demonstrate the feasibility of this paradigm. Here, we introduce QuantumSkynet, a cloud-based high dimensional quantum computing simulator. This platform allows simulations of qudit-based quantum gates and circuits.",
-            "authors": "Pablo San-Jose",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001"
-            ],
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/fio.2020.jw6a.25"
-        },
-        {
-            "id": "orcid:0001-Stacking boundaries and transport in bilayer graphenes",
-            "title": "Stacking boundaries and transport in bilayer graphenes",
-            "journal_ref": "GrapEsp ¿ A European Conference/Workshop\non the Synthesis, Characterization and Applications of Graphene. (2014)",
             "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Pablo San-Jose, Francisco Guinea",
+            "authors": "Pablo San-Jose",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2230,27 +2212,6 @@
             "journal_url": "https://doi.org/10.3762/bjnano.9.50"
         },
         {
-            "id": "orcid:0001-Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
-            "title": "Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
-            "journal_ref": "March Meeting of the American Physical Society (2012)",
-            "doi": null,
-            "published": "2012-01-01T00:00:00.000Z",
-            "updated": "2012-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose, R. Aguado, P. San Jose, Elsa Prada",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001",
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Localization in twisted graphene bilayers",
             "title": "Localization in twisted graphene bilayers",
             "journal_ref": "VII Reunión del Grupo Especializado de Física de Estado Sólido - GEFES 2012 (2012)",
@@ -2332,30 +2293,10 @@
             "journal_url": null
         },
         {
-            "id": "orcid:0001-Zero Landau level in folded graphene ribbons",
-            "title": "Zero Landau level in folded graphene ribbons",
-            "journal_ref": "CECAM Charge and Spin Transport in Chemically Modified Graphene-Based Materials (2011)",
-            "doi": null,
-            "published": "2011-01-01T00:00:00.000Z",
-            "updated": "2011-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Interplay between electronic excitations and flexural phonons in graphene",
             "title": "Interplay between electronic excitations and flexural phonons in graphene",
             "journal_ref": "APS March Meeting 2010 (2010)",
-            "doi": null,
+            "doi": "https://doi.org/10.1021/acs.jctc.5b00679.s001",
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
             "summary": "",
@@ -2369,7 +2310,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1021/acs.jctc.5b00679.s001"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevB.68.245311",
@@ -4602,7 +4543,7 @@
             "id": "orcid:0003-Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "title": "Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8087755",
+            "doi": null,
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4616,7 +4557,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8087755"
+            "journal_url": null
         },
         {
             "id": "orcid:0003-Time-Resolved Two-Color X-ray Pump / X-ray Probe Photoelectron Spectroscopy at LCLS",
@@ -4703,7 +4644,7 @@
         {
             "id": "doi:https://doi.org/10.1038/ncomms11652",
             "title": "Hetero-site-specific X-ray pump-probe spectroscopy for femtosecond intramolecular dynamics",
-            "journal_ref": "Nature Communications 7(1) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/ncomms11652",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
@@ -4723,7 +4664,7 @@
         {
             "id": "doi:https://doi.org/10.1007/978-1-4939-3028-9_15",
             "title": "Linear Canonical Transforms on Quantum States of Light",
-            "journal_ref": "Springer Series in Optical Sciences, 429-453 (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1007/978-1-4939-3028-9_15",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
@@ -4748,15 +4689,13 @@
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Dooshaye Moonshiram, Alexander Guda, Lars Kohler, Antonio Picon, Sergey Guda, C. Stefan Lehmann, Xiaoyi Zhang, Stephen H. Southworth, Karen L. Mulfort",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1021/acs.jpcc.6b06883"
         },
@@ -4883,7 +4822,7 @@
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
             "title": "Relevance of the transversal phase-matching in high-order harmonic generation",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (CLEO) - Laser Science to Photonic Applications, 2 pp. (2014)",
-            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.88",
+            "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4897,7 +4836,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.88"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1051/epjconf/20134102008",
@@ -4962,20 +4901,18 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevA.82.013604",
             "title": "Atomtronics with holes: Coherent transport of an empty site in a triple-well potential",
-            "journal_ref": "Physical Review A 82(1) (2010)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PhysRevA.82.013604",
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "A. Benseny, S. Fernández-Vidal, J. Bagudà, R. Corbalán, A. Picón, L. Roso, G. Birkl, J. Mompart",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevA.82.013604"
         },
@@ -5076,29 +5013,6 @@
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1117/12.623798"
-        },
-        {
-            "id": "doi:https://doi.org/10.1103/msy5-4yxd",
-            "title": "Effects of zero-point motion on the high harmonic generation spectrum of solids",
-            "journal_ref": "Physical Review B 113(18) (2026)",
-            "doi": "https://doi.org/10.1103/msy5-4yxd",
-            "published": "2026-05-11T00:00:00.000Z",
-            "updated": "2026-05-11T00:00:00.000Z",
-            "summary": "The interpretation of high harmonic generation (HHG) in solids typically relies on phenomenological dephasing times far shorter than what is expected from microscopic scattering processes. Here we show that zero-point fluctuations associated with optical phonons naturally suppress long-range electronic coherences and generate clean harmonic spectra without introducing  decoherence parameters. Using a one-dimensional semiconductor composed of two distinct sites per unit cell and realistic phonon amplitudes, we demonstrate that random per-site optical-phonon jitter reproduces the spectral sharpening typically attributed to ultrafast\n                    \n                      \n                        T\n                        2\n                      \n                    \n                    dephasing. In contrast, acoustic phonons and local strain, whose distortions are correlated over nanometer scales, produce negligible spectral cleaning. We further show that such long-range site coherence leads to carrier-envelope-phase (CEP)-dependent effects in the HHG spectrum driven by long pulses, but these effects are lost once optical-phonon-induced decoherence is included. Our results (i) identify optical zero-point motion as a key mechanism governing coherence in solid-state HHG, (ii) demonstrate that it can be qualitatively modeled in periodic solids through site-distance-dependent dephasing, and (iii) suggest that CEP-resolved measurements can probe electronic coherence lengths and atomic fluctuations in crystalline materials.",
-            "authors": "Aday Cárdenas, David N. Purschke, Graham G. Brown, Pablo San-Jose, Rui E. F. Silva, Álvaro Jiménez-Galán",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001",
-                "0004",
-                "0005",
-                "0010"
-            ],
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1103/msy5-4yxd"
         },
         {
             "id": "doi:https://doi.org/10.1126/sciadv.aeb4109",
