@@ -2114,10 +2114,10 @@
             "id": "orcid:0001-MatG, a quantum simulator",
             "title": "MatG, a quantum simulator",
             "journal_ref": "Mini-workshop ¿Topological Nanodevice Modeling¿ (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/fio.2020.jw6a.25",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
-            "summary": "",
+            "summary": "Recent advances in high dimensional quantum computing systems demonstrate the feasibility of this paradigm. Here, we introduce QuantumSkynet, a cloud-based high dimensional quantum computing simulator. This platform allows simulations of qudit-based quantum gates and circuits.",
             "authors": "Pablo San-Jose",
             "categories": [],
             "formats": {
@@ -2128,7 +2128,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/fio.2020.jw6a.25"
         },
         {
             "id": "orcid:0001-Stacking boundaries and transport in bilayer graphenes",
@@ -4864,7 +4864,7 @@
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
             "title": "Relevance of the transversal phase-matching in high-order harmonic generation",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (CLEO) - Laser Science to Photonic Applications, 2 pp. (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.88",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4878,7 +4878,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.88"
         },
         {
             "id": "doi:https://doi.org/10.1051/epjconf/20134102008",
@@ -5972,7 +5972,7 @@
             "doi": "https://doi.org/10.1038/s41467-021-22264-3",
             "published": "2021-03-30T00:00:00.000Z",
             "updated": "2021-03-30T00:00:00.000Z",
-            "summary": "AbstractTopological insulators combine insulating properties in the bulk with scattering-free transport along edges, supporting dissipationless unidirectional energy and information flow even in the presence of defects and disorder. The feasibility of engineering quantum Hamiltonians with photonic tools, combined with the availability of entangled photons, raises the intriguing possibility of employing topologically protected entangled states in optical quantum computing and information processing. However, while two-photon states built as a product of two topologically protected single-photon states inherit full protection from their single-photon “parents”, a high degree of non-separability may lead to rapid deterioration of the two-photon states after propagation through disorder. In this work, we identify physical mechanisms which contribute to the vulnerability of entangled states in topological photonic lattices. Further, we show that in order to maximize entanglement without sacrificing topological protection, the joint spectral correlation map of two-photon states must fit inside a well-defined topological window of protection.",
+            "summary": "Abstract\n                  Topological insulators combine insulating properties in the bulk with scattering-free transport along edges, supporting dissipationless unidirectional energy and information flow even in the presence of defects and disorder. The feasibility of engineering quantum Hamiltonians with photonic tools, combined with the availability of entangled photons, raises the intriguing possibility of employing topologically protected entangled states in optical quantum computing and information processing. However, while two-photon states built as a product of two topologically protected single-photon states inherit full protection from their single-photon “parents”, a high degree of non-separability may lead to rapid deterioration of the two-photon states after propagation through disorder. In this work, we identify physical mechanisms which contribute to the vulnerability of entangled states in topological photonic lattices. Further, we show that in order to maximize entanglement without sacrificing topological protection, the joint spectral correlation map of two-photon states must fit inside a well-defined topological window of protection.",
             "authors": "Konrad Tschernig, Álvaro Jimenez-Galán, Demetrios N. Christodoulides, Misha Ivanov, Kurt Busch, Miguel A. Bandres, Armando Perez-Leija",
             "categories": [],
             "formats": {
@@ -6780,7 +6780,7 @@
             "id": "orcid:0006-Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "title": "Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "journal_ref": "Optics InfoBase Conference Papers Part F140-CLEO\\_Europe 2019 (2019)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871613",
+            "doi": null,
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6794,7 +6794,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871613"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0145-0",
