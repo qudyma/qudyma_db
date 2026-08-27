@@ -2276,7 +2276,7 @@
             "id": "orcid:0001-Non-Abelian gauge fields in Moiré graphene bilayers",
             "title": "Non-Abelian gauge fields in Moiré graphene bilayers",
             "journal_ref": "Fundamental Aspects of Graphene and Other Carbon Allotropes (2012)",
-            "doi": "https://doi.org/10.1103/physrevb.94.165401",
+            "doi": null,
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
             "summary": "",
@@ -2290,7 +2290,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1103/physrevb.94.165401"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.106.045502",
@@ -2329,6 +2329,26 @@
             "author_ids": [
                 "0001",
                 "0002"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0001-Zero Landau level in folded graphene ribbons",
+            "title": "Zero Landau level in folded graphene ribbons",
+            "journal_ref": "CECAM Charge and Spin Transport in Chemically Modified Graphene-Based Materials (2011)",
+            "doi": null,
+            "published": "2011-01-01T00:00:00.000Z",
+            "updated": "2011-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001"
             ],
             "arxiv_url": null,
             "journal_url": null
@@ -4102,16 +4122,14 @@
             "doi": "https://doi.org/10.1063/5.0020649",
             "published": "2021-03-01T00:00:00.000Z",
             "updated": "2021-03-01T00:00:00.000Z",
-            "summary": "Recent developments in attosecond technology led to table-top x-ray spectroscopy in the soft x-ray range, thus uniting the element- and state-specificity of core-level x-ray absorption spectroscopy with the time resolution to follow electronic dynamics in real-time. We describe recent work in attosecond technology and investigations into materials such as Si, SiO2, GaN, Al2O3, Ti, and TiO2, enabled by the convergence of these two capabilities. We showcase the state-of-the-art on isolated attosecond soft x-ray pulses for x-ray absorption near-edge spectroscopy to observe the 3d-state dynamics of the semi-metal TiS2 with attosecond resolution at the Ti L-edge (460 eV). We describe how the element- and state-specificity at the transition metal L-edge of the quantum material allows us to unambiguously identify how and where the optical field influences charge carriers. This precision elucidates that the Ti:3d conduction band states are efficiently photo-doped to a density of 1.9 × 1021 cm−3. The light-field induces coherent motion of intra-band carriers across 38% of the first Brillouin zone. Lastly, we describe the prospects with such unambiguous real-time observation of carrier dynamics in specific bonding or anti-bonding states and speculate that such capability will bring unprecedented opportunities toward an engineered approach for designer materials with pre-defined properties and efficiency. Examples are composites of semiconductors and insulators like Si, Ge, SiO2, GaN, BN, and quantum materials like graphene, transition metal dichalcogens, or high-Tc superconductors like NbN or LaBaCuO. Exiting are prospects to scrutinize canonical questions in multi-body physics, such as whether the electrons or lattice trigger phase transitions.",
-            "authors": "Bárbara Buades, Antonio Picón, Emma Berger, Iker León, Nicola Di Palo, Seth L. Cousin, Caterina Cocchi, Eric Pellegrin, Javier Herrero Martin, Samuel Mañas-Valero, Eugenio Coronado, Thomas Danz, Claudia Draxl, Mitsuharu Uemoto, Kazuhiro Yabana, Martin Schultze, Simon Wall, Michael Zürch, Jens Biegert",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1063/5.0020649"
         },
@@ -4123,15 +4141,13 @@
             "published": "2021-02-12T00:00:00.000Z",
             "updated": "2021-02-12T00:00:00.000Z",
             "summary": "",
-            "authors": "Giovanni Cistaro, Luis Plaja, Fernando Martín, Antonio Picón",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.3.013144"
         },
@@ -4158,20 +4174,18 @@
         {
             "id": "doi:https://doi.org/10.1103/physrevlett.125.073203",
             "title": "Electronic Population Transfer via Impulsive Stimulated X-Ray Raman Scattering with Attosecond Soft-X-Ray Pulses",
-            "journal_ref": "Physical Review Letters 125(7) (2020)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/physrevlett.125.073203",
             "published": "2020-08-11T00:00:00.000Z",
             "updated": "2020-08-11T00:00:00.000Z",
             "summary": "",
-            "authors": "Jordan T. O’Neal, Elio G. Champenois, Solène Oberli, Razib Obaid, Andre Al-Haddad, Jonathan Barnard, Nora Berrah, Ryan Coffee, Joseph Duris, Gediminas Galinis, Douglas Garratt, James M. Glownia, Daniel Haxton, Phay Ho, Siqi Li, Xiang Li, James MacArthur, Jon P Marangos, Adi Natan, Niranjan Shivaram, Daniel S. Slaughter, Peter Walter, Scott Wandel, Linda Young, Christoph Bostedt, Philip H. Bucksbaum, Antonio Picón, Agostino Marinelli, James P. Cryan",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0003"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physrevlett.125.073203"
         },
@@ -4522,7 +4536,7 @@
             "id": "orcid:0003-Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "title": "Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8086777",
+            "doi": null,
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4533,10 +4547,11 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003"
+                "0003",
+                "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8086777"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1117/12.2263388",
@@ -4583,7 +4598,7 @@
             "id": "orcid:0003-Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "title": "Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8087755",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4597,7 +4612,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8087755"
         },
         {
             "id": "orcid:0003-Time-Resolved Two-Color X-ray Pump / X-ray Probe Photoelectron Spectroscopy at LCLS",
@@ -4744,7 +4759,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.117.163202",
             "title": "Nonperturbative Twist in the Generation of Extreme-Ultraviolet Vortex Beams",
-            "journal_ref": "Physical Review Letters 117(16) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PhysRevLett.117.163202",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
@@ -4963,12 +4978,12 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/12/8/083053",
             "title": "Transferring orbital and spin angular momenta of light to atoms",
-            "journal_ref": "New Journal of Physics 12(8), 083053 (2010)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1367-2630/12/8/083053",
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "A Picón, A Benseny, J Mompart, J R Vázquez de Aldana, L Plaja, G F Calvo, L Roso",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
@@ -5573,7 +5588,7 @@
         {
             "id": "doi:https://doi.org/10.1021/jp3053136",
             "title": "Pump–Probe Scheme To Study the Autoionization Decay of Optically-Forbidden H2Doubly Excited States",
-            "journal_ref": "The Journal of Physical Chemistry A 116(46), 11304-11310 (2012)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1021/jp3053136",
             "published": "2012-11-01T00:00:00.000Z",
             "updated": "2012-11-01T00:00:00.000Z",
@@ -5828,7 +5843,6 @@
                 "0004",
                 "0005"
             ],
-            "journal_ref": "Nature Photonics 14(12), 728-732 (2020)",
             "arxiv_url": "https://arxiv.org/abs/1910.07398",
             "journal_url": "https://doi.org/10.1038/s41566-020-00717-3"
         },
@@ -5853,7 +5867,6 @@
                 "0004",
                 "0005"
             ],
-            "journal_ref": "Nature Photonics 13(12), 849-854 (2019)",
             "arxiv_url": "https://arxiv.org/abs/1806.11232",
             "journal_url": "https://doi.org/10.1038/s41566-019-0516-1"
         },
@@ -5901,7 +5914,6 @@
             "author_ids": [
                 "0005"
             ],
-            "journal_ref": "Optics Express 25(19), 22880 (2017)",
             "arxiv_url": "https://arxiv.org/abs/1707.05590",
             "journal_url": "https://doi.org/10.1364/OE.25.022880"
         },
@@ -5913,15 +5925,13 @@
             "published": "2023-11-20T00:00:00.000Z",
             "updated": "2023-11-20T00:00:00.000Z",
             "summary": "",
-            "authors": "David N. Purschke, Álvaro Jiménez-Galán, Thomas Brabec, Andrei Yu. Naumov, André Staudte, David M. Villeneuve, Giulio Vampa",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physreva.108.l051103"
         },
@@ -5948,27 +5958,25 @@
         {
             "id": "doi:https://doi.org/10.1038/s41567-022-01505-2",
             "title": "All-optical attoclock for imaging tunnelling wavepackets",
-            "journal_ref": "Nature Physics 18(4), 417-422 (2022)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/s41567-022-01505-2",
             "published": "2022-04-01T00:00:00.000Z",
             "updated": "2022-04-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Ihar Babushkin, Álvaro Jiménez Galán, José Ricardo Cardoso de Andrade, Anton Husakou, Felipe Morales, Martin Kretschmar, Tamas Nagy, Virgilijus Vaičaitis, Liping Shi, David Zuber, Luc Bergé, Stefan Skupin, Irina A. Nikolaeva, Nikolay A. Panov, Daniil E. Shipilo, Olga G. Kosareva, Adrian N. Pfeiffer, Ayhan Demircan, Mark J. J. Vrakking, Uwe Morgner, Misha Ivanov",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41567-022-01505-2"
         },
         {
             "id": "doi:https://doi.org/10.1038/s41467-021-22264-3",
             "title": "Topological protection versus degree of entanglement of two-photon light in photonic topological insulators",
-            "journal_ref": "Nature Communications 12(1) (2021)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/s41467-021-22264-3",
             "published": "2021-03-30T00:00:00.000Z",
             "updated": "2021-03-30T00:00:00.000Z",
@@ -6147,15 +6155,13 @@
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Sebastian Heuser, Álvaro Jiménez Galán, Claudio Cirelli, Carlos Marante, Mazyar Sabbar, Robert Boge, Matteo Lucchini, Lukas Gallmann, Igor Ivanov, Anatoli S. Kheifets, J. Marcus Dahlström, Eva Lindroth, Luca Argenti, Fernando Martín, Ursula Keller",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PHYSREVA.94.063409"
         },
@@ -6180,20 +6186,18 @@
         {
             "id": "doi:https://doi.org/10.1039/C6FD90070D",
             "title": "Electronic and non-adiabatic dynamics: general discussion",
-            "journal_ref": "Faraday Discussions 194, 209-257 (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1039/C6FD90070D",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Andrew J. Orr-Ewing, Jan R. R. Verlet, Tom J. Penfold, Russell S. Minns, Michael P. Minitti, Theis I. Sølling, Oliver Schalk, Markus Kowalewski, Jon P. Marangos, Michael A. Robb, Allan S. Johnson, Hans Jakob Wörner, Dmitrii V. Shalashilin, R. J. Dwayne Miller, Wolfgang Domcke, Kiyoshi Ueda, Peter M. Weber, Raluca Cireasa, Morgane Vacher, Gareth M. Roberts, Piero Decleva, Filippo Bencivenga, Daniel M. Neumark, Oliver Gessner, Albert Stolow, Pankaj Kumar Mishra, Iakov Polyak, Kyoung Koo Baeck, Adam Kirrander, Danielle Dowek, Álvaro Jiménez-Galán, Fernando Martín, Shaul Mukamel, Taro Sekikawa, Maxim F. Gelin, Dave Townsend, Dmitry V. Makhov, Simon P. Neville",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1039/C6FD90070D"
         },
@@ -6218,47 +6222,43 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.93.023429",
             "title": "Two-photon finite-pulse model for resonant transitions in attosecond experiments",
-            "journal_ref": "Physical Review A 93(2) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVA.93.023429",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Álvaro Jiménez-Galán, Fernando Martín, Luca Argenti",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PHYSREVA.93.023429"
         },
         {
             "id": "doi:https://doi.org/10.1088/1742-6596/635/1/012005",
             "title": "Modulation of Attosecond Beating by Resonant Two-Photon Transition",
-            "journal_ref": "Journal of Physics: Conference Series 635(1), 012005 (2015)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1088/1742-6596/635/1/012005",
             "published": "2015-09-07T00:00:00.000Z",
             "updated": "2015-09-07T00:00:00.000Z",
             "summary": "",
-            "authors": "Álvaro Jiménez Galán, Luca Argenti, Fernando Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1742-6596/635/1/012005"
         },
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.91.061403",
             "title": "Dressing effects in the attosecond transient absorption spectra of doubly excited states in helium",
-            "journal_ref": "Physical Review A 91(6) (2015)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVA.91.061403",
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
@@ -6278,20 +6278,18 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVLETT.113.263001",
             "title": "Modulation of Attosecond Beating in Resonant Two-Photon Ionization",
-            "journal_ref": "Physical Review Letters 113(26) (2014)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVLETT.113.263001",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Álvaro Jiménez-Galán, Luca Argenti, Fernando Martín",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PHYSREVLETT.113.263001"
         },
@@ -6383,7 +6381,6 @@
             "author_ids": [
                 "0006"
             ],
-            "journal_ref": "Nature Reviews Physics 6(11), 663-675 (2024)",
             "arxiv_url": "https://arxiv.org/abs/2404.05923",
             "journal_url": "https://doi.org/10.1038/s42254-024-00763-8"
         },
@@ -6507,15 +6504,13 @@
             "published": "2026-05-20T00:00:00.000Z",
             "updated": "2026-05-20T00:00:00.000Z",
             "summary": "",
-            "authors": "Fernando Martín, Jakub Benda, Jimena D. Gorfinkiel, Zdeněk Mašín, Laura Rego, Armin Scrinzi",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0006"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s42005-026-02671-y"
         },
@@ -6526,16 +6521,14 @@
             "doi": "https://doi.org/10.1063/5.0251524",
             "published": "2025-04-28T00:00:00.000Z",
             "updated": "2025-04-28T00:00:00.000Z",
-            "summary": "In this Perspective, we provide an overview of the field of attosecond physics and technology for which the 2023 Nobel Prize in Physics was awarded to Pierre Agostini, Ferenc Krausz, and Anne L'Huillier. We look at the current state-of-the-art in attosecond timescale measurements and recent advances enabled by the light field driven technology inspired by the earlier work in the field. We end this Perspective with some comments on the exciting future directions now developing in the field.",
-            "authors": "O. Alexander, D. Ayuso, M. Matthews, L. Rego, J. W. G. Tisch, B. Weaver, J. P. Marangos",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0006"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1063/5.0251524"
         },
@@ -6643,7 +6636,7 @@
         {
             "id": "doi:https://doi.org/10.1364/OL.404402",
             "title": "Trains of attosecond pulses structured with time-ordered polarization states",
-            "journal_ref": "Optics Letters 45(20), 5636 (2020)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1364/OL.404402",
             "published": "2020-10-15T00:00:00.000Z",
             "updated": "2020-10-15T00:00:00.000Z",
@@ -6780,7 +6773,7 @@
             "id": "orcid:0006-Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "title": "Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "journal_ref": "Optics InfoBase Conference Papers Part F140-CLEO\\_Europe 2019 (2019)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871613",
+            "doi": null,
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6794,7 +6787,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871613"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0145-0",
