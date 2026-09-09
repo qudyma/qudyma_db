@@ -1,6 +1,33 @@
 {
     "entries": [
         {
+            "authors": "Eduardo B. Molinero, Bruno Amorim, Misha Ivanov, Graham G. Brown, Giovanni Cistaro, João M. Viana Parente Lopes, Álvaro Jiménez-Galán, Pablo San-Jose, Rui E. F. Silva",
+            "categories": [
+                "Optics (physics.optics)"
+            ],
+            "comment": "13 pages, 5 figures",
+            "doi": "10.1103/sxcl-yqs7",
+            "formats": {
+                "html": "http://arxiv.org/abs/2510.22064v2",
+                "pdf": "http://arxiv.org/pdf/2510.22064v2"
+            },
+            "id": "http://arxiv.org/abs/2510.22064v2",
+            "published": "2025-10-24T18:59:46-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "We develop the semiconductor Wannier equations (SWEs), a real-time, real-space formulation of ultrafast light-matter dynamics in crystals, by deriving the equations of motion for the electronic reduced density matrix in a localized Wannier basis. Working in real space removes the structure-gauge ambiguities that hinder reciprocal-space semiconductor Bloch equations. Electron--electron interactions are included at the time-dependent Hartree plus static screened-exchange (TD-HSEX) level. Decoherence is modeled with three complementary channels: pure dephasing, population relaxation, and distance-dependent real-space dephasing; providing physically grounded damping for strong-field phenomena such as high-harmonic generation. Conceptually, the SWEs bridge real-space semiclassical intuition with many-body solid-state optics, offering a numerically robust and gauge-clean alternative to reciprocal-space approaches for nonlinear optical response and attosecond spectroscopy in solids.",
+            "title": "Semiconductor Wannier equations: a real-time, real-space approach to the nonlinear optical response in crystals (ATATA)",
+            "updated": "2026-09-07T11:58:58-04:00",
+            "author_ids": [
+                "0001",
+                "0004",
+                "0005",
+                "0014"
+            ],
+            "journal_ref": "Physical Review Research (2026)",
+            "arxiv_url": "https://arxiv.org/abs/2510.22064",
+            "journal_url": "https://doi.org/10.1103/sxcl-yqs7"
+        },
+        {
             "authors": "Carlos Payá, César Robles, Pablo San-Jose, Elsa Prada",
             "categories": [
                 "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)"
@@ -102,31 +129,6 @@
             ],
             "arxiv_url": "https://arxiv.org/abs/2506.15502",
             "journal_url": "https://doi.org/10.1103/nnzv-7nqy"
-        },
-        {
-            "authors": "Eduardo B. Molinero, Bruno Amorim, Misha Ivanov, Graham G. Brown, Giovanni Cistaro, João M. Viana Parente Lopes, Álvaro Jiménez-Galán, Pablo San-Jose, Rui E. F. Silva",
-            "categories": [
-                "Optics (physics.optics)"
-            ],
-            "comment": "13 pages, 5 figures",
-            "formats": {
-                "html": "http://arxiv.org/abs/2510.22064v1",
-                "pdf": "http://arxiv.org/pdf/2510.22064v1"
-            },
-            "id": "http://arxiv.org/abs/2510.22064v1",
-            "published": "2025-10-24T18:59:46-04:00",
-            "subject": "Optics (physics.optics)",
-            "summary": "We develop the semiconductor Wannier equations (SWEs), a real-time, real-space formulation of ultrafast light-matter dynamics in crystals, by deriving the equations of motion for the electronic reduced density matrix in a localized Wannier basis. Working in real space removes the structure-gauge ambiguities that hinder reciprocal-space semiconductor Bloch equations. Electron--electron interactions are included at the time-dependent Hartree plus static screened-exchange (TD-HSEX) level. Decoherence is modeled with three complementary channels: pure dephasing, population relaxation, and distance-dependent real-space dephasing; providing physically grounded damping for strong-field phenomena such as high-harmonic generation. Conceptually, the SWEs bridge real-space semiclassical intuition with many-body solid-state optics, offering a numerically robust and gauge-clean alternative to reciprocal-space approaches for nonlinear optical response and attosecond spectroscopy in solids.",
-            "title": "Semiconductor Wannier equations: a real-time, real-space approach to the nonlinear optical response in crystals (ATATA)",
-            "updated": "2025-10-24T18:59:46-04:00",
-            "author_ids": [
-                "0001",
-                "0004",
-                "0005",
-                "0014"
-            ],
-            "arxiv_url": "https://arxiv.org/abs/2510.22064",
-            "journal_url": null
         },
         {
             "authors": "Carlos Payá, F. J. Matute-Cañadas, A. Levy Yeyati, Ramón Aguado, Pablo San-Jose, Elsa Prada",
@@ -2030,27 +2032,6 @@
             "journal_url": null
         },
         {
-            "id": "orcid:0001-Zero-energy pinning of Majorana in nanowires",
-            "title": "Zero-energy pinning of Majorana in nanowires",
-            "journal_ref": "Workshop \"New Trends in Material Science\" (2017)",
-            "doi": null,
-            "published": "2017-01-01T00:00:00.000Z",
-            "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose, Elsa Prada, Jorge Cayao, Ramón Aguado",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001",
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Controlling Commensuration in Graphene/hBN multilayers",
             "title": "Controlling Commensuration in Graphene/hBN multilayers",
             "journal_ref": "Spinograph Workshop 2016 - New trends in 2D Mater.. (2016)",
@@ -2095,7 +2076,7 @@
             "id": "orcid:0001-Majorana bound states without topological superconductivity",
             "title": "Majorana bound states without topological superconductivity",
             "journal_ref": "APS March Meeting 2015 (2015)",
-            "doi": "https://doi.org/10.1209/0295-5075/108/60001",
+            "doi": null,
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
             "summary": "",
@@ -2110,7 +2091,7 @@
                 "0002"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1209/0295-5075/108/60001"
+            "journal_url": null
         },
         {
             "id": "orcid:0001-MatG, a quantum simulator",
@@ -2233,6 +2214,27 @@
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.3762/bjnano.9.50"
+        },
+        {
+            "id": "orcid:0001-Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
+            "title": "Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
+            "journal_ref": "March Meeting of the American Physical Society (2012)",
+            "doi": null,
+            "published": "2012-01-01T00:00:00.000Z",
+            "updated": "2012-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose, R. Aguado, P. San Jose, Elsa Prada",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001",
+                "0002"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
         },
         {
             "id": "orcid:0001-Localization in twisted graphene bilayers",
@@ -4565,7 +4567,7 @@
             "id": "orcid:0003-Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "title": "Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8087755",
+            "doi": null,
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4579,7 +4581,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8087755"
+            "journal_url": null
         },
         {
             "id": "orcid:0003-Time-Resolved Two-Color X-ray Pump / X-ray Probe Photoelectron Spectroscopy at LCLS",
