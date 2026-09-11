@@ -2035,7 +2035,7 @@
             "id": "orcid:0001-Controlling Commensuration in Graphene/hBN multilayers",
             "title": "Controlling Commensuration in Graphene/hBN multilayers",
             "journal_ref": "Spinograph Workshop 2016 - New trends in 2D Mater.. (2016)",
-            "doi": "https://doi.org/10.1021/acs.langmuir.5b03653.s001",
+            "doi": null,
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
@@ -2049,7 +2049,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1021/acs.langmuir.5b03653.s001"
+            "journal_url": null
         },
         {
             "id": "orcid:0001-Premio Nobel de Física 2016: Revolución topológica en materia condensada",
@@ -4485,7 +4485,7 @@
             "id": "orcid:0003-Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "title": "Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8086777",
+            "doi": null,
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4496,10 +4496,11 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003"
+                "0003",
+                "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8086777"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1117/12.2263388",
@@ -4827,7 +4828,7 @@
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
             "title": "Relevance of the transversal phase-matching in high-order harmonic generation",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (CLEO) - Laser Science to Photonic Applications, 2 pp. (2014)",
-            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.88",
+            "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4841,7 +4842,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.88"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1051/epjconf/20134102008",
