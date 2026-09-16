@@ -5516,7 +5516,7 @@
         {
             "id": "doi:https://doi.org/10.1103/physrevlett.110.113001",
             "title": "Correlated Electron and Nuclear Dynamics in Strong Field Photoionization ofH2+",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Letters 110(11) (2013)",
             "doi": "https://doi.org/10.1103/physrevlett.110.113001",
             "published": "2013-03-01T00:00:00.000Z",
             "updated": "2013-03-01T00:00:00.000Z",
@@ -6163,12 +6163,12 @@
         {
             "id": "doi:https://doi.org/10.1038/NCOMMS10566",
             "title": "Spectral phase measurement of a Fano resonance using tunable attosecond pulses",
-            "journal_ref": "Nature Communications 7(1) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/NCOMMS10566",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
-            "summary": "AbstractElectron dynamics induced by resonant absorption of light is of fundamental importance in nature and has been the subject of countless studies in many scientific areas. Above the ionization threshold of atomic or molecular systems, the presence of discrete states leads to autoionization, which is an interference between two quantum paths: direct ionization and excitation of the discrete state coupled to the continuum. Traditionally studied with synchrotron radiation, the probability for autoionization exhibits a universal Fano intensity profile as a function of excitation energy. However, without additional phase information, the full temporal dynamics cannot be recovered. Here we use tunable attosecond pulses combined with weak infrared radiation in an interferometric setup to measure not only the intensity but also the phase variation of the photoionization amplitude across an autoionization resonance in argon. The phase variation can be used as a fingerprint of the interactions between the discrete state and the ionization continua, indicating a new route towards monitoring electron correlations in time.",
-            "authors": "M. Kotur, D. Guénot, Á Jiménez-Galán, D. Kroon, E. W. Larsen, M. Louisy, S. Bengtsson, M. Miranda, J. Mauritsson, C. L. Arnold, S. E. Canton, M. Gisselbrecht, T. Carette, J. M. Dahlström, E. Lindroth, A. Maquet, L. Argenti, F. Martín, A. L’Huillier",
+            "summary": "",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
@@ -6181,7 +6181,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVA.93.023429",
             "title": "Two-photon finite-pulse model for resonant transitions in attosecond experiments",
-            "journal_ref": "Physical Review A 93(2) (2016)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/PHYSREVA.93.023429",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
@@ -6743,7 +6743,7 @@
             "id": "orcid:0006-Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "title": "Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "journal_ref": "Optics InfoBase Conference Papers Part F140-CLEO\\_Europe 2019 (2019)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871613",
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6757,7 +6757,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871613"
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0145-0",
