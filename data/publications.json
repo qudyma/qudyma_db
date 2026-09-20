@@ -2097,7 +2097,7 @@
             "id": "orcid:0001-Majorana bound states without topological superconductivity",
             "title": "Majorana bound states without topological superconductivity",
             "journal_ref": "APS March Meeting 2015 (2015)",
-            "doi": null,
+            "doi": "https://doi.org/10.1209/0295-5075/108/60001",
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
             "summary": "",
@@ -2112,16 +2112,16 @@
                 "0002"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1209/0295-5075/108/60001"
         },
         {
             "id": "orcid:0001-MatG, a quantum simulator",
             "title": "MatG, a quantum simulator",
             "journal_ref": "Mini-workshop ¿Topological Nanodevice Modeling¿ (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/fio.2020.jw6a.25",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
-            "summary": "",
+            "summary": "Recent advances in high dimensional quantum computing systems demonstrate the feasibility of this paradigm. Here, we introduce QuantumSkynet, a cloud-based high dimensional quantum computing simulator. This platform allows simulations of qudit-based quantum gates and circuits.",
             "authors": "Pablo San-Jose",
             "categories": [],
             "formats": {
@@ -2132,32 +2132,12 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
-        },
-        {
-            "id": "orcid:0001-Stacking boundaries and transport in bilayer graphenes",
-            "title": "Stacking boundaries and transport in bilayer graphenes",
-            "journal_ref": "GrapEsp ¿ A European Conference/Workshop\non the Synthesis, Characterization and Applications of Graphene. (2014)",
-            "doi": null,
-            "published": "2014-01-01T00:00:00.000Z",
-            "updated": "2014-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose, Francisco Guinea",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/fio.2020.jw6a.25"
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/15/11/113050",
             "title": "Optical conductivity, Drude weight and plasmons in twisted graphene bilayers",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 15(11), 113050 (2013)",
             "doi": "https://doi.org/10.1088/1367-2630/15/11/113050",
             "published": "2013-11-01T00:00:00.000Z",
             "updated": "2013-11-01T00:00:00.000Z",
@@ -2177,7 +2157,7 @@
         {
             "id": "doi:https://doi.org/10.1103/physrevb.88.161413",
             "title": "Diverging dc conductivity due to a flat band in a disordered system of pseudospin-1 Dirac-Weyl fermions",
-            "journal_ref": null,
+            "journal_ref": "Physical Review B 88(16) (2013)",
             "doi": "https://doi.org/10.1103/physrevb.88.161413",
             "published": "2013-10-01T00:00:00.000Z",
             "updated": "2013-10-01T00:00:00.000Z",
@@ -2202,13 +2182,16 @@
             "published": "2013-01-01T00:00:00.000Z",
             "updated": "2013-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Pablo San-Jose, Elsa Prada",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0001",
+                "0002"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevB.88.199903"
         },
@@ -2236,10 +2219,10 @@
             "id": "orcid:0001-AC Josephson effect and Majorana Fermions",
             "title": "AC Josephson effect and Majorana Fermions",
             "journal_ref": "Trends in Nanotechnology TNT2012 (2012)",
-            "doi": null,
+            "doi": "https://doi.org/10.3762/bjnano.9.50",
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
-            "summary": "",
+            "summary": "We study theoretically the local density of states (DOS) in a topological Josephson junction. We show that the well-known 4π Josephson effect originates from the interference effect between two Majorana fermions (MFs) that are localized at the Josephson junction. In addition, the DOS for electrons (holes) shows the 4π interference information along each parity conserved energy spectrum. The DOS displays a 2π period oscillation when two trivial states interfere with each other. This means that the DOS information may be used to distinguish the MFs from trivial localized states. We suggest that the interference effect and the DOS can be detected by using two STM leads or two normal leads. A single side lead can only detect the Andreev reflection tunneling process in the junction, which cannot reveal information about the interference effect in general. However, using two side leads, we can reveal information about the interference effect of the MFs as well as the DOS by combining Andreev reflection with the electron transmission process.",
             "authors": "Pablo San-Jose, Pablo San-Jose, Elsa Prada, R. Aguado",
             "categories": [],
             "formats": {
@@ -2251,28 +2234,7 @@
                 "0002"
             ],
             "arxiv_url": null,
-            "journal_url": null
-        },
-        {
-            "id": "orcid:0001-Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
-            "title": "Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
-            "journal_ref": "March Meeting of the American Physical Society (2012)",
-            "doi": null,
-            "published": "2012-01-01T00:00:00.000Z",
-            "updated": "2012-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose, R. Aguado, P. San Jose, Elsa Prada",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001",
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.3762/bjnano.9.50"
         },
         {
             "id": "orcid:0001-Localization in twisted graphene bilayers",
@@ -2298,7 +2260,7 @@
             "id": "orcid:0001-Non-Abelian gauge fields in Moiré graphene bilayers",
             "title": "Non-Abelian gauge fields in Moiré graphene bilayers",
             "journal_ref": "Fundamental Aspects of Graphene and Other Carbon Allotropes (2012)",
-            "doi": null,
+            "doi": "https://doi.org/10.1103/physrevb.94.165401",
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
             "summary": "",
@@ -2312,7 +2274,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1103/physrevb.94.165401"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.106.045502",
@@ -2322,13 +2284,15 @@
             "published": "2011-01-01T00:00:00.000Z",
             "updated": "2011-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "P. San-Jose, J. González, F. Guinea",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0001"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevLett.106.045502"
         },
@@ -2354,30 +2318,10 @@
             "journal_url": null
         },
         {
-            "id": "orcid:0001-Zero Landau level in folded graphene ribbons",
-            "title": "Zero Landau level in folded graphene ribbons",
-            "journal_ref": "CECAM Charge and Spin Transport in Chemically Modified Graphene-Based Materials (2011)",
-            "doi": null,
-            "published": "2011-01-01T00:00:00.000Z",
-            "updated": "2011-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Interplay between electronic excitations and flexural phonons in graphene",
             "title": "Interplay between electronic excitations and flexural phonons in graphene",
             "journal_ref": "APS March Meeting 2010 (2010)",
-            "doi": null,
+            "doi": "https://doi.org/10.1021/acs.jctc.5b00679.s001",
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
             "summary": "",
@@ -2391,17 +2335,17 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1021/acs.jctc.5b00679.s001"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevB.68.245311",
             "title": "Coherence and Coulomb blockade in single-electron devices: A unified treatment of interaction effects",
-            "journal_ref": null,
+            "journal_ref": "Physical Review B 68(24) (2003)",
             "doi": "https://doi.org/10.1103/PhysRevB.68.245311",
             "published": "2003-01-01T00:00:00.000Z",
             "updated": "2003-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "S. Florens, P. San José, F. Guinea, A. Georges",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2419,7 +2363,7 @@
             "published": "2003-01-01T00:00:00.000Z",
             "updated": "2003-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "D. P. Arovas, F. Guinea, C. P. Herrero, P. San José",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2432,12 +2376,12 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.87.068102",
             "title": "Dynamical encoding by networks of competing neuron groups: Winnerless competition",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Letters 87(6) (2001)",
             "doi": "https://doi.org/10.1103/PhysRevLett.87.068102",
             "published": "2001-01-01T00:00:00.000Z",
             "updated": "2001-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "M. Rabinovich, A. Volkovskii, P. Lecanda, R. Huerta, H. D. I. Abarbanel, G. Laurent",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2450,12 +2394,12 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.86.4275",
             "title": "Resonant radiation pressure on neutral particles in a waveguide",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Letters 86(19), 4275-4277 (2001)",
             "doi": "https://doi.org/10.1103/PhysRevLett.86.4275",
             "published": "2001-01-01T00:00:00.000Z",
             "updated": "2001-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "R. Gómez-Medina, P. San José, A. García-Martín, M. Lester, M. Nieto-Vesperinas, J. J. Sáenz",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2764,6 +2708,7 @@
             "author_ids": [
                 "0002"
             ],
+            "journal_ref": "Nanotechnology 30(24), 24LT01 (2019)",
             "arxiv_url": "https://arxiv.org/abs/1903.02449",
             "journal_url": "https://doi.org/10.1088/1361-6528/ab0bc1"
         },
@@ -2936,6 +2881,7 @@
             "author_ids": [
                 "0002"
             ],
+            "journal_ref": "Journal of Computational Electronics 12(2), 63-75 (2012)",
             "arxiv_url": "https://arxiv.org/abs/1012.4345",
             "journal_url": "https://doi.org/10.1007/s10825-012-0427-6"
         },
@@ -3136,26 +3082,6 @@
             "journal_url": "https://doi.org/10.1140/epjb/e2004-00284-8"
         },
         {
-            "id": "orcid:0002-Caroli-de Gennes-Matricon states in full-shell nanowires",
-            "title": "Caroli-de Gennes-Matricon states in full-shell nanowires",
-            "journal_ref": "Quantum Designer Physics 2022 (2022)",
-            "doi": null,
-            "published": "2022-01-01T00:00:00.000Z",
-            "updated": "2022-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Elsa Prada",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0002-Topological superconductivity and Majorana modes for quantum computing: a materials science perspective",
             "title": "Topological superconductivity and Majorana modes for quantum computing: a materials science perspective",
             "journal_ref": "@FlipPhysics workshop (2022)",
@@ -3218,18 +3144,20 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/7/1/183",
             "title": "Clauser-Horne inequality for the full counting statistics",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 7, 183-183 (2005)",
             "doi": "https://doi.org/10.1088/1367-2630/7/1/183",
             "published": "2005-01-01T00:00:00.000Z",
             "updated": "2005-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Fabio Taddei, Lara Faoro, Elsa Prada, Rosario Fazio",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0002"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1367-2630/7/1/183"
         },
@@ -3277,6 +3205,7 @@
                 "0003",
                 "0012"
             ],
+            "journal_ref": "Journal of the American\nChemical Society 148(29), 31088-31098 (2026)",
             "arxiv_url": "https://arxiv.org/abs/2606.17776",
             "journal_url": "https://doi.org/10.1021/jacs.6c06538"
         },
@@ -3324,6 +3253,7 @@
             "author_ids": [
                 "0003"
             ],
+            "journal_ref": "Physical Review X 16(1) (2026)",
             "arxiv_url": "https://arxiv.org/abs/2512.13079",
             "journal_url": "https://doi.org/10.1103/y6dt-1sfw"
         },
@@ -3446,6 +3376,7 @@
             "author_ids": [
                 "0003"
             ],
+            "journal_ref": "Communications Physics 7(1) (2024)",
             "arxiv_url": "https://arxiv.org/abs/2309.01190",
             "journal_url": "https://doi.org/10.1038/s42005-024-01689-4"
         },
@@ -3548,6 +3479,7 @@
             "author_ids": [
                 "0003"
             ],
+            "journal_ref": "Physical Chemistry Chemical Physics 21(46), 25626-25634 (2019)",
             "arxiv_url": "https://arxiv.org/abs/1910.09955",
             "journal_url": "https://doi.org/10.1039/C9CP04441H"
         },
@@ -4030,54 +3962,60 @@
         {
             "id": "doi:https://doi.org/10.1016/j.saa.2024.124978",
             "title": "Exploring the conformational landscape through rotational spectroscopy and computational modelling: The tunneling dynamics in 2,6-diethylphenol",
-            "journal_ref": null,
+            "journal_ref": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 324, 124978 (2025)",
             "doi": "https://doi.org/10.1016/j.saa.2024.124978",
             "published": "2025-01-01T00:00:00.000Z",
             "updated": "2025-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Marcos Juanes, Lorenzo Paoloni, Wenqin Li, Antonio Picón, Sonia Melandri, Assimo Maris, Alberto Lesarri, Luca Evangelisti",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1016/j.saa.2024.124978"
         },
         {
             "id": "doi:https://doi.org/10.1002/cssc.202300719",
             "title": "Mapping the Ultrafast Mechanistic Pathways of Co Photocatalysts in Pure Water through Time‐Resolved X‐ray Spectroscopy",
-            "journal_ref": null,
+            "journal_ref": "ChemSusChem 16(21) (2023)",
             "doi": "https://doi.org/10.1002/cssc.202300719",
             "published": "2023-11-08T00:00:00.000Z",
             "updated": "2023-11-08T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "AbstractNanosecond time‐resolved X‐ray (tr‐XAS) and optical transient absorption spectroscopy (OTA) are applied to study 3 multimolecular photocatalytic systems with [Ru(bpy)3]2+photoabsorber, ascorbic acid electron donor and Co catalysts with methylene (1), hydroxomethylene (2) and methyl (3) amine substituents in pure water. OTA and tr‐XAS of 1 and 2 show that the favored catalytic pathway involves reductive quenching of the excited photosensitizer and electron transfer to the catalyst to form a CoII square pyramidal intermediate with a bonded aqua molecule followed by a CoI square planar derivative that decays within ≈8 μs. By contrast, a CoI square pyramidal intermediate with a longer decay lifetime of ≈35 μs is formed from an analogous CoII geometry for 3 in H2O. These results highlight the protonation of CoI to form the elusive hydride species to be the rate limiting step and show that the catalytic rate can be enhanced through hydrogen containing pendant amines that act as H−H bond formation proton relays.",
+            "authors": "Lucia Velasco, Cunming Liu, Xiaoyi Zhang, Sergi Grau, Marcos Gil‐Sepulcre, Carolina Gimbert‐Suriñach, Antonio Picón, Antoni Llobet, Serena DeBeer, Dooshaye Moonshiram",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1002/cssc.202300719"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevResearch.5.023092",
             "title": "Effect of the shot-to-shot variation on charge migration induced by sub-fs x-ray free-electron laser pulses",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Research 5(2) (2023)",
             "doi": "https://doi.org/10.1103/PhysRevResearch.5.023092",
             "published": "2023-05-11T00:00:00.000Z",
             "updated": "2023-05-11T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Gilbert Grell, Zhaoheng Guo, Taran Driver, Piero Decleva, Etienne Plésiat, Antonio Picón, Jesús González-Vázquez, Peter Walter, Jonathan P. Marangos, James P. Cryan, Agostino Marinelli, Alicia Palacios, Fernando Martín",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.5.023092"
         },
@@ -4088,14 +4026,16 @@
             "doi": "https://doi.org/10.1038/s41467-022-34670-2",
             "published": "2022-11-22T00:00:00.000Z",
             "updated": "2022-11-22T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "AbstractThe concomitant motion of electrons and nuclei on the femtosecond time scale marks the fate of chemical and biological processes. Here we demonstrate the ability to initiate and track the ultrafast electron rearrangement and chemical bond breaking site-specifically in real time for the carbon monoxide diatomic molecule. We employ a local resonant x-ray pump at the oxygen atom and probe the chemical shifts of the carbon core-electron binding energy. We observe charge redistribution accompanying core-excitation followed by Auger decay, eventually leading to dissociation and hole trapping at one site of the molecule. The presented technique is general in nature with sensitivity to chemical environment changes including transient electronic excited state dynamics. This work provides a route to investigate energy and charge transport processes in more complex systems by tracking selective chemical bond changes on their natural timescale.",
+            "authors": "Andre Al-Haddad, Solène Oberli, Jesús González-Vázquez, Maximilian Bucher, Gilles Doumy, Phay Ho, Jacek Krzywinski, Thomas J. Lane, Alberto Lutman, Agostino Marinelli, Timothy J. Maxwell, Stefan Moeller, Stephen T. Pratt, Dipanwita Ray, Ron Shepard, Stephen H. Southworth, Álvaro Vázquez-Mayagoitia, Peter Walter, Linda Young, Antonio Picón, Christoph Bostedt",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41467-022-34670-2"
         },
@@ -4156,18 +4096,20 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevResearch.3.013144",
             "title": "Attosecond x-ray transient absorption spectroscopy in graphene",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Research 3(1) (2021)",
             "doi": "https://doi.org/10.1103/PhysRevResearch.3.013144",
             "published": "2021-02-12T00:00:00.000Z",
             "updated": "2021-02-12T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Giovanni Cistaro, Luis Plaja, Fernando Martín, Antonio Picón",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.3.013144"
         },
@@ -4178,14 +4120,16 @@
             "doi": "https://doi.org/10.1002/chem.202001393",
             "published": "2020-08-21T00:00:00.000Z",
             "updated": "2020-08-21T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "AbstractTime‐resolved X‐ray (Tr‐XAS) and optical transient absorption (OTA) spectroscopy on the pico‐microsecond timescale coupled with density functional theory calculations are applied to study the light‐induced spin crossover processes of a Fe‐based macrocyclic complex in solution. Tr‐XAS analysis after light illumination shows the formation of a seven‐coordinated high‐spin quintet metastable state, which relaxes to a six‐coordinated high‐spin configuration before decaying to the ground state. Kinetic analysis of the macrocyclic complex reveals an unprecedented long‐lived decay lifetime of approximately 42.6 μs. Comparative studies with a non‐macrocyclic counterpart illustrate a significantly shortened approximately 568‐fold decay lifetime of about 75 ns, and highlight the importance of the ligand arrangement in stabilizing the reactivity of the excited state. Lastly, OTA analysis shows the seven‐coordinated high‐spin state to be formed within approximately 6.2 ps. These findings provide a complete understanding of the spin crossover reaction and relaxation pathways of the macrocyclic complex, and reveal the importance of a flexible coordination environment for their rational design.",
+            "authors": "Sirma Iglesias, Arturo Gamonal, Abasi Abudulimu, Antonio Picón, Esther Carrasco, David Écija, Cunming Liu, Larry Luer, Xiaoyi Zhang, José Sánchez Costa, Dooshaye Moonshiram",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1002/chem.202001393"
         },
@@ -4409,7 +4353,7 @@
             "id": "orcid:0003-EUV light beams with fractional orbital angular momentum driven by high-order harmonic generation and conical refraction",
             "title": "EUV light beams with fractional orbital angular momentum driven by high-order harmonic generation and conical refraction",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8086813",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4420,45 +4364,49 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003",
-                "0006"
+                "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8086813"
         },
         {
             "id": "doi:https://doi.org/10.1039/C6CC08748E",
             "title": "Elucidating light-induced charge accumulation in an artificial analogue of methane monooxygenase enzymes using time-resolved X-ray absorption spectroscopy",
-            "journal_ref": null,
+            "journal_ref": "Chemical Communications 53(18), 2725-2728 (2017)",
             "doi": "https://doi.org/10.1039/C6CC08748E",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Probing the light-induced two electron transfer processes at a diiron(\n                    iii\n                    ,\n                    iii\n                    ) multimolecular photocatalytic system.",
+            "authors": "Dooshaye Moonshiram, Antonio Picón, Alvaro Vazquez-Mayagoitia, Xiaoyi Zhang, Ming-Feng Tu, Pablo Garrido-Barros, Jean-Pierre Mahy, Frédéric Avenier, Ally Aukauloo",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1039/C6CC08748E"
         },
         {
             "id": "doi:https://doi.org/10.1038/srep43888",
             "title": "Extreme Ultraviolet Fractional Orbital Angular Momentum Beams from High Harmonic Generation",
-            "journal_ref": null,
+            "journal_ref": "Scientific Reports 7(1) (2017)",
             "doi": "https://doi.org/10.1038/srep43888",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "AbstractWe investigate theoretically the generation of extreme-ultraviolet (EUV) beams carrying fractional orbital angular momentum. To this end, we drive high-order harmonic generation with infrared conical refraction (CR) beams. We show that the high-order harmonic beams emitted in the EUV/soft x-ray regime preserve the characteristic signatures of the driving beam, namely ringlike transverse intensity profile and CR-like polarization distribution. As a result, through orbital and spin angular momentum conservation, harmonic beams are emitted with fractional orbital angular momentum, and they can be synthesized into structured attosecond helical beams –or “structured attosecond light springs”– with rotating linear polarization along the azimuth. Our proposal overcomes the state of the art limitations for the generation of light beams far from the visible domain carrying non-integer orbital angular momentum and could be applied in fields such as diffraction imaging, EUV lithography, particle trapping, and super-resolution imaging.",
+            "authors": "Alex Turpin, Laura Rego, Antonio Picón, Julio San Román, Carlos Hernández-García",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003",
+                "0006"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/srep43888"
         },
@@ -4466,7 +4414,7 @@
             "id": "orcid:0003-Extreme Ultraviolet Vector Beams Driven by Multicycle Infrared Laser Pulses",
             "title": "Extreme Ultraviolet Vector Beams Driven by Multicycle Infrared Laser Pulses",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics (Cleo) (2017)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_si.2017.stu1i.1",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4480,23 +4428,25 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_si.2017.stu1i.1"
         },
         {
             "id": "doi:https://doi.org/10.1364/OPTICA.4.000520",
             "title": "Extreme ultraviolet vector beams driven by infrared lasers",
-            "journal_ref": null,
+            "journal_ref": "Optica 4(5), 520 (2017)",
             "doi": "https://doi.org/10.1364/OPTICA.4.000520",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Carlos Hernández-García, Alex Turpin, Julio San Román, Antonio Picón, Rokas Drevinskas, Ausra Cerkauskaite, Peter G. Kazansky, Charles G. Durfee, Íñigo J. Sola",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OPTICA.4.000520"
         },
@@ -4524,7 +4474,7 @@
             "id": "orcid:0003-Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "title": "Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8086777",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4535,39 +4485,20 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003",
-                "0006"
+                "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8086777"
         },
         {
             "id": "doi:https://doi.org/10.1117/12.2263388",
             "title": "Non-perturbative twist of attosecond extreme-ultraviolet vortex beams",
-            "journal_ref": null,
+            "journal_ref": "SPIE Proceedings 10102, 101021C (2017)",
             "doi": "https://doi.org/10.1117/12.2263388",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [],
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1117/12.2263388"
-        },
-        {
-            "id": "orcid:0003-Nonperturbative Orbital Angular Momentum Buildup of Extreme-Ultraviolet Vortex Beams",
-            "title": "Nonperturbative Orbital Angular Momentum Buildup of Extreme-Ultraviolet Vortex Beams",
-            "journal_ref": "2017 Conference on Lasers and Electro-Optics (Cleo) (2017)",
-            "doi": null,
-            "published": "2017-01-01T00:00:00.000Z",
-            "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Antonio Picón, Rego, Laura, San Roman, Julio, Picon, Antonio, Plaja, Luis, Hernandez-Garcia, Carlos, IEEE",
+            "authors": "Carlos Hernández García, Laura Rego, Julio San Román, Antonio Picón, Luis Plaja",
             "categories": [],
             "formats": {
                 "html": null,
@@ -4578,13 +4509,33 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1117/12.2263388"
+        },
+        {
+            "id": "orcid:0003-Nonperturbative Orbital Angular Momentum Buildup of Extreme-Ultraviolet Vortex Beams",
+            "title": "Nonperturbative Orbital Angular Momentum Buildup of Extreme-Ultraviolet Vortex Beams",
+            "journal_ref": "2017 Conference on Lasers and Electro-Optics (Cleo) (2017)",
+            "doi": "https://doi.org/10.1364/cleo_at.2017.jtu5a.56",
+            "published": "2017-01-01T00:00:00.000Z",
+            "updated": "2017-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Antonio Picón, Rego, Laura, San Roman, Julio, Picon, Antonio, Plaja, Luis, Hernandez-Garcia, Carlos, IEEE",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0003"
+            ],
+            "arxiv_url": null,
+            "journal_url": "https://doi.org/10.1364/cleo_at.2017.jtu5a.56"
         },
         {
             "id": "orcid:0003-Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "title": "Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8087755",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4598,7 +4549,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8087755"
         },
         {
             "id": "orcid:0003-Time-Resolved Two-Color X-ray Pump / X-ray Probe Photoelectron Spectroscopy at LCLS",
@@ -4623,115 +4574,129 @@
         {
             "id": "doi:https://doi.org/10.1117/12.2265783",
             "title": "Time-resolved X-ray spectroscopy for X-ray-induced phenomena",
-            "journal_ref": null,
+            "journal_ref": "SPIE Proceedings 10243, 102430K (2017)",
             "doi": "https://doi.org/10.1117/12.2265783",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Antonio Picón",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1117/12.2265783"
         },
         {
             "id": "doi:https://doi.org/10.1117/12.2265811",
             "title": "Tunable orbital angular momentum beams in the extreme ultraviolet/soft x-ray regimes",
-            "journal_ref": null,
+            "journal_ref": "SPIE Proceedings 10243, 102430V (2017)",
             "doi": "https://doi.org/10.1117/12.2265811",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Alex Turpin, Laura Rego, Julio San Román, Antonio Picón, Luis Plaja, Carlos Hernández-García",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003",
+                "0006"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1117/12.2265811"
         },
         {
             "id": "doi:https://doi.org/10.5772/64908",
             "title": "Ultrashort Extreme Ultraviolet Vortices",
-            "journal_ref": null,
+            "journal_ref": "Vortex Dynamics and Optical Vortices (2017)",
             "doi": "https://doi.org/10.5772/64908",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Laura Rego, Julio San Román, Luis Plaja, Antonio Picón, Carlos Hernández-García",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003",
+                "0006"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.5772/64908"
         },
         {
             "id": "doi:https://doi.org/10.1038/ncomms11652",
             "title": "Hetero-site-specific X-ray pump-probe spectroscopy for femtosecond intramolecular dynamics",
-            "journal_ref": null,
+            "journal_ref": "Nature Communications 7(1) (2016)",
             "doi": "https://doi.org/10.1038/ncomms11652",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "A. Picón, C. S. Lehmann, C. Bostedt, A. Rudenko, A. Marinelli, T. Osipov, D. Rolles, N. Berrah, C. Bomme, M. Bucher, G. Doumy, B. Erk, K. R. Ferguson, T. Gorkhover, P. J. Ho, E. P. Kanter, B. Krässig, J. Krzywinski, A. A. Lutman, A. M. March, D. Moonshiram, D. Ray, L. Young, S. T. Pratt, S. H. Southworth",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/ncomms11652"
         },
         {
             "id": "doi:https://doi.org/10.1007/978-1-4939-3028-9_15",
             "title": "Linear Canonical Transforms on Quantum States of Light",
-            "journal_ref": null,
+            "journal_ref": "Springer Series in Optical Sciences, 429-453 (2016)",
             "doi": "https://doi.org/10.1007/978-1-4939-3028-9_15",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Gabriel F. Calvo, Antonio Picón",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1007/978-1-4939-3028-9_15"
         },
         {
             "id": "doi:https://doi.org/10.1021/acs.jpcc.6b06883",
             "title": "Mechanistic Evaluation of a Nickel Proton Reduction Catalyst Using Time-Resolved X-ray Absorption Spectroscopy",
-            "journal_ref": null,
+            "journal_ref": "The Journal of Physical Chemistry C 120(36), 20049-20057 (2016)",
             "doi": "https://doi.org/10.1021/acs.jpcc.6b06883",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Dooshaye Moonshiram, Alexander Guda, Lars Kohler, Antonio Picon, Sergey Guda, C. Stefan Lehmann, Xiaoyi Zhang, Stephen H. Southworth, Karen L. Mulfort",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1021/acs.jpcc.6b06883"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.117.163202",
             "title": "Nonperturbative Twist in the Generation of Extreme-Ultraviolet Vortex Beams",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Letters 117(16) (2016)",
             "doi": "https://doi.org/10.1103/PhysRevLett.117.163202",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
@@ -4754,13 +4719,15 @@
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Dooshaye Moonshiram, Carolina Gimbert-Suriñach, Alexander Guda, Antonio Picon, C. Stefan Lehmann, Xiaoyi Zhang, Gilles Doumy, Anne Marie March, Jordi Benet-Buchholz, Alexander Soldatov, Antoni Llobet, Stephen H. Southworth",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1021/jacs.6b05680"
         },
@@ -4790,7 +4757,7 @@
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "C Hernández-García, J San Román, L Plaja, A Picón",
             "categories": [],
             "formats": {
                 "html": null,
@@ -4824,7 +4791,7 @@
             "id": "orcid:0003-Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "title": "Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (Cleo) (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.104",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4838,7 +4805,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.104"
         },
         {
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
@@ -4863,7 +4830,7 @@
         {
             "id": "doi:https://doi.org/10.1051/epjconf/20134102008",
             "title": "Attosecond intramolecular electron dynamics",
-            "journal_ref": null,
+            "journal_ref": "EPJ Web of Conferences 41, 02008 (2013)",
             "doi": "https://doi.org/10.1051/epjconf/20134102008",
             "published": "2013-01-01T00:00:00.000Z",
             "updated": "2013-01-01T00:00:00.000Z",
@@ -4903,18 +4870,20 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.109.163002",
             "title": "Enhancement of Vibrational Excitation and Dissociation of H-2(+) in Infrared Laser Pulses",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Letters 109(16) (2012)",
             "doi": "https://doi.org/10.1103/PhysRevLett.109.163002",
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "A. Picón, A. Jaroń-Becker, A. Becker",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevLett.109.163002"
         },
@@ -4926,13 +4895,15 @@
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "A. Benseny, S. Fernández-Vidal, J. Bagudà, R. Corbalán, A. Picón, L. Roso, G. Birkl, J. Mompart",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevA.82.013604"
         },
@@ -4944,7 +4915,7 @@
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "A Picón, A Benseny, J Mompart, J R Vázquez de Aldana, L Plaja, G F Calvo, L Roso",
             "categories": [],
             "formats": {
                 "html": null,
@@ -4957,7 +4928,7 @@
         {
             "id": "doi:https://doi.org/10.1109/cleoe-eqec.2009.5196335",
             "title": "Photoionization with a large transfer of angular momentum",
-            "journal_ref": null,
+            "journal_ref": "CLEO/Europe - EQEC 2009 - European Conference on Lasers and Electro-Optics and the European Quantum Electronics Conference, 1-1 (2009)",
             "doi": "https://doi.org/10.1109/cleoe-eqec.2009.5196335",
             "published": "2009-01-01T00:00:00.000Z",
             "updated": "2009-01-01T00:00:00.000Z",
@@ -4997,36 +4968,40 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevA.73.013805",
             "title": "Quantum field theory of photons with orbital angular momentum",
-            "journal_ref": null,
+            "journal_ref": "Physical Review A 73(1) (2006)",
             "doi": "https://doi.org/10.1103/PhysRevA.73.013805",
             "published": "2006-01-01T00:00:00.000Z",
             "updated": "2006-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "G. F. Calvo, A. Picón, E. Bagan",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevA.73.013805"
         },
         {
             "id": "doi:https://doi.org/10.1117/12.623798",
             "title": "Quantum gates using the orbital angular momentum of photons",
-            "journal_ref": null,
+            "journal_ref": "SPIE Proceedings 5866, 72 (2005)",
             "doi": "https://doi.org/10.1117/12.623798",
             "published": "2005-01-01T00:00:00.000Z",
             "updated": "2005-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "G. F. Calvo, A. Picon, E. Bagan",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1117/12.623798"
         },
@@ -5080,21 +5055,24 @@
             "doi": "https://doi.org/10.1103/PhysRevResearch.6.043005",
             "published": "2024-10-02T00:00:00.000Z",
             "updated": "2024-10-02T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "We develop and demonstrate a fully real-space perspective on high harmonic generation (HHG) in crystals. Due to the Wannier-Stark localization induced on subcycle timescales in the presence of a strong field, real-space descriptions are natural for strongly driven solids. Our approach allows us to address the origin of the extremely short dephasing times, which appear necessary for agreement between experimental HHG measurements and theoretical calculations generally performed in reciprocal space. We develop a physically transparent model of real-space dephasing which relates its rate to the distance between different sites in a laser-driven lattice. Our approach leads to well-structured high harmonic spectra at the microscopic level, reproduces the results of macroscopic propagation, and demonstrates that the requirement for ultrafast dephasing times stems from the need for suppressing recombination events with large electron-hole separations during radiative recombination.\n                  \n                    \n                    \n                      \n                        Published by the American Physical Society\n                        2024",
+            "authors": "Graham G. Brown, Álvaro Jiménez-Galán, Rui E. F. Silva, Misha Ivanov",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004",
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.6.043005"
         },
         {
             "id": "doi:https://doi.org/10.1142/9789811279560_0002",
             "title": "Manipulation of Quantum Properties in 2D Materials with Strong Tailored Fields",
-            "journal_ref": null,
+            "journal_ref": "ISBN: 9789811279553",
             "doi": "https://doi.org/10.1142/9789811279560_0002",
             "published": "2024-07-01T00:00:00.000Z",
             "updated": "2024-07-01T00:00:00.000Z",
@@ -5121,13 +5099,17 @@
             "published": "2024-07-01T00:00:00.000Z",
             "updated": "2024-07-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Eduardo B. Molinero, Álvaro Jiménez-Galán, Rui E. F. Silva",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004",
+                "0005",
+                "0014"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1142/9789811279560_0003"
         },
@@ -5156,14 +5138,17 @@
             "doi": "https://doi.org/10.1038/s41586-024-07244-z",
             "published": "2024-04-25T00:00:00.000Z",
             "updated": "2024-04-25T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Abstract\n                  \n                    In recent years, the stacking and twisting of atom-thin structures with matching crystal symmetry has provided a unique way to create new superlattice structures in which new properties emerge\n                    1,2\n                    . In parallel, control over the temporal characteristics of strong light fields has allowed researchers to manipulate coherent electron transport in such atom-thin structures on sublaser-cycle timescales\n                    3,4\n                    . Here we demonstrate a tailored light-wave-driven analogue to twisted layer stacking. Tailoring the spatial symmetry of the light waveform to that of the lattice of a hexagonal boron nitride monolayer and then twisting this waveform result in optical control of time-reversal symmetry breaking\n                    5\n                    and the realization of the topological Haldane model\n                    6\n                    in a laser-dressed two-dimensional insulating crystal. Further, the parameters of the effective Haldane-type Hamiltonian can be controlled by rotating the light waveform, thus enabling ultrafast switching between band structure configurations and allowing unprecedented control over the magnitude, location and curvature of the bandgap. This results in an asymmetric population between complementary quantum valleys that leads to a measurable valley Hall current\n                    7\n                    , which can be detected by optical harmonic polarimetry. The universality and robustness of our scheme paves the way to valley-selective bandgap engineering on the fly and unlocks the possibility of creating few-femtosecond switches with quantum degrees of freedom.",
+            "authors": "Sambit Mitra, Álvaro Jiménez-Galán, Mario Aulich, Marcel Neuhaus, Rui E. F. Silva, Volodymyr Pervak, Matthias F. Kling, Shubhadeep Biswas",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004",
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41586-024-07244-z"
         },
@@ -5175,16 +5160,13 @@
             "published": "2024-04-25T00:00:00.000Z",
             "updated": "2024-04-25T00:00:00.000Z",
             "summary": "",
-            "authors": "Igor Tyulnev, Álvaro Jiménez-Galán, Julita Poborska, Lenard Vamos, Philip St. J. Russell, Francesco Tani, Olga Smirnova, Misha Ivanov, Rui E. F. Silva, Jens Biegert",
+            "authors": "",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [
-                "0004",
-                "0005"
-            ],
+            "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41586-024-07156-y"
         },
@@ -5214,7 +5196,7 @@
             "published": "2023-12-11T00:00:00.000Z",
             "updated": "2023-12-11T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Z. Nie, L. Guery, E. B. Molinero, P. Juergens, T. J. van den Hooven, Y. Wang, A. Jimenez Galan, P. C. M. Planken, R. E. F. Silva, P. M. Kraus",
             "categories": [],
             "formats": {
                 "html": null,
@@ -5231,14 +5213,17 @@
             "doi": "https://doi.org/10.1364/oe.462692",
             "published": "2023-06-05T00:00:00.000Z",
             "updated": "2023-06-05T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Neural networks are a prominent tool for identifying and modeling complex patterns, which are otherwise hard to detect and analyze. While machine learning and neural networks have been finding applications across many areas of science and technology, their use in decoding ultrafast dynamics of quantum systems driven by strong laser fields has been limited so far. Here we use standard deep neural networks to analyze simulated noisy spectra of highly nonlinear optical response of a 2-dimensional gapped graphene crystal to intense few-cycle laser pulses. We show that a computationally simple 1-dimensional system provides a useful \"nursery school\" for our neural network, allowing it to be retrained to treat more complex 2D systems, recovering the parametrized band structure and spectral phases of the incident few-cycle pulse with high accuracy, in spite of significant amplitude noise and phase jitter. Our results offer a route for attosecond high harmonic spectroscopy of quantum dynamics in solids with a simultaneous, all-optical, solid-state based complete characterization of few-cycle pulses, including their nonlinear spectral phase and the carrier envelope phase.",
+            "authors": "Nikolai D Klimkin, Álvaro Jiménez-Galán, Rui E. F. Silva, Misha Ivanov",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0004",
+                "0005"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/oe.462692"
         },
@@ -6550,7 +6535,7 @@
         {
             "id": "doi:https://doi.org/10.1109/JSTQE.2019.2919777",
             "title": "Realization of Polarization Control in High-Order Harmonic Generation",
-            "journal_ref": null,
+            "journal_ref": "IEEE Journal of Selected Topics in Quantum Electronics 25(4), 1-12 (2019)",
             "doi": "https://doi.org/10.1109/JSTQE.2019.2919777",
             "published": "2019-07-01T00:00:00.000Z",
             "updated": "2019-07-01T00:00:00.000Z",
@@ -6645,7 +6630,7 @@
             "id": "orcid:0006-Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "title": "Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "journal_ref": "Optics InfoBase Conference Papers Part F140-CLEO\\_Europe 2019 (2019)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871613",
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6659,23 +6644,25 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871613"
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0145-0",
             "title": "Polarization control of isolated high-harmonic pulses",
-            "journal_ref": null,
+            "journal_ref": "Nature Photonics 12(6), 349-354 (2018)",
             "doi": "https://doi.org/10.1038/s41566-018-0145-0",
             "published": "2018-01-01T00:00:00.000Z",
             "updated": "2018-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Pei-Chi Huang, Carlos Hernández-García, Jen-Ting Huang, Po-Yao Huang, Chih-Hsuan Lu, Laura Rego, Daniel D. Hickstein, Jennifer L. Ellis, Agnieszka Jaron-Becker, Andreas Becker, Shang-Da Yang, Charles G. Durfee, Luis Plaja, Henry C. Kapteyn, Margaret M. Murnane, A. H. Kung, Ming-Chang Chen",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0006"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1038/s41566-018-0145-0"
         },
@@ -6773,6 +6760,7 @@
             "author_ids": [
                 "0007"
             ],
+            "journal_ref": "Physical Review A 109(6) (2024)",
             "arxiv_url": "https://arxiv.org/abs/2403.08327",
             "journal_url": "https://doi.org/10.1103/PhysRevA.109.063103"
         },
@@ -6796,6 +6784,7 @@
             "author_ids": [
                 "0007"
             ],
+            "journal_ref": "Physical Review A 109(3) (2024)",
             "arxiv_url": "https://arxiv.org/abs/2312.08942",
             "journal_url": "https://doi.org/10.1103/PhysRevA.109.033110"
         },
@@ -6841,6 +6830,7 @@
             "author_ids": [
                 "0007"
             ],
+            "journal_ref": "Physical Review B 106(23) (2022)",
             "arxiv_url": "https://arxiv.org/abs/2209.04311",
             "journal_url": "https://doi.org/10.1103/PhysRevB.106.235142"
         },
@@ -6866,24 +6856,27 @@
             "author_ids": [
                 "0007"
             ],
+            "journal_ref": "Physical Review A 105(5) (2022)",
             "arxiv_url": "https://arxiv.org/abs/2201.06879",
             "journal_url": "https://doi.org/10.1103/PhysRevA.105.053118"
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/ad5755",
             "title": "Lattice imperfections and high-harmonic generation in correlated systems",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 26(6), 063023 (2024)",
             "doi": "https://doi.org/10.1088/1367-2630/ad5755",
             "published": "2024-06-01T00:00:00.000Z",
             "updated": "2024-06-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Abstract\n               We study effects of lattice imperfections on high-harmonic generation from correlated systems using the Fermi–Hubbard model. We simulate such imperfections by randomly modifying the chemical potential across the individual lattice sites. We control the degree of electron–electron interaction by varying the Hubbard U. In the limit of vanishing U, this approach results in Anderson localization. For nonvanishing U, we rationalize the spectral observations in terms of qualitative k-space and real-space pictures. When the interaction and imperfection terms are of comparable magnitude, they may balance each other out, causing Bloch-like transitions. If the terms differ significantly, each electron transition requires a relatively large amount of energy and the current is reduced. We find that imperfections result in increased high-harmonic gain. The spectral gain is mainly in high harmonic orders for low U and low orders for high U.",
+            "authors": "Thomas Hansen, Lars Bojer Madsen",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0007"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1367-2630/ad5755"
         },
@@ -6974,12 +6967,12 @@
         {
             "id": "doi:https://doi.org/10.1002/chem.71625",
             "title": "Amino Acids Ligated Cu(II)‐OOH in Water at Room Temperature",
-            "journal_ref": null,
+            "journal_ref": "Chemistry – A European Journal (2026)",
             "doi": "https://doi.org/10.1002/chem.71625",
             "published": "2026-08-29T00:00:00.000Z",
             "updated": "2026-08-29T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "ABSTRACT\n                  Metal‐amino acid interactions are central to controlling oxygen activation in biological systems. In this study, we demonstrate the use of readily available amino acids as ligands to stabilize a Cu(II)‐OOH intermediate in water under ambient conditions. This approach avoids the complex ligand synthesis and uses hydrogen peroxide as a benign oxidant, aligning with sustainability principles. The Cu(II)‐OOH species was identified and characterized using multiple spectroscopic techniques, including UV‐visible, Electron Paramagnetic Resonance, resonance Raman, and X‐ray absorption spectroscopy, with its structure further evaluated by density functional theory (DFT) calculations. These findings highlight an energy‐efficient, green method for accessing reactive copper‐oxygen species and underscore the potential of amino acid ligation in developing green catalytic systems for oxidation chemistry.",
+            "authors": "Raju Eerlapally, Divya Lakshmi Hareendran, Asterios Charisiadis, Lucia Velasco, Pablo Estévez, Dooshaye Moonshiram, Sharath Chandra Mallojjala, Apparao Draksharapu",
             "categories": [],
             "formats": {
                 "html": null,
@@ -6992,36 +6985,40 @@
         {
             "id": "doi:https://doi.org/10.1021/acs.inorgchem.5c04991",
             "title": "Brønsted and Lewis Acid Activation of a Reactive Mn(III)–O–Ce(IV) Intermediate",
-            "journal_ref": null,
+            "journal_ref": "Inorganic Chemistry 65(11), 5954-5963 (2026)",
             "doi": "https://doi.org/10.1021/acs.inorgchem.5c04991",
             "published": "2026-03-23T00:00:00.000Z",
             "updated": "2026-03-23T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Parkhi Sharma, Sikha Gupta, Asterios Charisiadis, Lucia Velasco, Pablo Estévez Alonso, Rakesh Kumar, Indresh Verma, Dooshaye Moonshiram, Apparao Draksharapu",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0012"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1021/acs.inorgchem.5c04991"
         },
         {
             "id": "doi:https://doi.org/10.1016/j.jlumin.2021.118249",
             "title": "Improving the sensitivity of WGM pressure sensors with oxyfluoride glass microspheres",
-            "journal_ref": null,
+            "journal_ref": "Journal of Luminescence 238, 118249 (2021)",
             "doi": "https://doi.org/10.1016/j.jlumin.2021.118249",
             "published": "2021-10-01T00:00:00.000Z",
             "updated": "2021-10-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "K. Soler-Carracedo, P. Estévez-Alonso, I.R. Martin, S. Rios",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0012"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1016/j.jlumin.2021.118249"
         },
@@ -7047,6 +7044,7 @@
                 "0004",
                 "0014"
             ],
+            "journal_ref": "Optica 11(2), 171 (2024)",
             "arxiv_url": "https://arxiv.org/abs/2302.04127",
             "journal_url": "https://doi.org/10.1364/OPTICA.510789"
         },
@@ -7072,6 +7070,7 @@
                 "0004",
                 "0014"
             ],
+            "journal_ref": "Physical Review Research 4(4) (2022)",
             "arxiv_url": "https://arxiv.org/abs/2205.11896",
             "journal_url": "https://doi.org/10.1103/PhysRevResearch.4.043198"
         },
