@@ -2056,7 +2056,7 @@
             "id": "orcid:0001-Controlling Commensuration in Graphene/hBN multilayers",
             "title": "Controlling Commensuration in Graphene/hBN multilayers",
             "journal_ref": "Spinograph Workshop 2016 - New trends in 2D Mater.. (2016)",
-            "doi": "https://doi.org/10.1021/acs.langmuir.5b03653.s001",
+            "doi": null,
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
@@ -2070,7 +2070,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1021/acs.langmuir.5b03653.s001"
+            "journal_url": null
         },
         {
             "id": "orcid:0001-Premio Nobel de Física 2016: Revolución topológica en materia condensada",
@@ -2133,6 +2133,26 @@
             ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/fio.2020.jw6a.25"
+        },
+        {
+            "id": "orcid:0001-Stacking boundaries and transport in bilayer graphenes",
+            "title": "Stacking boundaries and transport in bilayer graphenes",
+            "journal_ref": "GrapEsp ¿ A European Conference/Workshop\non the Synthesis, Characterization and Applications of Graphene. (2014)",
+            "doi": null,
+            "published": "2014-01-01T00:00:00.000Z",
+            "updated": "2014-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose, Francisco Guinea",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/15/11/113050",
@@ -2237,6 +2257,27 @@
             "journal_url": null
         },
         {
+            "id": "orcid:0001-Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
+            "title": "Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
+            "journal_ref": "March Meeting of the American Physical Society (2012)",
+            "doi": null,
+            "published": "2012-01-01T00:00:00.000Z",
+            "updated": "2012-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose, R. Aguado, P. San Jose, Elsa Prada",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001",
+                "0002"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
             "id": "orcid:0001-Localization in twisted graphene bilayers",
             "title": "Localization in twisted graphene bilayers",
             "journal_ref": "VII Reunión del Grupo Especializado de Física de Estado Sólido - GEFES 2012 (2012)",
@@ -2313,6 +2354,26 @@
             "author_ids": [
                 "0001",
                 "0002"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0001-Zero Landau level in folded graphene ribbons",
+            "title": "Zero Landau level in folded graphene ribbons",
+            "journal_ref": "CECAM Charge and Spin Transport in Chemically Modified Graphene-Based Materials (2011)",
+            "doi": null,
+            "published": "2011-01-01T00:00:00.000Z",
+            "updated": "2011-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001"
             ],
             "arxiv_url": null,
             "journal_url": null
@@ -4486,7 +4547,7 @@
             "id": "orcid:0003-Generation of extreme ultraviolet vector beams from infrared laser pulses",
             "title": "Generation of extreme ultraviolet vector beams from infrared laser pulses",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8086734",
+            "doi": null,
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4500,7 +4561,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8086734"
+            "journal_url": null
         },
         {
             "id": "orcid:0003-Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
@@ -4828,7 +4889,7 @@
             "id": "orcid:0003-Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "title": "Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (Cleo) (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.104",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4842,7 +4903,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.104"
         },
         {
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
@@ -6764,7 +6825,7 @@
             "id": "orcid:0006-Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "title": "Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "journal_ref": "Optics InfoBase Conference Papers Part F140-CLEO\\_Europe 2019 (2019)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871613",
+            "doi": null,
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6778,7 +6839,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871613"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0145-0",
