@@ -1904,7 +1904,7 @@
         {
             "id": "doi:https://doi.org/10.1103/msy5-4yxd",
             "title": "Effects of zero-point motion on the high harmonic generation spectrum of solids",
-            "journal_ref": "Physical Review B 113(18) (2026)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1103/msy5-4yxd",
             "published": "2026-05-11T00:00:00.000Z",
             "updated": "2026-05-11T00:00:00.000Z",
@@ -1927,7 +1927,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41566-025-01823-w",
             "title": "Encoding and manipulating ultrafast coherent valleytronic information with lightwaves",
-            "journal_ref": "Nature Photonics 20(3), 266-272 (2026)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/s41566-025-01823-w",
             "published": "2026-03-01T00:00:00.000Z",
             "updated": "2026-03-01T00:00:00.000Z",
@@ -2333,26 +2333,6 @@
             "author_ids": [
                 "0001",
                 "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
-            "id": "orcid:0001-Zero Landau level in folded graphene ribbons",
-            "title": "Zero Landau level in folded graphene ribbons",
-            "journal_ref": "CECAM Charge and Spin Transport in Chemically Modified Graphene-Based Materials (2011)",
-            "doi": null,
-            "published": "2011-01-01T00:00:00.000Z",
-            "updated": "2011-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001"
             ],
             "arxiv_url": null,
             "journal_url": null
@@ -4486,7 +4466,7 @@
             "id": "orcid:0003-Extreme Ultraviolet Vector Beams Driven by Multicycle Infrared Laser Pulses",
             "title": "Extreme Ultraviolet Vector Beams Driven by Multicycle Infrared Laser Pulses",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics (Cleo) (2017)",
-            "doi": "https://doi.org/10.1364/cleo_si.2017.stu1i.1",
+            "doi": null,
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4500,7 +4480,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/cleo_si.2017.stu1i.1"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1364/OPTICA.4.000520",
@@ -4587,7 +4567,7 @@
             "id": "orcid:0003-Nonperturbative Orbital Angular Momentum Buildup of Extreme-Ultraviolet Vortex Beams",
             "title": "Nonperturbative Orbital Angular Momentum Buildup of Extreme-Ultraviolet Vortex Beams",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics (Cleo) (2017)",
-            "doi": "https://doi.org/10.1364/cleo_at.2017.jtu5a.56",
+            "doi": null,
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4598,16 +4578,17 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003"
+                "0003",
+                "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/cleo_at.2017.jtu5a.56"
+            "journal_url": null
         },
         {
             "id": "orcid:0003-Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "title": "Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8087755",
+            "doi": null,
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4621,7 +4602,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8087755"
+            "journal_url": null
         },
         {
             "id": "orcid:0003-Time-Resolved Two-Color X-ray Pump / X-ray Probe Photoelectron Spectroscopy at LCLS",
@@ -4888,7 +4869,7 @@
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
             "title": "Relevance of the transversal phase-matching in high-order harmonic generation",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (CLEO) - Laser Science to Photonic Applications, 2 pp. (2014)",
-            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.88",
+            "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4902,7 +4883,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.88"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1051/epjconf/20134102008",
@@ -6340,6 +6321,30 @@
             "journal_url": "https://doi.org/10.1088/1367-2630/15/11/113009"
         },
         {
+            "authors": "Alexander Löhr, Justas Terentjevas, Patricia Vindel-Zandbergen, Aude Rodriguez, David Ayuso, Laura Rego, Serguei Patchkovskii, Misha Ivanov, Olga Smirnova",
+            "categories": [
+                "Optics (physics.optics)",
+                "Applied Physics (physics.app-ph)"
+            ],
+            "comment": "",
+            "formats": {
+                "html": "http://arxiv.org/abs/2610.05271v1",
+                "pdf": "http://arxiv.org/pdf/2610.05271v1"
+            },
+            "id": "http://arxiv.org/abs/2610.05271v1",
+            "published": "2026-10-04T10:46:50-04:00",
+            "subject": "Optics (physics.optics)",
+            "summary": "Molecular chirality gives rise to left- and right-handed enantiomers whose balance underpins biochemical function. Deviations from this enantiomeric excess are promising biomarkers of disease. Despite its importance, rapid and sensitive detection of enantiomeric excess in trace amounts of small chiral molecules remains an outstanding challenge. Synthetic chiral light introduces new opportunities for chiroptical spectroscopy, with the potential to enhance light-matter interactions by several orders of magnitude. Here we propose a new class of photonic architectures for synthetic chiral light, in which photonic structures generate, guide and optimize chiral light-matter interactions. As a first realization, we show that hollow dielectric waveguides support phase-matched propagation of multicolor fields enabling coherent accumulation of the enantio-sensitive nonlinear response over centimeter-scale distances. By combining microscopic quantum-response simulations with Maxwell's equations, we predict that incident pulse energies of around 1 uJ produce hundreds of picojoules of third-harmonic emission from only picomole quantities of carvone gas at 50 mbar over just 2 cm of propagation, with enantio-sensitive contrast approaching 5%. Phase-resolved Fourier analysis isolates a background-free chiral signal exhibiting the maximum possible dichroism of 200%. Beyond efficient chiral sensing, photonic architectures for synthetic chiral light establish a scalable platform for integrated nonlinear chiral spectroscopy, molecular fingerprinting based on ultrafast electron dynamics, and topologically robust chiroptical observables.",
+            "title": "Photonic architectures for synthetic chiral light-driven chiral sensing",
+            "updated": "2026-10-04T10:46:50-04:00",
+            "author_ids": [
+                "0006",
+                "0011"
+            ],
+            "arxiv_url": "https://arxiv.org/abs/2610.05271",
+            "journal_url": null
+        },
+        {
             "authors": "Aude Rodriguez, Laura Rego",
             "categories": [
                 "Optics (physics.optics)",
@@ -6804,7 +6809,7 @@
             "id": "orcid:0006-Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "title": "Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "journal_ref": "Optics InfoBase Conference Papers Part F140-CLEO\\_Europe 2019 (2019)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871613",
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6818,7 +6823,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871613"
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0145-0",
