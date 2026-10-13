@@ -2135,6 +2135,26 @@
             "journal_url": "https://doi.org/10.1364/fio.2020.jw6a.25"
         },
         {
+            "id": "orcid:0001-Stacking boundaries and transport in bilayer graphenes",
+            "title": "Stacking boundaries and transport in bilayer graphenes",
+            "journal_ref": "GrapEsp ¿ A European Conference/Workshop\non the Synthesis, Characterization and Applications of Graphene. (2014)",
+            "doi": null,
+            "published": "2014-01-01T00:00:00.000Z",
+            "updated": "2014-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose, Francisco Guinea",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
             "id": "doi:https://doi.org/10.1088/1367-2630/15/11/113050",
             "title": "Optical conductivity, Drude weight and plasmons in twisted graphene bilayers",
             "journal_ref": "New Journal of Physics 15(11), 113050 (2013)",
@@ -2300,7 +2320,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.106.045502",
             "title": "Electron-Induced Rippling in Graphene",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Letters 106(4) (2011)",
             "doi": "https://doi.org/10.1103/PhysRevLett.106.045502",
             "published": "2011-01-01T00:00:00.000Z",
             "updated": "2011-01-01T00:00:00.000Z",
@@ -2440,7 +2460,7 @@
             "published": "2001-01-01T00:00:00.000Z",
             "updated": "2001-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "R. Gómez-Medina, P. San José, A. García-Martín, M. Lester, M. Nieto-Vesperinas, J. J. Sáenz",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2749,6 +2769,7 @@
             "author_ids": [
                 "0002"
             ],
+            "journal_ref": "Nanotechnology 30(24), 24LT01 (2019)",
             "arxiv_url": "https://arxiv.org/abs/1903.02449",
             "journal_url": "https://doi.org/10.1088/1361-6528/ab0bc1"
         },
@@ -4246,13 +4267,15 @@
             "published": "2019-03-04T00:00:00.000Z",
             "updated": "2019-03-04T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Óscar Zurrón-Cifuentes, Roberto Boyero-García, Carlos Hernández-García, Antonio Picón, Luis Plaja",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0003"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OE.27.007776"
         },
@@ -4585,7 +4608,7 @@
             "id": "orcid:0003-Nonperturbative Orbital Angular Momentum Buildup of Extreme-Ultraviolet Vortex Beams",
             "title": "Nonperturbative Orbital Angular Momentum Buildup of Extreme-Ultraviolet Vortex Beams",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics (Cleo) (2017)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2017.jtu5a.56",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4596,11 +4619,10 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003",
-                "0006"
+                "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2017.jtu5a.56"
         },
         {
             "id": "orcid:0003-Theoretical approaches for time-resolved inner-shell physics and coherent control",
@@ -4788,7 +4810,7 @@
         {
             "id": "doi:https://doi.org/10.1021/jacs.6b05680",
             "title": "Tracking the Structural and Electronic Configurations of a Cobalt Proton Reduction Catalyst in Water",
-            "journal_ref": null,
+            "journal_ref": "Journal of the American Chemical Society 138(33), 10586-10596 (2016)",
             "doi": "https://doi.org/10.1021/jacs.6b05680",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
@@ -4867,7 +4889,7 @@
             "id": "orcid:0003-Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "title": "Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (Cleo) (2014)",
-            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.104",
+            "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4881,7 +4903,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.104"
+            "journal_url": null
         },
         {
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
@@ -6301,7 +6323,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PHYSREVLETT.113.263001",
             "title": "Modulation of Attosecond Beating in Resonant Two-Photon Ionization",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Letters 113(26) (2014)",
             "doi": "https://doi.org/10.1103/PHYSREVLETT.113.263001",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
@@ -6430,6 +6452,7 @@
             "author_ids": [
                 "0006"
             ],
+            "journal_ref": "Nature Reviews Physics 6(11), 663-675 (2024)",
             "arxiv_url": "https://arxiv.org/abs/2404.05923",
             "journal_url": "https://doi.org/10.1038/s42254-024-00763-8"
         },
@@ -6548,7 +6571,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s42005-026-02671-y",
             "title": "Tutorial: theoretical methods for attosecond molecular ionization and dynamics",
-            "journal_ref": null,
+            "journal_ref": "Communications Physics 9(1) (2026)",
             "doi": "https://doi.org/10.1038/s42005-026-02671-y",
             "published": "2026-05-20T00:00:00.000Z",
             "updated": "2026-05-20T00:00:00.000Z",
@@ -6673,14 +6696,16 @@
             "doi": "https://doi.org/10.1364/OPTICA.413531",
             "published": "2021-04-20T00:00:00.000Z",
             "updated": "2021-04-20T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "Polarization engineering and characterization of coherent high-frequency radiation are essential to investigate and control the symmetry properties of light–matter interaction phenomena at their most fundamental scales. This work demonstrates that polarization control and characterization of high-harmonic generation provides an excellent ellipsometry tool that can fully retrieve both the amplitude and phase of a strong-field-driven dipole response. The polarization control of high-harmonic generation is realized by a transient nonlinear dipole grating coherently induced by two noncollinear counterrotating laser fields. By adjusting the ellipticity of the two driving pulses simultaneously, the polarization state of every high-harmonic order can be tuned from linear to highly elliptical, and it is fully characterized through an energy-resolved extreme ultraviolet polarimeter. From the analysis of the polarization state, the ellipsometry indicated that both the amplitude and phase of the high-harmonic dipole scale rapidly with the driving laser field for higher-order harmonics, and, especially, for gases with a small ionization potential. Our experimental results were corroborated by theoretical simulations. Our findings revealed a novel high-harmonic ellipsometry technique that can be used for the next generation of high-harmonic spectroscopy and attosecond metrology studies because of its ability to provide single-digit attosecond accuracy. Our work also paves the way to precisely quantify the strong-field dynamics of fundamental processes associated with the transfer of energy and angular momentum between electron/spin systems and the symmetry-dependent properties of molecules and materials.",
+            "authors": "Kuang-Yu Chang, Long-Cheng Huang, Koji Asaga, Ming-Shian Tsai, Laura Rego, Pei-Chi Huang, Hiroki Mashiko, Katsuya Oguri, Carlos Hernández-García, Ming-Chang Chen",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0006"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1364/OPTICA.413531"
         },
@@ -6824,7 +6849,7 @@
             "id": "orcid:0006-Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "title": "Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "journal_ref": "Optics InfoBase Conference Papers Part F140-CLEO\\_Europe 2019 (2019)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871613",
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6838,7 +6863,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871613"
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0145-0",
@@ -7165,8 +7190,8 @@
             "doi": "https://doi.org/10.1002/chem.71625",
             "published": "2026-08-29T00:00:00.000Z",
             "updated": "2026-08-29T00:00:00.000Z",
-            "summary": "",
-            "authors": "",
+            "summary": "ABSTRACT\n                  Metal‐amino acid interactions are central to controlling oxygen activation in biological systems. In this study, we demonstrate the use of readily available amino acids as ligands to stabilize a Cu(II)‐OOH intermediate in water under ambient conditions. This approach avoids the complex ligand synthesis and uses hydrogen peroxide as a benign oxidant, aligning with sustainability principles. The Cu(II)‐OOH species was identified and characterized using multiple spectroscopic techniques, including UV‐visible, Electron Paramagnetic Resonance, resonance Raman, and X‐ray absorption spectroscopy, with its structure further evaluated by density functional theory (DFT) calculations. These findings highlight an energy‐efficient, green method for accessing reactive copper‐oxygen species and underscore the potential of amino acid ligation in developing green catalytic systems for oxidation chemistry.",
+            "authors": "Raju Eerlapally, Divya Lakshmi Hareendran, Asterios Charisiadis, Lucia Velasco, Pablo Estévez, Dooshaye Moonshiram, Sharath Chandra Mallojjala, Apparao Draksharapu",
             "categories": [],
             "formats": {
                 "html": null,
@@ -7179,7 +7204,7 @@
         {
             "id": "doi:https://doi.org/10.1021/acs.inorgchem.5c04991",
             "title": "Brønsted and Lewis Acid Activation of a Reactive Mn(III)–O–Ce(IV) Intermediate",
-            "journal_ref": null,
+            "journal_ref": "Inorganic Chemistry 65(11), 5954-5963 (2026)",
             "doi": "https://doi.org/10.1021/acs.inorgchem.5c04991",
             "published": "2026-03-23T00:00:00.000Z",
             "updated": "2026-03-23T00:00:00.000Z",
