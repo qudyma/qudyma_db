@@ -2280,7 +2280,7 @@
             "id": "orcid:0001-Non-Abelian gauge fields in Moiré graphene bilayers",
             "title": "Non-Abelian gauge fields in Moiré graphene bilayers",
             "journal_ref": "Fundamental Aspects of Graphene and Other Carbon Allotropes (2012)",
-            "doi": "https://doi.org/10.1103/physrevb.94.165401",
+            "doi": null,
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
             "summary": "",
@@ -2294,7 +2294,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1103/physrevb.94.165401"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.106.045502",
@@ -4526,7 +4526,7 @@
             "id": "orcid:0003-Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "title": "Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8086777",
+            "doi": null,
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4537,10 +4537,11 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003"
+                "0003",
+                "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8086777"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1117/12.2263388",
@@ -4868,7 +4869,7 @@
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
             "title": "Relevance of the transversal phase-matching in high-order harmonic generation",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (CLEO) - Laser Science to Photonic Applications, 2 pp. (2014)",
-            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.88",
+            "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4882,7 +4883,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.88"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1051/epjconf/20134102008",
@@ -6854,7 +6855,7 @@
             "id": "orcid:0006-Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "title": "Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "journal_ref": "Optics InfoBase Conference Papers Part F140-CLEO\\_Europe 2019 (2019)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871613",
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6868,7 +6869,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871613"
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0145-0",
