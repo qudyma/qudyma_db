@@ -2032,31 +2032,10 @@
             "journal_url": null
         },
         {
-            "id": "orcid:0001-Zero-energy pinning of Majorana in nanowires",
-            "title": "Zero-energy pinning of Majorana in nanowires",
-            "journal_ref": "Workshop \"New Trends in Material Science\" (2017)",
-            "doi": null,
-            "published": "2017-01-01T00:00:00.000Z",
-            "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose, Elsa Prada, Jorge Cayao, Ramón Aguado",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001",
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Controlling Commensuration in Graphene/hBN multilayers",
             "title": "Controlling Commensuration in Graphene/hBN multilayers",
             "journal_ref": "Spinograph Workshop 2016 - New trends in 2D Mater.. (2016)",
-            "doi": null,
+            "doi": "https://doi.org/10.1021/acs.langmuir.5b03653.s001",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
@@ -2070,7 +2049,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1021/acs.langmuir.5b03653.s001"
         },
         {
             "id": "orcid:0001-Premio Nobel de Física 2016: Revolución topológica en materia condensada",
@@ -2097,7 +2076,7 @@
             "id": "orcid:0001-Majorana bound states without topological superconductivity",
             "title": "Majorana bound states without topological superconductivity",
             "journal_ref": "APS March Meeting 2015 (2015)",
-            "doi": null,
+            "doi": "https://doi.org/10.1209/0295-5075/108/60001",
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
             "summary": "",
@@ -2112,16 +2091,16 @@
                 "0002"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1209/0295-5075/108/60001"
         },
         {
             "id": "orcid:0001-MatG, a quantum simulator",
             "title": "MatG, a quantum simulator",
             "journal_ref": "Mini-workshop ¿Topological Nanodevice Modeling¿ (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/fio.2020.jw6a.25",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
-            "summary": "",
+            "summary": "Recent advances in high dimensional quantum computing systems demonstrate the feasibility of this paradigm. Here, we introduce QuantumSkynet, a cloud-based high dimensional quantum computing simulator. This platform allows simulations of qudit-based quantum gates and circuits.",
             "authors": "Pablo San-Jose",
             "categories": [],
             "formats": {
@@ -2132,27 +2111,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
-        },
-        {
-            "id": "orcid:0001-Stacking boundaries and transport in bilayer graphenes",
-            "title": "Stacking boundaries and transport in bilayer graphenes",
-            "journal_ref": "GrapEsp ¿ A European Conference/Workshop\non the Synthesis, Characterization and Applications of Graphene. (2014)",
-            "doi": null,
-            "published": "2014-01-01T00:00:00.000Z",
-            "updated": "2014-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose, Francisco Guinea",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/fio.2020.jw6a.25"
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/15/11/113050",
@@ -2257,6 +2216,27 @@
             "journal_url": "https://doi.org/10.3762/bjnano.9.50"
         },
         {
+            "id": "orcid:0001-Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
+            "title": "Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
+            "journal_ref": "March Meeting of the American Physical Society (2012)",
+            "doi": null,
+            "published": "2012-01-01T00:00:00.000Z",
+            "updated": "2012-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose, R. Aguado, P. San Jose, Elsa Prada",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001",
+                "0002"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
             "id": "orcid:0001-Localization in twisted graphene bilayers",
             "title": "Localization in twisted graphene bilayers",
             "journal_ref": "VII Reunión del Grupo Especializado de Física de Estado Sólido - GEFES 2012 (2012)",
@@ -2338,10 +2318,30 @@
             "journal_url": null
         },
         {
+            "id": "orcid:0001-Zero Landau level in folded graphene ribbons",
+            "title": "Zero Landau level in folded graphene ribbons",
+            "journal_ref": "CECAM Charge and Spin Transport in Chemically Modified Graphene-Based Materials (2011)",
+            "doi": null,
+            "published": "2011-01-01T00:00:00.000Z",
+            "updated": "2011-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
             "id": "orcid:0001-Interplay between electronic excitations and flexural phonons in graphene",
             "title": "Interplay between electronic excitations and flexural phonons in graphene",
             "journal_ref": "APS March Meeting 2010 (2010)",
-            "doi": "https://doi.org/10.1021/acs.jctc.5b00679.s001",
+            "doi": null,
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
             "summary": "",
@@ -2355,7 +2355,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1021/acs.jctc.5b00679.s001"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevB.68.245311",
@@ -2428,6 +2428,30 @@
             "author_ids": [],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevLett.86.4275"
+        },
+        {
+            "authors": "Vo Tien Phong, Pablo San-Jose, Bing Cheng, Zhengguang Lu, Elsa Prada, Long Ju, Eugene Mele, Cyprian Lewandowski, Francisco Guinea",
+            "categories": [
+                "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+                "Materials Science (cond-mat.mtrl-sci)"
+            ],
+            "comment": "Comments are welcome and appreciated! 7+8 pages; 4+4 figures",
+            "formats": {
+                "html": "http://arxiv.org/abs/2610.22521v1",
+                "pdf": "http://arxiv.org/pdf/2610.22521v1"
+            },
+            "id": "http://arxiv.org/abs/2610.22521v1",
+            "published": "2026-10-15T14:15:51-04:00",
+            "subject": "Mesoscale and Nanoscale Physics (cond-mat.mes-hall)",
+            "summary": "Domain walls separating quarter metals with opposite valley polarizations have recently been imaged in rhombohedral graphene multilayers. Depending on their formation mechanism, these walls respond in distinct ways to external magnetic probes. Therefore, understanding their behaviors is critical to the interpretation of experimental results. In this work, we examine domain walls formed from strain-induced one-dimensional structural defects that separate domains with complementary rhombohedral stacking orders. We show that while transport across such domain walls is controlled by the valley degree of freedom, the coupling to a magnetic field is dictated by the momentum-space chirality encoded in the Hamiltonian. As a consequence, structural domain walls are rendered electronically opaque by an applied magnetic field, while intrinsic domain walls formed by spontaneous valley symmetry breaking are unstable in the presence of such an ordering field and can be eliminated. This dichotomy allows the two types of domain walls to be distinguished in a magnetotransport experiment.",
+            "title": "Valley-Selective Transport through Structural Domain Walls in Rhombohedral Graphene Quarter Metals",
+            "updated": "2026-10-15T14:15:51-04:00",
+            "author_ids": [
+                "0001",
+                "0002"
+            ],
+            "arxiv_url": "https://arxiv.org/abs/2610.22521",
+            "journal_url": null
         },
         {
             "authors": "Carlos Payá, Ángel Ibabe, Mario Gómez, Thomas Kanne, Jesper Nygård, Ramón Aguado, Pablo San-Jose, Eduardo J. H. Lee, Elsa Prada",
@@ -4849,7 +4873,7 @@
             "id": "orcid:0003-Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "title": "Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (Cleo) (2014)",
-            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.104",
+            "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4863,13 +4887,13 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.104"
+            "journal_url": null
         },
         {
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
             "title": "Relevance of the transversal phase-matching in high-order harmonic generation",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (CLEO) - Laser Science to Photonic Applications, 2 pp. (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.88",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4883,7 +4907,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.88"
         },
         {
             "id": "doi:https://doi.org/10.1051/epjconf/20134102008",
@@ -6817,7 +6841,7 @@
             "id": "orcid:0006-Extreme-ultraviolet pulses with self-torque",
             "title": "Extreme-ultraviolet pulses with self-torque",
             "journal_ref": "Optics InfoBase Conference Papers Part F143-EQEC 2019 (2019)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871516",
+            "doi": null,
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6831,7 +6855,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871516"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.23919/CLEO.2019.8749379",
