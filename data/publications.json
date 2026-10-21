@@ -2097,10 +2097,10 @@
             "id": "orcid:0001-MatG, a quantum simulator",
             "title": "MatG, a quantum simulator",
             "journal_ref": "Mini-workshop ¿Topological Nanodevice Modeling¿ (2014)",
-            "doi": "https://doi.org/10.1364/fio.2020.jw6a.25",
+            "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
-            "summary": "Recent advances in high dimensional quantum computing systems demonstrate the feasibility of this paradigm. Here, we introduce QuantumSkynet, a cloud-based high dimensional quantum computing simulator. This platform allows simulations of qudit-based quantum gates and circuits.",
+            "summary": "",
             "authors": "Pablo San-Jose",
             "categories": [],
             "formats": {
@@ -2111,7 +2111,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/fio.2020.jw6a.25"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/15/11/113050",
@@ -2260,7 +2260,7 @@
             "id": "orcid:0001-Non-Abelian gauge fields in Moiré graphene bilayers",
             "title": "Non-Abelian gauge fields in Moiré graphene bilayers",
             "journal_ref": "Fundamental Aspects of Graphene and Other Carbon Allotropes (2012)",
-            "doi": null,
+            "doi": "https://doi.org/10.1103/physrevb.94.165401",
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
             "summary": "",
@@ -2274,7 +2274,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1103/physrevb.94.165401"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.106.045502",
@@ -2318,30 +2318,10 @@
             "journal_url": null
         },
         {
-            "id": "orcid:0001-Zero Landau level in folded graphene ribbons",
-            "title": "Zero Landau level in folded graphene ribbons",
-            "journal_ref": "CECAM Charge and Spin Transport in Chemically Modified Graphene-Based Materials (2011)",
-            "doi": null,
-            "published": "2011-01-01T00:00:00.000Z",
-            "updated": "2011-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Interplay between electronic excitations and flexural phonons in graphene",
             "title": "Interplay between electronic excitations and flexural phonons in graphene",
             "journal_ref": "APS March Meeting 2010 (2010)",
-            "doi": null,
+            "doi": "https://doi.org/10.1021/acs.jctc.5b00679.s001",
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
             "summary": "",
@@ -2355,7 +2335,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1021/acs.jctc.5b00679.s001"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevB.68.245311",
@@ -4550,7 +4530,7 @@
             "id": "orcid:0003-Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "title": "Harnessing the orbital angular momentum of attosecond vortices through the nonperturbative nature of high harmonic generation",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8086777",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4561,11 +4541,10 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003",
-                "0006"
+                "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8086777"
         },
         {
             "id": "doi:https://doi.org/10.1117/12.2263388",
@@ -4873,7 +4852,7 @@
             "id": "orcid:0003-Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "title": "Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (Cleo) (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.104",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4887,13 +4866,13 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.104"
         },
         {
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
             "title": "Relevance of the transversal phase-matching in high-order harmonic generation",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (CLEO) - Laser Science to Photonic Applications, 2 pp. (2014)",
-            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.88",
+            "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4907,7 +4886,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.88"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1051/epjconf/20134102008",
@@ -6841,7 +6820,7 @@
             "id": "orcid:0006-Extreme-ultraviolet pulses with self-torque",
             "title": "Extreme-ultraviolet pulses with self-torque",
             "journal_ref": "Optics InfoBase Conference Papers Part F143-EQEC 2019 (2019)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871516",
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6855,7 +6834,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871516"
         },
         {
             "id": "doi:https://doi.org/10.23919/CLEO.2019.8749379",
@@ -6879,7 +6858,7 @@
             "id": "orcid:0006-Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "title": "Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "journal_ref": "Optics InfoBase Conference Papers Part F140-CLEO\\_Europe 2019 (2019)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871613",
+            "doi": null,
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6893,7 +6872,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871613"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0145-0",
