@@ -2032,31 +2032,10 @@
             "journal_url": null
         },
         {
-            "id": "orcid:0001-Zero-energy pinning of Majorana in nanowires",
-            "title": "Zero-energy pinning of Majorana in nanowires",
-            "journal_ref": "Workshop \"New Trends in Material Science\" (2017)",
-            "doi": null,
-            "published": "2017-01-01T00:00:00.000Z",
-            "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose, Elsa Prada, Jorge Cayao, Ramón Aguado",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001",
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Controlling Commensuration in Graphene/hBN multilayers",
             "title": "Controlling Commensuration in Graphene/hBN multilayers",
             "journal_ref": "Spinograph Workshop 2016 - New trends in 2D Mater.. (2016)",
-            "doi": "https://doi.org/10.1021/acs.langmuir.5b03653.s001",
+            "doi": null,
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
@@ -2070,7 +2049,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1021/acs.langmuir.5b03653.s001"
+            "journal_url": null
         },
         {
             "id": "orcid:0001-Premio Nobel de Física 2016: Revolución topológica en materia condensada",
@@ -2123,6 +2102,26 @@
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
             "authors": "Pablo San-Jose",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
+            "id": "orcid:0001-Stacking boundaries and transport in bilayer graphenes",
+            "title": "Stacking boundaries and transport in bilayer graphenes",
+            "journal_ref": "GrapEsp ¿ A European Conference/Workshop\non the Synthesis, Characterization and Applications of Graphene. (2014)",
+            "doi": null,
+            "published": "2014-01-01T00:00:00.000Z",
+            "updated": "2014-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose, Francisco Guinea",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2219,32 +2218,11 @@
             "id": "orcid:0001-AC Josephson effect and Majorana Fermions",
             "title": "AC Josephson effect and Majorana Fermions",
             "journal_ref": "Trends in Nanotechnology TNT2012 (2012)",
-            "doi": "https://doi.org/10.3762/bjnano.9.50",
-            "published": "2012-01-01T00:00:00.000Z",
-            "updated": "2012-01-01T00:00:00.000Z",
-            "summary": "We study theoretically the local density of states (DOS) in a topological Josephson junction. We show that the well-known 4π Josephson effect originates from the interference effect between two Majorana fermions (MFs) that are localized at the Josephson junction. In addition, the DOS for electrons (holes) shows the 4π interference information along each parity conserved energy spectrum. The DOS displays a 2π period oscillation when two trivial states interfere with each other. This means that the DOS information may be used to distinguish the MFs from trivial localized states. We suggest that the interference effect and the DOS can be detected by using two STM leads or two normal leads. A single side lead can only detect the Andreev reflection tunneling process in the junction, which cannot reveal information about the interference effect in general. However, using two side leads, we can reveal information about the interference effect of the MFs as well as the DOS by combining Andreev reflection with the electron transmission process.",
-            "authors": "Pablo San-Jose, Pablo San-Jose, Elsa Prada, R. Aguado",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001",
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": "https://doi.org/10.3762/bjnano.9.50"
-        },
-        {
-            "id": "orcid:0001-Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
-            "title": "Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
-            "journal_ref": "March Meeting of the American Physical Society (2012)",
             "doi": null,
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "Pablo San-Jose, R. Aguado, P. San Jose, Elsa Prada",
+            "authors": "Pablo San-Jose, Pablo San-Jose, Elsa Prada, R. Aguado",
             "categories": [],
             "formats": {
                 "html": null,
@@ -2339,30 +2317,10 @@
             "journal_url": null
         },
         {
-            "id": "orcid:0001-Zero Landau level in folded graphene ribbons",
-            "title": "Zero Landau level in folded graphene ribbons",
-            "journal_ref": "CECAM Charge and Spin Transport in Chemically Modified Graphene-Based Materials (2011)",
-            "doi": null,
-            "published": "2011-01-01T00:00:00.000Z",
-            "updated": "2011-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Interplay between electronic excitations and flexural phonons in graphene",
             "title": "Interplay between electronic excitations and flexural phonons in graphene",
             "journal_ref": "APS March Meeting 2010 (2010)",
-            "doi": null,
+            "doi": "https://doi.org/10.1021/acs.jctc.5b00679.s001",
             "published": "2010-01-01T00:00:00.000Z",
             "updated": "2010-01-01T00:00:00.000Z",
             "summary": "",
@@ -2376,7 +2334,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1021/acs.jctc.5b00679.s001"
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevB.68.245311",
@@ -4632,7 +4590,7 @@
             "id": "orcid:0003-Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "title": "Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8087755",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4646,7 +4604,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8087755"
         },
         {
             "id": "orcid:0003-Time-Resolved Two-Color X-ray Pump / X-ray Probe Photoelectron Spectroscopy at LCLS",
@@ -4893,7 +4851,7 @@
             "id": "orcid:0003-Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "title": "Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (Cleo) (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.104",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4907,7 +4865,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.104"
         },
         {
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
@@ -6215,7 +6173,7 @@
             "doi": "https://doi.org/10.1126/SCIENCE.AAH5188",
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
-            "summary": "Watching as helium goes topsy-turvy\n          \n            Theorists have long pondered the underpinnings of the Fano resonance, a spectral feature that resembles adjacent rightside-up and upside-down peaks. An especially well-studied instance of this feature appears in the electronic spectrum of helium as a transient state undergoes delayed ionization. Two studies have now traced the dynamics of this state in real time. Gruson\n            et al.\n            used photoelectron spectroscopy to extract the amplitude and phase of the electron wave packet after inducing its interference with reference wave packets tuned into resonance at variable delays. Kaldun\n            et al.\n            used extreme ultraviolet absorption spectroscopy to probe the transient state while variably forcing ionization with a strong near-infrared field.\n          \n          \n            Science\n            , this issue pp.\n            734\n            and\n            738",
+            "summary": "Watching as helium goes topsy-turvy\n                  \n                    Theorists have long pondered the underpinnings of the Fano resonance, a spectral feature that resembles adjacent rightside-up and upside-down peaks. An especially well-studied instance of this feature appears in the electronic spectrum of helium as a transient state undergoes delayed ionization. Two studies have now traced the dynamics of this state in real time. Gruson\n                    et al.\n                    used photoelectron spectroscopy to extract the amplitude and phase of the electron wave packet after inducing its interference with reference wave packets tuned into resonance at variable delays. Kaldun\n                    et al.\n                    used extreme ultraviolet absorption spectroscopy to probe the transient state while variably forcing ionization with a strong near-infrared field.\n                  \n                  \n                    Science\n                    , this issue pp.\n                    734\n                    and\n                    738",
             "authors": "V. Gruson, L. Barreau, Á. Jiménez-Galan, F. Risoud, J. Caillat, A. Maquet, B. Carré, F. Lepetit, J.-F. Hergott, T. Ruchon, L. Argenti, R. Taïeb, F. Martín, P. Salières",
             "categories": [],
             "formats": {
@@ -6861,7 +6819,7 @@
             "id": "orcid:0006-Extreme-ultraviolet pulses with self-torque",
             "title": "Extreme-ultraviolet pulses with self-torque",
             "journal_ref": "Optics InfoBase Conference Papers Part F143-EQEC 2019 (2019)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871516",
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6875,7 +6833,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871516"
         },
         {
             "id": "doi:https://doi.org/10.23919/CLEO.2019.8749379",
