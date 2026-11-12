@@ -2053,31 +2053,10 @@
             "journal_url": null
         },
         {
-            "id": "orcid:0001-Zero-energy pinning of Majorana in nanowires",
-            "title": "Zero-energy pinning of Majorana in nanowires",
-            "journal_ref": "Workshop \"New Trends in Material Science\" (2017)",
-            "doi": null,
-            "published": "2017-01-01T00:00:00.000Z",
-            "updated": "2017-01-01T00:00:00.000Z",
-            "summary": "",
-            "authors": "Pablo San-Jose, Elsa Prada, Jorge Cayao, Ramón Aguado",
-            "categories": [],
-            "formats": {
-                "html": null,
-                "pdf": null
-            },
-            "author_ids": [
-                "0001",
-                "0002"
-            ],
-            "arxiv_url": null,
-            "journal_url": null
-        },
-        {
             "id": "orcid:0001-Controlling Commensuration in Graphene/hBN multilayers",
             "title": "Controlling Commensuration in Graphene/hBN multilayers",
             "journal_ref": "Spinograph Workshop 2016 - New trends in 2D Mater.. (2016)",
-            "doi": "https://doi.org/10.1021/acs.langmuir.5b03653.s001",
+            "doi": null,
             "published": "2016-01-01T00:00:00.000Z",
             "updated": "2016-01-01T00:00:00.000Z",
             "summary": "",
@@ -2091,7 +2070,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1021/acs.langmuir.5b03653.s001"
+            "journal_url": null
         },
         {
             "id": "orcid:0001-Premio Nobel de Física 2016: Revolución topológica en materia condensada",
@@ -2139,10 +2118,10 @@
             "id": "orcid:0001-MatG, a quantum simulator",
             "title": "MatG, a quantum simulator",
             "journal_ref": "Mini-workshop ¿Topological Nanodevice Modeling¿ (2014)",
-            "doi": "https://doi.org/10.1364/fio.2020.jw6a.25",
+            "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
-            "summary": "Recent advances in high dimensional quantum computing systems demonstrate the feasibility of this paradigm. Here, we introduce QuantumSkynet, a cloud-based high dimensional quantum computing simulator. This platform allows simulations of qudit-based quantum gates and circuits.",
+            "summary": "",
             "authors": "Pablo San-Jose",
             "categories": [],
             "formats": {
@@ -2153,7 +2132,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/fio.2020.jw6a.25"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/15/11/113050",
@@ -2258,6 +2237,27 @@
             "journal_url": "https://doi.org/10.3762/bjnano.9.50"
         },
         {
+            "id": "orcid:0001-Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
+            "title": "Josephson current in finite-lenght nanowire SNS junctions with Majorana fermions",
+            "journal_ref": "March Meeting of the American Physical Society (2012)",
+            "doi": null,
+            "published": "2012-01-01T00:00:00.000Z",
+            "updated": "2012-01-01T00:00:00.000Z",
+            "summary": "",
+            "authors": "Pablo San-Jose, R. Aguado, P. San Jose, Elsa Prada",
+            "categories": [],
+            "formats": {
+                "html": null,
+                "pdf": null
+            },
+            "author_ids": [
+                "0001",
+                "0002"
+            ],
+            "arxiv_url": null,
+            "journal_url": null
+        },
+        {
             "id": "orcid:0001-Localization in twisted graphene bilayers",
             "title": "Localization in twisted graphene bilayers",
             "journal_ref": "VII Reunión del Grupo Especializado de Física de Estado Sólido - GEFES 2012 (2012)",
@@ -2281,7 +2281,7 @@
             "id": "orcid:0001-Non-Abelian gauge fields in Moiré graphene bilayers",
             "title": "Non-Abelian gauge fields in Moiré graphene bilayers",
             "journal_ref": "Fundamental Aspects of Graphene and Other Carbon Allotropes (2012)",
-            "doi": "https://doi.org/10.1103/physrevb.94.165401",
+            "doi": null,
             "published": "2012-01-01T00:00:00.000Z",
             "updated": "2012-01-01T00:00:00.000Z",
             "summary": "",
@@ -2295,7 +2295,7 @@
                 "0001"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1103/physrevb.94.165401"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.106.045502",
@@ -4632,7 +4632,7 @@
             "id": "orcid:0003-Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "title": "Theoretical approaches for time-resolved inner-shell physics and coherent control",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics Europe & European Quantum Electronics Conference (Cleo/europe-Eqec) (2017)",
-            "doi": "https://doi.org/10.1109/cleoe-eqec.2017.8087755",
+            "doi": null,
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4646,7 +4646,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2017.8087755"
+            "journal_url": null
         },
         {
             "id": "orcid:0003-Time-Resolved Two-Color X-ray Pump / X-ray Probe Photoelectron Spectroscopy at LCLS",
@@ -4893,7 +4893,7 @@
             "id": "orcid:0003-Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "title": "Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (Cleo) (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.104",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4907,13 +4907,13 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.104"
         },
         {
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
             "title": "Relevance of the transversal phase-matching in high-order harmonic generation",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (CLEO) - Laser Science to Photonic Applications, 2 pp. (2014)",
-            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.88",
+            "doi": null,
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4927,7 +4927,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.88"
+            "journal_url": null
         },
         {
             "id": "doi:https://doi.org/10.1051/epjconf/20134102008",
@@ -7238,8 +7238,8 @@
             "title": "Amino Acids Ligated Cu(II)‐OOH in Water at Room Temperature",
             "journal_ref": "Chemistry – A European Journal (2026)",
             "doi": "https://doi.org/10.1002/chem.71625",
-            "published": "2026-08-29T00:00:00.000Z",
-            "updated": "2026-08-29T00:00:00.000Z",
+            "published": "2026-11-12T00:00:00.000Z",
+            "updated": "2026-11-12T00:00:00.000Z",
             "summary": "ABSTRACT\n                  Metal‐amino acid interactions are central to controlling oxygen activation in biological systems. In this study, we demonstrate the use of readily available amino acids as ligands to stabilize a Cu(II)‐OOH intermediate in water under ambient conditions. This approach avoids the complex ligand synthesis and uses hydrogen peroxide as a benign oxidant, aligning with sustainability principles. The Cu(II)‐OOH species was identified and characterized using multiple spectroscopic techniques, including UV‐visible, Electron Paramagnetic Resonance, resonance Raman, and X‐ray absorption spectroscopy, with its structure further evaluated by density functional theory (DFT) calculations. These findings highlight an energy‐efficient, green method for accessing reactive copper‐oxygen species and underscore the potential of amino acid ligation in developing green catalytic systems for oxidation chemistry.",
             "authors": "Raju Eerlapally, Divya Lakshmi Hareendran, Asterios Charisiadis, Lucia Velasco, Pablo Estévez, Dooshaye Moonshiram, Sharath Chandra Mallojjala, Apparao Draksharapu",
             "categories": [],
