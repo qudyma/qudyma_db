@@ -1904,7 +1904,7 @@
         {
             "id": "doi:https://doi.org/10.36471/JCCM_October_2026_02",
             "title": "Novel phases, orbital magnetism, and domain walls in rhombohedral graphene stacks",
-            "journal_ref": "Journal Club for Condensed Matter Physics (2026)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.36471/JCCM_October_2026_02",
             "published": "2026-10-31T00:00:00.000Z",
             "updated": "2026-10-31T00:00:00.000Z",
@@ -1948,7 +1948,7 @@
         {
             "id": "doi:https://doi.org/10.1038/s41566-025-01823-w",
             "title": "Encoding and manipulating ultrafast coherent valleytronic information with lightwaves",
-            "journal_ref": "Nature Photonics 20(3), 266-272 (2026)",
+            "journal_ref": null,
             "doi": "https://doi.org/10.1038/s41566-025-01823-w",
             "published": "2026-03-01T00:00:00.000Z",
             "updated": "2026-03-01T00:00:00.000Z",
@@ -2118,7 +2118,7 @@
             "id": "orcid:0001-Majorana bound states without topological superconductivity",
             "title": "Majorana bound states without topological superconductivity",
             "journal_ref": "APS March Meeting 2015 (2015)",
-            "doi": null,
+            "doi": "https://doi.org/10.1209/0295-5075/108/60001",
             "published": "2015-01-01T00:00:00.000Z",
             "updated": "2015-01-01T00:00:00.000Z",
             "summary": "",
@@ -2133,7 +2133,7 @@
                 "0002"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1209/0295-5075/108/60001"
         },
         {
             "id": "orcid:0001-MatG, a quantum simulator",
@@ -2178,36 +2178,40 @@
         {
             "id": "doi:https://doi.org/10.1088/1367-2630/15/11/113050",
             "title": "Optical conductivity, Drude weight and plasmons in twisted graphene bilayers",
-            "journal_ref": null,
+            "journal_ref": "New Journal of Physics 15(11), 113050 (2013)",
             "doi": "https://doi.org/10.1088/1367-2630/15/11/113050",
             "published": "2013-11-01T00:00:00.000Z",
             "updated": "2013-11-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Tobias Stauber, Pablo San-Jose, Luis Brey",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0001"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1088/1367-2630/15/11/113050"
         },
         {
             "id": "doi:https://doi.org/10.1103/physrevb.88.161413",
             "title": "Diverging dc conductivity due to a flat band in a disordered system of pseudospin-1 Dirac-Weyl fermions",
-            "journal_ref": null,
+            "journal_ref": "Physical Review B 88(16) (2013)",
             "doi": "https://doi.org/10.1103/physrevb.88.161413",
             "published": "2013-10-01T00:00:00.000Z",
             "updated": "2013-10-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Máté Vigh, László Oroszlány, Szabolcs Vajna, Pablo San-Jose, Gyula Dávid, József Cserti, Balázs Dóra",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0001"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/physrevb.88.161413"
         },
@@ -2219,13 +2223,16 @@
             "published": "2013-01-01T00:00:00.000Z",
             "updated": "2013-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "Pablo San-Jose, Elsa Prada",
             "categories": [],
             "formats": {
                 "html": null,
                 "pdf": null
             },
-            "author_ids": [],
+            "author_ids": [
+                "0001",
+                "0002"
+            ],
             "arxiv_url": null,
             "journal_url": "https://doi.org/10.1103/PhysRevB.88.199903"
         },
@@ -2334,7 +2341,7 @@
         {
             "id": "doi:https://doi.org/10.1103/PhysRevLett.106.045502",
             "title": "Electron-Induced Rippling in Graphene",
-            "journal_ref": null,
+            "journal_ref": "Physical Review Letters 106(4) (2011)",
             "doi": "https://doi.org/10.1103/PhysRevLett.106.045502",
             "published": "2011-01-01T00:00:00.000Z",
             "updated": "2011-01-01T00:00:00.000Z",
@@ -2418,7 +2425,7 @@
             "published": "2003-01-01T00:00:00.000Z",
             "updated": "2003-01-01T00:00:00.000Z",
             "summary": "",
-            "authors": "",
+            "authors": "S. Florens, P. San José, F. Guinea, A. Georges",
             "categories": [],
             "formats": {
                 "html": null,
@@ -4604,7 +4611,7 @@
             "id": "orcid:0003-Nonperturbative Orbital Angular Momentum Buildup of Extreme-Ultraviolet Vortex Beams",
             "title": "Nonperturbative Orbital Angular Momentum Buildup of Extreme-Ultraviolet Vortex Beams",
             "journal_ref": "2017 Conference on Lasers and Electro-Optics (Cleo) (2017)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2017.jtu5a.56",
             "published": "2017-01-01T00:00:00.000Z",
             "updated": "2017-01-01T00:00:00.000Z",
             "summary": "",
@@ -4615,11 +4622,10 @@
                 "pdf": null
             },
             "author_ids": [
-                "0003",
-                "0006"
+                "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2017.jtu5a.56"
         },
         {
             "id": "orcid:0003-Theoretical approaches for time-resolved inner-shell physics and coherent control",
@@ -4865,7 +4871,7 @@
             "id": "orcid:0003-Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "title": "Coherent Attosecond Beams Carrying Orbital Angular Momentum",
             "journal_ref": "2014 Conference on Lasers and Electro-Optics (Cleo) (2014)",
-            "doi": null,
+            "doi": "https://doi.org/10.1364/cleo_at.2014.jw2a.104",
             "published": "2014-01-01T00:00:00.000Z",
             "updated": "2014-01-01T00:00:00.000Z",
             "summary": "",
@@ -4879,7 +4885,7 @@
                 "0003"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1364/cleo_at.2014.jw2a.104"
         },
         {
             "id": "orcid:0003-Relevance of the transversal phase-matching in high-order harmonic generation",
@@ -6700,7 +6706,7 @@
             "id": "orcid:0006-Extreme-ultraviolet pulses with self-torque",
             "title": "Extreme-ultraviolet pulses with self-torque",
             "journal_ref": "Optics InfoBase Conference Papers Part F143-EQEC 2019 (2019)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871516",
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6714,7 +6720,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871516"
         },
         {
             "id": "doi:https://doi.org/10.23919/CLEO.2019.8749379",
@@ -6738,7 +6744,7 @@
             "id": "orcid:0006-Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "title": "Polarization and vortex control of extreme-ultraviolet attosecond pulses through simultaneous control of spin and orbital angular momentum",
             "journal_ref": "Optics InfoBase Conference Papers Part F140-CLEO\\_Europe 2019 (2019)",
-            "doi": null,
+            "doi": "https://doi.org/10.1109/cleoe-eqec.2019.8871613",
             "published": "2019-01-01T00:00:00.000Z",
             "updated": "2019-01-01T00:00:00.000Z",
             "summary": "",
@@ -6752,7 +6758,7 @@
                 "0006"
             ],
             "arxiv_url": null,
-            "journal_url": null
+            "journal_url": "https://doi.org/10.1109/cleoe-eqec.2019.8871613"
         },
         {
             "id": "doi:https://doi.org/10.1038/s41566-018-0145-0",
